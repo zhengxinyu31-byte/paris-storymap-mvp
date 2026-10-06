@@ -1,6 +1,6 @@
 # Paris StoryMap · 巴黎故事地图
 
-[**打开公开 Demo**](https://paris-storymap-mvp.liaoyanqing666.chatgpt.site)
+[**打开公开 Demo**](https://paris-storymap-language-preview.liaoyanqing666.chatgpt.site)
 
 [独立源码仓库](https://github.com/zhengxinyu31-byte/paris-storymap-mvp)
 
@@ -44,6 +44,7 @@ npm run build
 npm run test:journey
 npm run test:quiz
 npm run test:language
+node test/language-focus.mjs
 npm run test:route-map
 npm run test:photo-fit
 ```

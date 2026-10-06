@@ -2,7 +2,7 @@ Paris StoryMap · 巴黎故事地图 MVP
 
 用故事线串起巴黎 POI。用户做四道选择题，即可得到旅行人格解析与对应路线；地图是路线页的主要入口，点击地点才展开故事卡片。
 
-公开 Demo：https://paris-storymap-mvp.liaoyanqing666.chatgpt.site
+公开 Demo：https://paris-storymap-language-preview.liaoyanqing666.chatgpt.site
 任何获得链接的人均可访问。GitHub 的可点击文档索引见 README.md；线上版本与更新方式见 docs/release-and-handoff.txt。
 
 本地运行

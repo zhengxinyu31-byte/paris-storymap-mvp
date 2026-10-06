@@ -1,13 +1,24 @@
 Paris StoryMap 发布与交接
 2026-10-06
 
-公开 Demo
-https://paris-storymap-mvp.liaoyanqing666.chatgpt.site
+当前公开 Demo
+https://paris-storymap-language-preview.liaoyanqing666.chatgpt.site
 托管：Sites。访问模式 public，任何获得链接的人均可访问；不受本机开发服务开关影响。
 发布工具返回 succeeded；随后读取站点确认 access_mode=public，current_live_url 与以上地址一致。
 未安排自动更新任务，未添加访客登录或账号系统。
 
-已发布版本
+语言切换修复预览
+修复：语言菜单在 relatedTarget 为空时保留选项，避免失焦抢先关闭菜单而丢失点击。
+验证：30 项单元测试、翻译检查和构建通过；焦点回归覆盖鼠标、触屏、键盘与刷新；完整语言回归覆盖 16 条路线和 260 则故事。
+兼容性边界：焦点丢失路径在 Chromium 中模拟复现，尚未完成 Safari/WebKit 真机验证。
+站点标识：appgprj_6ac4e516a56c8191be5f1bf63c5ed840。
+部署记录：appgdep_6ac4e59f323c8191831f107384a47b16，已成功公开发布。
+发布目录提交：a6ec8a90bfa4d44432e1a8aa7d4dced5764346a1。
+独立发布目录：paris-storymap-language-preview；后续更新使用该目录内的站点配置。
+源码根目录的 .openai/hosting.json 仍指向下方原站点，不能用它更新修复预览站点。
+
+此前版本（保留作历史记录）
+原地址：https://paris-storymap-mvp.liaoyanqing666.chatgpt.site
 Sites 版本：2。
 本次变更：撤除步行/换乘区分，统一连线，移除分段估时与交通建议；保留 POI 顺序、编号、箭头及阅读交互。
 发布时间：2026-10-06 08:17:51 UTC（北京时间 16:17:51）。

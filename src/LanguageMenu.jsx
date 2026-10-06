@@ -22,7 +22,11 @@ export default function LanguageMenu() {
       const index = items.indexOf(document.activeElement);
       items[event.key === 'Home' ? 0 : event.key === 'End' ? items.length-1 : (index + (event.key === 'ArrowUp' ? -1 : 1) + items.length) % items.length]?.focus();
     }
-  }} onBlur={event => { if (!event.currentTarget.contains(event.relatedTarget)) setOpen(false); }}>
+  }} onBlur={event => {
+    // Some browsers blur before a pointer click without reporting a new focus target.
+    // Keep the option mounted so its click can run; outside pointerdown still closes.
+    if (event.relatedTarget && !event.currentTarget.contains(event.relatedTarget)) setOpen(false);
+  }}>
     <button className="language-trigger" ref={trigger} aria-label={language === 'en' ? 'Switch language' : '切换语言'} aria-haspopup="menu" aria-expanded={open} aria-controls="language-menu" onClick={() => setOpen(value => !value)} onKeyDown={event => {if (event.key === 'ArrowDown') {event.preventDefault();setOpen(true);}}}>
       <Languages size={17}/><span>{language === 'en' ? 'EN' : '中文'}</span><ChevronDown size={12}/>
     </button>
