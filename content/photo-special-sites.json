@@ -1,0 +1,99 @@
+[
+  {
+    "poi_id": "pere-lachaise-jim-morrison",
+    "image_url": "https://images.unsplash.com/photo-1680487774366-c27124ba67f7?fm=jpg&q=85&w=1600",
+    "source_url": "https://unsplash.com/photos/a-grave-with-flowers-and-pictures-on-it-FPiaX58JVAM",
+    "alt": "拉雪兹公墓的吉姆·莫里森墓与墓前鲜花",
+    "match_note": "作者在 Unsplash 标注拍摄于 Père Lachaise Cemetery, rue du Repos, Paris，2023-04-03 发布。已下载并目视核验墓碑清楚刻有 JAMES DOUGLAS MORRISON、1943–1971 及希腊文，周围有献花与本人照片，确为本墓位。",
+    "author": "mana5280",
+    "local_path": "/tmp/paris-special-alt-jim.jpg"
+  },
+  {
+    "poi_id": "pere-lachaise-chopin",
+    "image_url": "https://assets.st-note.com/production/uploads/images/160116088/7bab42877e433bc40fd0a125aa26929a.jpg",
+    "source_url": "https://note.com/haruka_piano/n/nfef97fa70c4a",
+    "alt": "拉雪兹公墓第11墓区的肖邦墓，墓碑前摆着鲜花",
+    "match_note": "2024年巴黎游记在「フレデリック・ショパンの墓」小节明确配图；已下载并目视核验墓碑文字 A FRÉD. CHOPIN、肖邦侧面浮雕与黑色铁栏，和 Commons 第11墓区肖邦墓实拍一致。图片主体为墓碑下半部与献花。",
+    "author": "はるか（haruka_piano）",
+    "local_path": "/tmp/paris-special-alt-chopin.jpg"
+  },
+  {
+    "poi_id": "pere-lachaise-moliere",
+    "image_url": "https://besslovejoy.com/wp-content/uploads/2010/04/moliere.jpg",
+    "source_url": "https://besslovejoy.com/2010/04/12/moliere/",
+    "alt": "拉雪兹公墓莫里哀纪念墓，墓上可见 MOLIÈRE 姓名与戏剧面具装饰",
+    "match_note": "Bess Lovejoy 的拉雪兹墓地游记专文讨论莫里哀墓，文中说明2010年2月到访。已下载并目视核验，墓上姓名 MOLIÈRE、古典骨灰瓮、四柱基座与戏剧面具清晰可见，和第25墓区纪念墓一致。照片不用于判断遗骸归属。",
+    "local_path": "/tmp/paris-special-last-moliere.jpg"
+  },
+  {
+    "poi_id": "pere-lachaise-oscar-wilde",
+    "image_url": "https://www.reisroutes.be/userfiles/fotos/het-graf-van-oscar-wilde-op-pere-lachaise-in-parijs_7039_xl.jpg",
+    "source_url": "https://www.reisroutes.be/blog/parijs/pere-lachaise-bezoeken/",
+    "alt": "王尔德墓的石雕与环绕纪念碑的透明玻璃围挡",
+    "match_note": "Reisroutes 的 Père-Lachaise 指南明确列 Oscar Wilde 墓，图片文件名为 het-graf-van-oscar-wilde-op-pere-lachaise-in-parijs。已下载并目视核验王尔德墓的带翼石雕、OSCAR WILDE 墓碑文字和透明玻璃围挡；采用带围挡照片替换先前2010年修复前候选。具体拍摄日期未标明。",
+    "local_path": "/tmp/paris-wilde-reisroutes.jpg"
+  },
+  {
+    "poi_id": "pere-lachaise-stein-toklas",
+    "image_url": "https://www.lapaticesse.com/wp-content/uploads/2016/09/P%C3%A8re-Lachaise-Paris-Friedhof-Gertrude-Stein-768x1024.jpg",
+    "source_url": "https://www.lapaticesse.com/august-ein-tag-in-paris-paris-plages-pere-lachaise-und-die-nautilus/4289/",
+    "alt": "斯泰因与托克拉斯合葬墓的正面，墓碑刻有 Gertrude Stein",
+    "match_note": "摄影游记专门介绍 Père Lachaise，图片文件名标明 Gertrude Stein。已下载并目视核验石碑 GERTRUDE STEIN 字样、墓顶小石与第94墓区合葬墓形制；画面为斯泰因名字一面，不声称显示背面的托克拉斯名字。原图带网站水印。",
+    "author": "La Pâticesse",
+    "local_path": "/tmp/paris-special-alt-stein.jpg"
+  },
+  {
+    "poi_id": "pere-lachaise-edith-piaf",
+    "image_url": "https://media.traveler.es/photos/6137833cbf63e581e0102b57/master/w_1600%2Cc_limit/65530.jpg",
+    "source_url": "https://www.traveler.es/viajes-urbanos/articulos/el-paris-de-edith-piaf/3455",
+    "alt": "皮雅芙墓碑上的金色姓名与墓前红玫瑰",
+    "match_note": "Condé Nast Traveler 的 El París de Édith Piaf 一文第6节明确拉雪兹第97墓区，配图题注 La tumba de Edith en Père Lachaise。已下载并目视核验，碑面清楚刻有 Madame LAMBOUKAS dite EDITH PIAF 1915–1963，确为本墓位。",
+    "author": "Corbis（来源页图片署名）",
+    "local_path": "/tmp/paris-special-final-piaf.jpg"
+  },
+  {
+    "poi_id": "petite-ceinture-12e",
+    "image_url": "https://cdn.paris.fr/eqpts-prod/2022/05/10/large-486b17b61fe18e22f0689ff14dc6f9ee.jpg",
+    "source_url": "https://www.paris.fr/lieux/petite-ceinture-du-12e-pc-12-16898",
+    "alt": "小环城铁道12区开放步道，绿树间的直线步行道与旧铁轨",
+    "match_note": "市政府 PC12 专属地点页照片，地点页地址为21 rue Rottembourg，并说明为 Charles-Péguy 广场延伸的12区铁道自然步道；属于 POI 的 Charenton—Saint-Mandé 区间。已下载并目视核验：铁轨旁步道、围网与绿树。 已下载并目视核验。",
+    "author": "Sonia Yassa / Ville de Paris",
+    "local_path": "/tmp/paris-special-petite-ceinture-12e.jpg"
+  },
+  {
+    "poi_id": "bois-de-charonne-pc20",
+    "image_url": "https://cdn.paris.fr/paris/2024/06/13/original-f6cfc896973cecfafbd06f207a8fa0b3.jpg",
+    "source_url": "https://www.paris.fr/pages/les-premieres-images-du-bois-de-charonne-en-video-27057",
+    "alt": "夏隆讷林沿小环城旧铁轨延伸的步道与新植树木",
+    "match_note": "市政府 Bois de Charonne 专题相册；正文明确地点为 cours de Vincennes 与 rue du Volga 之间，并连接 jardin de la Gare-de-Charonne，与 POI 的103 cours de Vincennes入口所在段一致。2024年官方实景。 已下载并目视核验。",
+    "author": "Guillaume Bontemps / Ville de Paris",
+    "local_path": "/tmp/paris-special-bois-de-charonne-pc20.jpg"
+  },
+  {
+    "poi_id": "pc20-couronnes",
+    "image_url": "https://cdn.paris.fr/paris/2022/01/19/original-b1df1ef71ee341653c7a51c83e27d27a.jpg",
+    "source_url": "https://mairie20.paris.fr/pages/le-patrimoine-et-l-histoire-du-20e-mis-en-valeur-32120",
+    "alt": "小环城铁道20区 Couronnes—Ménilmontant 段，步道上方是 rue de la Mare 人行桥",
+    "match_note": "区政府文章在 La Passerelle de la Mare 小节明确配图为此桥；铁道协会 Station Menilmontant 页面 https://www.petiteceinture-info.fr/Station-Menilmontant.html 明确该桥位于 rue de Ménilmontant 与 rue des Couronnes 之间，故匹配本段，而非 Bois de Charonne 或15区。 已下载并目视核验。",
+    "author": "Mairie du 20e",
+    "local_path": "/tmp/paris-special-pc20-couronnes.jpg"
+  },
+  {
+    "poi_id": "medaillons-arago",
+    "image_url": "https://davidphenry.com/Paris/AragoPlaquePalaisRoyal.jpg",
+    "source_url": "https://davidphenry.com/Paris/paris197.htm",
+    "alt": "皇家宫殿花园西侧 Montpensier 长廊地面上的阿拉戈铜牌",
+    "match_note": "摄影者本人图片页明确说明铜牌嵌在 galerie de Montpensier 石板中、位于 jardin du Palais-Royal 西侧，与 POI 的 Palais-Royal / rue de Montpensier 街区准确匹配。只作该街区铜牌实拍，不把照片位置变成未经核验的现存坐标。 已下载并目视核验。",
+    "author": "David Henry",
+    "local_path": "/tmp/paris-special-medaillons-arago.jpg"
+  },
+  {
+    "poi_id": "canal-saint-martin-amelie",
+    "image_url": "https://cdn.sortiraparis.com/images/61/110803/1187371-le-square-frederick-lemaitre-nos-photos-822afe0c-64fc-405d-958d-2a372708feb1.jpg",
+    "source_url": "https://www.sortiraparis.com/en/what-to-visit-in-paris/walks/articles/331533-frederick-lemaitre-square-a-leafy-corner-to-watch-the-locks-on-the-saint-martin-canal",
+    "alt": "圣马丁运河 Frédérick-Lemaître 广场旁的树荫河岸和船闸护栏",
+    "match_note": "摄影专辑名为 Square Frédérick Lemaître — our photos；正文和地址明确为35 quai de Jemmapes、Passerelle des Douanes旁，与 POI 指定的运河南端广场附近匹配。2025年实地照片，不是影片截图，也不声称精确复现电影机位。 已下载并目视核验。",
+    "author": "Margot de Sortiraparis",
+    "local_path": "/tmp/paris-special-canal-saint-martin-amelie.jpg"
+  }
+]

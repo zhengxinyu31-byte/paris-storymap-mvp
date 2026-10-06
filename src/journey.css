@@ -1,0 +1,14 @@
+.topbar nav .journey-nav{color:var(--red);font-weight:600}
+.topbar nav>button.selected{border-bottom:2px solid var(--red)}
+.quiz-path-hint{max-width:670px;text-align:center;margin:0 auto 20px;color:var(--muted);font-size:12px;line-height:1.7}
+.journey-map-hint{pointer-events:auto;padding:8px 10px 8px 18px;gap:16px;border-radius:10px}.journey-map-hint>span{font-size:11px}.journey-map-hint .primary{font-size:12px;padding:10px 13px;gap:12px;white-space:nowrap;min-height:40px}
+.poi-side>details{border-top:1px solid var(--line);padding:16px 0}.poi-side>details>summary,.story-extra>summary{font-size:12px;line-height:1.7;cursor:pointer;color:#607b69;padding:7px 0}.poi-side>details[open]>summary{margin-bottom:16px}.side-reading-note{font-size:12px;color:var(--muted);line-height:1.8;margin:5px 0 16px}.poi-side .other-stories{margin-bottom:0}
+.story-extra{border-top:1px solid var(--line);margin-top:22px;padding-top:8px}.story-extra .story-questions{margin-top:10px}
+.reading-column>.read-actions{position:static;backdrop-filter:none;border:0;margin-bottom:24px;padding:10px 0}.reading-column>.read-actions .secondary{font-size:11px;color:var(--muted)}
+.library-page .library-places-heading{margin-top:24px}.library-return{margin:0 0 4px}.storyline-context{padding:12px 18px}.storyline-context span{margin-bottom:3px}
+@media(max-width:760px){
+ .topbar nav>button>span{display:inline}.topbar nav{gap:10px}.topbar nav>button{font-size:11px}.topbar nav>button svg{width:15px}.topbar nav .journey-nav{font-size:11px}.quiz-path-hint{font-size:10px;margin:0 auto 13px;max-width:95%}
+ .journey-map-hint{flex-direction:column;gap:6px;padding:10px 12px;bottom:38px;max-width:calc(100% - 30px)}.journey-map-hint>span{font-size:10px}.journey-map-hint .primary{justify-content:center;width:100%;padding:8px 14px;font-size:11px;min-height:36px}
+ .reading-column>.read-actions .primary{font-size:11px;padding:13px 12px}.poi-side>details>summary{font-size:12px}
+}
+@media(max-width:360px){.topbar nav{gap:5px}.topbar nav>button{gap:3px;font-size:10px}.topbar nav .journey-nav{font-size:10px}.topbar nav>button svg{display:none}.topbar .language-trigger{padding:8px}}

@@ -1,0 +1,14 @@
+{
+  "poi_id": "polidor",
+  "candidates": [
+    {
+      "title": "Polidor,_41_rue_Monsieur-le-Prince,_Paris_6e_3.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Polidor%2C_41_rue_Monsieur-le-Prince%2C_Paris_6e_3.jpg/1280px-Polidor%2C_41_rue_Monsieur-le-Prince%2C_Paris_6e_3.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Polidor%2C_41_rue_Monsieur-le-Prince%2C_Paris_6e_3.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source_url": "https://fr.wikipedia.org/wiki/Polidor_(restaurant)",
+      "width": 1200,
+      "height": 1368,
+      "description": "Polidor (restaurant)"
+    }
+  ]
+}

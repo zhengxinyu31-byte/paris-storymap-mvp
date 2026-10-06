@@ -1,0 +1,81 @@
+{
+  "poi_id": "passerelle-debilly",
+  "query": "\"Passerelle Debilly\" Paris",
+  "candidates": [
+    {
+      "title": "File:Debilly Footbridge in Paris.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Debilly_Footbridge_in_Paris.jpg/1280px-Debilly_Footbridge_in_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Debilly_Footbridge_in_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Debilly_Footbridge_in_Paris.jpg",
+      "width": 1100,
+      "height": 825,
+      "description": "Debilly Footbridge in Paris, France.",
+      "author": "DiscoA340",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2022-07-19 17:03:43",
+      "original_width": 4000,
+      "original_height": 3000
+    },
+    {
+      "title": "File:View up the Seine from Pont d'Iéna, Paris, 2016.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/View_up_the_Seine_from_Pont_d%27I%C3%A9na%2C_Paris%2C_2016.jpg/1280px-View_up_the_Seine_from_Pont_d%27I%C3%A9na%2C_Paris%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/View_up_the_Seine_from_Pont_d%27I%C3%A9na%2C_Paris%2C_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:View_up_the_Seine_from_Pont_d%27I%C3%A9na,_Paris,_2016.jpg",
+      "width": 1100,
+      "height": 468,
+      "description": "View up the Seine from Pont d'Iéna, Paris, 2016",
+      "author": "DimiTalen",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2016-09-24 16:25:11",
+      "original_width": 6016,
+      "original_height": 2559
+    },
+    {
+      "title": "File:View from the Eiffel Tower (2941601914).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/View_from_the_Eiffel_Tower_%282941601914%29.jpg/1280px-View_from_the_Eiffel_Tower_%282941601914%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/View_from_the_Eiffel_Tower_%282941601914%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:View_from_the_Eiffel_Tower_(2941601914).jpg",
+      "width": 1100,
+      "height": 825,
+      "description": "View from the Eiffel Tower",
+      "author": "mwanasimba from La Réunion",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "2006-08-16 13:11",
+      "original_width": 2816,
+      "original_height": 2112
+    },
+    {
+      "title": "File:Architecture métallique, Paris, France.JPG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Architecture_m%C3%A9tallique%2C_Paris%2C_France.JPG/1280px-Architecture_m%C3%A9tallique%2C_Paris%2C_France.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Architecture_m%C3%A9tallique%2C_Paris%2C_France.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Architecture_m%C3%A9tallique,_Paris,_France.JPG",
+      "width": 1100,
+      "height": 729,
+      "description": "Exemple des grandes constructions métalliques à Paris, la tour Eiffel et la passerelle Debilly.",
+      "author": "Marimarina",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2012-08-25",
+      "original_width": 4928,
+      "original_height": 3264
+    },
+    {
+      "title": "File:Passerelle Debilly in Paris 001.JPG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Passerelle_Debilly_in_Paris_001.JPG/1280px-Passerelle_Debilly_in_Paris_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Passerelle_Debilly_in_Paris_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Passerelle_Debilly_in_Paris_001.JPG",
+      "width": 1100,
+      "height": 716,
+      "description": "Passerelle Debilly over the Seine river in Paris, France.",
+      "author": "Moonik",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2013-06-27 14:19:28",
+      "original_width": 4042,
+      "original_height": 2630
+    }
+  ]
+}

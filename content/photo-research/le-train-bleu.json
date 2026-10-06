@@ -1,0 +1,17 @@
+{
+  "poi_id": "le-train-bleu",
+  "candidates": [
+    {
+      "title": "Fichier:Le Train Bleu - Flickr - kkmarais.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Le_Train_Bleu_-_Flickr_-_kkmarais.jpg/1280px-Le_Train_Bleu_-_Flickr_-_kkmarais.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Le_Train_Bleu_-_Flickr_-_kkmarais.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Le_Train_Bleu_-_Flickr_-_kkmarais.jpg",
+      "width": 1200,
+      "height": 900,
+      "description": "Beautiful restaurant in the Gare de Lyon train station in Paris",
+      "author": "kkmarais",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+架构
+
+React 18 + Vite 5，静态前端；MapLibre GL 展示 OpenFreeMap 底图。无服务端、运行时翻译服务、LLM 或数据库依赖。
+
+目录
+src/App.jsx 及相关组件：页面与操作编排。
+src/model.mjs：数据关联、视图 URL 编解码、主支线返回及本地状态校验。
+src/journey.mjs：首次入口、当前路线记忆与未读章节选择；支线和自由探索不覆盖当前路线。
+src/journey.css：主次导航、地图开始/继续提示与补充内容层级。
+src/PersonalityQuiz.jsx、quiz-model.mjs：四题问答、计分、结果与推荐。
+src/RouteMapPage.jsx：地图页与单张选中 POI 卡片。
+src/MapView.jsx、MapOverview.jsx、map-points.mjs：在线地图、降级示意图、重叠点位标签避让。
+src/route-paths.mjs：按相邻站序读取路径，拒绝过时坐标/反向/非相邻旧路径，生成导航链接。
+src/EntityTrail.jsx、src/model.mjs：人物/作品足迹；只从故事记录推导关系。
+src/Photo.jsx、photos.css：本地图片、横竖焦点、失败降级与跨页面布局。
+src/i18n.jsx、i18n-core.mjs：中英文选择、模板参数与双语搜索。
+src/data/：提交到 Git 的运行时数据，可直接 npm ci / build，无需联网重建。
+content/：数据输入、增补包、编辑修订、媒体与翻译主记录。
+public/photos/：119 张已压缩 WebP 图片。
+.openai/hosting.json：Sites 项目标识及静态产物目录，不包含凭据；实际托管使用独立的构建产物发布目录。
+tools/：知识库、人物索引、路径缓存、照片和翻译检查工具。
+test/：Node 数据测试和 Playwright 实际浏览器回归。
+
+生成流程
+原始快照 + nerd/culture/film 增补 → editorial-overrides → coordinates/photo-manifest → build_kb.py → src/data。
+build_entities.mjs 从故事提取人物/作品衍生索引，不新增历史事实。
+build_paths.py 从当前有序 stops 和坐标生成相邻路段。指纹相同则复用缓存；失败保留明确标记的示意线并允许下次重试。
+
+状态
+稳定 ID 始终不翻译。localStorage 保存语言、测试答案、收藏、阅读进度与当前路线位置；损坏输入有默认值回退。
+URL 的 origin/trail/context 保留支线来源，清洗异常或递归返回目标，不把支线阅读记为主线推进。
+不收集定位；外部地图导航只在用户主动点击时打开。
+
+路线表达
+所有相邻 POI 使用统一颜色和实线按站序连接，不按时长或距离分类，不推荐交通方式。
+缓存几何只用于绘制连接；地图与卡片不显示交通类型或分段估时。导航链接不预设交通方式。
+实体足迹地图展示地点分布，不把人物年代顺序当成推荐游览路线。

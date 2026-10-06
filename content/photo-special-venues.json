@@ -1,0 +1,86 @@
+[
+  {
+    "poi_id": "librairie-galignani",
+    "image_url": "https://media.traveler.es/photos/61378846bae07f0d8a4951c8/master/w_1600%2Cc_limit/52767.jpg",
+    "source_url": "https://www.traveler.es/viajes-urbanos/articulos/librairie-galignani/200",
+    "alt": "Galignani书店里沃利街拱廊下的三开间门面",
+    "match_note": "来源页明确为Librairie Galignani、224 rue de Rivoli；目视可读三处GALIGNANI招牌，实景为该书店临街门面。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "hotel-le-meurice-dali",
+    "image_url": "https://www.dorchestercollection.com/media/sunnnzpb/le-meurice-restaurant-le-dali-hr-mark-read-full-size.jpg",
+    "source_url": "https://www.dorchestercollection.com/paris/le-meurice/dining/restaurant-le-dali",
+    "alt": "莫里斯酒店Le Dalí餐厅的绘画天顶与餐厅全景",
+    "match_note": "酒店官方Le Dalí餐厅页面图片；目视为该餐厅标志性大型天顶画、镜墙及就餐空间，不是另一个Alain Ducasse餐厅或菜品。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "galeries-lafayette-rooftop",
+    "image_url": "https://privateaser-media.s3.eu-west-1.amazonaws.com/etab_photos/6349/1500x750/44298.jpg",
+    "source_url": "https://www.privateaser.com/lieu/6349-toit-des-galeries-lafayette",
+    "alt": "老佛爷奥斯曼店屋顶露台、歌剧院屋顶与远处埃菲尔铁塔",
+    "match_note": "场地页地址40 boulevard Haussmann；照片可辨老佛爷屋顶栏板、毗邻加尼叶歌剧院和露台本身。为旧布置照片，不表示当前家具配置。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "rosa-bonheur-sur-seine",
+    "image_url": "https://media.timeout.com/images/101613053/1920/1080/image.jpg",
+    "source_url": "https://www.timeout.com/paris/en/things-to-do/best-10-peniches-paris",
+    "alt": "亚历山大三世桥旁Rosa Bonheur sur Seine船屋露台",
+    "match_note": "照片中可读ROSA BONHEUR SUR SEINE，背后为亚历山大三世桥；明确是Port des Invalides船屋，不是Buttes-Chaumont或Asnières分店。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "guinguette-ile-du-martin-pecheur",
+    "image_url": "https://static.wixstatic.com/media/3a73bb_8fcc75220c5e406a92d006036a7ae6b6~mv2.jpg",
+    "source_url": "https://www.laguingz.com/",
+    "alt": "翠鸟岛露天舞场的绿色入口步桥与招牌",
+    "match_note": "现经营方官网自称L’Île du Martin-Pêcheur / La Guingz，地址41 quai Victor Hugo, Champigny；照片为实景步桥与同名招牌，可辨岛上入口。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "le-perchoir-menilmontant",
+    "image_url": "https://media.timeout.com/images/105676933/1920/1080/image.jpg",
+    "source_url": "https://www.timeout.com/paris/en/bars-and-pubs/bar-le-perchoir",
+    "alt": "Le Perchoir梅尼蒙当店屋顶吧台、座席与远处圣心堂",
+    "match_note": "来源场地页为14 rue Crespin du Gast；照片有屋顶圆弧栏杆、Le Perchoir霓虹与远处圣心堂，符合梅尼蒙当店，不是BHV Marais分店。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "la-recyclerie",
+    "image_url": "https://justsomegirlinfrance.wordpress.com/wp-content/uploads/2015/04/2015-04-12-2015-04-12-001-020.jpg?h=736&w=1102",
+    "source_url": "https://justsomegirlinfrance.wordpress.com/2015/04/25/la-recyclerie-birthday-brunch-at-an-urban-farm/",
+    "alt": "La REcyclerie旧奥尔纳诺站铁路旁露台与ORNANO站牌",
+    "match_note": "2015年现场游记的露台实拍；可见ORNANO、petite ceinture标牌及旧铁路，对应83 boulevard Ornano。旧照，不代表当前经营或陈设状态。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "le-pure-cafe",
+    "image_url": "https://www.lepurecafeparis.fr/assets/07acac1c-8542-4a75-8373-ec84e9b03b2e.webp",
+    "source_url": "https://www.lepurecafeparis.fr/",
+    "alt": "Jean-Macé街转角的Le Pure Café门面与露台",
+    "match_note": "官方页面图片链接，官网列14 rue Jean-Macé；目视可读LE PURE CAFE店招及辨识度很高的尖角楼体，是本店实景。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "canal-saint-martin-cruise",
+    "image_url": "https://www.eutouring.com/canauxrama_cruises_m14_DSC09221_lrg.JPG",
+    "source_url": "https://www.eutouring.com/images_canauxrama_cruises.html",
+    "alt": "Canauxrama游船停靠巴士底阿森纳港，乘客坐在上层甲板",
+    "match_note": "照片可读CANAUXRAMA和Marcel CARNÉ船名，背景是Port de l’Arsenal下沉港池与绿化台地；为该出发港的运营游船实景，非一般塞纳河船或游船内餐点。船型不保证每班相同。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "institut-du-monde-arabe",
+    "image_url": "https://www.imarabe.org/sites/default/files/styles/landscape_big/public/2024-11/terrasse-d.von-schaewen.jpg?h=72d19b70",
+    "source_url": "https://www.imarabe.org/fr/terrasse",
+    "alt": "阿拉伯世界研究所屋顶露台护栏、玻璃立面与圣母院方向景观",
+    "match_note": "机构官方Terrasse页面主图；目视包含天台本体及玻璃立面，远处圣母院与圣路易岛方向吻合，非仅有建筑外观。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "place-stravinsky-wall",
+    "image_url": "https://itinerrance.fr/app/uploads/2019/12/IMG_2061.jpg",
+    "source_url": "https://itinerrance.fr/actualites/la-plus-grande-mosaique-dinvader-jamais-realisee-sur-la-place-stravinsky/",
+    "alt": "斯特拉文斯基广场喷泉后的Obey壁画与Invader马赛克墙",
+    "match_note": "壁画项目画廊现场照片；同画面有斯特拉文斯基喷泉、Obey蓝色大壁画和右侧Invader，是指定墙面而非其它巴黎街头艺术；此幅未纳入左侧Chuuuttt全貌。 已于2026-10-06下载，HTTP 200，并目视核验。"
+  },
+  {
+    "poi_id": "rosa-bonheur-buttes-chaumont",
+    "image_url": "https://www.carnetdescapades.com/app/uploads/2013/02/rosa-bonheur-buttes-chaumont.jpg.webp",
+    "source_url": "https://www.carnetdescapades.com/france/paris/visiter-paris-balade-19e-buttes-chaumont.html",
+    "alt": "肖蒙山丘公园Rosa Bonheur亭馆的绿色门窗、白色立柱和露台围栏",
+    "match_note": "来源页为肖蒙山丘公园实地游记；可辨Rosa Bonheur店招、白色柱子、绿色木构与公园树木，明确为Buttes-Chaumont店而非塞纳船屋。2026-10-06下载HTTP 200并目视核验。"
+  }
+]

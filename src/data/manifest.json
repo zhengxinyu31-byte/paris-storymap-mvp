@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "basis": "paris-storymap c1d190e",
+  "pois": 119,
+  "stories": 260,
+  "routes": 16,
+  "pending_routes": [],
+  "newly_reviewed_stories": 67
+}

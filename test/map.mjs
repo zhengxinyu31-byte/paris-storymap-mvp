@@ -1,0 +1,23 @@
+import {mkdirSync as ensureArtifactDirectory} from 'node:fs';
+ensureArtifactDirectory('artifacts',{recursive:true});
+import {chromium} from '@playwright/test';
+import assert from 'node:assert/strict';
+import {writeFileSync} from 'node:fs';
+const b=await chromium.launch({executablePath:process.env.CHROME_PATH||(process.platform==='darwin'?'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome':undefined),headless:true,args:['--use-angle=swiftshader','--enable-unsafe-swiftshader']});
+try{const p=await b.newPage({viewport:{width:1440,height:1000}});await p.emulateMedia({reducedMotion:'reduce'});
+await p.route('https://tiles.openfreemap.org/styles/positron',r=>r.fulfill({contentType:'application/json',body:JSON.stringify({version:8,sources:{},layers:[{id:'paper',type:'background',paint:{'background-color':'#e4e8db'}}]})}));
+await p.goto('http://127.0.0.1:5175/#/route/NERD/0');await p.locator('.map-marker').last().waitFor();assert.equal(await p.locator('.map-marker').count(),8);
+await p.locator('.map-marker').nth(3).click();await p.locator('.map-marker.selected').filter({hasText:'4'}).waitFor();
+await p.waitForTimeout(250);const shell=await p.locator('.map-canvas').boundingBox(),pin=await p.locator('.map-marker.selected').boundingBox();assert.ok(shell.height>200);const card=await p.locator('.route-poi-card').boundingBox();assert.ok(pin.x>card.x+card.width);assert.ok(pin.y>shell.y&&pin.y<shell.y+shell.height);
+const mapHash=p.url();
+await p.locator('.language-trigger').click();await p.getByRole('menuitemradio',{name:'English',exact:true}).click();
+assert.equal(p.url(),mapHash);assert.equal(await p.locator('.map-marker.selected').innerText(),'4');
+assert(!/[\u3400-\u9fff]/u.test((await p.locator('.map-marker').evaluateAll(xs=>xs.map(x=>x.getAttribute('aria-label')))).join(' ')));
+assert.equal(await p.locator('.maplibregl-ctrl-zoom-in').getAttribute('aria-label'),'Zoom in');
+await p.locator('.language-trigger').click();await p.getByRole('menuitemradio',{name:'中文',exact:true}).click();
+assert.equal(await p.locator('.maplibregl-ctrl-zoom-in').getAttribute('aria-label'),'放大');
+await p.getByRole('button',{name:'查看全部地点'}).click();await p.locator('.map-marker').first().click();assert.match(await p.locator('.route-card-number').innerText(),/01/);
+await p.locator('.route-poi-card .read-story').click();await p.locator('.main-story>.entity-tags button').filter({hasText:'萨特'}).first().click();await p.locator('.entity-events').waitFor();await p.locator('.map-marker').last().waitFor();const labels=await p.locator('.map-marker').evaluateAll(xs=>xs.map(x=>x.getAttribute('aria-label')));assert.equal(new Set(labels).size,labels.length);
+await p.locator('.map-marker').last().click();const selected=await p.locator('.map-marker.selected').getAttribute('aria-label');const preview=await p.locator('.entity-preview>.eyebrow').innerText();assert.ok(selected.includes(preview.split(' · ')[1]));
+writeFileSync('artifacts/map-result.json',JSON.stringify({passed:true,engine:'real MapLibre; deterministic style response replaces external tile service',checks:['chapter selection centers corresponding marker','map marker changes chapter','overview resets bounds','person trail groups shared POI markers','person marker changes story preview','live map language and selection preserved']},null,2));console.log('Map interaction checks passed');
+}finally{await b.close()}

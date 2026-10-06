@@ -1,0 +1,98 @@
+[
+  {
+    "poi_id": "shakespeare-odeon",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/12_Rue_Od%C3%A9on%2C_Paris_May_2014.jpg/960px-12_Rue_Od%C3%A9on%2C_Paris_May_2014.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:12_Rue_Od%C3%A9on%2C_Paris_May_2014.jpg",
+    "alt": "奥德翁街 12 号原莎士比亚书店旧址门面与门牌",
+    "match_note": "文件名及 Commons 分类明确为 rue de l’Odéon 的 Shakespeare and Company；照片可见 12 号门牌、旧址纪念牌与门面，摄于 2014-05-18。对应 Sylvia Beach 原店，不是塞纳河边现店。",
+    "author": "David McSpadden"
+  },
+  {
+    "poi_id": "editions-gallimard",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Gallimard%2C_rue_Gallimard.jpg/960px-Gallimard%2C_rue_Gallimard.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gallimard%2C_rue_Gallimard.jpg",
+    "alt": "伽利玛出版社在加斯东·伽利玛街的办公建筑外观",
+    "match_note": "Commons 描述为出版商 Gallimard 的建筑，照片可见 NRF 标记；出版社官网联系页确认总部为 5 rue Gaston-Gallimard, 75007：https://tracts.gallimard.fr/policies/contact-information 。摄影源日期为 2010-06-15。",
+    "author": "Remi Mathis"
+  },
+  {
+    "poi_id": "sartre-bonaparte",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Le_Bonaparte%2C_42_Rue_Bonaparte%2C_75006_Paris%2C_France_November_2016.jpg/960px-Le_Bonaparte%2C_42_Rue_Bonaparte%2C_75006_Paris%2C_France_November_2016.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Le_Bonaparte%2C_42_Rue_Bonaparte%2C_75006_Paris%2C_France_November_2016.jpg",
+    "alt": "波拿巴街 42 号建筑的底层咖啡馆与临街外墙",
+    "match_note": "Commons 文件名和说明均明确为 42 Rue Bonaparte, 75006 Paris；照片摄于 2016-11-04，可见底层 Le Bonaparte 店招及临街外墙。它是萨特故居所在建筑的底层外观，不是其楼上公寓室内；故居门牌另见 BnF：https://expositions.bnf.fr/sartre/reperes/chrono.htm 。",
+    "author": "Magdalena Roeseler"
+  },
+  {
+    "poi_id": "le-tabou",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Plaque_Le_Tabou%2C_angle_rue_Christine_et_rue_Dauphine%2C_Paris_6e.jpg/960px-Plaque_Le_Tabou%2C_angle_rue_Christine_et_rue_Dauphine%2C_Paris_6e.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Plaque_Le_Tabou%2C_angle_rue_Christine_et_rue_Dauphine%2C_Paris_6e.jpg",
+    "alt": "多芬街与克里斯蒂娜街转角的 Le Tabou 旧址纪念牌",
+    "match_note": "Commons 说明直接定位于 rue Christine / rue Dauphine 转角，照片牌文清楚写出 Le Tabou 和 1947，对应 33 rue Dauphine 旧址；摄于 2019-05-26，使用后续校正透视版本。",
+    "author": "Celette"
+  },
+  {
+    "poi_id": "beauvoir-schoelcher",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Simone_de_Beauvoir._Maison_1.JPG/960px-Simone_de_Beauvoir._Maison_1.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Simone_de_Beauvoir._Maison_1.JPG",
+    "alt": "维克多·舍尔歇街 11 bis 号波伏娃故居建筑外观",
+    "match_note": "Commons 说明明确为波伏娃 1955—1986 年居住的 11 bis rue Victor-Schœlcher, Paris；2014 年外观照片，可见建筑转角与街牌。",
+    "author": "Michel-georges bernard"
+  },
+  {
+    "poi_id": "salon-indien-grand-cafe",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Plaque_Lumi%C3%A8re.jpg/960px-Plaque_Lumi%C3%A8re.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Plaque_Lumi%C3%A8re.jpg",
+    "alt": "大咖啡馆印度沙龙旧址外墙的卢米埃尔电影放映纪念铭文",
+    "match_note": "照片可读出 1895-12-28、首次公开电影放映及卢米埃尔兄弟，Commons 归入 Salon indien du Grand Café 与 Hôtel Scribe。POI 的历史门牌为 14 boulevard des Capucines；照片说明采用同一 Scribe 酒店建筑的 16 号门牌，拍的是原址纪念铭文而非原放映厅室内。摄于 2009-04-29。",
+    "author": "Tangopaso"
+  },
+  {
+    "poi_id": "hemingway-cardinal-lemoine",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Rue_Cardinal_Lemoine-Plaque_Hemingway.JPG/960px-Rue_Cardinal_Lemoine-Plaque_Hemingway.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rue_Cardinal_Lemoine-Plaque_Hemingway.JPG",
+    "alt": "红衣主教勒穆瓦纳街 74 号海明威与哈德莉故居纪念牌",
+    "match_note": "Commons 英法说明均明确为 74 Rue Cardinal Lemoine；照片牌文写明海明威与妻子 Hadley 曾居于此，摄于 2008-03-12。已排除说明误写为 75 号酒店的另一候选。",
+    "author": "FLLL"
+  },
+  {
+    "poi_id": "stein-fleurus",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Gertrude_Stein%27s_apartment%2C_Paris_18_May_2014.jpg/960px-Gertrude_Stein%27s_apartment%2C_Paris_18_May_2014.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gertrude_Stein%27s_apartment%2C_Paris_18_May_2014.jpg",
+    "alt": "弗勒吕斯街 27 号斯泰因与托克拉斯沙龙旧址外观",
+    "match_note": "Commons 说明为 27 rue de Fleurus，照片可见 27 号门牌及 Gertrude Stein 纪念牌；摄于 2014-05-18。对应临街建筑入口，不把外观称为可进入的沙龙室内。",
+    "author": "David McSpadden"
+  },
+  {
+    "poi_id": "van-gogh-rue-lepic",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/54_rue_Lepic%2C_Theo_and_Vincent_Van_Goghs_Paris_house_2010.jpg/960px-54_rue_Lepic%2C_Theo_and_Vincent_Van_Goghs_Paris_house_2010.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:54_rue_Lepic%2C_Theo_and_Vincent_Van_Goghs_Paris_house_2010.jpg",
+    "alt": "勒皮克街 54 号凡高兄弟旧居的蓝色大门与纪念牌",
+    "match_note": "Commons 文件名和说明明确为 54 rue Lepic、Theo and Vincent Van Gogh 的巴黎住所；照片可见 54 号门牌和左侧纪念牌，摄于 2010-11-27，门前有游客。",
+    "author": "ptwo"
+  },
+  {
+    "poi_id": "cour-etoile-or",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Portail_Acc%C3%A8s_Cour_%C3%89toile_Or_-_Paris_XI_%28FR75%29_-_2021-06-21_-_2.jpg/960px-Portail_Acc%C3%A8s_Cour_%C3%89toile_Or_-_Paris_XI_%28FR75%29_-_2021-06-21_-_2.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Portail_Acc%C3%A8s_Cour_%C3%89toile_Or_-_Paris_XI_%28FR75%29_-_2021-06-21_-_2.jpg",
+    "alt": "圣安托万郊区街 75 号金星庭院的街面大门",
+    "match_note": "Commons 说明为 Cour de l’Étoile-d’Or 的入口，照片大门上可读出 COUR DE L’ETOILE D’OR；对应 75 rue du Faubourg-Saint-Antoine，摄于 2021-06-21。选用街面关闭大门外观，符合 POI 的入口观赏定位。",
+    "author": "Chabe01"
+  },
+  {
+    "poi_id": "maison-collignon",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Au_March%C3%A9_de_la_Butte%2C_Paris_12_April_2022.jpg/960px-Au_March%C3%A9_de_la_Butte%2C_Paris_12_April_2022.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Au_March%C3%A9_de_la_Butte%2C_Paris_12_April_2022.jpg",
+    "alt": "蒙马特 Au Marché de la Butte／Maison Collignon 杂货店正面",
+    "match_note": "2022-04-12 实拍，照片同时清楚显示 MAISON COLLIGNON 及 AU MARCHE DE LA BUTTE 店招；Commons 坐标 48.885576, 2.338529 与 56 rue des Trois-Frères 店面吻合。选用普通正面照片，非 2007 年 360° 全景展开图。",
+    "author": "Superbass"
+  },
+  {
+    "poi_id": "invader-pa-1500-pompidou",
+    "image_url": "https://coeser.de/blog/wp-content/uploads/2024/03/paris-space-invaders-aufmacher3-pa_1500-christian-oeser.jpg",
+    "source_url": "https://coeser.de/blog/index.php/2024/03/18/paris-sightseeing-mit-invader/",
+    "alt": "蓬皮杜中心蓝色通风管上的红白 Invader PA_1500 马赛克",
+    "match_note": "摄影师文章的图片标题明确为 Space Invader PA_1500 auf dem Centre Pompidou in Paris；已下载目视确认蓝色管道上的红白马赛克和完整 1500 字样。970×323 横幅照片，2024 年文章配图，不以其他编号或蓬皮杜全景替代。",
+    "author": "Christian Öser"
+  }
+]

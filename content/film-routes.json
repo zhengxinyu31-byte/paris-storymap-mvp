@@ -1,0 +1,1297 @@
+{
+  "pois": [
+    {
+      "id": "van-gogh-rue-lepic",
+      "name_zh": "凡高兄弟勒皮克街旧居外观",
+      "name_fr": "Ancien domicile de Vincent et Theo van Gogh",
+      "address": "54 rue Lepic, 75018 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/eng/article/a-walk-in-the-nouvelle-athenes-a1094",
+      "area": "Montmartre",
+      "access_note": "私人住宅，只从公共人行道看门牌与立面，不进入楼内。"
+    },
+    {
+      "id": "moulin-de-la-galette",
+      "name_zh": "煎饼磨坊旧舞场一带",
+      "name_fr": "Le Moulin de la Galette",
+      "address": "83 rue Lepic, 75018 Paris",
+      "coordinates": null,
+      "official_url": "https://www.visitparisregion.com/fr/le-moulin-de-la-galette",
+      "area": "Montmartre",
+      "access_note": "从街上观察磨坊与招牌；现餐厅与历史舞场并非可原样重走的同一空间。"
+    },
+    {
+      "id": "au-lapin-agile",
+      "name_zh": "狡兔酒馆",
+      "name_fr": "Au Lapin Agile",
+      "address": "22 rue des Saules, 75018 Paris",
+      "coordinates": null,
+      "official_url": "https://au-lapin-agile.com/visites/",
+      "area": "Montmartre",
+      "access_note": "外观可看；入内演出另购票，开放与节目以经营方当日公布为准。"
+    },
+    {
+      "id": "rue-des-jardins-saint-paul",
+      "name_zh": "圣保罗花园街",
+      "name_fr": "Rue des Jardins Saint-Paul",
+      "address": "Rue des Jardins Saint-Paul, angle rue de l’Ave Maria, 75004 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/eng/",
+      "area": "Le Marais",
+      "access_note": "公共街道；取景对应街段而非私人内院，不保证原店面仍在。"
+    },
+    {
+      "id": "le-pure-cafe",
+      "name_zh": "纯粹咖啡馆",
+      "name_fr": "Le Pure Café",
+      "address": "14 rue Jean-Macé, 75011 Paris",
+      "coordinates": null,
+      "official_url": "https://www.lepurecafeparis.fr/",
+      "area": "Charonne",
+      "access_note": "外观可看；内景属于营业餐厅，坐下需消费，是否能看拍摄座位以店方安排为准。"
+    },
+    {
+      "id": "coulee-verte-rene-dumont",
+      "name_zh": "勒内—迪蒙绿荫步道",
+      "name_fr": "Coulée verte René-Dumont",
+      "address": "Avenue Daumesnil, secteur Reuilly–Diderot, 75012 Paris",
+      "coordinates": null,
+      "official_url": "https://www.paris.fr/lieux/coulee-verte-rene-dumont-1772",
+      "area": "Bastille–Reuilly",
+      "access_note": "公共花园按时开闭；本线看高架段，地图点不等同影片精确机位，楼梯和无障碍入口另查现场。"
+    },
+    {
+      "id": "quai-de-la-tournelle",
+      "name_zh": "图尔内勒河岸",
+      "name_fr": "Quai de la Tournelle",
+      "address": "Quai de la Tournelle, 75005 Paris",
+      "coordinates": null,
+      "official_url": "https://www.paris.fr/lieux/jardin-du-port-de-la-tournelle-2440",
+      "area": "Latin Quarter / Seine",
+      "access_note": "在公共上层河岸看景；电影登船点不等于今日运营码头，不提供可在此上船的承诺。"
+    },
+    {
+      "id": "quai-henri-iv",
+      "name_zh": "亨利四世河岸",
+      "name_fr": "Quai Henri-IV",
+      "address": "Quai Henri-IV, 75004 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/eng/",
+      "area": "Arsenal / Seine",
+      "access_note": "公共河岸外观；码头与下层河岸开放受管理，电影接车点不提供精确机位定位。"
+    },
+    {
+      "id": "cour-etoile-or",
+      "name_zh": "金星庭院入口外观",
+      "name_fr": "Cour de l’Étoile-d’Or",
+      "address": "75 rue du Faubourg-Saint-Antoine, 75011 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/eng/",
+      "area": "Faubourg Saint-Antoine",
+      "access_note": "私人庭院通常关闭；只在街上看入口，不跟随住户进入，不敲门寻找影片公寓。"
+    },
+    {
+      "id": "place-de-lestrapade",
+      "name_zh": "埃斯特拉帕德广场",
+      "name_fr": "Place de l’Estrapade",
+      "address": "Place de l’Estrapade, 75005 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/eng/article/see-the-paris-of-emily-in-paris-a1097",
+      "area": "Latin Quarter",
+      "access_note": "广场为公共空间；1号为住宅外观，不进入门厅；周边商家消费自选。"
+    },
+    {
+      "id": "place-de-valois",
+      "name_zh": "瓦卢瓦广场",
+      "name_fr": "Place de Valois",
+      "address": "6 place de Valois, 75001 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/eng/article/see-the-paris-of-emily-in-paris-a1097",
+      "area": "Palais-Royal",
+      "access_note": "可从公共广场看办公楼外立面；Savoir为虚构公司，楼内不是剧集游客中心。"
+    },
+    {
+      "id": "pont-alexandre-iii",
+      "name_zh": "亚历山大三世桥",
+      "name_fr": "Pont Alexandre III",
+      "address": "Pont Alexandre III, 75007 / 75008 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/eng/article/see-the-paris-of-emily-in-paris-a1097",
+      "area": "Invalides / Champs-Élysées",
+      "access_note": "公共桥梁步道；保持通行，不进入机动车道复刻拍摄。"
+    },
+    {
+      "id": "studio-28",
+      "name_zh": "28号摄影棚电影院",
+      "name_fr": "Studio 28",
+      "address": "10 rue Tholozé, 75018 Paris",
+      "coordinates": null,
+      "official_url": "https://www.cinema-studio28.fr/",
+      "area": "Montmartre",
+      "access_note": "可看外观与节目表；进入影厅需购买当日电影票，不保证放映《天使爱美丽》。"
+    },
+    {
+      "id": "maison-collignon",
+      "name_zh": "科利尼翁杂货店取景地",
+      "name_fr": "Maison Collignon / Au Marché de la Butte",
+      "address": "56 rue des Trois Frères, 75018 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/article/le-montmartre-d-amelie-poulain-a480",
+      "area": "Montmartre",
+      "access_note": "营业商店外观；拍照不挡门，不把现实经营者称作电影中的角色。"
+    },
+    {
+      "id": "rue-saint-vincent",
+      "name_zh": "圣樊尚街葡萄园旁",
+      "name_fr": "Rue Saint-Vincent",
+      "address": "Rue Saint-Vincent, près du Clos Montmartre, 75018 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/article/le-montmartre-d-amelie-poulain-a480",
+      "area": "Montmartre",
+      "access_note": "公共街道；不进入葡萄园或私人花园，本点为影片关联街区而非精确昆虫镜头坐标。"
+    },
+    {
+      "id": "lamarck-caulaincourt",
+      "name_zh": "拉马克—科兰古地铁站口",
+      "name_fr": "Métro Lamarck–Caulaincourt",
+      "address": "Rue Lamarck, entrée du métro Lamarck–Caulaincourt, 75018 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/eng/article/on-to-abbesses-caulaincourt-a584",
+      "area": "Montmartre",
+      "access_note": "从公共道路看站口与双侧台阶；台阶人流频繁，入站乘车按实时运营信息。"
+    },
+    {
+      "id": "canal-saint-martin-amelie",
+      "name_zh": "圣马丁运河南端河岸",
+      "name_fr": "Canal Saint-Martin — secteur square Frédérick-Lemaître",
+      "address": "Quai de Valmy / quai de Jemmapes, près du square Frédérick-Lemaître, 75010 Paris",
+      "coordinates": null,
+      "official_url": "https://parisjetaime.com/article/le-montmartre-d-amelie-poulain-a480",
+      "area": "Canal Saint-Martin",
+      "access_note": "公共岸边观察即可；不向航道投掷石块，不跨护栏。本站与蒙马特分区，需单独交通。"
+    }
+  ],
+  "stories": [
+    {
+      "id": "dodo--lautrec-poster",
+      "poi_id": "moulin-rouge",
+      "title": "劳特累克把舞客变成了海报主角",
+      "hook": "1891年，一张广告比红色风车更远地传播了红磨坊。",
+      "body": "1891年，红磨坊请图卢兹—劳特累克设计海报。他没有只画漂亮建筑，而把舞者拉·古吕、瓦朗坦和观众的轮廓放进画面：前景人物被大胆裁切，舞裙的亮色从深色人群中跳出来。于是，一家夜间娱乐场所获得了能在白天街头被认出的脸。站在今天的红色风车前，可以把招牌与那张海报并排想象：一个告诉你店在哪里，一个告诉你里面的人如何移动。蒙马特的艺术故事从商业委托开始，画家在这里也是观察观众、争取注意力的工作者。",
+      "person_names": [
+        "亨利·德·图卢兹—劳特累克",
+        "拉·古吕",
+        "瓦朗坦·勒代索塞"
+      ],
+      "work_names": [
+        "《红磨坊：拉·古吕》"
+      ],
+      "when": "1891年",
+      "why_here": "红磨坊委托劳特累克制作广告海报。",
+      "detail": "海报把具体舞者与观众剪影用于广告构图。",
+      "observable_cue": "红色风车、Moulin Rouge招牌与立面",
+      "source_urls": [
+        {
+          "url": "https://store.moulinrouge.fr/en/pages/illustrateurs-moulin-rouge",
+          "title": "Illustrators of Moulin Rouge",
+          "publisher": "Moulin Rouge"
+        },
+        {
+          "url": "https://www.moulinrouge.fr/en/the-moulin-rouge/history/the-legends/henri-de-toulouse-lautrec-2/",
+          "title": "Henri de Toulouse-Lautrec",
+          "publisher": "Moulin Rouge"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "两条资料同属经营方，不能算两个独立来源；不把今天的演出说成1891年的原节目。"
+    },
+    {
+      "id": "dodo--van-gogh-window",
+      "poi_id": "van-gogh-rue-lepic",
+      "title": "凡高先把巴黎画在了窗框里",
+      "hook": "抵达艺术之都，最早的画室有时只是弟弟家的一扇窗。",
+      "body": "文森特投奔弟弟提奥后，两人从拉瓦尔街的小公寓搬到勒皮克街54号。1887年，凡高以住处窗外的巴黎屋顶为题作画；凡高博物馆说明，这些城市景象也记录了他对点彩技法的试验。我们今天站在人行道上，无法复制楼上的视线，却能理解那扇窗怎样改变题材：没有远行，也没有名模，窗外一排住宅就够他研究色点、屋顶与空气。把眼前立面看成一个工作的地址，会比只寻找“天才住过”的铜牌更接近这段巴黎生活。",
+      "person_names": [
+        "文森特·凡高",
+        "提奥·凡高"
+      ],
+      "work_names": [
+        "《从提奥公寓望出去》"
+      ],
+      "when": "1887年作品；巴黎时期为1886—1888年",
+      "why_here": "凡高与提奥曾住在54 rue Lepic，并以窗外景象作画。",
+      "detail": "凡高博物馆的作品研究列出1887年从勒皮克街公寓窗口绘制的油画与素描。",
+      "observable_cue": "54号门牌、沿街窗户与坡道",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/eng/article/a-walk-in-the-nouvelle-athenes-a1094",
+          "title": "A walk in the Nouvelle Athènes district",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://catalogues.vangoghmuseum.com/contemporaries-of-van-gogh-1/cat65",
+          "title": "Meijer de Haan — Portrait of Theo van Gogh，注释中的勒皮克街作品目录",
+          "publisher": "Van Gogh Museum"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "私人住宅外观；不标注未经核验的具体窗口，也不声称可看见画中原视野。"
+    },
+    {
+      "id": "dodo--picasso-workshop",
+      "poi_id": "bateau-lavoir",
+      "title": "《亚维农少女》诞生在这片坡地",
+      "hook": "一座工作室的地址，比“巴黎让人有灵感”具体得多。",
+      "body": "毕加索1904年住进洗衣船，1907年在这里画出《亚维农少女》。画名听起来像法国南部地名，作品却与他在蒙马特的实验紧密相连。巴黎市府的艺术家步行资料把这段创作明确落在今日埃米尔—古多广场13号：这不是后来替他布置的纪念馆，而是曾经工作的地址。今天可以在广场上读立面的名字，再想一幅后来被写进艺术史的画，最初只是房间里尚未获得共识的尝试。附近的上坡、树影和邻居仍是日常尺度；艺术史的转折并没有因此变成一栋宫殿。",
+      "person_names": [
+        "巴勃罗·毕加索"
+      ],
+      "work_names": [
+        "《亚维农少女》"
+      ],
+      "when": "1904年入驻；1907年创作",
+      "why_here": "巴黎市府与毕加索博物馆年表均将这段创作落在洗衣船。",
+      "detail": "现地址为13 place Émile-Goudeau，旧称13 rue Ravignan。",
+      "observable_cue": "广场坡度、Bateau-Lavoir标识与临街展示",
+      "source_urls": [
+        {
+          "url": "https://www.paris.fr/pages/balade-montmartroise-dans-les-pas-de-picasso-23399",
+          "title": "Balade montmartroise dans les pas de Picasso",
+          "publisher": "Ville de Paris"
+        },
+        {
+          "url": "https://museepicassoparis.fr/sites/default/files/2021-11/DP%20Picasso%20a%CC%80%20l%27image_V7_WEB.pdf",
+          "title": "Picasso à l’image：生平年表",
+          "publisher": "Musée national Picasso-Paris"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "旧建筑经历火灾与重建；外观参访不等于进入毕加索原工作室，画作不在此展出。"
+    },
+    {
+      "id": "dodo--renoir-dance",
+      "poi_id": "moulin-de-la-galette",
+      "title": "雷诺阿画的不是一排名人",
+      "hook": "1876年的主角，是正在跳舞、聊天和占座的一群人。",
+      "body": "1876年，雷诺阿以蒙马特的煎饼磨坊舞会为题，画出《煎饼磨坊的舞会》。奥赛博物馆收藏的画里，人物互相遮挡，桌子、舞伴和树下光斑挤在一起；视线没有停在某一位英雄身上，而是在人群中移动。来到勒皮克街，不必寻找一张能与画面完全重叠的餐桌：历史舞场已经变化，现有磨坊和店面只是地理线索。更有意思的是想象画家如何把一个普通休闲下午变成大型作品——既要让每个人像正在生活，又要把零散的动作组织成同一片光。",
+      "person_names": [
+        "皮埃尔—奥古斯特·雷诺阿"
+      ],
+      "work_names": [
+        "《煎饼磨坊的舞会》"
+      ],
+      "when": "1876年",
+      "why_here": "雷诺阿作品描绘蒙马特Moulin de la Galette舞会。",
+      "detail": "作品原作由奥赛博物馆收藏；街区是题材所在地。",
+      "observable_cue": "勒皮克街磨坊轮廓、店名与坡地",
+      "source_urls": [
+        {
+          "url": "https://www.musee-orsay.fr/en/artworks/bal-du-moulin-de-la-galette-497",
+          "title": "Bal du moulin de la Galette — Auguste Renoir",
+          "publisher": "Musée d’Orsay"
+        },
+        {
+          "url": "https://www.visitparisregion.com/fr/le-moulin-de-la-galette",
+          "title": "Le Moulin de la Galette",
+          "publisher": "Choose Paris Region"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "现餐厅、可见磨坊和1876年的露天舞场不能直接画等号；本段构图感受属于编辑解读。"
+    },
+    {
+      "id": "dodo--valadon-studio",
+      "poi_id": "musee-montmartre",
+      "title": "瓦拉东不是别人画里的配角",
+      "hook": "1912年，她带着自己的绘画工作回到科尔托街。",
+      "body": "苏珊娜·瓦拉东曾以模特身份进入画家的视野，但科尔托街12号应该用来讲她作为画家的工作。蒙马特博物馆记录，1912年她回到这里，与儿子莫里斯·郁特里罗和伴侣安德烈·于特共同生活、创作。今天馆内重建了那间工作室公寓：画架与生活空间相邻，让“艺术家”从一个浪漫称呼还原为每天要占用房间、安排光线的职业。若购票入内，可以把注意力放在她自己的创作位置；只看外观，也请记住门后不只有雷诺阿的花园，还有一位女性画家持续工作的房间。",
+      "person_names": [
+        "苏珊娜·瓦拉东",
+        "莫里斯·郁特里罗",
+        "安德烈·于特"
+      ],
+      "work_names": [],
+      "when": "1912年重返科尔托街",
+      "why_here": "瓦拉东与郁特里罗、于特在12 rue Cortot生活和创作。",
+      "detail": "今日呈现的是经资料重建的工作室公寓，而非未经变动封存的房间。",
+      "observable_cue": "科尔托街12号入口；购票后可看重建工作室与画架",
+      "source_urls": [
+        {
+          "url": "https://museedemontmartre.fr/exposition/suzanne-valadon-maurice-utrillo-andre-utter-12-rue-cortot/",
+          "title": "Suzanne Valadon, Maurice Utrillo, André Utter au 12, rue Cortot",
+          "publisher": "Musée de Montmartre"
+        },
+        {
+          "url": "https://museedemontmartre.fr/en/musee-jardins/",
+          "title": "Collections permanentes et atelier-appartement",
+          "publisher": "Musée de Montmartre"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "工作室为重建展示；具体开放房间以馆方当日安排为准，不把她只称作其他画家的缪斯。"
+    },
+    {
+      "id": "dodo--lapin-picasso",
+      "poi_id": "au-lapin-agile",
+      "title": "毕加索给酒馆老板画了一幅画",
+      "hook": "1905年，画中的吉他手有名有姓：老板弗雷德。",
+      "body": "1905年，年轻的毕加索为狡兔酒馆老板弗雷德·热拉尔作画。如今藏在纽约大都会艺术博物馆的《在狡兔酒馆》，把穿小丑服的艺术家形象、吧台人物和弹吉他的弗雷德放在同一空间。作品不是后来给名店补写的名人故事：它本来就是为这个社交场所而作。大都会的讲解谨慎地说，委托可能以餐食交换，并未把传说写成确定账单。看着今天的小房子，可以想象作品还没有天价时的流通方式：老板需要装饰与气氛，画家需要生计，交往与工作并没有清楚分开。",
+      "person_names": [
+        "巴勃罗·毕加索",
+        "弗雷德·热拉尔"
+      ],
+      "work_names": [
+        "《在狡兔酒馆》"
+      ],
+      "when": "1905年",
+      "why_here": "毕加索为酒馆老板Frédé Gérard创作了与该店直接相关的画。",
+      "detail": "馆方将“以饭换画”表述为可能性，不能升级为确切交易记录。",
+      "observable_cue": "街角小屋、酒馆招牌与外墙",
+      "source_urls": [
+        {
+          "url": "https://www.metmuseum.org/fr/art/collection/search/486162",
+          "title": "Au Lapin Agile — Pablo Picasso",
+          "publisher": "The Metropolitan Museum of Art"
+        },
+        {
+          "url": "https://au-lapin-agile.com/visites/",
+          "title": "Visites et adresse",
+          "publisher": "Au Lapin Agile"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "“可能换餐食”是大都会馆方推测；原作在纽约，不承诺店内可见原画。"
+    },
+    {
+      "id": "goat--bookshop-reunion",
+      "poi_id": "shakespeare-bucherie",
+      "title": "九年后，她出现在读书会的人群里",
+      "hook": "一个关于过去的小说，突然迎来了过去的当事人。",
+      "body": "《爱在日落黄昏时》开场，杰西在莎士比亚书店宣传小说，赛琳娜出现在听众中。九年前的维也纳相遇进入了书，也把她带回他眼前。书店在这一场里承担的作用很微妙：杰西先是一个能向记者组织故事的作家，随后必须面对无法只靠写作安排的真人。站在布什里街店面外，可以想象从公开发言切换到私人对话的短短距离。影片不是在这里给两人的关系下结论，而是让一个已写完的版本重新打开；门一出，那个下午才真正开始。",
+      "person_names": [
+        "杰西（虚构角色）",
+        "赛琳娜（虚构角色）",
+        "理查德·林克莱特"
+      ],
+      "work_names": [
+        "《爱在日落黄昏时》"
+      ],
+      "when": "2004年电影；与前作故事相隔九年",
+      "why_here": "开场读书会及重逢取景于现莎士比亚书店。",
+      "detail": "此处是布什里街现店，并非海明威时代的奥德翁街旧店。",
+      "observable_cue": "临街英文店名、门口与面向河岸的位置",
+      "source_urls": [
+        {
+          "url": "https://movie-locations.com/movies/b/Before-Sunset.php",
+          "title": "Before Sunset：巴黎实景与剪辑地理",
+          "publisher": "The Worldwide Guide to Movie Locations"
+        },
+        {
+          "url": "https://www.criterion.com/boxsets/1237-the-before-trilogy",
+          "title": "The Before Trilogy",
+          "publisher": "The Criterion Collection"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/4445-the-before-trilogy-time-regained",
+          "title": "The Before Trilogy: Time Regained",
+          "publisher": "The Criterion Collection"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "Criterion发行方文章确认书店读书会与重逢；剧情角色不是历史人物，现场不保证可在原机位停留。"
+    },
+    {
+      "id": "goat--marais-cut",
+      "poi_id": "rue-des-jardins-saint-paul",
+      "title": "一句话还没说完，人已经跨过塞纳河",
+      "hook": "电影里的连续谈话，悄悄替两个人缩短了巴黎。",
+      "body": "离开书店后，杰西与赛琳娜的谈话听起来没有中断，画面却从左岸街巷跳到了玛黑区的圣保罗花园街。专业取景资料还沿着镜头追到查理曼街与埃金哈德街，指出这段“随意走走”其实经过剪辑组合。在这里读故事，最有趣的不是逐步复制路线，而是发现声音如何把分离的街区缝在一起：只要两个人仍在回答对方，我们就愿意相信距离没有变。眼前的真实街道提醒我们，电影借的是巴黎的空间，保留的却主要是对话的时间。",
+      "person_names": [
+        "杰西（虚构角色）",
+        "赛琳娜（虚构角色）"
+      ],
+      "work_names": [
+        "《爱在日落黄昏时》"
+      ],
+      "when": "2004年电影中的重逢散步",
+      "why_here": "此街是影片离开左岸后切入玛黑区的取景街段。",
+      "detail": "同一段散步经过左岸与右岸，不应写成不中断的实测步行路线。",
+      "observable_cue": "Jardins Saint-Paul街牌、狭窄街道与通向Charlemagne街的路口",
+      "source_urls": [
+        {
+          "url": "https://movie-locations.com/movies/b/Before-Sunset.php",
+          "title": "Before Sunset：巴黎实景与剪辑地理",
+          "publisher": "The Worldwide Guide to Movie Locations"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "街段认定依据专业取景资料；对剪辑作用的分析为编辑解读。"
+    },
+    {
+      "id": "goat--pure-new-york",
+      "poi_id": "le-pure-cafe",
+      "title": "原来我们曾经在同一座城",
+      "hook": "咖啡桌让一种更难受的可能性浮出来：也许曾经离得很近。",
+      "body": "两人在Le Pure Café坐下，谈到曾在纽约生活，才意识到各自的生活轨迹还出现过另一次接近。影片没有安排奇迹般的闪回相遇，而让这条信息留在咖啡桌上，变成对“如果”的试探。这里的桌椅因此不是浪漫布景的附属品：坐下来之后，不必再看路，他们也更难靠行走绕开彼此的反应。今天可以从转角店面辨认这家街区咖啡馆；若决定进去，把一杯饮料的时间留给这场对话就够了，不必要求店员替你证明哪一把椅子还属于2004年。",
+      "person_names": [
+        "杰西（虚构角色）",
+        "赛琳娜（虚构角色）"
+      ],
+      "work_names": [
+        "《爱在日落黄昏时》"
+      ],
+      "when": "2004年电影咖啡馆段落",
+      "why_here": "影片中的咖啡对话在14 rue Jean-Macé的Le Pure Café拍摄。",
+      "detail": "谈话里两人发现自己曾同时在纽约生活。",
+      "observable_cue": "Jean-Macé街转角立面与Le Pure Café店名",
+      "source_urls": [
+        {
+          "url": "https://movie-locations.com/movies/b/Before-Sunset.php",
+          "title": "Before Sunset：巴黎实景与剪辑地理",
+          "publisher": "The Worldwide Guide to Movie Locations"
+        },
+        {
+          "url": "https://www.lepurecafeparis.fr/",
+          "title": "Le Pure Café — adresse et présentation",
+          "publisher": "Le Pure Café"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/4445-the-before-trilogy-time-regained",
+          "title": "The Before Trilogy: Time Regained",
+          "publisher": "The Criterion Collection"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "经营方网页用于核对现址；电影情节与机位依据专业取景资料，座位和陈设可能变化。"
+    },
+    {
+      "id": "goat--promenade-height",
+      "poi_id": "coulee-verte-rene-dumont",
+      "title": "谈话升到街道上方",
+      "hook": "巴黎突然安静下来，是因为两个人换了一个高度。",
+      "body": "咖啡馆之后，赛琳娜带杰西来到高架绿道。它原来叫植栽步道，如今名为勒内—迪蒙绿荫步道，部分路段在旧铁路高架桥上。电影在这里继续让两个人并肩说话；树木与长路把他们从街口、店面和车流中暂时抽离。这个场景适合用脚理解：登上去后，先听周围声音怎样变化，再看窗户与树冠怎样进入视线。我们不必替角色补一句从未说过的爱情宣言；只要注意换了环境，同样两个人的谈话就能显得更私密，城市的高度也可以参与叙事。",
+      "person_names": [
+        "杰西（虚构角色）",
+        "赛琳娜（虚构角色）"
+      ],
+      "work_names": [
+        "《爱在日落黄昏时》"
+      ],
+      "when": "2004年电影；现步道名称为Coulée verte René-Dumont",
+      "why_here": "影片在原Promenade Plantée高架步道取景。",
+      "detail": "从街面进入旧铁路改成的绿道，是这段场景可实际感知的空间变化。",
+      "observable_cue": "高架步道、树冠、桥下拱廊与街面高差",
+      "source_urls": [
+        {
+          "url": "https://movie-locations.com/movies/b/Before-Sunset.php",
+          "title": "Before Sunset：巴黎实景与剪辑地理",
+          "publisher": "The Worldwide Guide to Movie Locations"
+        },
+        {
+          "url": "https://www.paris.fr/lieux/coulee-verte-rene-dumont-1772",
+          "title": "Coulée verte René Dumont",
+          "publisher": "Ville de Paris"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "不承诺地图点就是影片楼梯；观感分析为编辑解读。请使用当日开放入口，闭园时在外观读故事即可。"
+    },
+    {
+      "id": "goat--boat-departure",
+      "poi_id": "quai-de-la-tournelle",
+      "title": "为什么还要再坐一段船",
+      "hook": "一次短短的绕路，让告别继续往后推。",
+      "body": "走到塞纳河边，两人又选择坐船，影片从步行的节奏切换到移动的河岸。取景资料将登船场景放在图尔内勒河岸；这使今天的地图显出另一道折返——他们已经从东巴黎回到了圣母院附近。对故事而言，这次搭船像一次被默许的延长：杰西仍有离开巴黎的安排，两个人却继续给谈话寻找时间。站在公共河岸上，看建筑如何随船只位置改变，便能理解这一幕的空间效果。无需真的买一张游船票，也能读懂“再走一段”如何成为那个下午反复出现的动作。",
+      "person_names": [
+        "杰西（虚构角色）",
+        "赛琳娜（虚构角色）"
+      ],
+      "work_names": [
+        "《爱在日落黄昏时》"
+      ],
+      "when": "2004年电影游船段落",
+      "why_here": "取景资料认定Quai de la Tournelle为两人登船场景所在地。",
+      "detail": "从高架步道回到左岸是电影剪辑中的空间跳跃。",
+      "observable_cue": "圣母院方向的河景、上层石栏与经过的船只",
+      "source_urls": [
+        {
+          "url": "https://movie-locations.com/movies/b/Before-Sunset.php",
+          "title": "Before Sunset：巴黎实景与剪辑地理",
+          "publisher": "The Worldwide Guide to Movie Locations"
+        },
+        {
+          "url": "https://www.criterion.com/boxsets/1237-the-before-trilogy",
+          "title": "The Before Trilogy",
+          "publisher": "The Criterion Collection"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/4445-the-before-trilogy-time-regained",
+          "title": "The Before Trilogy: Time Regained",
+          "publisher": "The Criterion Collection"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "电影码头不等于当前游船站；不承诺今天可按影片路线登船或购买同样航段。"
+    },
+    {
+      "id": "goat--henri-delay",
+      "poi_id": "quai-henri-iv",
+      "title": "车已经在等，谈话还没有结束",
+      "hook": "在交通工具之间转换，也是在决定何时才肯说再见。",
+      "body": "影片里的游船在亨利四世河岸结束这一段行程，等待的汽车把现实的时间压力重新带回来。杰西提出送赛琳娜回家，离开巴黎之前的这次顺路，又为两人的谈话开出一段空间。这里不需要一座特别醒目的纪念碑：码头、道路和车门之间，本来只是城市中的转乘距离，电影却让它承担了情感上的犹豫。今天站在河岸上，回想两人从书店出来时那种礼貌的重逢，再看已经出现了多少次延长，就能理解为什么一个简单的接车点值得成为一章。",
+      "person_names": [
+        "杰西（虚构角色）",
+        "赛琳娜（虚构角色）"
+      ],
+      "work_names": [
+        "《爱在日落黄昏时》"
+      ],
+      "when": "2004年电影接车段落",
+      "why_here": "Quai Henri-IV对应下船、接车与提出送赛琳娜回家的场景。",
+      "detail": "这里是电影交通转换点；叙事继续驶向公寓段落。",
+      "observable_cue": "河岸道路、船只停靠区域与上层公共步道",
+      "source_urls": [
+        {
+          "url": "https://movie-locations.com/movies/b/Before-Sunset.php",
+          "title": "Before Sunset：巴黎实景与剪辑地理",
+          "publisher": "The Worldwide Guide to Movie Locations"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/4445-the-before-trilogy-time-regained",
+          "title": "The Before Trilogy: Time Regained",
+          "publisher": "The Criterion Collection"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "仅认定河岸范围，不给未经现场复核的停车点；角色动机分析为编辑解读。"
+    },
+    {
+      "id": "goat--courtyard-ending",
+      "poi_id": "cour-etoile-or",
+      "title": "最后一幕，巴黎收进一间房",
+      "hook": "从全城漫游，到舍不得结束一首歌。",
+      "body": "影片最后进入赛琳娜的公寓，音乐与歌声让一直向前走的下午终于停下来。专业取景资料把庭院外景认作圣安托万郊区街的金星庭院，并提醒观众：角色口中的地址与实际拍摄地点不同。我们把路线停在公共街道上的入口，因为这是一处生活中的私人庭院。门后的电影可以在手机里重温，不必靠闯入来完成。回望这条线，最关键的终点也许不是某个房间，而是两个人终于不再急着为下一次移动寻找理由；电影把答案留在了节奏与表情里。",
+      "person_names": [
+        "杰西（虚构角色）",
+        "赛琳娜（虚构角色）"
+      ],
+      "work_names": [
+        "《爱在日落黄昏时》"
+      ],
+      "when": "2004年电影结尾",
+      "why_here": "专业电影地点资料将公寓庭院外景认定为Cour de l’Étoile-d’Or。",
+      "detail": "角色说出的住址属于剧情，不能用来替代实际取景地址。",
+      "observable_cue": "75号临街入口与门牌；只从公共道路观察",
+      "source_urls": [
+        {
+          "url": "https://movie-locations.com/movies/b/Before-Sunset.php",
+          "title": "Before Sunset：巴黎实景与剪辑地理",
+          "publisher": "The Worldwide Guide to Movie Locations"
+        },
+        {
+          "url": "https://www.criterion.com/boxsets/1237-the-before-trilogy",
+          "title": "The Before Trilogy",
+          "publisher": "The Criterion Collection"
+        },
+        {
+          "url": "https://www.criterion.com/current/posts/4445-the-before-trilogy-time-regained",
+          "title": "The Before Trilogy: Time Regained",
+          "publisher": "The Criterion Collection"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "仅核对庭院外景，不确认公寓内景的拍摄房间；私人庭院不进入。无确切台词引用。"
+    },
+    {
+      "id": "time--estrapade-neighbours",
+      "poi_id": "place-de-lestrapade",
+      "title": "把整部剧的生活压进一个小广场",
+      "hook": "公寓、面包店、厨师邻居，几步之间就能串起一段剧情。",
+      "body": "第一季里，艾米莉搬进埃斯特拉帕德广场1号的公寓；周边的面包店和加百列工作的餐厅，让她在同一个街角反复遇见生活中的新关系。实际取景的餐厅叫Terra Nera，剧中则用了Les Deux Compères这个名字。走到这里，先看住宅入口、食品店与广场的相对位置，就会明白镜头为什么喜欢这一小块空间：上班前、约会后和买早餐时的人，很容易再次碰面。它提供的是一种连续剧的邻里尺度，并不意味着现实中的住户和店员在继续扮演角色。",
+      "person_names": [
+        "艾米莉·库珀（虚构角色）",
+        "加百列（虚构角色）"
+      ],
+      "work_names": [
+        "《艾米莉在巴黎》"
+      ],
+      "when": "第一季，2020年播出",
+      "why_here": "剧中公寓与餐厅外景集中在广场及Fossés Saint-Jacques街。",
+      "detail": "虚构餐厅Les Deux Compères与现实Terra Nera名称不同。",
+      "observable_cue": "广场喷泉、1号住宅门牌和相邻商业街面",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/eng/article/see-the-paris-of-emily-in-paris-a1097",
+          "title": "See the Paris of Emily in Paris",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://www.netflix.com/tudum/articles/everywhere-emily-ate-drank-kissed-and-took-selfies-in-paris",
+          "title": "Everywhere Emily Ate, Drank, Kissed and Took Selfies in Paris",
+          "publisher": "Netflix Tudum"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "仅外观打卡；不保证当前店招与第一季完全一致，角色住所不是开放景点。"
+    },
+    {
+      "id": "time--pantheon-call",
+      "poi_id": "pantheon",
+      "title": "宏大的背景，一通很私人的电话",
+      "hook": "在先贤祠台阶前，结束的是艾米莉的异地恋。",
+      "body": "第一季第二集，艾米莉在先贤祠前与留在芝加哥的男友分手。剧集没有把这场戏放在卧室，而让她站在一座巨大公共纪念建筑前处理非常私人的决定。你今天看到的柱廊与台阶，就这样同时承担了城市名片和人物情绪背景两种任务。可以在广场边停一下，想象电话另一端的人完全看不见眼前的巴黎：对她而言，新生活已经变成具体街道；对远方的人，它还只是一次没有共同参与的搬家。这个观看角度属于剧情阅读，不是先贤祠自身的历史。",
+      "person_names": [
+        "艾米莉·库珀（虚构角色）",
+        "道格（虚构角色）"
+      ],
+      "work_names": [
+        "《艾米莉在巴黎》"
+      ],
+      "when": "第一季第二集",
+      "why_here": "分手电话场景以先贤祠外部台阶为背景。",
+      "detail": "这一场是住宅街区之外的第一处个人关系转折。",
+      "observable_cue": "先贤祠柱廊、前台阶与开阔广场",
+      "source_urls": [
+        {
+          "url": "https://www.netflix.com/tudum/articles/everywhere-emily-ate-drank-kissed-and-took-selfies-in-paris",
+          "title": "Everywhere Emily Ate, Drank, Kissed and Took Selfies in Paris",
+          "publisher": "Netflix Tudum"
+        },
+        {
+          "url": "https://parisjetaime.com/eng/article/see-the-paris-of-emily-in-paris-a1097",
+          "title": "See the Paris of Emily in Paris",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不把电视剧情节解释为建筑历史；看外观即可，入内参观不是完成这一章的条件。"
+    },
+    {
+      "id": "time--luxembourg-jog",
+      "poi_id": "jardin-du-luxembourg",
+      "title": "她先把晨跑习惯搬到了巴黎",
+      "hook": "陌生城市，也可以从一个重复的动作开始熟悉。",
+      "body": "第一季第二集开头，艾米莉在卢森堡公园晨跑。这个场面没有复杂事件，却把人物的旧习惯接到新城市：她继续跑步，镜头换成了巴黎的树木、步道与公共花园。它和上一站的分手电话恰好形成两种适应方式——有些关系要重新决定，有些日常则可以带着走。今天不必真的跑一圈，也不必追问哪一条小径才算“同款”；选一段开放步道慢慢走，注意人们各自重复的动作。电视剧把公园拍成背景，你可以把这里读成一个人逐渐建立生活节奏的地方。",
+      "person_names": [
+        "艾米莉·库珀（虚构角色）"
+      ],
+      "work_names": [
+        "《艾米莉在巴黎》"
+      ],
+      "when": "第一季第二集开头",
+      "why_here": "Netflix取景指南确认这里为第二集晨跑地点。",
+      "detail": "本线不把整个公园或任意一条路声称为精确机位。",
+      "observable_cue": "花园步道、成排树木与跑步的人群",
+      "source_urls": [
+        {
+          "url": "https://www.netflix.com/tudum/articles/everywhere-emily-ate-drank-kissed-and-took-selfies-in-paris",
+          "title": "Everywhere Emily Ate, Drank, Kissed and Took Selfies in Paris",
+          "publisher": "Netflix Tudum"
+        },
+        {
+          "url": "https://www.netflix.com/tudum/articles/netflix-walking-tours-emily-in-paris-bridgerton",
+          "title": "Netflix Walking Tours — Paris locations",
+          "publisher": "Netflix Tudum"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "公园有开放时段；具体跑步机位未现场复核，编辑建议散步不属于剧情事实。"
+    },
+    {
+      "id": "time--flore-thomas",
+      "poi_id": "cafe-de-flore",
+      "title": "一个咖啡馆，成了托马的开场白",
+      "hook": "第六集的偶遇，先从谁懂巴黎聊起。",
+      "body": "第一季第六集，艾米莉在花神咖啡馆遇见符号学教授托马。对方把咖啡馆的文化历史带进交谈，名店于是兼任了初次见面时的自我介绍：你坐在哪里、知道哪些名字，都能成为一种展示。到这里读这场戏，可以把注意力从“明星坐哪张桌子”移到露台的距离——陌生人如何开始说话，邻桌又怎样进入彼此的视野。花神确实有文学与哲学的历史，但剧中人物用它讲述自己，是另一层故事；这条路线保留两者的区别，不替托马说过的每一段掌故背书。",
+      "person_names": [
+        "艾米莉·库珀（虚构角色）",
+        "托马（虚构角色）"
+      ],
+      "work_names": [
+        "《艾米莉在巴黎》"
+      ],
+      "when": "第一季第六集",
+      "why_here": "艾米莉与托马在花神咖啡馆相识。",
+      "detail": "咖啡馆史被写进人物对话；此处只确认场景，不逐字复述角色掌故。",
+      "observable_cue": "Café de Flore店名、露台桌椅与临街距离",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/eng/article/see-the-paris-of-emily-in-paris-a1097",
+          "title": "See the Paris of Emily in Paris",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://www.netflix.com/tudum/articles/everywhere-emily-ate-drank-kissed-and-took-selfies-in-paris",
+          "title": "Everywhere Emily Ate, Drank, Kissed and Took Selfies in Paris",
+          "publisher": "Netflix Tudum"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不指定未经核实的原座位；人物在剧中的历史说法需另行验证，不能作为历史证据。"
+    },
+    {
+      "id": "time--royal-mindy",
+      "poi_id": "palais-royal",
+      "title": "巴黎第一位朋友，出现在午休时间",
+      "hook": "工作碰壁之后，花园里的长椅让她有了一个同盟。",
+      "body": "艾米莉第一季来到皇家宫殿花园吃午饭，在这里认识明迪。与办公楼里需要不断解释自己的处境相比，花园允许两个陌生人先坐下说话。剧集把友谊的起点放在工作地点旁边，给此后许多独立于爱情线的分享留出入口。今天可以沿喷泉与长椅走一小段，看花园怎样把周围建筑的正式感放松下来；不必找一把“保证原位”的椅子，也不用替自己的旅行安排一场偶遇。只需记住，剧里的巴黎不只有约会餐厅，也有一个人找到朋友时所需要的公共空间。",
+      "person_names": [
+        "艾米莉·库珀（虚构角色）",
+        "明迪·陈（虚构角色）"
+      ],
+      "work_names": [
+        "《艾米莉在巴黎》"
+      ],
+      "when": "第一季第一集",
+      "why_here": "两人在皇家宫殿花园的午休场景相识。",
+      "detail": "取景在花园区域；附近布伦柱是另一可识别的画面线索。",
+      "observable_cue": "喷泉、长椅、成排树木与花园拱廊",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/eng/article/see-the-paris-of-emily-in-paris-a1097",
+          "title": "See the Paris of Emily in Paris",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://www.netflix.com/tudum/articles/everywhere-emily-ate-drank-kissed-and-took-selfies-in-paris",
+          "title": "Everywhere Emily Ate, Drank, Kissed and Took Selfies in Paris",
+          "publisher": "Netflix Tudum"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不保证可锁定或使用剧中原长椅；对空间与友谊的解读属于编辑叙事。"
+    },
+    {
+      "id": "time--valois-office",
+      "poi_id": "place-de-valois",
+      "title": "Savoir的办公室，其实是一个外景地址",
+      "hook": "工作日故事从6号门口开始，门后并没有可参观的虚构公司。",
+      "body": "艾米莉工作的营销公司Savoir，在第一季借用了瓦卢瓦广场6号的外立面。办公室剧情与午餐、下班聚会看起来顺手相连，真实广场也确实靠近皇家宫殿花园。站在这里会发现，连续剧不需要一栋独立的摩天楼来表现职业生活：一扇门、几个同事进出的镜头，就足以让观众建立“上班”的感觉。再看广场旁的露台和通道，可以想象她如何把工作里的尴尬带进下班后的谈话。这个地址属于拍摄地理，Savoir属于剧本，两者叠在一起才形成了我们熟悉的办公室。",
+      "person_names": [
+        "艾米莉·库珀（虚构角色）",
+        "西尔维（虚构角色）"
+      ],
+      "work_names": [
+        "《艾米莉在巴黎》"
+      ],
+      "when": "第一季起的Savoir外景",
+      "why_here": "6 place de Valois被用于虚构营销公司办公室外景。",
+      "detail": "真实建筑与虚构机构应在介绍中分开。",
+      "observable_cue": "6号门牌、广场围合与邻近露台",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/eng/article/see-the-paris-of-emily-in-paris-a1097",
+          "title": "See the Paris of Emily in Paris",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://www.netflix.com/tudum/articles/everywhere-emily-ate-drank-kissed-and-took-selfies-in-paris",
+          "title": "Everywhere Emily Ate, Drank, Kissed and Took Selfies in Paris",
+          "publisher": "Netflix Tudum"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "只看公共空间外观；不声称所有办公内景均在此拍摄，也不将Savoir当成真实公司。"
+    },
+    {
+      "id": "time--garnier-choice",
+      "poi_id": "palais-garnier",
+      "title": "穿好礼服，不代表要忍完一场约会",
+      "hook": "她来赴一场芭蕾之约，也在门外换了自己的决定。",
+      "body": "第一季第六集，艾米莉盛装来到加尼叶歌剧院，准备观看《天鹅湖》，却在开演前结束与托马的约会。这一晚还让她与时装设计师皮埃尔·卡多有了新的交集。歌剧院在剧中不只是奢华风景，它给人物设置了一个需要表态的门槛：进入这种场合，是否就必须接受同行者的趣味判断？站在入口外看台阶与立面，可以先读完这一小段选择，再决定自己是否另购票参观建筑。今天的节目与第一季故事不同，但谁陪你进入一座剧院，仍会改变那个夜晚。",
+      "person_names": [
+        "艾米莉·库珀（虚构角色）",
+        "托马（虚构角色）",
+        "皮埃尔·卡多（虚构角色）"
+      ],
+      "work_names": [
+        "《艾米莉在巴黎》",
+        "《天鹅湖》"
+      ],
+      "when": "第一季第六集",
+      "why_here": "Netflix确认歌剧院台阶场景及开演前的约会转折。",
+      "detail": "第一季这段故事涉及《天鹅湖》，不代表当前上演节目。",
+      "observable_cue": "入口台阶、歌剧院立面与售票参观入口",
+      "source_urls": [
+        {
+          "url": "https://www.netflix.com/tudum/articles/everywhere-emily-ate-drank-kissed-and-took-selfies-in-paris",
+          "title": "Everywhere Emily Ate, Drank, Kissed and Took Selfies in Paris",
+          "publisher": "Netflix Tudum"
+        },
+        {
+          "url": "https://www.operadeparis.fr/en/season-25-26/talks/le-palais-garnier-dans-les-arts",
+          "title": "The Palais Garnier in the arts",
+          "publisher": "Opéra national de Paris"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "入内须遵守演出或参观票条件；不把现在购票说成能观看剧中同一场演出。"
+    },
+    {
+      "id": "time--alexandre-advert",
+      "poi_id": "pont-alexandre-iii",
+      "title": "一支香水广告，把分歧拍到了桥上",
+      "hook": "同一个漂亮画面，并不保证每个人会读出同一种意思。",
+      "body": "第一季第三集，香水品牌在亚历山大三世桥拍广告，艾米莉与同事、客户对画面表达产生分歧。剧集选择了一座本就极善于制造华丽印象的桥：宽阔视线、雕像和装饰灯柱，让一个广告团队在巴黎工作这件事立刻可见。到现场可以先看桥怎样组织视线，再回想艾米莉面对的职业问题——熟悉的美感能否直接带去另一种受众与语境？这段讨论属于虚构项目，却给打卡多添一层内容：拍出漂亮照片是一个决定，决定照片向谁说话则是另一个。",
+      "person_names": [
+        "艾米莉·库珀（虚构角色）",
+        "西尔维（虚构角色）",
+        "安托万（虚构角色）"
+      ],
+      "work_names": [
+        "《艾米莉在巴黎》"
+      ],
+      "when": "第一季第三集",
+      "why_here": "剧中Maison Lavaux香水广告在桥上拍摄。",
+      "detail": "De l’Heure与Maison Lavaux在此处为剧中广告叙事。",
+      "observable_cue": "金色雕塑、装饰灯柱和桥面开阔视线",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/eng/article/see-the-paris-of-emily-in-paris-a1097",
+          "title": "See the Paris of Emily in Paris",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://www.netflix.com/tudum/articles/everywhere-emily-ate-drank-kissed-and-took-selfies-in-paris",
+          "title": "Everywhere Emily Ate, Drank, Kissed and Took Selfies in Paris",
+          "publisher": "Netflix Tudum"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "广告项目和争论属于剧情；公共桥面不能占道复刻拍摄，具体机位未现场核验。"
+    },
+    {
+      "id": "bee--two-mills",
+      "poi_id": "cafe-des-deux-moulins",
+      "title": "艾美丽的宇宙，先是一家上班的咖啡馆",
+      "hook": "不是Emily Cooper；这里的女主角叫Amélie Poulain。",
+      "body": "2001年的《天使爱美丽》中，奥黛丽·塔图饰演的艾美丽在双风车咖啡馆当服务生。店里的同事和常客构成她每天接触的小世界，改变别人人生的冲动也是从这种近距离观察长出来的。影片又用敲开焦糖布丁糖壳一类小小感官快乐介绍她，让一个人物先拥有触觉，再拥有冒险。今天店里保留电影关联，但早年的烟草柜台已不再原样存在。站在勒皮克街看招牌，或坐下点一份自己想吃的东西，都比寻找一套完全冻结的电影布景更接近这位女主角对日常细节的兴趣。",
+      "person_names": [
+        "艾美丽·普兰（虚构角色）",
+        "奥黛丽·塔图"
+      ],
+      "work_names": [
+        "《天使爱美丽》"
+      ],
+      "when": "2001年电影",
+      "why_here": "咖啡馆是女主角工作的主要取景地。",
+      "detail": "Amélie Poulain与《艾米莉在巴黎》的Emily Cooper是两部作品中的不同角色。",
+      "observable_cue": "Café des Deux Moulins招牌；入内消费时可看电影纪念元素",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/article/le-montmartre-d-amelie-poulain-a480",
+          "title": "Le Montmartre d’Amélie Poulain",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://www.france.fr/it/articolo/amelie-poulain-filippo-ii-dorleans-e-la-creme-brulee/",
+          "title": "Amélie Poulain e la crème brûlée",
+          "publisher": "France.fr / Atout France"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "烟草柜台等布景已变化；焦糖布丁是角色偏好，不声称某份甜点保存了电影配方。"
+    },
+    {
+      "id": "bee--studio-audience",
+      "poi_id": "studio-28",
+      "title": "她的蒙马特，还有一间电影院",
+      "hook": "银幕之外，观众的脸也是故事的一部分。",
+      "body": "影片介绍艾美丽的习惯时，把她带进蒙马特的Studio 28电影院。剧照对照资料将这处影院认出来，也指出片中出现了特吕弗《祖与占》的画面。一个电影人物坐下看另一部电影，城市便多了一层套叠：你来寻找她曾看过的银幕，而现实中的观众又正在买票看今天的节目。到门口先读一眼排片表，会发现这间影院并没有停留在2001年。若时间合适，选一场自己真想看的电影；旅行里最接近艾美丽的动作，也许是暂时忘记行程，看一群陌生人安静地朝同一个方向。",
+      "person_names": [
+        "艾美丽·普兰（虚构角色）",
+        "弗朗索瓦·特吕弗"
+      ],
+      "work_names": [
+        "《天使爱美丽》",
+        "《祖与占》"
+      ],
+      "when": "2001年电影中的影院段落",
+      "why_here": "剧照资料将角色去电影院的场景定位于Studio 28。",
+      "detail": "真实影院仍有自己的节目，不能把它仅视作影片展品。",
+      "observable_cue": "Studio 28门面、影院灯箱与当日节目表",
+      "source_urls": [
+        {
+          "url": "https://www.reelstreets.com/films/amelie/",
+          "title": "Amélie：剧照与实景逐场对照",
+          "publisher": "Reelstreets"
+        },
+        {
+          "url": "https://www.cinema-studio28.fr/",
+          "title": "Studio 28 — programme officiel",
+          "publisher": "Studio 28"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "取景与片中片据剧照研究资料；是否有电影主题活动以影院当前节目为准。"
+    },
+    {
+      "id": "bee--collignon-box",
+      "poi_id": "maison-collignon",
+      "title": "一个铁盒，让她开始打听邻居的过去",
+      "hook": "寻找失主的第一步，发生在日常买菜的地方。",
+      "body": "艾美丽在公寓里发现装满童年物件的铁盒后，去问杂货店老板科利尼翁是否知道以前的住户。影片让一桩小小调查从水果、柜台和熟面孔之间起步，街区不再只是供她经过的风景，而成为储存别人记忆的关系网。现实店铺位于三兄弟街56号，后来也使用了电影带来的Maison Collignon名称。今天看店招时，可以想一想：一个虚构名字怎样反过来改变真实商店被认识的方式？店里正在工作的仍是真实经营者，电影中的刻薄老板与助手都应留在银幕里。",
+      "person_names": [
+        "艾美丽·普兰（虚构角色）",
+        "科利尼翁（虚构角色）"
+      ],
+      "work_names": [
+        "《天使爱美丽》"
+      ],
+      "when": "2001年电影铁盒调查段落",
+      "why_here": "寻找旧住户的问询场景在三兄弟街杂货店拍摄。",
+      "detail": "现实商店后来采用电影里的Maison Collignon名号。",
+      "observable_cue": "转角店招、杂货陈列与56号门牌",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/article/le-montmartre-d-amelie-poulain-a480",
+          "title": "Le Montmartre d’Amélie Poulain",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://www.reelstreets.com/films/amelie/",
+          "title": "Amélie：剧照与实景逐场对照",
+          "publisher": "Reelstreets"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "角色性格不等于现实经营者；店内商品与陈列会变化，不能当成原始布景保证。"
+    },
+    {
+      "id": "bee--sacre-arrows",
+      "poi_id": "sacre-coeur",
+      "title": "一条箭头路线，把尼诺带上山",
+      "hook": "她擅长设计相遇，却暂时躲在相遇之外。",
+      "body": "圣心堂下方的花园与旋转木马一带，成为艾美丽给尼诺设计追寻游戏的场地。电影用电话、箭头和高低错落的台阶组织这次见面：他按线索移动，她仍保留距离。站在草坡与楼梯之间看，便能明白蒙马特的地形为什么适合这场戏——同一处地方可以有人往上跑、有人从另一边看，接近与错过都能被拍出来。今天的路线不用寻找地上残留的箭头，那是电影布置；找一处不挡路的位置，观察上山的人如何短暂消失在树木与台阶后，已经足够读懂场景的玩法。",
+      "person_names": [
+        "艾美丽·普兰（虚构角色）",
+        "尼诺·坎坎普瓦（虚构角色）"
+      ],
+      "work_names": [
+        "《天使爱美丽》"
+      ],
+      "when": "2001年电影的圣心堂追寻段落",
+      "why_here": "取景关联主要在圣心堂下方花园、旋转木马与台阶区域。",
+      "detail": "原资料称square Willette，现称square Louise-Michel；不是教堂内部场景承诺。",
+      "observable_cue": "圣心堂下方草坡、阶梯、旋转木马一带",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/article/le-montmartre-d-amelie-poulain-a480",
+          "title": "Le Montmartre d’Amélie Poulain",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://www.reelstreets.com/films/amelie/",
+          "title": "Amélie：剧照与实景逐场对照",
+          "publisher": "Reelstreets"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "电话亭与箭头属于当时布景，不保证仍在；这里使用圣心堂POI定位周边场景，不将宗教建筑内景混入。"
+    },
+    {
+      "id": "bee--saint-vincent-opening",
+      "poi_id": "rue-saint-vincent",
+      "title": "电影先看见了一只苍蝇",
+      "hook": "在宣布一个人生之前，镜头先停在小得不能再小的事件上。",
+      "body": "《天使爱美丽》开头把圣樊尚街与一只落下的苍蝇联系起来，先用微不足道的细节建立叙述的尺度。后来我们才认识那个同样容易注意到别人忽略之物的女主角。来到葡萄园旁的街道，不需要重现片中精确到秒的旁白，也不必给某块石头贴上取景认证；官方旅游路线确认这条街与电影的联系，剧照研究则提供了开场线索。可以把手机收起一分钟，找一个平时不会拍的东西：墙缝、叶影或风吹动的招牌。这个小动作是今天的观看练习，不是为电影补写的情节。",
+      "person_names": [
+        "艾美丽·普兰（虚构角色）",
+        "让—皮埃尔·热内"
+      ],
+      "work_names": [
+        "《天使爱美丽》"
+      ],
+      "when": "2001年电影开场；片中叙述时间另属虚构故事",
+      "why_here": "圣樊尚街是影片开场及官方主题路线确认的关联街道。",
+      "detail": "只保留开场苍蝇落地这一可核实细节，不照录旁白日期与确切台词。",
+      "observable_cue": "葡萄园边的石墙、街牌与坡道路面",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/article/le-montmartre-d-amelie-poulain-a480",
+          "title": "Le Montmartre d’Amélie Poulain",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://www.reelstreets.com/films/amelie/",
+          "title": "Amélie：剧照与实景逐场对照",
+          "publisher": "Reelstreets"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "未核验开场精确机位；细小景物观察属于编辑建议，不能把现实偶见细节写成影片原物。"
+    },
+    {
+      "id": "bee--lamarck-description",
+      "poi_id": "lamarck-caulaincourt",
+      "title": "她把街景说给一个看不见的人听",
+      "hook": "一个很短的帮助，把整个街区变成了声音。",
+      "body": "电影里，艾美丽牵着一位盲人经过热闹街道，把路上看见的商铺与人物快速描述给他听，最后将他留在拉马克—科兰古站口。那段从勒皮克街到地铁口的银幕连续感，实际借助了剪辑；官方旅游局也提醒，影片对蒙马特地理作过改动。来到双侧阶梯夹着的入口前，可以换一种读法：不用背出她讲过的句子，而是留意自己会怎样向同行者描述此刻所见。故事动人的地方有一个非常具体的动作——她暂时把自己的注意力借给了另一个人，让熟悉街道重新被感知。",
+      "person_names": [
+        "艾美丽·普兰（虚构角色）"
+      ],
+      "work_names": [
+        "《天使爱美丽》"
+      ],
+      "when": "2001年电影的引导盲人段落",
+      "why_here": "Lamarck–Caulaincourt站口是这段街景描述结束的位置。",
+      "detail": "勒皮克街与该站口不是影片所暗示的一小段直线距离。",
+      "observable_cue": "地铁入口、METRO标识与两侧向上台阶",
+      "source_urls": [
+        {
+          "url": "https://parisjetaime.com/article/le-montmartre-d-amelie-poulain-a480",
+          "title": "Le Montmartre d’Amélie Poulain",
+          "publisher": "Paris je t’aime · 巴黎旅游局"
+        },
+        {
+          "url": "https://www.reelstreets.com/films/amelie/",
+          "title": "Amélie：剧照与实景逐场对照",
+          "publisher": "Reelstreets"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不同街段由剪辑相连；不把片中地铁内景全部归到这座站，台阶上不妨碍乘客通行。"
+    },
+    {
+      "id": "bee--canal-small-pleasure",
+      "poi_id": "canal-saint-martin-amelie",
+      "title": "最后，把快乐缩到一圈水纹",
+      "hook": "她喜欢打水漂；你可以只看河水慢慢变化。",
+      "body": "影片介绍艾美丽时，把在圣马丁运河打水漂列为她喜欢的小事之一。这个偏好与敲碎焦糖布丁表面一样，讲的是短暂、可感知、不需要向谁证明的快乐。它不在蒙马特，所以本线把运河留作可以单独读的尾声；不要让一个看似轻快的电影剪辑变成赶路任务。来到河岸，看船行后留下的波纹、桥的倒影或水面光线，就能接住这段故事。今天的航道与公共空间有自己的使用者，我们不照搬投石动作，只把女主角那种愿意为细小变化停一下的注意力带过来。",
+      "person_names": [
+        "艾美丽·普兰（虚构角色）"
+      ],
+      "work_names": [
+        "《天使爱美丽》"
+      ],
+      "when": "2001年电影的人物介绍段落",
+      "why_here": "圣马丁运河是角色打水漂片段的取景地。",
+      "detail": "本站作为跨区可选尾声，不纳入蒙马特连走时长。",
+      "observable_cue": "运河南端公共河岸、水面、桥影与护栏",
+      "source_urls": [
+        {
+          "url": "https://www.france.fr/it/articolo/amelie-poulain-filippo-ii-dorleans-e-la-creme-brulee/",
+          "title": "Amélie Poulain e la crème brûlée",
+          "publisher": "France.fr / Atout France"
+        },
+        {
+          "url": "https://www.reelstreets.com/films/amelie/",
+          "title": "Amélie：剧照与实景逐场对照",
+          "publisher": "Reelstreets"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "地图点为河岸区域，不保证精确脚印位置；不要向航道扔石块或跨越护栏。"
+    }
+  ],
+  "routes": [
+    {
+      "persona_id": "DODO",
+      "title": "蒙马特的画家们",
+      "opening": "先别找一个抽象的“艺术家巴黎”。这六站各有一件具体的事：接广告、借住弟弟家、在工作室试画、记录舞会、经营自己的创作生活、替酒馆老板作画。山坡上的门牌会把名画重新接回日常。",
+      "closing": "从红磨坊的商业海报到狡兔酒馆的一幅委托，画家的巴黎既有试验，也有房租、饭食和同伴。挑一位你愿意继续认识的人，再去收藏他或她作品的博物馆。",
+      "stops": [
+        {
+          "poi_id": "moulin-rouge",
+          "story_id": "dodo--lautrec-poster",
+          "phase": "山脚 · 广告与生计",
+          "transition": "从Blanche一带开始，沿勒皮克街上坡去看凡高兄弟旧居。"
+        },
+        {
+          "poi_id": "van-gogh-rue-lepic",
+          "story_id": "dodo--van-gogh-window",
+          "phase": "上坡 · 借来的房间",
+          "transition": "可绕到埃米尔—古多广场读毕加索，也可先去更近的煎饼磨坊。"
+        },
+        {
+          "poi_id": "bateau-lavoir",
+          "story_id": "dodo--picasso-workshop",
+          "phase": "工作室 · 未被承认的实验",
+          "transition": "沿山坡前往勒皮克街与吉拉尔东街一带；台阶可用绕行缓坡替代。"
+        },
+        {
+          "poi_id": "moulin-de-la-galette",
+          "story_id": "dodo--renoir-dance",
+          "phase": "舞场 · 人群成为题材",
+          "transition": "再往科尔托街，下一站把目光交给瓦拉东自己的工作。"
+        },
+        {
+          "poi_id": "musee-montmartre",
+          "story_id": "dodo--valadon-studio",
+          "phase": "房间 · 女性画家的位置",
+          "transition": "购票参观可独立增加约一小时；随后下到索勒街看狡兔外观。"
+        },
+        {
+          "poi_id": "au-lapin-agile",
+          "story_id": "dodo--lapin-picasso",
+          "phase": "酒馆 · 一幅画的交换",
+          "transition": "白天在外观读完即可；晚间演出是可另行安排的体验。"
+        }
+      ],
+      "duration_hint": "外观故事约2—3小时；进蒙马特博物馆另留约1小时。均为规划估时。",
+      "walking_note": "蒙马特同一区域，可选择3—4站，不必强制顺序。坡道与台阶较多；未做无障碍入口勘察。"
+    },
+    {
+      "persona_id": "GOAT",
+      "title": "《爱在日落黄昏时》的那个下午",
+      "opening": "从书店里的重逢到公寓里的歌，一下午被两个人一再延长。这里按电影的情绪顺序读七章，同时把剪辑替他们省略的交通补回来：左岸、玛黑区、东巴黎与塞纳河岸之间，真实距离并不短。",
+      "closing": "故事在私人住宅的门外收束。可以重看结尾，也可以只留下书店、咖啡馆或绿道中的一章：你来巴黎，不必替电影证明两个人真的在八十分钟里走遍全城。",
+      "stops": [
+        {
+          "poi_id": "shakespeare-bucherie",
+          "story_id": "goat--bookshop-reunion",
+          "phase": "第一章 · 重逢",
+          "transition": "可先读左岸章节；若按剧情继续，跨河到玛黑区，实际路程与银幕剪辑不同。"
+        },
+        {
+          "poi_id": "rue-des-jardins-saint-paul",
+          "story_id": "goat--marais-cut",
+          "phase": "第一章 · 重新认识",
+          "transition": "下一站在11区。建议查当日公交或地铁去Charonne附近，别把剪辑当成隔壁转角。"
+        },
+        {
+          "poi_id": "le-pure-cafe",
+          "story_id": "goat--pure-new-york",
+          "phase": "第二章 · 如果当年",
+          "transition": "咖啡馆与高架步道可合成东巴黎半日章；步行衔接仍需留出时间。"
+        },
+        {
+          "poi_id": "coulee-verte-rene-dumont",
+          "story_id": "goat--promenade-height",
+          "phase": "第二章 · 并肩",
+          "transition": "下一站折返圣母院附近。推荐搭车，也可在这里结束东巴黎章。"
+        },
+        {
+          "poi_id": "quai-de-la-tournelle",
+          "story_id": "goat--boat-departure",
+          "phase": "第三章 · 再延长一点",
+          "transition": "现实中沿公共步道与桥梁前往亨利四世河岸；不按电影寻找临时登船服务。"
+        },
+        {
+          "poi_id": "quai-henri-iv",
+          "story_id": "goat--henri-delay",
+          "phase": "第三章 · 告别的借口",
+          "transition": "最后再往巴士底一侧的圣安托万郊区街，步行或搭车均另计时间。"
+        },
+        {
+          "poi_id": "cour-etoile-or",
+          "story_id": "goat--courtyard-ending",
+          "phase": "尾声 · 把时间留下",
+          "transition": "在私人庭院入口外结束；不要跟随住户进门。"
+        }
+      ],
+      "duration_hint": "全线预留半天至一天，约5—7小时为含停留与交通的规划估时；也可任选1—3章。",
+      "walking_note": "这是一条跨区电影章节线，不是轻松连续步行。若强行按剧情顺序全走，属约10公里量级并有折返；地图折线不是导航或实测轨迹。搭车时间按出发当日查询，游船不计为必选。"
+    },
+    {
+      "persona_id": "TIME",
+      "title": "Emily in Paris：把镜头里的生活串起来",
+      "opening": "这是艾米莉·库珀的巴黎，主线取自《艾米莉在巴黎》第一季。从住处和晨跑，到午休交友、办公室与广告拍摄，八站各自对应一件发生过的剧情；人物是虚构的，街道是你可以走到的。",
+      "closing": "拍完桥上的照片，也可以想想这一天里哪一种生活最值得带走：一个能重复的早晨、一位可以午休聊天的朋友，或一次替自己作出的决定。",
+      "stops": [
+        {
+          "poi_id": "place-de-lestrapade",
+          "story_id": "time--estrapade-neighbours",
+          "phase": "上午 · 邻里",
+          "transition": "从广场向先贤祠走，住宅外观停留保持安静。"
+        },
+        {
+          "poi_id": "pantheon",
+          "story_id": "time--pantheon-call",
+          "phase": "上午 · 一通电话",
+          "transition": "转往卢森堡公园，园门开放时再进入。"
+        },
+        {
+          "poi_id": "jardin-du-luxembourg",
+          "story_id": "time--luxembourg-jog",
+          "phase": "上午 · 新的日常",
+          "transition": "沿左岸去圣日耳曼德佩；可在花神外观读故事或自行点餐。"
+        },
+        {
+          "poi_id": "cafe-de-flore",
+          "story_id": "time--flore-thomas",
+          "phase": "午间 · 咖啡馆相遇",
+          "transition": "从左岸过河到皇家宫殿，路程较长；累了可直接搭车。"
+        },
+        {
+          "poi_id": "palais-royal",
+          "story_id": "time--royal-mindy",
+          "phase": "下午 · 第一个朋友",
+          "transition": "花园和瓦卢瓦广场相邻，下一站走到办公楼外观即可。"
+        },
+        {
+          "poi_id": "place-de-valois",
+          "story_id": "time--valois-office",
+          "phase": "下午 · 上班的门口",
+          "transition": "往歌剧院方向移动；这一段按真实地理排，不是剧集播放顺序。"
+        },
+        {
+          "poi_id": "palais-garnier",
+          "story_id": "time--garnier-choice",
+          "phase": "傍晚 · 替自己选择",
+          "transition": "最后转向塞纳河的亚历山大三世桥，建议按体力步行或搭车。"
+        },
+        {
+          "poi_id": "pont-alexandre-iii",
+          "story_id": "time--alexandre-advert",
+          "phase": "收尾 · 谁在看广告",
+          "transition": "在公共人行道完成最后一章，想停留就把晚餐另行安排。"
+        }
+      ],
+      "duration_hint": "外观与故事约半天，建议预留4—6小时；进店、歌剧院参观另计。规划估时。",
+      "walking_note": "按真实地理串联左岸与右岸，跨区路段可搭车；不宣称是剧中一天的连续动线。自由选择上午左岸四站或下午右岸四站，地图折线仅为章节关系。"
+    },
+    {
+      "persona_id": "BEE",
+      "title": "《天使爱美丽》：蒙马特的小小善意",
+      "opening": "这条线讲Amélie Poulain——《天使爱美丽》的艾美丽，不是Emily in Paris。铁盒、电影院、杂货店和地铁口，把蒙马特连成一个充满细小善意的故事。六站留在山坡，运河是可以另日阅读的尾声。",
+      "closing": "不必把七站全部打卡。看完一场电影、认真给同行者描述一条街，或者安静看一会儿水面，都能让这次散步带走一点属于你自己的细节。",
+      "stops": [
+        {
+          "poi_id": "cafe-des-deux-moulins",
+          "story_id": "bee--two-mills",
+          "phase": "上班的街区",
+          "transition": "从咖啡馆向Tholozé街上坡，去影院门口看看今天放什么。"
+        },
+        {
+          "poi_id": "studio-28",
+          "story_id": "bee--studio-audience",
+          "phase": "银幕与观众",
+          "transition": "再向三兄弟街的杂货店走；想看电影可以在这里暂停整条路线。"
+        },
+        {
+          "poi_id": "maison-collignon",
+          "story_id": "bee--collignon-box",
+          "phase": "铁盒与邻居",
+          "transition": "往圣心堂下方花园方向上坡；可以走台阶，也可另选缆车。"
+        },
+        {
+          "poi_id": "sacre-coeur",
+          "story_id": "bee--sacre-arrows",
+          "phase": "追寻游戏",
+          "transition": "从山顶街区绕到圣樊尚街，进入葡萄园旁较安静的街段。"
+        },
+        {
+          "poi_id": "rue-saint-vincent",
+          "story_id": "bee--saint-vincent-opening",
+          "phase": "把镜头缩小",
+          "transition": "顺坡往Lamarck–Caulaincourt站口走，注意长台阶。"
+        },
+        {
+          "poi_id": "lamarck-caulaincourt",
+          "story_id": "bee--lamarck-description",
+          "phase": "把街景说给别人",
+          "transition": "蒙马特主线可在这里结束。运河尾声不相邻，另查公共交通前往République或Jacques Bonsergent一带。"
+        },
+        {
+          "poi_id": "canal-saint-martin-amelie",
+          "story_id": "bee--canal-small-pleasure",
+          "phase": "可选尾声 · 水纹",
+          "transition": "在公共河岸停留即可，不需要投石重演。"
+        }
+      ],
+      "duration_hint": "蒙马特六站约2.5—3.5小时；运河尾声另留交通及停留约1—1.5小时。规划估时，电影放映另计。",
+      "walking_note": "蒙马特部分可自由选站，坡道与台阶多；运河在另一片区，单独搭车或另日阅读。不是15分钟路线，也不把剪辑后的银幕地理当成导航。"
+    }
+  ]
+}

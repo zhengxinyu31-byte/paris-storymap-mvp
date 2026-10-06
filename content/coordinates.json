@@ -1,0 +1,560 @@
+{
+  "galerie-vero-dodat": {
+    "lat": 48.862715,
+    "lon": 2.340788,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "19 Rue Jean-Jacques Rousseau 75001 Paris",
+    "score": 0.9661381818181817
+  },
+  "librairie-galignani": {
+    "lat": 48.865027,
+    "lon": 2.328603,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "224 Rue de Rivoli 75001 Paris",
+    "score": 0.970430909090909
+  },
+  "hotel-le-meurice-dali": {
+    "lat": 48.865194,
+    "lon": 2.328101,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "228 Rue de Rivoli 75001 Paris",
+    "score": 0.970430909090909
+  },
+  "musee-cognacq-jay": {
+    "lat": 48.858202,
+    "lon": 2.361468,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "8 Rue Elzévir 75003 Paris",
+    "score": 0.9657209090909089
+  },
+  "maison-deyrolle": {
+    "lat": 48.856469,
+    "lon": 2.326394,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "46 Rue du Bac 75007 Paris",
+    "score": 0.9754572727272726
+  },
+  "musee-jacquemart-andre": {
+    "lat": 48.875265,
+    "lon": 2.310873,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "158 Boulevard Haussmann 75008 Paris",
+    "score": 0.9738236363636363
+  },
+  "piscine-pontoise": {
+    "lat": 48.848969,
+    "lon": 2.351425,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "19 Rue de Pontoise 75005 Paris",
+    "score": 0.9690381818181817
+  },
+  "institut-du-monde-arabe": {
+    "lat": 48.849172,
+    "lon": 2.356212,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "1 Rue des Fossés Saint-Bernard 75005 Paris",
+    "score": 0.9708290909090908
+  },
+  "bouquinistes-quais-de-seine": {
+    "lat": 48.850483,
+    "lon": 2.352819,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Quai de la Tournelle 75005 Paris",
+    "score": 0.9703845454545453
+  },
+  "canal-saint-martin-cruise": {
+    "lat": 48.8508544,
+    "lon": 2.3681264,
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/2448402214",
+    "status": "osm_reference_point",
+    "checked_at": "2026-10-06"
+  },
+  "musee-chasse-nature": {
+    "lat": 48.861498,
+    "lon": 2.358616,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "62 Rue des Archives 75003 Paris",
+    "score": 0.968871818181818
+  },
+  "galeries-lafayette-rooftop": {
+    "lat": 48.873199,
+    "lon": 2.332434,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "40 Boulevard Haussmann 75009 Paris",
+    "score": 0.9732063636363636
+  },
+  "bouillon-chartier-grands-boulevards": {
+    "lat": 48.871924,
+    "lon": 2.34304,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "7 Rue du Faubourg Montmartre 75009 Paris",
+    "score": 0.9734590909090909
+  },
+  "la-tour-dargent": {
+    "lat": 48.849848,
+    "lon": 2.354961,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "17 Quai de la Tournelle 75005 Paris",
+    "score": 0.8131363882063882
+  },
+  "le-grand-vefour": {
+    "lat": 48.866208,
+    "lon": 2.338015,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "17 Rue de Beaujolais 75001 Paris",
+    "score": 0.962471818181818
+  },
+  "maxims": {
+    "lat": 48.867306,
+    "lon": 2.322239,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "3 Rue Royale 75008 Paris",
+    "score": 0.9666790909090909
+  },
+  "le-train-bleu": {
+    "lat": 48.845045,
+    "lon": 2.372737,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Place Louis Armand 75012 Paris",
+    "score": 0.9673454545454544
+  },
+  "harrys-new-york-bar": {
+    "lat": 48.869253,
+    "lon": 2.332102,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "5 Rue Daunou 75002 Paris",
+    "score": 0.9643845454545454
+  },
+  "cafe-de-la-paix": {
+    "lat": 48.87094,
+    "lon": 2.33174,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "5 Place de l'Opéra 75009 Paris",
+    "score": 0.9620399999999999
+  },
+  "marche-des-enfants-rouges": {
+    "lat": 48.862954,
+    "lon": 2.362155,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "39 Rue de Bretagne 75003 Paris",
+    "score": 0.9693218181818182
+  },
+  "rosa-bonheur-sur-seine": {
+    "lat": 48.863221,
+    "lon": 2.31612,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "2 Port des Invalides 75007 Paris",
+    "score": 0.963560909090909
+  },
+  "guinguette-ile-du-martin-pecheur": {
+    "lat": 48.811144,
+    "lon": 2.504602,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "41 Quai Victor Hugo 94500 Champigny-sur-Marne",
+    "score": 0.613897972027972
+  },
+  "maison-fournaise": {
+    "lat": 48.885942,
+    "lon": 2.161562,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Ile des Impressionnistes 78400 Chatou",
+    "score": 0.651913172541744
+  },
+  "la-recyclerie": {
+    "lat": 48.897647,
+    "lon": 2.344183,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "83 Boulevard Ornano 75018 Paris",
+    "score": 0.979581818181818
+  },
+  "le-perchoir-menilmontant": {
+    "lat": 48.86544,
+    "lon": 2.382024,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "14 Rue Camille Crespin-du Gast 75011 Paris",
+    "score": 0.7213938580931264
+  },
+  "coulee-verte-rene-dumont": {
+    "lat": 48.849297,
+    "lon": 2.371611,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "1 Avenue Daumesnil 75012 Paris",
+    "score": 0.9844154545454544
+  },
+  "petite-ceinture-12e": {
+    "lat": 48.838493,
+    "lon": 2.406549,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "21 Rue Rottembourg 75012 Paris",
+    "score": 0.9750945454545454
+  },
+  "bois-de-charonne-pc20": {
+    "lat": 48.847552,
+    "lon": 2.409665,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "103 Cours de Vincennes 75020 Paris",
+    "score": 0.9771
+  },
+  "pc20-couronnes": {
+    "lat": 48.870505,
+    "lon": 2.385752,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Rue des Couronnes 75020 Paris",
+    "score": 0.9808354545454544
+  },
+  "parc-de-belleville": {
+    "lat": 48.870321,
+    "lon": 2.384951,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "47 Rue des Couronnes 75020 Paris",
+    "score": 0.9808354545454544
+  },
+  "butte-bergeyre": {
+    "lat": 48.877213,
+    "lon": 2.375759,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "78 Rue Georges Lardennois 75019 Paris",
+    "score": 0.8249656643356643
+  },
+  "parc-des-buttes-chaumont": {
+    "lat": 48.882754,
+    "lon": 2.376876,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Rue Armand Carrel 75019 Paris",
+    "score": 0.7348345454545455
+  },
+  "rotonde-bassin-de-la-villette": {
+    "lat": 48.883317,
+    "lon": 2.369479,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "6 Place de la Bataille de Stalingrad 75019 Paris",
+    "score": 0.9679127272727273
+  },
+  "grande-mosquee-de-paris": {
+    "lat": 48.841782,
+    "lon": 2.355641,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "39 Rue Geoffroy-Saint-Hilaire 75005 Paris",
+    "score": 0.9720290909090908
+  },
+  "jardin-des-plantes": {
+    "lat": 48.844345,
+    "lon": 2.356233,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "57 Rue Cuvier 75005 Paris",
+    "score": 0.9677827272727273
+  },
+  "villa-leandre": {
+    "lat": 48.888295,
+    "lon": 2.33546,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "23 Avenue Junot 75018 Paris",
+    "score": 0.9767754545454546
+  },
+  "mur-des-je-taime": {
+    "lat": 48.884646,
+    "lon": 2.338618,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "14 Place des Abbesses 75018 Paris",
+    "score": 0.9664945454545455
+  },
+  "invader-pa-1500-pompidou": {
+    "lat": 48.860307,
+    "lon": 2.351132,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Place Georges Pompidou 75004 Paris",
+    "score": 0.9536836363636364
+  },
+  "maison-de-nicolas-flamel": {
+    "lat": 48.863568,
+    "lon": 2.353155,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "51 Rue de Montmorency 75003 Paris",
+    "score": 0.9697318181818181
+  },
+  "rue-du-chat-qui-peche": {
+    "lat": 48.85305,
+    "lon": 2.346137,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Rue du Chat Qui Pêche 75005 Paris",
+    "score": 0.9600336363636361
+  },
+  "medaillons-arago": {
+    "lat": 48.863356,
+    "lon": 2.336069,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Place Colette 75001 Paris",
+    "score": 0.9509918181818182
+  },
+  "sentier-des-merisiers": {
+    "lat": 48.84294,
+    "lon": 2.409571,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "101 Boulevard Soult 75012 Paris",
+    "score": 0.9795399999999999
+  },
+  "rue-denoyez": {
+    "lat": 48.871704,
+    "lon": 2.378505,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Rue Dénoyez 75020 Paris",
+    "score": 0.9743745454545454
+  },
+  "statue-liberte-ile-aux-cygnes": {
+    "lat": 48.8500236,
+    "lon": 2.2797012,
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/465294103",
+    "status": "osm_reference_point",
+    "checked_at": "2026-10-06"
+  },
+  "van-gogh-rue-lepic": {
+    "lat": 48.886566,
+    "lon": 2.333926,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "54 Rue Lepic 75018 Paris",
+    "score": 0.9807463636363636
+  },
+  "moulin-de-la-galette": {
+    "lat": 48.887338,
+    "lon": 2.337054,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "83 Rue Lepic 75018 Paris",
+    "score": 0.9807463636363636
+  },
+  "au-lapin-agile": {
+    "lat": 48.888734,
+    "lon": 2.339989,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "22 Rue des Saules 75018 Paris",
+    "score": 0.9779381818181817
+  },
+  "le-pure-cafe": {
+    "lat": 48.85325,
+    "lon": 2.383426,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "14 Rue Jean Macé 75011 Paris",
+    "score": 0.9717372727272726
+  },
+  "quai-de-la-tournelle": {
+    "lat": 48.850483,
+    "lon": 2.352819,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Quai de la Tournelle 75005 Paris",
+    "score": 0.9703845454545453
+  },
+  "quai-henri-iv": {
+    "lat": 48.848838,
+    "lon": 2.36303,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Quai Henri IV 75004 Paris",
+    "score": 0.9661418181818181
+  },
+  "cour-etoile-or": {
+    "lat": 48.851799,
+    "lon": 2.374517,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "75 Rue du Faubourg Saint-Antoine 75011 Paris",
+    "score": 0.9809954545454543
+  },
+  "place-de-lestrapade": {
+    "lat": 48.845078,
+    "lon": 2.345077,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Place de l'Estrapade 75005 Paris",
+    "score": 0.9568827272727272
+  },
+  "place-de-valois": {
+    "lat": 48.863117,
+    "lon": 2.33823,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "6 Place de Valois 75001 Paris",
+    "score": 0.9578281818181819
+  },
+  "studio-28": {
+    "lat": 48.88615,
+    "lon": 2.335348,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "10 Rue Tholozé 75018 Paris",
+    "score": 0.9757136363636363
+  },
+  "maison-collignon": {
+    "lat": 48.885636,
+    "lon": 2.338364,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "56 Rue des Trois Frères 75018 Paris",
+    "score": 0.9783581818181818
+  },
+  "canal-saint-martin-amelie": {
+    "lat": 48.876098,
+    "lon": 2.365589,
+    "status": "geocoded_address_unverified_entrance",
+    "source": "IGN Géoplateforme / BAN",
+    "matched_label": "Quai de Valmy 75010 Paris",
+    "score": 0.976561818181818
+  },
+  "pont-alexandre-iii": {
+    "lon": 2.313554,
+    "lat": 48.863659,
+    "status": "official_landmark_point_unverified_entrance",
+    "source": "IGN BD TOPO",
+    "source_url": "https://data.geopf.fr/geocodage/search?q=Pont+Alexandre+III+Paris&index=poi&limit=3",
+    "matched_label": "Pont Alexandre III"
+  },
+  "lamarck-caulaincourt": {
+    "lon": 2.338621,
+    "lat": 48.889788,
+    "status": "official_landmark_point_unverified_entrance",
+    "source": "IGN BD TOPO",
+    "source_url": "https://data.geopf.fr/geocodage/search?q=Lamarck+Caulaincourt+Paris&index=poi&limit=3",
+    "matched_label": "Lamarck-Caulaincourt"
+  },
+  "rue-des-jardins-saint-paul": {
+    "lon": 2.360596,
+    "lat": 48.853401,
+    "status": "street_representative_point",
+    "source": "IGN BAN",
+    "source_url": "https://data.geopf.fr/geocodage/search?q=Rue+des+Jardins+Saint-Paul%2C+angle+rue+de+l%E2%80%99Ave+Maria%2C+75004+Paris&limit=1",
+    "matched_label": "Rue des Jardins Saint-Paul 75004 Paris"
+  },
+  "rue-saint-vincent": {
+    "lon": 2.340563,
+    "lat": 48.888504,
+    "status": "street_representative_point",
+    "source": "IGN BAN",
+    "source_url": "https://data.geopf.fr/geocodage/search?q=Rue+Saint-Vincent%2C+pr%C3%A8s+du+Clos+Montmartre%2C+75018+Paris&limit=1",
+    "matched_label": "Rue Saint-Vincent 75018 Paris"
+  },
+  "pere-lachaise-edith-piaf": {
+    "lat": 48.859682,
+    "lon": 2.3989101,
+    "status": "osm_tomb_reference",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/1915793634",
+    "checked_at": "2026-10-06",
+    "note": "墓位参考点；按官方分区导览与现场道路进入。"
+  },
+  "pere-lachaise-chopin": {
+    "lat": 48.8601288,
+    "lon": 2.3928181,
+    "status": "osm_tomb_reference",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/1915793639",
+    "checked_at": "2026-10-06",
+    "note": "墓位参考点；按官方分区导览与现场道路进入。"
+  },
+  "pere-lachaise-jim-morrison": {
+    "lat": 48.8592961,
+    "lon": 2.3937342,
+    "status": "osm_tomb_reference",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/1915793663",
+    "checked_at": "2026-10-06",
+    "note": "墓位参考点；按官方分区导览与现场道路进入。"
+  },
+  "pere-lachaise-oscar-wilde": {
+    "lat": 48.8618018,
+    "lon": 2.3979632,
+    "status": "osm_tomb_reference",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/1915793689",
+    "checked_at": "2026-10-06",
+    "note": "墓位参考点；按官方分区导览与现场道路进入。"
+  },
+  "pere-lachaise-stein-toklas": {
+    "lat": 48.86079,
+    "lon": 2.399375,
+    "status": "osm_tomb_reference",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/2628678445",
+    "checked_at": "2026-10-06",
+    "note": "墓位参考点；按官方分区导览与现场道路进入。"
+  },
+  "pere-lachaise-moliere": {
+    "lat": 48.8605113,
+    "lon": 2.3951452,
+    "status": "osm_tomb_reference",
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/2661217314",
+    "checked_at": "2026-10-06",
+    "note": "墓位参考点；按官方分区导览与现场道路进入。"
+  },
+  "rosa-bonheur-buttes-chaumont": {
+    "lat": 48.8799811,
+    "lon": 2.3862299,
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/635864714",
+    "status": "osm_reference_point",
+    "checked_at": "2026-10-06"
+  },
+  "fontaine-stravinsky": {
+    "lat": 48.85947158461538,
+    "lon": 2.351476184615385,
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/way/88301107",
+    "status": "osm_reference_point",
+    "checked_at": "2026-10-06"
+  },
+  "parc-de-bagatelle": {
+    "lat": 48.8706699,
+    "lon": 2.246233,
+    "source": "OpenStreetMap",
+    "source_url": "https://www.openstreetmap.org/node/669121366",
+    "status": "osm_reference_point",
+    "checked_at": "2026-10-06"
+  }
+}

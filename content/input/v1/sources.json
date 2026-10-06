@@ -1,0 +1,751 @@
+[
+  {
+    "id": "src-left-flore",
+    "url": "https://cafedeflore.fr/",
+    "title": "Café de Flore：历史与 Prix de Flore",
+    "publisher": "Café de Flore",
+    "accessed_at": "2026-10-04",
+    "supports": "阿波利奈尔与《Les Soirées de Paris》；萨特、波伏娃；1994年文学奖。经营方自述，非独立史学证明。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-sartre-bnf",
+    "url": "https://multimedia-ext.bnf.fr/pdf/Sartre3.pdf",
+    "title": "Sartre：paysage sartrien",
+    "publisher": "法国国家图书馆 BnF",
+    "accessed_at": "2026-10-04",
+    "supports": "花神取暖写作；1945年42 rue Bonaparte住所；《Les Mots》中的卢森堡公园。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-deux-history",
+    "url": "https://lesdeuxmagots.fr/notre-histoire/",
+    "title": "Histoire du Café littéraire à Paris : Les Deux Magots",
+    "publisher": "Les Deux Magots",
+    "accessed_at": "2026-10-04",
+    "supports": "1884咖啡馆、前身商店、1933格诺《Le Chiendent》获奖。经营方自述。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-deux-home",
+    "url": "https://lesdeuxmagots.fr/",
+    "title": "Les Deux Magots 官方首页",
+    "publisher": "Les Deux Magots",
+    "accessed_at": "2026-10-04",
+    "supports": "柱子上两尊塑像材质为木；地址与经营属性。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-sgp-history",
+    "url": "https://eglise-saintgermaindespres.fr/histoire-de-labbaye-2/",
+    "title": "Histoire de l’Abbaye",
+    "publisher": "Saint-Germain-des-Prés 教区",
+    "accessed_at": "2026-10-04",
+    "supports": "希尔德贝尔、558年献堂、约1000年重建、1163年新唱诗席献堂。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-sgp-guide",
+    "url": "https://eglise-saintgermaindespres.fr/wp-content/uploads/2025/03/Guide-touristique-francais.pdf",
+    "title": "Guide touristique français",
+    "publisher": "Saint-Germain-des-Prés 教区",
+    "accessed_at": "2026-10-04",
+    "supports": "Saint-Benoît小堂笛卡尔、蒙福孔、马比永纪念碑位置。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-lux-medicis",
+    "url": "https://jardin.senat.fr/histoire-patrimoine/patrimoine/la-fontaine-medicis.html",
+    "title": "La fontaine Médicis",
+    "publisher": "法国参议院",
+    "accessed_at": "2026-10-04",
+    "supports": "约1630年玛丽·德·美第奇营建；1862年移动约30米与增建长池。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-lux-statues",
+    "url": "https://jardin.senat.fr/histoire-patrimoine/patrimoine/les-statues-du-jardin/statues-pres-du-boulevard-saint-michel.html",
+    "title": "Les statues près du Boulevard Saint-Michel",
+    "publisher": "法国参议院",
+    "accessed_at": "2026-10-04",
+    "supports": "François Sicard的乔治·桑像；1906年大理石替换石膏。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-lux-map",
+    "url": "https://jardin.senat.fr/fileadmin/Jardin/Accueil_Jardin/Brochure_Jardin_maj2022.pdf",
+    "title": "Jardin du Luxembourg：平面与服务设施",
+    "publisher": "法国参议院",
+    "accessed_at": "2026-10-04",
+    "supports": "花园分区、出入口、喷泉位置；旧版地图不作当前开放保证。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-odeon-members",
+    "url": "https://shakespeareandco.princeton.edu/discoveries/2020/01/joining-shakespeare-and-company-lending-library/",
+    "title": "Becoming a Member of the Shakespeare and Company Lending Library",
+    "publisher": "普林斯顿大学 Shakespeare and Company Project",
+    "accessed_at": "2026-10-04",
+    "supports": "1919首店8 rue Dupuytren、1921搬12 rue Odéon、借阅制度与Monnier书店。档案研究页。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-odeon-logbooks",
+    "url": "https://shakespeareandco.princeton.edu/sources/logbooks/",
+    "title": "Logbooks",
+    "publisher": "普林斯顿大学 Shakespeare and Company Project",
+    "accessed_at": "2026-10-04",
+    "supports": "Sylvia Beach原始账簿；1922-02-02《尤利西斯》出版日。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-snc-history",
+    "url": "https://www.shakespeareandcompany.com/history",
+    "title": "History",
+    "publisher": "Shakespeare and Company",
+    "accessed_at": "2026-10-04",
+    "supports": "1951 George Whitman现店、1964更名、Tumbleweeds传统；经营方直接自述。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-viviani",
+    "url": "https://www.paris.fr/lieux/square-rene-viviani-2441",
+    "title": "Square René Viviani",
+    "publisher": "巴黎市政府",
+    "accessed_at": "2026-10-04",
+    "supports": "地址与公园；1601年Jean Robin刺槐；1991 Georges Jeanclos喷泉、被驱逐儿童纪念碑。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-nd-hugo",
+    "url": "https://www.culture.gouv.fr/rechercher-une-publication-du-ministere-de-la-culture/repertoire-des-informations-publiques/Monuments-nationaux/tours-de-la-cathedrale-notre-dame-de-paris?step=292944",
+    "title": "Tours de la cathédrale Notre-Dame de Paris",
+    "publisher": "法国文化部／CMN资料",
+    "accessed_at": "2026-10-04",
+    "supports": "雨果1831小说与圣母院名望；十九世纪修复与奇兽装饰。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-nd-archive",
+    "url": "https://mediatheque-patrimoine.culture.gouv.fr/travaux-de-notre-dame-de-paris-1844-1865",
+    "title": "Travaux de Notre-Dame de Paris (1844-1865)",
+    "publisher": "法国文化部 Médiathèque du patrimoine et de la photographie",
+    "accessed_at": "2026-10-04",
+    "supports": "拉叙斯、维奥莱-勒-迪克修复工程原始日记存档。仅查档案介绍，未逐页读日记。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-nd-restoration",
+    "url": "https://rebatirnotredamedeparis.fr/support-projects/faq",
+    "title": "Pourquoi la restauration continue-t-elle ?",
+    "publisher": "公共机构 Rebâtir Notre-Dame de Paris",
+    "accessed_at": "2026-10-04",
+    "supports": "2024年12月重开后仍继续修复，后殿、飞扶壁等工作；2026—2031规划。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-pantheon-history",
+    "url": "https://www.paris-pantheon.fr/decouvrir/histoire-du-pantheon",
+    "title": "Histoire du Panthéon",
+    "publisher": "法国国家古迹中心 CMN",
+    "accessed_at": "2026-10-04",
+    "supports": "苏夫洛、原教堂、1791转型、1885雨果葬礼后固定世俗用途。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-pantheon-pendulum",
+    "url": "https://www.paris-pantheon.fr/decouvrir/le-pendule-de-foucault",
+    "title": "Le pendule de Foucault",
+    "publisher": "法国国家古迹中心 CMN",
+    "accessed_at": "2026-10-04",
+    "supports": "1851傅科与Froment实验；摆的演示含义；1995重新安装。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-pantheon-crypt",
+    "url": "https://www.paris-pantheon.fr/decouvrir/la-crypte",
+    "title": "La crypte",
+    "publisher": "法国国家古迹中心 CMN",
+    "accessed_at": "2026-10-04",
+    "supports": "1995居里凭自身成就入祠；贝克衣冠冢、塞泽尔铭文等纪念形式。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-sulpice-delacroix",
+    "url": "https://www.paris.fr/pages/retrouvez-les-splendeurs-de-delacroix-a-la-chapelle-des-saints-anges-de-saint-sulpice-4241",
+    "title": "Retrouvez les chefs d’œuvres de Delacroix à la chapelle des Saints-Anges",
+    "publisher": "巴黎市政府",
+    "accessed_at": "2026-10-04",
+    "supports": "1849订制、1861小堂落成、三幅壁画主题及2015—2016修复。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-sulpice-heritage",
+    "url": "https://restaurersaintsulpice.fr/decouvrir",
+    "title": "Découvrir l’église Saint-Sulpice",
+    "publisher": "Saint-Sulpice教区与巴黎遗产未来基金会修复项目",
+    "accessed_at": "2026-10-04",
+    "supports": "十八世纪Henri Sully日影仪、太阳位置与复活节日期用途；小堂艺术。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-gallimard-address",
+    "url": "https://tracts.gallimard.fr/policies/privacy-policy",
+    "title": "Politique de confidentialité",
+    "publisher": "Éditions Gallimard",
+    "accessed_at": "2026-10-04",
+    "supports": "出版社法定总部5 rue Gaston-Gallimard；不能作为印刷车间证据。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-gallimard-eloges",
+    "url": "https://www.gallimard.fr/catalogue/eloges-suivi-de-la-gloire-des-rois/9782070302468",
+    "title": "Éloges suivi de La Gloire des rois",
+    "publisher": "Gallimard 出版社",
+    "accessed_at": "2026-10-04",
+    "supports": "出版社档案图注：Saintleger Leger《Éloges》1911年6月NRF初版。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-lipp",
+    "url": "https://www.brasserielipp.fr/",
+    "title": "Brasserie Lipp 官方首页",
+    "publisher": "Brasserie Lipp",
+    "accessed_at": "2026-10-04",
+    "supports": "1880起经营、151 boulevard Saint-Germain、阿尔萨斯酸菜与啤酒馆属性。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-vian",
+    "url": "https://www.paris.fr/pages/balade-dans-le-paris-enjazze-de-boris-vian-19064",
+    "title": "Balade dans le Paris enjazzé de Boris Vian",
+    "publisher": "巴黎市政府",
+    "accessed_at": "2026-10-04",
+    "supports": "33 rue Dauphine Le Tabou；Vian、Gréco、爵士与《Manuel de Saint-Germain-des-Prés》。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-beauvoir",
+    "url": "https://www.paris.fr/pages/sur-les-pas-de-simone-de-beauvoir-ecrivaine-et-feministe-emblematique-de-paris-21516",
+    "title": "Dans les pas de Simone de Beauvoir, rive gauche",
+    "publisher": "巴黎市政府",
+    "accessed_at": "2026-10-04",
+    "supports": "11bis rue Victor Schœlcher、《Les Mandarins》、文学聚会与1971年343宣言；部分图注亦有11号简写。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-montparnasse",
+    "url": "https://www.paris.fr/lieux/cimetiere-du-montparnasse-4082",
+    "title": "Cimetière du Montparnasse",
+    "publisher": "巴黎市政府／公墓管理方",
+    "accessed_at": "2026-10-04",
+    "supports": "公墓地址与1824开放；公共参观和禁止野餐、酒精、扩音规定。",
+    "source_type": "primary"
+  },
+  {
+    "id": "src-left-beauvoir-tomb",
+    "url": "https://mairie13.paris.fr/pages/matrimoine-du-13e-16874",
+    "title": "Matrimoine du 13e：Simone de Beauvoir",
+    "publisher": "巴黎第13区政府",
+    "accessed_at": "2026-10-04",
+    "supports": "萨特1980、波伏娃1986去世，波伏娃与萨特同墓；机构文章援引France Culture，非独立第二证据。",
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-louvre-pyramid",
+    "url": "https://www.louvre.fr/en/explore/the-palace/a-pyramid-for-a-symbol",
+    "title": "A pyramid for a symbol — Cour Napoléon & Pyramid",
+    "publisher": "Musée du Louvre",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "贝聿铭、中央地下大厅、透明玻璃、1989年启用"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-louvre-masterpieces",
+    "url": "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/a-superstar-and-a-wedding-crowd",
+    "title": "A superstar… and a wedding crowd!",
+    "publisher": "Musée du Louvre",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "达·芬奇《蒙娜丽莎》及晕涂法；委罗内塞《迦拿的婚宴》原委托及1797年移往巴黎"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-louvre-visit",
+    "url": "https://www.louvre.fr/en/visit",
+    "title": "Visit — Everything you need to know before visiting the museum",
+    "publisher": "Musée du Louvre",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "门票、分时预约、展厅临时关闭须查官方"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-palais-history",
+    "url": "https://www.domaine-palais-royal.fr/en/decouvrir/histoire-du-domaine-national-du-palais-royal",
+    "title": "Histoire du domaine national du Palais-Royal",
+    "publisher": "Centre des monuments nationaux",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "科莱特9号旧居、1938年回归；科克托和马雷1940—1947年住36号；花园免费开放"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-buren-work",
+    "url": "https://danielburen.com/artworks/permanent?year=1986",
+    "title": "Les Deux Plateaux, sculpture in situ",
+    "publisher": "Daniel Buren",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "作者确认作品地点、永久现场作品、1985—1986年日期"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-comedie-history",
+    "url": "https://www.comedie-francaise.fr/node/5797",
+    "title": "Histoire de la maison",
+    "publisher": "Comédie-Française；Florence Naugrette",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "剧团1680年创立，莫里哀1673年去世；阿尔芒德与拉格朗日的协作。1791迁入为简写，精确时间见Les trois salles。"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-bnf-oval",
+    "url": "https://salleovale.bnf.fr/en/node/365",
+    "title": "La salle Ovale : histoire et patrimoine architectural",
+    "publisher": "Bibliothèque nationale de France",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "帕斯卡尔及勒库拉、1897年启动、1936年开幕、2022年向所有人免费开放"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-bnf-labrouste",
+    "url": "https://www.bnf.fr/en/story-renaissance",
+    "title": "The story of a renaissance",
+    "publisher": "Bibliothèque nationale de France",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "拉布鲁斯特阅览室1861—1868年、九穹顶十六柱、自然采光与防火、2016年后INHA使用"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-bnf-access",
+    "url": "https://www.bnf.fr/fr/richelieu",
+    "title": "Richelieu — horaires, accès & tarifs",
+    "publisher": "Bibliothèque nationale de France",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "5 rue Vivienne公众入口、免费Salle Ovale、研究阅览室需相应资格"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-vivienne-history",
+    "url": "https://www.galerie-vivienne.com/histoire-de-la-galerie-vivienne",
+    "title": "Histoire de la Galerie Vivienne",
+    "publisher": "Galerie Vivienne",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "马尔舒委托、德拉努瓦/德尚设计、1823年施工1826年启用、法基纳1880年起马赛克、免费进入及地址"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-tuileries-history",
+    "url": "https://www.louvre.fr/en/explore/the-palace/from-royal-garden-to-public-park",
+    "title": "From Royal Garden to Public Park — The Tuileries Garden",
+    "publisher": "Musée du Louvre",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "凯瑟琳1564年建园、名称源于制瓦厂、勒诺特1664年改造、轴线和树丛、1871年宫殿烧毁"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-orangerie-monet",
+    "url": "https://www.musee-orangerie.fr/fr/collection/les-nympheas-de-claude-monet/histoire-du-cycle-des-nympheas",
+    "title": "L’histoire du cycle des Nymphéas",
+    "publisher": "Musée de l’Orangerie",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "莫奈1918年致克列孟梭信、1922年正式捐赠、1927年布展、两个椭圆展厅和自然顶光"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-orangerie-guillaume",
+    "url": "https://www.musee-orangerie.fr/fr/collection/collections-permanentes-la-collection-walter-guillaume",
+    "title": "Collections permanentes — La collection Walter-Guillaume",
+    "publisher": "Musée de l’Orangerie",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "保罗·纪尧姆收藏、多梅尼卡改组、国家1959及1963年收购、1966年公开展示"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-orangerie-access",
+    "url": "https://www.musee-orangerie.fr/fr/visite/acces-horaires-tarifs",
+    "title": "Visite — accès, horaires, tarifs",
+    "publisher": "Musée de l’Orangerie",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "付费参观、官方票务、地址；实时开放与门票需核验"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-vendome-column",
+    "url": "https://parisjetaime.com/culture/colonne-vendome-p975",
+    "title": "Colonne Vendôme",
+    "publisher": "Paris je t’aime — Office de tourisme",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "1810年拿破仑纪念柱、奥斯特里茨胜利、借鉴图拉真柱、仅外观不开放入内"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-vendome-archive",
+    "url": "https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/ruines-de-la-commune-la-colonne-vendome-renversee-place-vendome-1er",
+    "title": "Ruines de la Commune — La colonne Vendôme renversée",
+    "publisher": "Paris Musées / Musée Carnavalet",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "旺多姆广场17世纪建设者Hardouin-Mansard与Boffrand；1871年倒柱摄影记录"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-ritz-writers",
+    "url": "https://www.ritzparis.com/hotel/paris/faq?category=restaurant&uid=paris",
+    "title": "Hotel FAQ — Bars, Restaurants & Culinary experiences",
+    "publisher": "Ritz Paris",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "酒店自述普鲁斯特及海明威为常客、以其命名的茶室酒吧与套房、消费和预约建议"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-garnier-building",
+    "url": "https://www.operadeparis.fr/apropos/theatres-et-ateliers/palais-garnier",
+    "title": "Palais Garnier — Théâtres et Ateliers",
+    "publisher": "Opéra national de Paris",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "夏尔·加尼叶建筑、1875年启用、大阶梯观看与被观看、夏加尔1964年天顶画"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-garnier-visit",
+    "url": "https://www.operadeparis.fr/visites/palais-garnier",
+    "title": "Visiter le Palais Garnier",
+    "publisher": "Opéra national de Paris",
+    "accessed_at": "2026-10-04",
+    "supports": [
+      "保罗·波德里大休息厅天顶音乐主题、镜面窗户、在线预约、观众厅随演出排练关闭"
+    ],
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-moulin-history",
+    "url": "https://www.moulinrouge.fr/le-moulin-rouge/lhistoire/grandes-periodes/",
+    "title": "Les grandes périodes",
+    "publisher": "Moulin Rouge",
+    "accessed_at": "2026-10-04",
+    "supports": "1889年10月6日开业；经营者Joseph Oller与Charles Zidler；早期舞场及娱乐场景。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-moulin-posters",
+    "url": "https://store.moulinrouge.fr/pages/illustrateurs-moulin-rouge",
+    "title": "Les Illustrateurs du Moulin Rouge",
+    "publisher": "Moulin Rouge 官方商店",
+    "accessed_at": "2026-10-04",
+    "supports": "Chéret于1889年制作开业海报；Lautrec于1891年制作自己的首张海报《Moulin-Rouge (La Goulue)》；人物与剪影构图。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-moulin-lautrec",
+    "url": "https://www.moulinrouge.fr/le-moulin-rouge/lhistoire/vedettes/henri-de-toulouse-lautrec/",
+    "title": "Henri de Toulouse-Lautrec",
+    "publisher": "Moulin Rouge",
+    "accessed_at": "2026-10-04",
+    "supports": "Lautrec在红磨坊观察、描画舞者及观众。该页1891“第一张广告”表述与1889 Chéret海报不一致，未采用其第一张之说。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-cafe-official",
+    "url": "https://cafedesdeuxmoulins.fr/fr/",
+    "title": "Café des Deux Moulins",
+    "publisher": "Café des Deux Moulins",
+    "accessed_at": "2026-10-04",
+    "supports": "15 rue Lepic；真实经营中的社区咖啡馆、酒吧和小餐馆；Jean-Pierre Jeunet电影取景关联。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-amelie-tour",
+    "url": "https://parisjetaime.com/eng/article/the-montmartre-of-amelie-poulain-a480",
+    "title": "The Montmartre of Amélie Poulain",
+    "publisher": "Paris je t’aime — 巴黎官方旅游局",
+    "accessed_at": "2026-10-04",
+    "supports": "电影中的艾米莉在双风车咖啡馆任女服务员；室内电影海报、锌制吧台；烟草售卖区已改变；焦糖布丁与电影体验关联；导演调整了街区地理。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-bateau",
+    "url": "https://museedemontmartre.fr/le-bateau-lavoir/",
+    "title": "Le Bateau-Lavoir",
+    "publisher": "Musée de Montmartre",
+    "accessed_at": "2026-10-04",
+    "supports": "Picasso于1904至1909年居住；13–13 bis place Émile-Goudeau；1970年火灾、1978年重建；仍为艺术工作室。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-picasso-demoiselles",
+    "url": "https://www.moma.org/collection/works/79766",
+    "title": "Pablo Picasso. Les Demoiselles d’Avignon. Paris, June-July 1907",
+    "publisher": "The Museum of Modern Art",
+    "accessed_at": "2026-10-04",
+    "supports": "1907年巴黎创作的画作、五名角度化人物与形式探索；现属MoMA收藏。该页不单独证明画作创作于洗衣船。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-dalida-bust",
+    "url": "https://www.paris.fr/pages/paris-un-musee-a-ciel-ouvert-la-musique-au-coin-de-la-rue-17995",
+    "title": "Paris, un musée à ciel ouvert : la musique au coin de la rue",
+    "publisher": "Ville de Paris",
+    "accessed_at": "2026-10-04",
+    "supports": "Dalida广场的1997年Aslan青铜半身像；纪念歌手与蒙马特的关系。该页35年居住说与1962购房及1987去世矛盾，未采用。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-dalida-home",
+    "url": "https://www.paris.fr/pages/une-balade-sur-les-pas-de-dalida-19037",
+    "title": "Une balade sur les pas de Dalida",
+    "publisher": "Ville de Paris",
+    "accessed_at": "2026-10-04",
+    "supports": "1962年购入rue d’Orchampt住宅；偏好蒙马特而未住Neuilly住宅；11 bis rue d’Orchampt纪念牌；广场位于Abreuvoir与Girardon路口。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-ayme-memorial",
+    "url": "https://www.marcelayme.net/",
+    "title": "Place Marcel Aymé à Montmartre",
+    "publisher": "Société des Amis de Marcel Aymé",
+    "accessed_at": "2026-10-04",
+    "supports": "1963年移居26 rue Norvins、现2 place Marcel-Aymé；1986年广场命名；1989年2月25日Jean Marais作品揭幕，形象为Marcel Aymé化作穿墙人。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-ayme-fiction",
+    "url": "https://www.cercle-enseignement.com/Ouvrages/Gallimard-Jeunesse/Folio-Junior/Le-Passe-muraille-et-autres-nouvelles2",
+    "title": "Le Passe-muraille et autres nouvelles",
+    "publisher": "Cercle Gallimard de l’enseignement",
+    "accessed_at": "2026-10-04",
+    "supports": "文学作品的主人公Dutilleul是可穿过墙壁的职员；作品为幻想类小说，不是真实地方史。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-museum-atelier",
+    "url": "https://museedemontmartre.fr/en/musee-jardins/",
+    "title": "Collections permanentes du Musée de Montmartre",
+    "publisher": "Musée de Montmartre",
+    "accessed_at": "2026-10-04",
+    "supports": "Suzanne Valadon、Maurice Utrillo、André Utter于1912年入住画室；现画室依书信、历史照片复原，设计者Hubert Le Gall。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-museum-gardens",
+    "url": "https://museedemontmartre.fr/jardins-renoir-montmartre/",
+    "title": "Les Jardins Renoir du musée de Montmartre",
+    "publisher": "Musée de Montmartre",
+    "accessed_at": "2026-10-04",
+    "supports": "花园以曾在此居住创作的Renoir命名；关联《秋千》《科尔托街的花园》；花园需持票，园内阶梯与葡萄园视线。该页1875–1876与馆藏页面1875–1877不一致，正文不用结束年份。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-museum-register",
+    "url": "https://pop.culture.gouv.fr/notice/museo/M0369",
+    "title": "Musée de Montmartre — notice M0369",
+    "publisher": "Ministère de la Culture — POP",
+    "accessed_at": "2026-10-04",
+    "supports": "1886年成立的Le Vieux Montmartre学会及收藏捐赠；1960年博物馆开放，首任馆长Claude Charpentier；2003年获Musée de France称号。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-sacre-history",
+    "url": "https://www.sacre-coeur-montmartre.com/decouvrir/notre-histoire/",
+    "title": "Notre histoire",
+    "publisher": "Basilique du Sacré-Cœur de Montmartre",
+    "accessed_at": "2026-10-04",
+    "supports": "1874年Paul Abadie获建筑竞赛；罗马拜占庭风格；1875年奠基、1919年10月16日祝圣。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-sacre-mosaic",
+    "url": "https://www.sacre-coeur-montmartre.com/decouvrir/patrimoine-et-art-sacre/la-mosaique-du-choeur/",
+    "title": "La mosaïque du chœur",
+    "publisher": "Basilique du Sacré-Cœur de Montmartre",
+    "accessed_at": "2026-10-04",
+    "supports": "1923年揭幕的唱诗席马赛克；Olivier Merson、H. M. Magne与R. Martin；白衣基督、展开双臂与金色心。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-sacre-visit",
+    "url": "https://www.sacre-coeur-montmartre.com/en/homepage/",
+    "title": "Prepare your visit / Perpetual Adoration",
+    "publisher": "Basilique du Sacré-Cœur de Montmartre",
+    "accessed_at": "2026-10-04",
+    "supports": "教堂主体免费参观；自1885年8月1日持续的朝拜传统；闭馆后的夜间朝拜另需报名；管风琴修复至2027年5月底。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-funicular",
+    "url": "https://www.ratp.fr/decouvrir/patrimoine/histoire-funiculaire-montmartre",
+    "title": "Connaissez-vous… le funiculaire de Montmartre ?",
+    "publisher": "RATP",
+    "accessed_at": "2026-10-04",
+    "supports": "山脚Saint-Pierre至教堂平台缆车；1900年投入服务；约36米高差。只采用交通与坡度信息，不采用该页与教堂官方时间线不一致的建筑年代。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-tertre-artists",
+    "url": "https://www.paris.fr/pages/lieux-de-diffusion-artistiques-3540/",
+    "title": "Le Carré aux artistes de la Place du Tertre",
+    "publisher": "Ville de Paris",
+    "accessed_at": "2026-10-04",
+    "supports": "画家、肖像师、漫画师、剪影师经市政授权在编号位置轮流工作；广场为现场绘制的露天工作室。",
+    "source_type": "primary"
+  },
+  {
+    "id": "mont-tertre-image",
+    "url": "https://museedemontmartre.fr/evenements/place-du-tertre/",
+    "title": "La place du Tertre à Montmartre",
+    "publisher": "Musée de Montmartre",
+    "accessed_at": "2026-10-04",
+    "supports": "Utrillo曾绘画、Doisneau曾摄影记录该广场；今日画家、游客与咖啡馆构成的公共场景。",
+    "source_type": "primary"
+  },
+  {
+    "id": "west-eiffel-history",
+    "url": "https://www.toureiffel.paris/fr/le-monument/histoire",
+    "title": "Histoire de la tour Eiffel",
+    "publisher": "SETE / Tour Eiffel",
+    "supports": "1884设计团队、1889世博、桁架和抗风形状",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary"
+  },
+  {
+    "id": "west-eiffel-art",
+    "url": "https://www.toureiffel.paris/fr/le-monument/art-et-tour-eiffel",
+    "title": "L’art et la tour Eiffel",
+    "publisher": "SETE / Tour Eiffel",
+    "supports": "德劳内作品与铁塔的艺术表现",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary"
+  },
+  {
+    "id": "west-trocadero",
+    "url": "https://www.paris.fr/lieux/jardins-du-trocadero-1789",
+    "title": "Jardins du Trocadéro",
+    "publisher": "Ville de Paris",
+    "supports": "1878/1937花园层次，阿尔方与夏约宫",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary"
+  },
+  {
+    "id": "west-debilly",
+    "url": "https://www.paris.fr/pages/sur-les-traces-des-expositions-universelles-de-paris-2-2-19671",
+    "title": "Sur les traces des expositions universelles de Paris",
+    "publisher": "Ville de Paris",
+    "supports": "1900临时人行桥及其保留",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary"
+  },
+  {
+    "id": "west-bridges",
+    "url": "https://www.paris.fr/photos/sous-les-ponts-6",
+    "title": "Sous les ponts de Paris",
+    "publisher": "Ville de Paris",
+    "supports": "德比利桥的建造者与金属结构照片",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary"
+  },
+  {
+    "id": "west-branly-wall",
+    "url": "https://www.quaibranly.fr/en/public-areas/the-living-wall-of-greenery",
+    "title": "The living wall of greenery",
+    "publisher": "Musée du quai Branly – Jacques Chirac",
+    "supports": "帕特里克·布朗的植物墙及物种选择",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary"
+  },
+  {
+    "id": "west-branly-garden",
+    "url": "https://www.quaibranly.fr/fr/les-espaces/le-jardin",
+    "title": "Le jardin",
+    "publisher": "Musée du quai Branly – Jacques Chirac",
+    "supports": "吉尔·克莱芒花园、架空建筑与免费进入时间限制",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary"
+  },
+  {
+    "id": "west-champmars",
+    "url": "https://www.paris.fr/lieux/parc-du-champ-de-mars-1807",
+    "title": "Parc du Champ de Mars",
+    "publisher": "Ville de Paris",
+    "supports": "军用场地转公园、福尔米热设计、轴线和侧园；有施工提示",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary"
+  },
+  {
+    "id": "west-birhakeim",
+    "url": "https://www.paris.fr/pages/le-pont-bir-hakeim-retrouve-une-seconde-jeunesse-cet-ete-8169",
+    "title": "Retour sur l’histoire du pont Bir-Hakeim",
+    "publisher": "Ville de Paris",
+    "supports": "双层桥梁的作者、地铁与行人共存、电影Inception取景",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary"
+  },
+  {
+    "id": "right-src-comedie-venues",
+    "url": "https://www.comedie-francaise.fr/les-trois-salles",
+    "title": "Les trois salles",
+    "publisher": "Comédie-Française",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary",
+    "supports": "1791部分演员先迁入，1799重组剧团定居黎塞留厅；2026年技术工程导致借用其他剧院。"
+  },
+  {
+    "id": "support-square-felix-desruelles",
+    "url": "https://www.paris.fr/lieux/square-felix-desruelles-2456",
+    "title": "Square Félix Desruelles",
+    "publisher": "Ville de Paris",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary",
+    "supports": "地址、园门时段与公园公共使用；不证明座位实时可用。"
+  },
+  {
+    "id": "support-square-suzanne-buisson",
+    "url": "https://www.paris.fr/lieux/square-suzanne-buisson-2688",
+    "title": "Square Suzanne Buisson",
+    "publisher": "Ville de Paris",
+    "accessed_at": "2026-10-04",
+    "source_type": "primary",
+    "supports": "地址、园门时段与公园公共使用；不证明座位实时可用。"
+  }
+]

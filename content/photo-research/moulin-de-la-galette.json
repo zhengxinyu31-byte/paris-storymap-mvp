@@ -1,0 +1,16 @@
+{
+  "poi_id": "moulin-de-la-galette",
+  "query": "Moulin de la Galette",
+  "candidates": [
+    {
+      "title": "Paris_18e_Moulin_Radet_220.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Paris_18e_Moulin_Radet_220.jpg/1280px-Paris_18e_Moulin_Radet_220.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Paris_18e_Moulin_Radet_220.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source_url": "https://fr.wikipedia.org/wiki/Moulin_de_la_Galette",
+      "width": 1200,
+      "height": 800,
+      "description": "Moulin de la Galette",
+      "match_note": "法语百科该地点条目的主图；需目视核对"
+    }
+  ]
+}

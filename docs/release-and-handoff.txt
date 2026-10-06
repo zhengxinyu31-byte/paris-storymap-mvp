@@ -1,0 +1,52 @@
+Paris StoryMap 发布与交接
+2026-10-06
+
+公开 Demo
+https://paris-storymap-mvp.liaoyanqing666.chatgpt.site
+托管：Sites。访问模式 public，任何获得链接的人均可访问；不受本机开发服务开关影响。
+发布工具返回 succeeded；随后读取站点确认 access_mode=public，current_live_url 与以上地址一致。
+未安排自动更新任务，未添加访客登录或账号系统。
+
+已发布版本
+Sites 版本：2。
+本次变更：撤除步行/换乘区分，统一连线，移除分段估时与交通建议；保留 POI 顺序、编号、箭头及阅读交互。
+发布时间：2026-10-06 08:17:51 UTC（北京时间 16:17:51）。
+应用代码基准：753e0932f44832e1432741ac7709c39710765b10。
+发布目录提交：cd2dc4f4889a3b45af957273af90395b772d7b2e。
+部署记录：appgdep_6ac4aea6ec808191bb6713055d12cc0e。
+站点标识：appgprj_6ac4a87af78c8191abc86de04f966e45。
+版本标识：appgprj_6ac4a87af78c8191abc86de04f966e45~appgver_dc65e1ae77a48191bae9f9fa40917d60。
+服务端归档哈希：sha256:fead36268c97d787c0fe0d75cc681763727e94c1bec56386308b911430ce001e。
+归档包含 126 个公开网页运行文件，加一份无密钥的托管配置。
+
+源码与托管分别管理
+完整项目包含 src、content、public/photos、tools、test、docs、依赖锁文件和 CI 配置，作为独立 GitHub 仓库交付。
+Sites 的发布目录仅包含 dist/ 与 .openai/hosting.json；不上传开发源码、研究文档、node_modules、.env 或凭据。
+站点标识不是密钥；发布凭据由已连接的 Sites 工具临时提供，不写入源码、命令参数或文档。
+公开站点与私有源码仓库可同时存在。把代码推到 GitHub 不会自动改变站点内容或访问范围。
+
+后续更新
+1. 在完整源码项目中修改代码或 content/；按知识库维护说明重建受影响的数据。
+2. 完成 npm test、npm run build，以及受改动影响的浏览器检查。构建结果为 dist/。
+3. 在独立的发布目录中，以本次 dist/ 完整替换旧网页文件；保留其 .git 与 .openai/hosting.json，不把开发目录整体复制过去。
+4. 使用 Sites hosting skill，读取现有 project_id 并取得该站点的临时发布凭据；复用同一个站点，不再次创建。
+5. 由 site-workflow 完成发布目录提交、推送及归档；保存对应版本，再部署此版本。当前站点是 public，使用公开/共享站点的部署操作。
+6. 等待部署 succeeded，并确认 public 访问范围及正式 URL；在本文记录新版本和应用代码基准。
+7. 将变更后的完整源码与文档推到独立 GitHub 仓库。
+
+回退
+在 Sites 查询本项目的历史版本，选择已知正常的版本重新部署，并等待 succeeded。
+回退网站不会自动回退 GitHub 源码；源码回退使用可审查的新提交，不覆盖远端历史。
+
+验证和运行边界
+发布前的同一份生产构建已在本机 4175 服务上通过主线动线回归。完整检查结果见 validation.txt。
+本次线上确认依据托管服务的成功部署状态和公开访问配置；未额外重跑全部线上浏览器用例，也未测试各地区网络的可达性。
+地图底图依赖外部服务；失败时仍有带坐标和顺序连接的可点击示意图。
+浏览器收藏、语言、测试与阅读进度按站点域名隔离，本机 localhost 的历史不会迁移到公开站点。
+当前不提供服务端用户数据、实时营业信息、交通班次或实际到访证明。
+
+独立 GitHub 仓库
+目标账号：zhengxinyu31-byte。
+仓库地址：https://github.com/zhengxinyu31-byte/paris-storymap-mvp
+主分支：main。仓库由用户创建，当前访问范围为 public。
+仓库收录完整源码、图片、知识库、维护工具、自动检查与文档；网站运行文件另由 Sites 托管。

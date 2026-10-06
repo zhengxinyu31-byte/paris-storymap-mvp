@@ -1,0 +1,12 @@
+import './trails.css';
+import React from 'react';
+import {createRoot} from 'react-dom/client';
+import App from './App.jsx';
+import {LanguageProvider} from './i18n';
+import './styles.css';
+import './language.css';
+import './route-map.css';
+import './quiz.css';
+import './photos.css';
+import './journey.css';
+createRoot(document.getElementById('root')).render(<LanguageProvider><App/></LanguageProvider>);

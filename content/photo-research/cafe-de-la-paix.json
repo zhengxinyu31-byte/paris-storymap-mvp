@@ -1,0 +1,14 @@
+{
+  "poi_id": "cafe-de-la-paix",
+  "candidates": [
+    {
+      "title": "Café_de_la_Paix_1.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Caf%C3%A9_de_la_Paix_1.jpg/1280px-Caf%C3%A9_de_la_Paix_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Caf%C3%A9_de_la_Paix_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source_url": "https://fr.wikipedia.org/wiki/Caf%C3%A9_de_la_Paix_(Paris)",
+      "width": 1200,
+      "height": 675,
+      "description": "Café de la Paix (Paris)"
+    }
+  ]
+}

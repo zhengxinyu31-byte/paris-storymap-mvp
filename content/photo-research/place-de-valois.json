@@ -1,0 +1,81 @@
+{
+  "poi_id": "place-de-valois",
+  "query": "Place Valois Paris",
+  "candidates": [
+    {
+      "title": "File:Place Valois - Paris I (FR75) - 2021-06-14 - 1.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Place_Valois_-_Paris_I_%28FR75%29_-_2021-06-14_-_1.jpg/1280px-Place_Valois_-_Paris_I_%28FR75%29_-_2021-06-14_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Place_Valois_-_Paris_I_%28FR75%29_-_2021-06-14_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Place_Valois_-_Paris_I_(FR75)_-_2021-06-14_-_1.jpg",
+      "width": 1100,
+      "height": 825,
+      "description": "Place de Valois, Paris.",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-06-14 19:16:43",
+      "original_width": 4032,
+      "original_height": 3024
+    },
+    {
+      "title": "File:Immeuble au 4 place de Valois.JPG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Immeuble_au_4_place_de_Valois.JPG/1280px-Immeuble_au_4_place_de_Valois.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Immeuble_au_4_place_de_Valois.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Immeuble_au_4_place_de_Valois.JPG",
+      "width": 1100,
+      "height": 1467,
+      "description": "Façade du 4 place de Valois (Monument Historique), Paris Ier",
+      "author": "Fabio Gargano",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2014-03-19 13:45:39",
+      "original_width": 2112,
+      "original_height": 2816
+    },
+    {
+      "title": "File:P1050236 Paris Ier place de Valois rwk.JPG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/P1050236_Paris_Ier_place_de_Valois_rwk.JPG/1280px-P1050236_Paris_Ier_place_de_Valois_rwk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/P1050236_Paris_Ier_place_de_Valois_rwk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:P1050236_Paris_Ier_place_de_Valois_rwk.JPG",
+      "width": 1100,
+      "height": 825,
+      "description": "Valois place - Paris",
+      "author": "Mbzt",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "date": "2011-09",
+      "original_width": 2000,
+      "original_height": 1500
+    },
+    {
+      "title": "File:Place Valois Paris 1.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Place_Valois_Paris_1.jpg/1280px-Place_Valois_Paris_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Place_Valois_Paris_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Place_Valois_Paris_1.jpg",
+      "width": 1100,
+      "height": 733,
+      "description": "Place de Valois, Paris.",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-02-12 15:56:41",
+      "original_width": 5184,
+      "original_height": 3456
+    },
+    {
+      "title": "File:Place Valois Paris 3.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Place_Valois_Paris_3.jpg/1280px-Place_Valois_Paris_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Place_Valois_Paris_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Place_Valois_Paris_3.jpg",
+      "width": 1100,
+      "height": 733,
+      "description": "Place de Valois, Paris.",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-02-12 15:56:52",
+      "original_width": 5184,
+      "original_height": 3456
+    }
+  ]
+}

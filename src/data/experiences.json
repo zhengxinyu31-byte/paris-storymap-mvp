@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "cafe-de-flore--exp-facade",
+    "mode": "exterior",
+    "title": "看店招与露台",
+    "action": "在人行道停留，读两则故事并观察露台。",
+    "duration_min": [
+      6,
+      10
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-flore"
+    ],
+    "poi_id": "cafe-de-flore",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://cafedeflore.fr/"
+  },
+  {
+    "id": "cafe-de-flore--exp-reading",
+    "mode": "rest",
+    "title": "可选一杯与阅读",
+    "action": "有预算且店方有空位时，购买饮品读几页书；也可跳过。",
+    "duration_min": [
+      15,
+      25
+    ],
+    "cost": "optional_purchase",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "mixed",
+    "access_note": "价格、排位、露台和室内安排以当日店方为准，不保证座位。",
+    "source_ids": [
+      "src-left-flore"
+    ],
+    "poi_id": "cafe-de-flore",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://cafedeflore.fr/"
+  },
+  {
+    "id": "les-deux-magots--exp-outside",
+    "mode": "exterior",
+    "title": "在广场读文学奖",
+    "action": "站在公共广场比较双叟与花神的不同故事。",
+    "duration_min": [
+      6,
+      10
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-deux-history"
+    ],
+    "poi_id": "les-deux-magots",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://lesdeuxmagots.fr/"
+  },
+  {
+    "id": "saint-germain-des-pres--exp-tower",
+    "mode": "exterior",
+    "title": "看钟楼与街区",
+    "action": "从公共广场看钟楼，辨认不同时期的建筑层次。",
+    "duration_min": [
+      5,
+      8
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-sgp-history"
+    ],
+    "poi_id": "saint-germain-des-pres",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://eglise-saintgermaindespres.fr/"
+  },
+  {
+    "id": "saint-germain-des-pres--exp-memorial",
+    "mode": "interior",
+    "title": "可选找纪念碑",
+    "action": "允许参观且无礼拜干扰时，按指南安静寻找小堂。",
+    "duration_min": [
+      10,
+      15
+    ],
+    "cost": "free",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "indoor",
+    "access_note": "先查教区开放与礼拜安排；普通安静参观不等于所有导览、音乐会免费。",
+    "source_ids": [
+      "src-left-sgp-guide"
+    ],
+    "poi_id": "saint-germain-des-pres",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://eglise-saintgermaindespres.fr/"
+  },
+  {
+    "id": "jardin-du-luxembourg--exp-pause",
+    "mode": "rest",
+    "title": "喷泉或园路边休息",
+    "action": "入园后找允许停留的园路或空椅，读一个故事，留足休息。",
+    "duration_min": [
+      15,
+      25
+    ],
+    "cost": "free",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "花园有开闭园时间，天气和维护可影响通行；座位、树荫不保证。无椅可用时改短站或慢走。",
+    "source_ids": [
+      "src-left-lux-map"
+    ],
+    "poi_id": "jardin-du-luxembourg",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://jardin.senat.fr/"
+  },
+  {
+    "id": "shakespeare-odeon--exp-address",
+    "mode": "exterior",
+    "title": "在街上看出版旧址",
+    "action": "只从人行道看12号及对面街景，读账簿介绍。",
+    "duration_min": [
+      6,
+      10
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-odeon-members"
+    ],
+    "poi_id": "shakespeare-odeon",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://shakespeareandco.princeton.edu/"
+  },
+  {
+    "id": "shakespeare-bucherie--exp-front",
+    "mode": "exterior",
+    "title": "先在门外读沿革",
+    "action": "从人行道观察招牌，辨认它与原店的不同。",
+    "duration_min": [
+      5,
+      8
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-snc-history"
+    ],
+    "poi_id": "shakespeare-bucherie",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.shakespeareandcompany.com/"
+  },
+  {
+    "id": "shakespeare-bucherie--exp-browse",
+    "mode": "interior",
+    "title": "可选浏览书店",
+    "action": "开放且队伍合适时安静浏览；拥挤则跳过。",
+    "duration_min": [
+      10,
+      20
+    ],
+    "cost": "free",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "indoor",
+    "access_note": "未核验当日开放、排队和摄影规则，请查书店公告；购买书籍另计，不保证免排队。",
+    "source_ids": [
+      "src-left-snc-history"
+    ],
+    "poi_id": "shakespeare-bucherie",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.shakespeareandcompany.com/"
+  },
+  {
+    "id": "square-rene-viviani--exp-pause",
+    "mode": "rest",
+    "title": "临河花园慢看",
+    "action": "开放时沿园路看树和纪念碑，有空椅再休息。",
+    "duration_min": [
+      10,
+      15
+    ],
+    "cost": "free",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "市府有季节性园门安排；座位与树荫不保证，关闭时改为公共河岸短看。",
+    "source_ids": [
+      "src-left-viviani"
+    ],
+    "poi_id": "square-rene-viviani",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris.fr/lieux/square-rene-viviani-2441"
+  },
+  {
+    "id": "notre-dame--exp-front",
+    "mode": "exterior",
+    "title": "广场看双塔",
+    "action": "在当日开放的公共区域看正面，读一个故事即可。",
+    "duration_min": [
+      8,
+      12
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "定位是建筑粗点，不是入口；广场与河岸通行受围挡、安保影响，必要时调整。",
+    "source_ids": [
+      "src-left-nd-hugo",
+      "src-left-nd-restoration"
+    ],
+    "poi_id": "notre-dame",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.notredamedeparis.fr/"
+  },
+  {
+    "id": "pantheon--exp-square",
+    "mode": "exterior",
+    "title": "从广场看国家纪念空间",
+    "action": "在公共广场看立面，选一个人物故事读完。",
+    "duration_min": [
+      8,
+      12
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-pantheon-history"
+    ],
+    "poi_id": "pantheon",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris-pantheon.fr/"
+  },
+  {
+    "id": "pantheon--exp-optional-visit",
+    "mode": "interior",
+    "title": "可选摆实验与墓室",
+    "action": "愿意购票时看摆或墓室，体力不足则跳过。",
+    "duration_min": [
+      30,
+      45
+    ],
+    "cost": "paid",
+    "reservation": "check_official",
+    "effort": "medium",
+    "weather": "indoor",
+    "access_note": "票价、预约、装置、墓室与无障碍路线请查CMN当日公告；时长不含排队。",
+    "source_ids": [
+      "src-left-pantheon-pendulum",
+      "src-left-pantheon-crypt"
+    ],
+    "poi_id": "pantheon",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris-pantheon.fr/"
+  },
+  {
+    "id": "saint-sulpice--exp-facade",
+    "mode": "exterior",
+    "title": "广场看教堂体量",
+    "action": "外面短停读两则故事，内访作为另外选择。",
+    "duration_min": [
+      5,
+      8
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-sulpice-heritage"
+    ],
+    "poi_id": "saint-sulpice",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paroissesaintsulpice.paris/"
+  },
+  {
+    "id": "saint-sulpice--exp-paintings",
+    "mode": "interior",
+    "title": "可选看壁画与日影仪",
+    "action": "查礼拜和开放后安静参观，关闭即跳过。",
+    "duration_min": [
+      12,
+      20
+    ],
+    "cost": "free",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "indoor",
+    "access_note": "普通参观与付费活动分开，未核验当日所有区域通行；先查教区公告。",
+    "source_ids": [
+      "src-left-sulpice-delacroix",
+      "src-left-sulpice-heritage"
+    ],
+    "poi_id": "saint-sulpice",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paroissesaintsulpice.paris/"
+  },
+  {
+    "id": "editions-gallimard--exp-door",
+    "mode": "exterior",
+    "title": "在门外看出版地址",
+    "action": "只读门牌，不进入办公院落。",
+    "duration_min": [
+      4,
+      6
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-gallimard-address"
+    ],
+    "poi_id": "editions-gallimard",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.gallimard.fr/"
+  },
+  {
+    "id": "brasserie-lipp--exp-sign",
+    "mode": "exterior",
+    "title": "看利普的街面",
+    "action": "在公共人行道短看招牌，不为打卡强制消费。",
+    "duration_min": [
+      4,
+      7
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-lipp"
+    ],
+    "poi_id": "brasserie-lipp",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.brasserielipp.fr/"
+  },
+  {
+    "id": "sartre-bonaparte--exp-address",
+    "mode": "exterior",
+    "title": "街上读故居故事",
+    "action": "公共人行道短看门牌，不停在居民进出位置。",
+    "duration_min": [
+      4,
+      6
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-sartre-bnf"
+    ],
+    "poi_id": "sartre-bonaparte",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://multimedia-ext.bnf.fr/pdf/Sartre3.pdf"
+  },
+  {
+    "id": "le-tabou--exp-address",
+    "mode": "exterior",
+    "title": "从街上定位塔布",
+    "action": "看33号，读一则爵士故事后继续走。",
+    "duration_min": [
+      4,
+      7
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-vian"
+    ],
+    "poi_id": "le-tabou",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris.fr/pages/balade-dans-le-paris-enjazze-de-boris-vian-19064"
+  },
+  {
+    "id": "beauvoir-schoelcher--exp-address",
+    "mode": "exterior",
+    "title": "街上读波伏娃住所",
+    "action": "短看门牌并读故事，保持住宅入口通畅。",
+    "duration_min": [
+      4,
+      7
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只观察公共空间中的外观；时长为建议停留，不含步行、排队。",
+    "source_ids": [
+      "src-left-beauvoir"
+    ],
+    "poi_id": "beauvoir-schoelcher",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris.fr/pages/sur-les-pas-de-simone-de-beauvoir-ecrivaine-et-feministe-emblematique-de-paris-21516"
+  },
+  {
+    "id": "montparnasse-cemetery--exp-quiet-walk",
+    "mode": "exterior",
+    "title": "公墓内安静步行",
+    "action": "查开放后入园，按官方地图找两人名字；体力不足可只到主要园路。",
+    "duration_min": [
+      12,
+      20
+    ],
+    "cost": "free",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "以公墓当日开放和管理指引为准。禁止野餐、酒精、扩音；尊重葬礼，不承诺墓位路线无障碍。",
+    "source_ids": [
+      "src-left-montparnasse"
+    ],
+    "poi_id": "montparnasse-cemetery",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris.fr/lieux/cimetiere-du-montparnasse-4082"
+  },
+  {
+    "id": "louvre-courtyard-look",
+    "mode": "exterior",
+    "title": "庭院看新旧建筑",
+    "action": "沿公共庭院边缘短看金字塔与宫殿立面。",
+    "duration_min": [
+      10,
+      20
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只在合法开放区域停留；现场管制优先，不保证座位。",
+    "source_ids": [
+      "right-src-louvre-pyramid"
+    ],
+    "poi_id": "louvre",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.louvre.fr/"
+  },
+  {
+    "id": "louvre-museum-upgrade",
+    "mode": "interior",
+    "title": "可选：只看一间展厅",
+    "action": "另行核验官方票务与开放展厅，选一件作品集中观看。",
+    "duration_min": [
+      60,
+      120
+    ],
+    "cost": "paid",
+    "reservation": "check_official",
+    "effort": "medium",
+    "weather": "indoor",
+    "access_note": "可选付费升级；有免费资格者按官方规则核验。时长不含安检排队，不保证指定展厅开放。",
+    "source_ids": [
+      "right-src-louvre-visit",
+      "right-src-louvre-masterpieces"
+    ],
+    "poi_id": "louvre",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.louvre.fr/"
+  },
+  {
+    "id": "palais-royal-garden-rest",
+    "mode": "rest",
+    "title": "花园慢走与短歇",
+    "action": "沿花园拱廊慢走；有空座时短歇，保持通道畅通。",
+    "duration_min": [
+      15,
+      25
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只在合法开放区域停留；现场管制优先，不保证座位。",
+    "source_ids": [
+      "right-src-palais-history"
+    ],
+    "poi_id": "palais-royal",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.domaine-palais-royal.fr/"
+  },
+  {
+    "id": "palais-royal-buren-look",
+    "mode": "exterior",
+    "title": "在柱群旁换个视角",
+    "action": "在开放庭院内从两个地面站位观察黑白重复。",
+    "duration_min": [
+      8,
+      15
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只在合法开放区域停留；现场管制优先，不保证座位。",
+    "source_ids": [
+      "right-src-buren-work",
+      "right-src-palais-history"
+    ],
+    "poi_id": "palais-royal",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.domaine-palais-royal.fr/"
+  },
+  {
+    "id": "comedie-francaise-facade-reading",
+    "mode": "exterior",
+    "title": "广场边读剧院",
+    "action": "在科莱特广场公共区域短看立面，读一条机构历史。",
+    "duration_min": [
+      8,
+      15
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只在合法开放区域停留；现场管制优先，不保证座位。 官方说明2026年黎塞留厅有技术工程，可能影响外观与周边通行；本体验不安排入场看演出。",
+    "source_ids": [
+      "right-src-comedie-history",
+      "right-src-comedie-venues"
+    ],
+    "poi_id": "comedie-francaise",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.comedie-francaise.fr/"
+  },
+  {
+    "id": "bnf-richelieu-site-look",
+    "mode": "exterior",
+    "title": "在街边辨认图书馆入口",
+    "action": "从维维安街公共区域辨认场馆入口与公共区指示。",
+    "duration_min": [
+      5,
+      10
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只在合法开放区域停留；现场管制优先，不保证座位。",
+    "source_ids": [
+      "right-src-bnf-access"
+    ],
+    "poi_id": "bnf-richelieu",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.bnf.fr/fr/richelieu"
+  },
+  {
+    "id": "bnf-richelieu-oval-reading",
+    "mode": "rest",
+    "title": "可选：椭圆厅安静读几页",
+    "action": "开放时进入Salle Ovale，轻声看书；有空座才坐下。",
+    "duration_min": [
+      15,
+      30
+    ],
+    "cost": "free",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "indoor",
+    "access_note": "公众访问走5 rue Vivienne，现场安检和开放安排优先；这不是研究阅览室通行许可，不保证座位。",
+    "source_ids": [
+      "right-src-bnf-access",
+      "right-src-bnf-oval"
+    ],
+    "poi_id": "bnf-richelieu",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.bnf.fr/fr/richelieu"
+  },
+  {
+    "id": "galerie-vivienne-covered-walk",
+    "mode": "interior",
+    "title": "免费：在玻璃顶下走一段",
+    "action": "开放时穿过拱廊，比较玻璃顶与地面纹样；不必购物。",
+    "duration_min": [
+      10,
+      20
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "indoor",
+    "access_note": "拱廊官网标免费进入；入口开闭以现场与官方为准，商店各有规则。",
+    "source_ids": [
+      "right-src-vivienne-history"
+    ],
+    "poi_id": "galerie-vivienne",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.galerie-vivienne.com/"
+  },
+  {
+    "id": "jardin-des-tuileries-garden-pause",
+    "mode": "rest",
+    "title": "水池或树荫旁慢下来",
+    "action": "选合法开放的水池边或树荫区短歇，有空座才坐；不要求消费。",
+    "duration_min": [
+      15,
+      30
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只在合法开放区域停留；现场管制优先，不保证座位。",
+    "source_ids": [
+      "right-src-tuileries-history"
+    ],
+    "poi_id": "jardin-des-tuileries",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.louvre.fr/en/explore/the-palace/from-royal-garden-to-public-park"
+  },
+  {
+    "id": "jardin-des-tuileries-axis-walk",
+    "mode": "exterior",
+    "title": "走一小段主轴",
+    "action": "从主路比较对称树丛与远处方向，不必穿越整个花园。",
+    "duration_min": [
+      8,
+      15
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只在合法开放区域停留；现场管制优先，不保证座位。",
+    "source_ids": [
+      "right-src-tuileries-history"
+    ],
+    "poi_id": "jardin-des-tuileries",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.louvre.fr/en/explore/the-palace/from-royal-garden-to-public-park"
+  },
+  {
+    "id": "musee-orangerie-garden-exterior",
+    "mode": "exterior",
+    "title": "花园里读橘园的故事",
+    "action": "在花园公共区域短看建筑，读一段捐赠或收藏故事。",
+    "duration_min": [
+      8,
+      15
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只在合法开放区域停留；现场管制优先，不保证座位。",
+    "source_ids": [
+      "right-src-orangerie-access",
+      "right-src-orangerie-monet"
+    ],
+    "poi_id": "musee-orangerie",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.musee-orangerie.fr/"
+  },
+  {
+    "id": "musee-orangerie-museum-upgrade",
+    "mode": "interior",
+    "title": "可选：睡莲与收藏",
+    "action": "另行核验门票和开放，入馆安静看《睡莲》或选择一组馆藏。",
+    "duration_min": [
+      45,
+      90
+    ],
+    "cost": "paid",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "indoor",
+    "access_note": "可选付费升级；免费资格按官方核验，预约和安检时间另计，不保证展厅与座位。",
+    "source_ids": [
+      "right-src-orangerie-access",
+      "right-src-orangerie-monet"
+    ],
+    "poi_id": "musee-orangerie",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.musee-orangerie.fr/"
+  },
+  {
+    "id": "place-vendome-square-observe",
+    "mode": "exterior",
+    "title": "广场短看立面和纪念柱",
+    "action": "只沿人行区域比较立面节奏与中央柱，不进入车道。",
+    "duration_min": [
+      10,
+      18
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "纪念柱只可外观，不安排登柱或内访；遵守现场管制。",
+    "source_ids": [
+      "right-src-vendome-column",
+      "right-src-vendome-archive"
+    ],
+    "poi_id": "place-vendome",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://parisjetaime.com/culture/colonne-vendome-p975"
+  },
+  {
+    "id": "ritz-paris-public-facade",
+    "mode": "exterior",
+    "title": "免费：广场读酒店文学",
+    "action": "在旺多姆广场公共人行区域看外部招牌，选一位作家故事。",
+    "duration_min": [
+      6,
+      12
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只在合法开放区域停留；现场管制优先，不保证座位。",
+    "source_ids": [
+      "right-src-ritz-writers"
+    ],
+    "poi_id": "ritz-paris",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.ritzparis.com/"
+  },
+  {
+    "id": "ritz-paris-tea-bar-upgrade",
+    "mode": "rest",
+    "title": "可选：茶室或酒吧",
+    "action": "仅在预算允许并核验官方接待规则后，选择茶室或酒吧消费。",
+    "duration_min": [
+      30,
+      60
+    ],
+    "cost": "optional_purchase",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "indoor",
+    "access_note": "完全可选升级；可能费用较高。预约、着装、开放和空位以酒店官方及现场为准，不承诺可以进入或有座。",
+    "source_ids": [
+      "right-src-ritz-writers"
+    ],
+    "poi_id": "ritz-paris",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.ritzparis.com/"
+  },
+  {
+    "id": "palais-garnier-facade-stop",
+    "mode": "exterior",
+    "title": "免费：街边看歌剧院",
+    "action": "在合法公共人行区域看立面，先读建筑故事；留意道路。",
+    "duration_min": [
+      10,
+      18
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "只在合法开放区域停留；现场管制优先，不保证座位。",
+    "source_ids": [
+      "right-src-garnier-building"
+    ],
+    "poi_id": "palais-garnier",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.operadeparis.fr/apropos/theatres-et-ateliers/palais-garnier"
+  },
+  {
+    "id": "palais-garnier-interior-upgrade",
+    "mode": "interior",
+    "title": "可选：阶梯和绘画",
+    "action": "先查官方预约与当日空间开放，选择阶梯或大休息厅集中观察。",
+    "duration_min": [
+      45,
+      90
+    ],
+    "cost": "paid",
+    "reservation": "check_official",
+    "effort": "medium",
+    "weather": "indoor",
+    "access_note": "可选付费升级；官方目前要求提前在线预约。观众厅可能关闭，参观票不保证看到夏加尔天顶画；价格与规则出发前重查。",
+    "source_ids": [
+      "right-src-garnier-visit"
+    ],
+    "poi_id": "palais-garnier",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.operadeparis.fr/apropos/theatres-et-ateliers/palais-garnier"
+  },
+  {
+    "id": "moulin-rouge-exterior",
+    "mode": "exterior",
+    "title": "从街上读风车招牌",
+    "action": "停在不妨碍行人的位置，观察风车、入口与街景，并阅读一个故事。",
+    "duration_min": [
+      8,
+      15
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "位于山脚；车流与人流会影响停留位置。外部体验不包含演出或室内参观。",
+    "source_ids": [
+      "mont-moulin-history",
+      "mont-moulin-posters"
+    ],
+    "poi_id": "moulin-rouge",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.moulinrouge.fr/"
+  },
+  {
+    "id": "cafe-des-deux-moulins-street",
+    "mode": "exterior",
+    "title": "街角识别电影地点",
+    "action": "从公共街道看店名和街角，阅读电影与现实的区别。",
+    "duration_min": [
+      5,
+      10
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "勒皮克街有坡度；此短停靠近山脚，不要求爬到山顶。不要挡住店门。",
+    "source_ids": [
+      "mont-cafe-official",
+      "mont-amelie-tour"
+    ],
+    "poi_id": "cafe-des-deux-moulins",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://cafedesdeuxmoulins.fr/fr/"
+  },
+  {
+    "id": "cafe-des-deux-moulins-coffee",
+    "mode": "rest",
+    "title": "可选咖啡休息",
+    "action": "查看菜单、座位及等待情况，愿意消费时再入店休息。",
+    "duration_min": [
+      20,
+      40
+    ],
+    "cost": "optional_purchase",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "indoor",
+    "access_note": "座位和等待取决于现场；不以电影里的服务或陈设作当日承诺。",
+    "source_ids": [
+      "mont-cafe-official"
+    ],
+    "poi_id": "cafe-des-deux-moulins",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://cafedesdeuxmoulins.fr/fr/"
+  },
+  {
+    "id": "bateau-lavoir-square",
+    "mode": "exterior",
+    "title": "广场外观停留",
+    "action": "从公共广场辨认门牌与建筑，阅读驻居及重建两条故事。",
+    "duration_min": [
+      10,
+      18
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "medium",
+    "weather": "outdoor",
+    "access_note": "位于坡道和铺石广场附近；medium包含到达负担。工作室非默认开放参观空间。",
+    "source_ids": [
+      "mont-bateau"
+    ],
+    "poi_id": "bateau-lavoir",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://museedemontmartre.fr/le-bateau-lavoir/"
+  },
+  {
+    "id": "place-dalida-portrait",
+    "mode": "exterior",
+    "title": "读一张青铜肖像",
+    "action": "留出通行空间，看雕像、铭文与街角环境，选择一个音乐故事。",
+    "duration_min": [
+      8,
+      15
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "medium",
+    "weather": "outdoor",
+    "access_note": "位于山坡住宅街；到达过程有坡度，不能把整段蒙马特徒步包装成低体力休息路线。",
+    "source_ids": [
+      "mont-dalida-bust",
+      "mont-dalida-home"
+    ],
+    "poi_id": "place-dalida",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris.fr/pages/une-balade-sur-les-pas-de-dalida-19037"
+  },
+  {
+    "id": "passe-muraille-imagination",
+    "mode": "exterior",
+    "title": "墙边的想象游戏",
+    "action": "看清人物与墙的关系，在作品外保持距离，以手势或一句话回应。",
+    "duration_min": [
+      8,
+      15
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "medium",
+    "weather": "outdoor",
+    "access_note": "位于山坡街区，步行到达有坡度；不靠、拉或攀爬雕塑。",
+    "source_ids": [
+      "mont-ayme-memorial",
+      "mont-ayme-fiction"
+    ],
+    "poi_id": "passe-muraille",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.marcelayme.net/"
+  },
+  {
+    "id": "musee-montmartre-entrance",
+    "mode": "exterior",
+    "title": "馆门前读创作社区",
+    "action": "从公共街道确认馆名和地址，阅读馆史或艺术家故事。",
+    "duration_min": [
+      5,
+      10
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "medium",
+    "weather": "outdoor",
+    "access_note": "位于山顶街区；免费体验止于外部，不能看到内部画室或花园葡萄园景观。",
+    "source_ids": [
+      "mont-museum-register"
+    ],
+    "poi_id": "musee-montmartre",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://museedemontmartre.fr/"
+  },
+  {
+    "id": "musee-montmartre-atelier",
+    "mode": "interior",
+    "title": "可选复原画室参观",
+    "action": "查官方票务及开放展区后入馆，区分原件、复原与说明。",
+    "duration_min": [
+      40,
+      70
+    ],
+    "cost": "paid",
+    "reservation": "check_official",
+    "effort": "medium",
+    "weather": "indoor",
+    "access_note": "馆内参观需票；无障碍动线及画室开放状态须向馆方核对。",
+    "source_ids": [
+      "mont-museum-atelier",
+      "mont-museum-register"
+    ],
+    "poi_id": "musee-montmartre",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://museedemontmartre.fr/"
+  },
+  {
+    "id": "musee-montmartre-garden",
+    "mode": "rest",
+    "title": "可选花园停留",
+    "action": "查官方票务后入园，选择当日可停留的位置看树影与植物。",
+    "duration_min": [
+      20,
+      35
+    ],
+    "cost": "paid",
+    "reservation": "check_official",
+    "effort": "medium",
+    "weather": "outdoor",
+    "access_note": "花园不是免费公园；园内有阶梯，席位不能保证。仅此短暂停留可以作为休息，整段山坡路线不因此变成REST。",
+    "source_ids": [
+      "mont-museum-gardens"
+    ],
+    "poi_id": "musee-montmartre",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://museedemontmartre.fr/"
+  },
+  {
+    "id": "sacre-coeur-parvis",
+    "mode": "exterior",
+    "title": "平台与圆顶",
+    "action": "到平台后看轮廓与城市方向，阅读建筑时间线。",
+    "duration_min": [
+      12,
+      20
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "medium",
+    "weather": "outdoor",
+    "access_note": "山脚至平台有明显爬升，可考虑RATP缆车并查当日运行信息；缆车费用不包含在免费停留中，不保证全段无障碍。",
+    "source_ids": [
+      "mont-sacre-history",
+      "mont-funicular"
+    ],
+    "poi_id": "sacre-coeur",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.sacre-coeur-montmartre.com/"
+  },
+  {
+    "id": "sacre-coeur-mosaic-visit",
+    "mode": "interior",
+    "title": "可选安静看马赛克",
+    "action": "确认开放与现场参观安排后进入主体，安静观看唱诗席。",
+    "duration_min": [
+      15,
+      30
+    ],
+    "cost": "free",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "indoor",
+    "access_note": "此low指已到达教堂后的短参观；不包括上山。主体免费，穹顶参观属于另项安排；礼仪或施工可能影响停留。",
+    "source_ids": [
+      "mont-sacre-mosaic",
+      "mont-sacre-visit"
+    ],
+    "poi_id": "sacre-coeur",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.sacre-coeur-montmartre.com/"
+  },
+  {
+    "id": "place-du-tertre-observe-art",
+    "mode": "exterior",
+    "title": "看一分钟绘画过程",
+    "action": "沿公共通道短停，观察当日一位艺术家的技法，再读一个故事。",
+    "duration_min": [
+      10,
+      20
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "medium",
+    "weather": "outdoor",
+    "access_note": "位于山顶且可能拥挤；medium含到达坡度。免费仅为公共空间观察，肖像委托需另行询价。",
+    "source_ids": [
+      "mont-tertre-artists",
+      "mont-tertre-image"
+    ],
+    "poi_id": "place-du-tertre",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris.fr/pages/lieux-de-diffusion-artistiques-3540/"
+  },
+  {
+    "id": "tour-eiffel-look",
+    "mode": "exterior",
+    "title": "公共步道看铁塔",
+    "action": "观察轮廓和一组铁架，不安排登塔。",
+    "duration_min": [
+      8,
+      12
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "公共空间短停；临时管制、入口与可通行路径出发前复核。",
+    "source_ids": [
+      "west-eiffel-history"
+    ],
+    "poi_id": "tour-eiffel",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.toureiffel.paris/fr/le-monument/histoire"
+  },
+  {
+    "id": "tour-eiffel-ascend",
+    "mode": "interior",
+    "title": "自选登塔",
+    "action": "另查官网时段，购买登塔票；不计入默认步行版。",
+    "duration_min": [
+      60,
+      120
+    ],
+    "cost": "paid",
+    "reservation": "check_official",
+    "effort": "low",
+    "weather": "mixed",
+    "access_note": "需另核票种、预约、排队与安检；本时长是预算，非排队预测。",
+    "source_ids": [
+      "west-eiffel-history"
+    ],
+    "poi_id": "tour-eiffel",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.toureiffel.paris/fr/le-monument/histoire"
+  },
+  {
+    "id": "trocadero-garden-look",
+    "mode": "exterior",
+    "title": "花园短停",
+    "action": "沿可通行区域观察喷泉轴线和侧园。",
+    "duration_min": [
+      8,
+      12
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "medium",
+    "weather": "outdoor",
+    "access_note": "园地有高差，官方标注仅部分区域适合行动不便者；喷泉是否喷水不保证。",
+    "source_ids": [
+      "west-trocadero"
+    ],
+    "poi_id": "trocadero",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris.fr/lieux/jardins-du-trocadero-1789"
+  },
+  {
+    "id": "passerelle-debilly-cross",
+    "mode": "exterior",
+    "title": "步行过桥",
+    "action": "过桥途中短看结构与河景，不占据通道。",
+    "duration_min": [
+      6,
+      10
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "公共空间短停；临时管制、入口与可通行路径出发前复核。",
+    "source_ids": [
+      "west-debilly"
+    ],
+    "poi_id": "passerelle-debilly",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris.fr/pages/sur-les-traces-des-expositions-universelles-de-paris-2-2-19671"
+  },
+  {
+    "id": "quai-branly-wall",
+    "mode": "exterior",
+    "title": "沿街看植物墙",
+    "action": "只从公共人行道看植物墙。",
+    "duration_min": [
+      8,
+      12
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "公共空间短停；临时管制、入口与可通行路径出发前复核。",
+    "source_ids": [
+      "west-branly-wall"
+    ],
+    "poi_id": "quai-branly",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.quaibranly.fr/fr/les-espaces/le-jardin"
+  },
+  {
+    "id": "quai-branly-garden-rest",
+    "mode": "rest",
+    "title": "花园缓步与休息",
+    "action": "花园开放时走一小段并休息。",
+    "duration_min": [
+      15,
+      25
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "官网当前列周二至周日开放；出发前复核，周一默认改为沿街植物墙；有无座位未知。",
+    "source_ids": [
+      "west-branly-garden"
+    ],
+    "poi_id": "quai-branly",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.quaibranly.fr/fr/les-espaces/le-jardin"
+  },
+  {
+    "id": "champ-de-mars-rest",
+    "mode": "rest",
+    "title": "公园休息",
+    "action": "在开放区域休息、自带饮水；不用走到公园最南端。",
+    "duration_min": [
+      15,
+      25
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "官网有步道草坪修缮提示；围挡时使用开放步道，若无法停留则结束路线。",
+    "source_ids": [
+      "west-champmars"
+    ],
+    "poi_id": "champ-de-mars",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris.fr/lieux/parc-du-champ-de-mars-1807"
+  },
+  {
+    "id": "pont-bir-hakeim-walkway",
+    "mode": "exterior",
+    "title": "桥下人行区看柱廊",
+    "action": "从人行区域观察桥梁，不横穿机动车或自行车通道。",
+    "duration_min": [
+      8,
+      12
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "公共空间短停；临时管制、入口与可通行路径出发前复核。",
+    "source_ids": [
+      "west-birhakeim"
+    ],
+    "poi_id": "pont-bir-hakeim",
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": null,
+    "official_url": "https://www.paris.fr/pages/le-pont-bir-hakeim-retrouve-une-seconde-jeunesse-cet-ete-8169"
+  },
+  {
+    "id": "square-felix-desruelles-rest",
+    "poi_id": "square-felix-desruelles",
+    "mode": "rest",
+    "title": "公共花园短歇",
+    "action": "开放时在允许停留处休息；有空座才坐下，自带饮水。",
+    "duration_min": [
+      15,
+      20
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "有季节性园门时段；座位、通行和园内设施未实地核验，关闭时缩短行程或自愿选择附近咖啡馆。",
+    "source_ids": [
+      "support-square-felix-desruelles"
+    ],
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": "2026-10-04",
+    "official_url": "https://www.paris.fr/lieux/square-felix-desruelles-2456"
+  },
+  {
+    "id": "square-suzanne-buisson-rest",
+    "poi_id": "square-suzanne-buisson",
+    "mode": "rest",
+    "title": "公共花园短歇",
+    "action": "开放时在允许停留处休息；有空座才坐下，自带饮水。",
+    "duration_min": [
+      15,
+      20
+    ],
+    "cost": "free",
+    "reservation": "not_required",
+    "effort": "low",
+    "weather": "outdoor",
+    "access_note": "有季节性园门时段；座位、通行和园内设施未实地核验，关闭时缩短行程或自愿选择附近咖啡馆。",
+    "source_ids": [
+      "support-square-suzanne-buisson"
+    ],
+    "duration_basis": "editorial_budget_not_measured",
+    "opening_hours": null,
+    "price_amount": null,
+    "operational_checked_at": "2026-10-04",
+    "official_url": "https://www.paris.fr/lieux/square-suzanne-buisson-2688"
+  }
+]

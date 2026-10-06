@@ -1,0 +1,42 @@
+.language-control{position:relative;flex-shrink:0}
+.topbar nav .language-trigger{display:flex;align-items:center;gap:7px;min-height:38px;padding:8px 11px;border:1px solid #cfcfc5;border-radius:7px;background:#fffdf7;white-space:nowrap;color:#263d35}
+.topbar nav .language-trigger>span{display:inline!important;font-size:12px;font-weight:600}
+.language-menu{position:absolute;right:0;top:calc(100% + 8px);width:164px;padding:6px;background:#fffdf7;border:1px solid #d9d8cc;border-radius:10px;box-shadow:0 8px 28px #20382c20;z-index:110}
+.topbar nav .language-menu button{display:flex;align-items:center;justify-content:space-between;width:100%;padding:11px 12px;border-radius:6px;font-size:14px;text-align:left}
+.topbar nav .language-menu button[aria-checked=true]{background:#e7ece4;color:#233f30}
+.language-menu button:hover{background:#f0f0e8}
+.language-trigger:focus-visible,.language-menu button:focus-visible{outline:2px solid #b04e35;outline-offset:3px}
+html[lang=en] .route-heading h1{font-size:clamp(30px,4vw,56px);line-height:1.16;max-width:1060px}
+html[lang=en] .route-lead{line-height:1.8}
+html[lang=en] .route-meta,html[lang=en] .route-facts{flex-wrap:wrap}
+html[lang=en] .chapter-name{font-size:24px;line-height:1.3}
+html[lang=en] .chapter-phase{line-height:1.5}
+html[lang=en] .chapter-bottom{flex-wrap:wrap;gap:9px}
+html[lang=en] .section-bar{gap:12px;align-items:flex-start}
+html[lang=en] .section-bar>span{white-space:normal;text-align:right;max-width:40%;flex-shrink:0}
+html[lang=en] .section-bar h2{line-height:1.45}
+html[lang=en] .persona-grid small{line-height:1.5}
+html[lang=en] .persona-grid strong{line-height:1.45}
+html[lang=en] .read-actions button{white-space:normal;line-height:1.5}
+html[lang=en] .entity-tags button,html[lang=en] .connected-names button{white-space:normal;text-align:left}
+html[lang=en] .photo-credit{line-height:1.6}
+html[lang=en] .main-story h2{line-height:1.3}
+html[lang=en] .main-story .story-body{line-height:1.9}
+html[lang=en] .map-label{font-size:9px;line-height:1.4}
+@media(max-width:1100px){.topbar nav{gap:12px}.topbar .persona-select{max-width:195px;white-space:normal;text-align:left;line-height:1.3}}
+@media(max-width:760px){
+ .topbar{gap:10px;flex-wrap:wrap}
+ .topbar nav{gap:8px;justify-content:flex-end;flex:1}
+ .topbar nav>button{padding:7px}
+ .topbar .persona-select{display:none}
+ .topbar nav .language-trigger{padding:7px;gap:4px}
+ html[lang=en] .route-heading h1{font-size:34px}
+ html[lang=en] .poi-heading h1{font-size:32px;overflow-wrap:anywhere}
+ html[lang=en] .route-facts{gap:13px}
+ html[lang=en] .storyline-context{align-items:flex-start;gap:14px}
+ html[lang=en] .storyline-context button{white-space:normal;max-width:125px;text-align:left}
+ html[lang=en] .entity-title h1{font-size:32px;overflow-wrap:anywhere}
+ html[lang=en] .read-actions .primary{flex:1;justify-content:center}
+ html[lang=en] .branch-banner{flex-direction:column;align-items:flex-start;gap:12px}
+}
+@media(max-width:370px){.topbar{padding-left:12px;padding-right:12px}.topbar .brand{gap:4px}.topbar .brand>svg{width:20px}.topbar nav{gap:2px}.topbar nav>button{padding:6px}.topbar nav .language-trigger>svg:last-child{display:none}.topbar nav .language-trigger{padding:6px}.topbar .brand-script{font-size:19px}}

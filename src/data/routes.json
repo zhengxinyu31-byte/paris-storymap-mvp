@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "paris-nerd",
+    "persona_id": "NERD",
+    "title": "一杯咖啡坐一天：左岸作家的思想与日常",
+    "opening": "从一份被退回的小说稿开始，沿八个真实地址读懂思想如何长进日常：炉边写作、午饭、朋友、炸弹、爵士与情书。每个街角接续一个情节，也遇见萨特、波伏娃、海明威和维昂。",
+    "closing": "最后留下的并非一张关系简单的名人合影：他们写书、相爱、争论，也需要吃饭和取暖。墓石把两个人并排留住，书与信让更多人的声音继续存在。",
+    "duration_hint": "八个故事建议预留半天，可按阅读、参观与休息的节奏安排。",
+    "walking_note": "按编号从圣日耳曼走向蒙帕纳斯，沿途串起咖啡馆、书店与作家的巴黎往事。",
+    "stops": [
+      {
+        "poi_id": "editions-gallimard",
+        "story_id": "editions-gallimard--melancholia",
+        "phase": "第一章 · 成为作家",
+        "transition": "从退稿的出版社会走到作家每日开工的地方；名声之前，先得找到一张桌子。",
+        "order": 1
+      },
+      {
+        "poi_id": "cafe-de-flore",
+        "story_id": "cafe-de-flore--stove-writing",
+        "phase": "第二章 · 写作的一天",
+        "transition": "隔着一小段街道，波伏娃从这间共同工作室走向她自己的小说与奖项。",
+        "order": 2
+      },
+      {
+        "poi_id": "les-deux-magots",
+        "story_id": "les-deux-magots--mandarins",
+        "phase": "第三章 · 她的成名作",
+        "transition": "写作者需要出版，也需要吃饭。到马路对面的Lipp，看海明威记住了怎样一顿饭。",
+        "order": 3
+      },
+      {
+        "poi_id": "brasserie-lipp",
+        "story_id": "brasserie-lipp--hemingway-meal",
+        "phase": "第四章 · 先吃饱，再写作",
+        "transition": "离开餐桌，转到附近的住宅门前；萨特的公共发言曾让私人生活直接遭到袭击。",
+        "order": 4
+      },
+      {
+        "poi_id": "sartre-bonaparte",
+        "story_id": "sartre-bonaparte--two-bombs",
+        "phase": "第五章 · 发声的代价",
+        "transition": "这座城也有另一种声响。回到战后岁月，去听维昂兄弟给地下室带来的爵士。",
+        "order": 5
+      },
+      {
+        "poi_id": "le-tabou",
+        "story_id": "le-tabou--vian-brothers",
+        "phase": "第六章 · 地下室的夜晚",
+        "transition": "从一群人的喧闹夜晚走向蒙帕纳斯，接着看波伏娃怎样安排自己的晚年生活。",
+        "order": 6
+      },
+      {
+        "poi_id": "beauvoir-schoelcher",
+        "story_id": "beauvoir-schoelcher--own-apartment",
+        "phase": "第七章 · 自己的房间",
+        "transition": "公寓旁就是这段路的终章：两个人各自生活，最后让姓名并排留在墓石上。",
+        "order": 7
+      },
+      {
+        "poi_id": "montparnasse-cemetery",
+        "story_id": "montparnasse-cemetery--shared-grave",
+        "phase": "第八章 · 关系的余音",
+        "transition": "停在合葬墓前，让一路出现的书名、餐桌、朋友与情人重新连起来。",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "id": "paris-ctrl",
+    "persona_id": "CTRL",
+    "title": "铜牌与传说，都要多看一眼",
+    "opening": "六次小核对：炼金术、电影首映、两条铜线、宪法与同名书店。标题里的“都写错了”是挑衅，不是结论；每站让证据决定相信多少。",
+    "closing": "最后带走一项轻巧技能：遇到名人故事，先问谁、何时、在哪个门牌，再让传说继续有趣。",
+    "duration_hint": "约半天；包括跨区移动及六次短停，不含长时间用餐。",
+    "walking_note": "跨歌剧院、皇家宫殿和左岸，建议分段步行并自选公共交通接驳；路线顺序服务于查证主题，未计算或保证总距离。",
+    "stops": [
+      {
+        "poi_id": "maison-de-nicolas-flamel",
+        "story_id": "maison-de-nicolas-flamel--ctrl-charity",
+        "phase": "先看人",
+        "transition": "从有地产档案的弗拉梅尔出发，转往歌剧院区核对一次放映的地址。",
+        "order": 1
+      },
+      {
+        "poi_id": "salon-indien-grand-cafe",
+        "story_id": "salon-indien-grand-cafe--ctrl-two-cafes",
+        "phase": "核对地址",
+        "transition": "从嘉布遣大道前往皇家宫殿，把门牌的精确变成对铜牌年代的追问。",
+        "order": 2
+      },
+      {
+        "poi_id": "medaillons-arago",
+        "story_id": "medaillons-arago--ctrl-modern-bronze",
+        "phase": "读懂物件",
+        "transition": "跨河前往圣叙尔比斯；街上的现代铜盘与教堂里的天文铜线是不同器物。",
+        "order": 3
+      },
+      {
+        "poi_id": "saint-sulpice",
+        "story_id": "saint-sulpice--ctrl-sunlight",
+        "phase": "核对时间",
+        "transition": "走向奥德翁区，在普罗科普把名人传说放回1787年的日历。",
+        "order": 4
+      },
+      {
+        "poi_id": "le-procope",
+        "story_id": "le-procope--ctrl-franklin-dates",
+        "phase": "拆开叙事",
+        "transition": "沿左岸前往河边书店，检查最后一次同名地点的错位。",
+        "order": 5
+      },
+      {
+        "poi_id": "shakespeare-bucherie",
+        "story_id": "shakespeare-bucherie--ctrl-two-bookshops",
+        "phase": "收束",
+        "transition": "以两家书店各自值得记住的历史结束。",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "paris-blue",
+    "persona_id": "BLUE",
+    "title": "《午夜巴黎》的十二点魔法",
+    "opening": "白天看作品，黄昏走进电影，再把时间交还今天。每站都分清取景事实、真实人物经历与电影虚构；不必熬到午夜才有魔法。",
+    "closing": "最后在河边停一会儿。你可以爱过去，也可以把下一页写在今天。",
+    "duration_hint": "可拆为两个半日；若两馆都入内，另计看展与排队时间。",
+    "walking_note": "这是一条日夜分段的取景路线；两馆、餐厅与商店各有开放要求，台阶到桥建议公共交通接驳。没有核算总步行距离，午夜到访不是必需。",
+    "stops": [
+      {
+        "poi_id": "musee-orangerie",
+        "story_id": "musee-orangerie--blue-real-time",
+        "phase": "白昼·看见作品",
+        "transition": "从橘园跨河去罗丹博物馆，把沉浸的观看换成对艺术人物的细读。",
+        "order": 1
+      },
+      {
+        "poi_id": "musee-rodin",
+        "story_id": "musee-rodin--blue-guide",
+        "phase": "白昼·听谁讲述",
+        "transition": "前往巴克街的德罗勒，进入一间被电影借用、也被现实重新建起的房间。",
+        "order": 2
+      },
+      {
+        "poi_id": "maison-deyrolle",
+        "story_id": "deyrolle--blue-rebuild",
+        "phase": "黄昏·布景与生活",
+        "transition": "转向奥德翁区；波利多会把你从标本派对带到作家偶遇。",
+        "order": 3
+      },
+      {
+        "poi_id": "polidor",
+        "story_id": "polidor--blue-hemingway",
+        "phase": "入夜·虚构偶遇",
+        "transition": "走向圣热讷维耶芙山街台阶；路线按可行游览顺序，电影中的事件顺序不同。",
+        "order": 4
+      },
+      {
+        "poi_id": "saint-etienne-du-mont",
+        "story_id": "saint-etienne-du-mont--blue-midnight",
+        "phase": "午夜·叙事分界",
+        "transition": "接驳前往亚历山大三世桥，把想逃走的时刻带回今日巴黎。",
+        "order": 5
+      },
+      {
+        "poi_id": "pont-alexandre-iii",
+        "story_id": "pont-alexandre-iii--blue-present",
+        "phase": "尾声·回到当下",
+        "transition": "在桥上收束，也可白天到访；不以重现天气或镜头为任务。",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "paris-myth",
+    "persona_id": "MYTH",
+    "title": "海明威的穷日子",
+    "opening": "从一间租屋走到一份借阅记录，再让一顿饭结束散步。“穷”是海明威回望青春的讲法；我们同时看地址、档案与他如何写自己。",
+    "closing": "这一程留下的不是模仿贫穷的方法，而是写作需要住房、阅读、他人的帮助，也需要吃饭。",
+    "duration_hint": "约半天的慢走与阅读；不含用餐等候。",
+    "walking_note": "以左岸街区相连，仍需按当天公园出口与道路情况选路。旧住宅及旧书店仅看外观；不虚报总距离，也不把今天沿途消费称为廉价。",
+    "stops": [
+      {
+        "poi_id": "hemingway-cardinal-lemoine",
+        "story_id": "hemingway-cardinal-lemoine--myth-rented-life",
+        "phase": "租住",
+        "transition": "从74号转入附近的孔特斯卡普广场，看他写下却未必喜欢的日常。",
+        "order": 1
+      },
+      {
+        "poi_id": "place-de-la-contrescarpe",
+        "story_id": "place-de-la-contrescarpe--myth-avoid-cafe",
+        "phase": "走路",
+        "transition": "离开咖啡露台，前往卢森堡公园，跟随书中的行走主题。",
+        "order": 2
+      },
+      {
+        "poi_id": "jardin-du-luxembourg",
+        "story_id": "jardin-du-luxembourg--myth-hunger-looking",
+        "phase": "看画",
+        "transition": "从公园西侧往弗勒吕斯街，走向曾让青年作家学习的沙龙门牌。",
+        "order": 3
+      },
+      {
+        "poi_id": "stein-fleurus",
+        "story_id": "stein-fleurus--myth-salon",
+        "phase": "交谈",
+        "transition": "回到奥德翁街旧书店，把名人往来落实成可检索的档案。",
+        "order": 4
+      },
+      {
+        "poi_id": "shakespeare-odeon",
+        "story_id": "shakespeare-odeon--myth-library-card",
+        "phase": "借书",
+        "transition": "向圣日耳曼大道的利普前进，让阅读之后的一餐收束故事。",
+        "order": 5
+      },
+      {
+        "poi_id": "brasserie-lipp",
+        "story_id": "brasserie-lipp--hemingway-meal",
+        "phase": "吃饭",
+        "transition": "可以自选一处吃饭，不必复刻历史菜单。",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "paris-dodo",
+    "persona_id": "DODO",
+    "title": "蒙马特的画家们",
+    "opening": "先别找一个抽象的“艺术家巴黎”。这六站各有一件具体的事：接广告、借住弟弟家、在工作室试画、记录舞会、经营自己的创作生活、替酒馆老板作画。山坡上的门牌会把名画重新接回日常。",
+    "closing": "从红磨坊的商业海报到狡兔酒馆的一幅委托，画家的巴黎既有试验，也有房租、饭食和同伴。挑一位你愿意继续认识的人，再去收藏他或她作品的博物馆。",
+    "duration_hint": "外观故事约2—3小时；进蒙马特博物馆另留约1小时。均为规划估时。",
+    "walking_note": "蒙马特同一区域，可选择3—4站，不必强制顺序。坡道与台阶较多；未做无障碍入口勘察。",
+    "stops": [
+      {
+        "poi_id": "moulin-rouge",
+        "story_id": "dodo--lautrec-poster",
+        "phase": "山脚 · 广告与生计",
+        "transition": "从Blanche一带开始，沿勒皮克街上坡去看凡高兄弟旧居。",
+        "order": 1
+      },
+      {
+        "poi_id": "van-gogh-rue-lepic",
+        "story_id": "dodo--van-gogh-window",
+        "phase": "上坡 · 借来的房间",
+        "transition": "可绕到埃米尔—古多广场读毕加索，也可先去更近的煎饼磨坊。",
+        "order": 2
+      },
+      {
+        "poi_id": "bateau-lavoir",
+        "story_id": "dodo--picasso-workshop",
+        "phase": "工作室 · 未被承认的实验",
+        "transition": "沿山坡前往勒皮克街与吉拉尔东街一带；台阶可用绕行缓坡替代。",
+        "order": 3
+      },
+      {
+        "poi_id": "moulin-de-la-galette",
+        "story_id": "dodo--renoir-dance",
+        "phase": "舞场 · 人群成为题材",
+        "transition": "再往科尔托街，下一站把目光交给瓦拉东自己的工作。",
+        "order": 4
+      },
+      {
+        "poi_id": "musee-montmartre",
+        "story_id": "dodo--valadon-studio",
+        "phase": "房间 · 女性画家的位置",
+        "transition": "购票参观可独立增加约一小时；随后下到索勒街看狡兔外观。",
+        "order": 5
+      },
+      {
+        "poi_id": "au-lapin-agile",
+        "story_id": "dodo--lapin-picasso",
+        "phase": "酒馆 · 一幅画的交换",
+        "transition": "白天在外观读完即可；晚间演出是可另行安排的体验。",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "paris-budd",
+    "persona_id": "BUDD",
+    "title": "拉雪兹神父公墓的名人局",
+    "opening": "这里的“局”不必热闹。沿六处墓地，读演出、迁移、流亡、共同生活与被听见的经历；用墓区地图找路，把安静留给祭扫者。",
+    "closing": "离开时带走一个此前没留意的名字，或一部想读、想听的作品。让纪念继续发生在生活里。",
+    "duration_hint": "约2—3小时含寻找、停留与休息；园内路径选择会改变用时。",
+    "walking_note": "六站均为公墓子POI，仅提供官方墓区号，精确墓位坐标全部留空。公墓父点仅供到达参考；园内有坡道和不平石路，本稿不是无障碍导航，不提供未经测量的总距离。",
+    "stops": [
+      {
+        "poi_id": "pere-lachaise-jim-morrison",
+        "story_id": "pere-lachaise-jim-morrison--budd-listeners",
+        "phase": "听众还在",
+        "transition": "从第6墓区转向第11墓区，听另一位音乐家与两座城市的关系。",
+        "order": 1
+      },
+      {
+        "poi_id": "pere-lachaise-chopin",
+        "story_id": "pere-lachaise-chopin--budd-two-cities",
+        "phase": "两座城市",
+        "transition": "往第25墓区寻找莫里哀，换一种方式核对最后的演出。",
+        "order": 2
+      },
+      {
+        "poi_id": "pere-lachaise-moliere",
+        "story_id": "pere-lachaise-moliere--budd-last-performance",
+        "phase": "传说的结尾",
+        "transition": "前往较远的第89墓区；中途可休息，按官方地图选园路。",
+        "order": 3
+      },
+      {
+        "poi_id": "pere-lachaise-oscar-wilde",
+        "story_id": "pere-lachaise-oscar-wilde--budd-monument",
+        "phase": "被观看的自由",
+        "transition": "转往第94墓区，让一个纪念名字变成两个人的关系。",
+        "order": 4
+      },
+      {
+        "poi_id": "pere-lachaise-stein-toklas",
+        "story_id": "pere-lachaise-stein-toklas--budd-two-names",
+        "phase": "两个名字",
+        "transition": "前往第97墓区，在歌手的职业起点处收束人生故事。",
+        "order": 5
+      },
+      {
+        "poi_id": "pere-lachaise-edith-piaf",
+        "story_id": "pere-lachaise-edith-piaf--budd-name",
+        "phase": "被听见",
+        "transition": "按当日开放出口离园，不为走完路线赶入关闭区域。",
+        "order": 6
+      }
+    ]
+  },
+  {
+    "id": "paris-goat",
+    "persona_id": "GOAT",
+    "title": "《爱在日落黄昏时》的那个下午",
+    "opening": "从书店里的重逢到公寓里的歌，一下午被两个人一再延长。这里按电影的情绪顺序读七章，同时把剪辑替他们省略的交通补回来：左岸、玛黑区、东巴黎与塞纳河岸之间，真实距离并不短。",
+    "closing": "故事在私人住宅的门外收束。可以重看结尾，也可以只留下书店、咖啡馆或绿道中的一章：你来巴黎，不必替电影证明两个人真的在八十分钟里走遍全城。",
+    "duration_hint": "全线预留半天至一天，约5—7小时为含停留与交通的规划估时；也可任选1—3章。",
+    "walking_note": "这是一条跨区电影章节线，不是轻松连续步行。若强行按剧情顺序全走，属约10公里量级并有折返；地图折线不是导航或实测轨迹。搭车时间按出发当日查询，游船不计为必选。",
+    "stops": [
+      {
+        "poi_id": "shakespeare-bucherie",
+        "story_id": "goat--bookshop-reunion",
+        "phase": "第一章 · 重逢",
+        "transition": "可先读左岸章节；若按剧情继续，跨河到玛黑区，实际路程与银幕剪辑不同。",
+        "order": 1
+      },
+      {
+        "poi_id": "rue-des-jardins-saint-paul",
+        "story_id": "goat--marais-cut",
+        "phase": "第一章 · 重新认识",
+        "transition": "下一站在11区。建议查当日公交或地铁去Charonne附近，别把剪辑当成隔壁转角。",
+        "order": 2
+      },
+      {
+        "poi_id": "le-pure-cafe",
+        "story_id": "goat--pure-new-york",
+        "phase": "第二章 · 如果当年",
+        "transition": "咖啡馆与高架步道可合成东巴黎半日章；步行衔接仍需留出时间。",
+        "order": 3
+      },
+      {
+        "poi_id": "coulee-verte-rene-dumont",
+        "story_id": "goat--promenade-height",
+        "phase": "第二章 · 并肩",
+        "transition": "下一站折返圣母院附近。推荐搭车，也可在这里结束东巴黎章。",
+        "order": 4
+      },
+      {
+        "poi_id": "quai-de-la-tournelle",
+        "story_id": "goat--boat-departure",
+        "phase": "第三章 · 再延长一点",
+        "transition": "现实中沿公共步道与桥梁前往亨利四世河岸；不按电影寻找临时登船服务。",
+        "order": 5
+      },
+      {
+        "poi_id": "quai-henri-iv",
+        "story_id": "goat--henri-delay",
+        "phase": "第三章 · 告别的借口",
+        "transition": "最后再往巴士底一侧的圣安托万郊区街，步行或搭车均另计时间。",
+        "order": 6
+      },
+      {
+        "poi_id": "cour-etoile-or",
+        "story_id": "goat--courtyard-ending",
+        "phase": "尾声 · 把时间留下",
+        "transition": "在私人庭院入口外结束；不要跟随住户进门。",
+        "order": 7
+      }
+    ]
+  },
+  {
+    "id": "paris-time",
+    "persona_id": "TIME",
+    "title": "Emily in Paris：把镜头里的生活串起来",
+    "opening": "这是艾米莉·库珀的巴黎，主线取自《艾米莉在巴黎》第一季。从住处和晨跑，到午休交友、办公室与广告拍摄，八站各自对应一件发生过的剧情；人物是虚构的，街道是你可以走到的。",
+    "closing": "拍完桥上的照片，也可以想想这一天里哪一种生活最值得带走：一个能重复的早晨、一位可以午休聊天的朋友，或一次替自己作出的决定。",
+    "duration_hint": "外观与故事约半天，建议预留4—6小时；进店、歌剧院参观另计。规划估时。",
+    "walking_note": "按真实地理串联左岸与右岸，跨区路段可搭车；不宣称是剧中一天的连续动线。自由选择上午左岸四站或下午右岸四站，地图折线仅为章节关系。",
+    "stops": [
+      {
+        "poi_id": "place-de-lestrapade",
+        "story_id": "time--estrapade-neighbours",
+        "phase": "上午 · 邻里",
+        "transition": "从广场向先贤祠走，住宅外观停留保持安静。",
+        "order": 1
+      },
+      {
+        "poi_id": "pantheon",
+        "story_id": "time--pantheon-call",
+        "phase": "上午 · 一通电话",
+        "transition": "转往卢森堡公园，园门开放时再进入。",
+        "order": 2
+      },
+      {
+        "poi_id": "jardin-du-luxembourg",
+        "story_id": "time--luxembourg-jog",
+        "phase": "上午 · 新的日常",
+        "transition": "沿左岸去圣日耳曼德佩；可在花神外观读故事或自行点餐。",
+        "order": 3
+      },
+      {
+        "poi_id": "cafe-de-flore",
+        "story_id": "time--flore-thomas",
+        "phase": "午间 · 咖啡馆相遇",
+        "transition": "从左岸过河到皇家宫殿，路程较长；累了可直接搭车。",
+        "order": 4
+      },
+      {
+        "poi_id": "palais-royal",
+        "story_id": "time--royal-mindy",
+        "phase": "下午 · 第一个朋友",
+        "transition": "花园和瓦卢瓦广场相邻，下一站走到办公楼外观即可。",
+        "order": 5
+      },
+      {
+        "poi_id": "place-de-valois",
+        "story_id": "time--valois-office",
+        "phase": "下午 · 上班的门口",
+        "transition": "往歌剧院方向移动；这一段按真实地理排，不是剧集播放顺序。",
+        "order": 6
+      },
+      {
+        "poi_id": "palais-garnier",
+        "story_id": "time--garnier-choice",
+        "phase": "傍晚 · 替自己选择",
+        "transition": "最后转向塞纳河的亚历山大三世桥，建议按体力步行或搭车。",
+        "order": 7
+      },
+      {
+        "poi_id": "pont-alexandre-iii",
+        "story_id": "time--alexandre-advert",
+        "phase": "收尾 · 谁在看广告",
+        "transition": "在公共人行道完成最后一章，想停留就把晚餐另行安排。",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "id": "paris-bee",
+    "persona_id": "BEE",
+    "title": "《天使爱美丽》：蒙马特的小小善意",
+    "opening": "这条线讲Amélie Poulain——《天使爱美丽》的艾美丽，不是Emily in Paris。铁盒、电影院、杂货店和地铁口，把蒙马特连成一个充满细小善意的故事。六站留在山坡，运河是可以另日阅读的尾声。",
+    "closing": "不必把七站全部打卡。看完一场电影、认真给同行者描述一条街，或者安静看一会儿水面，都能让这次散步带走一点属于你自己的细节。",
+    "duration_hint": "蒙马特六站约2.5—3.5小时；运河尾声另留交通及停留约1—1.5小时。规划估时，电影放映另计。",
+    "walking_note": "蒙马特部分可自由选站，坡道与台阶多；运河在另一片区，单独搭车或另日阅读。不是15分钟路线，也不把剪辑后的银幕地理当成导航。",
+    "stops": [
+      {
+        "poi_id": "cafe-des-deux-moulins",
+        "story_id": "bee--two-mills",
+        "phase": "上班的街区",
+        "transition": "从咖啡馆向Tholozé街上坡，去影院门口看看今天放什么。",
+        "order": 1
+      },
+      {
+        "poi_id": "studio-28",
+        "story_id": "bee--studio-audience",
+        "phase": "银幕与观众",
+        "transition": "再向三兄弟街的杂货店走；想看电影可以在这里暂停整条路线。",
+        "order": 2
+      },
+      {
+        "poi_id": "maison-collignon",
+        "story_id": "bee--collignon-box",
+        "phase": "铁盒与邻居",
+        "transition": "往圣心堂下方花园方向上坡；可以走台阶，也可另选缆车。",
+        "order": 3
+      },
+      {
+        "poi_id": "sacre-coeur",
+        "story_id": "bee--sacre-arrows",
+        "phase": "追寻游戏",
+        "transition": "从山顶街区绕到圣樊尚街，进入葡萄园旁较安静的街段。",
+        "order": 4
+      },
+      {
+        "poi_id": "rue-saint-vincent",
+        "story_id": "bee--saint-vincent-opening",
+        "phase": "把镜头缩小",
+        "transition": "顺坡往Lamarck–Caulaincourt站口走，注意长台阶。",
+        "order": 5
+      },
+      {
+        "poi_id": "lamarck-caulaincourt",
+        "story_id": "bee--lamarck-description",
+        "phase": "把街景说给别人",
+        "transition": "蒙马特主线可在这里结束。运河尾声不相邻，另查公共交通前往République或Jacques Bonsergent一带。",
+        "order": 6
+      },
+      {
+        "poi_id": "canal-saint-martin-amelie",
+        "story_id": "bee--canal-small-pleasure",
+        "phase": "可选尾声 · 水纹",
+        "transition": "在公共河岸停留即可，不需要投石重演。",
+        "order": 7
+      }
+    ]
+  },
+  {
+    "id": "paris-lord",
+    "persona_id": "LORD",
+    "title": "有钱人的怪癖，后来都成了景点",
+    "opening": "有些人的日常，后来成了我们专程前往的地方。读侦探住过的拱廊、普鲁斯特的餐桌，再看看收藏与一场大火怎样留下另一种巴黎。",
+    "closing": "最后留下的，不只是财富。是人如何挑选物件、讲述自己，又把私人品味交给后来者。",
+    "duration_hint": "整日 6–7 小时，其中下午茶单独占 1.5 小时。低 planning 人格建议只锁定下午茶时段，其余随走随停。",
+    "walking_note": "这些章节分布在不同片区，建议选择部分停留并搭乘公共交通。城外地点需单独安排。",
+    "stops": [
+      {
+        "poi_id": "galerie-vivienne",
+        "story_id": "galerie-vivienne--archive-1",
+        "phase": "第1章",
+        "transition": "下一章，韦罗-多达拱廊继续这个主题。",
+        "visit_note": "",
+        "order": 1
+      },
+      {
+        "poi_id": "galerie-vero-dodat",
+        "story_id": "galerie-vero-dodat--archive-1",
+        "phase": "第2章",
+        "transition": "下一章，加利尼亚尼书店继续这个主题。",
+        "visit_note": "",
+        "order": 2
+      },
+      {
+        "poi_id": "librairie-galignani",
+        "story_id": "librairie-galignani--archive-1",
+        "phase": "第3章",
+        "transition": "下一章，莫里斯酒店 · 达利餐厅继续这个主题。",
+        "visit_note": "",
+        "order": 3
+      },
+      {
+        "poi_id": "hotel-le-meurice-dali",
+        "story_id": "hotel-le-meurice-dali--archive-1",
+        "phase": "第4章",
+        "transition": "下一章，巴黎丽兹酒店（海明威酒吧）继续这个主题。",
+        "visit_note": "",
+        "order": 4
+      },
+      {
+        "poi_id": "ritz-paris",
+        "story_id": "ritz-paris--archive-1",
+        "phase": "第5章",
+        "transition": "下一章，科尼亚克-热博物馆（多农公馆）继续这个主题。",
+        "visit_note": "",
+        "order": 5
+      },
+      {
+        "poi_id": "musee-cognacq-jay",
+        "story_id": "musee-cognacq-jay--archive-1",
+        "phase": "第6章",
+        "transition": "下一章，德罗勒自然标本店继续这个主题。",
+        "visit_note": "地铁卫星站，10–15 分钟",
+        "order": 6
+      },
+      {
+        "poi_id": "maison-deyrolle",
+        "story_id": "maison-deyrolle--archive-1",
+        "phase": "第7章",
+        "transition": "下一章，雅克马尔-安德烈博物馆继续这个主题。",
+        "visit_note": "地铁卫星站，10–15 分钟",
+        "order": 7
+      },
+      {
+        "poi_id": "musee-jacquemart-andre",
+        "story_id": "musee-jacquemart-andre--archive-1",
+        "phase": "第8章",
+        "transition": "",
+        "visit_note": "地铁卫星站，10–15 分钟",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "id": "paris-boss",
+    "persona_id": "BOSS",
+    "title": "桌上的排面：巴黎名店坐席学",
+    "opening": "一只鸭子的编号、一张桌子的铭牌、一道通往二楼的楼梯：巴黎的老餐厅，把身份和故事摆在了桌上。",
+    "closing": "读懂一张餐桌，也就读懂一部分城市的社交史。不必每家都用餐，挑一个让你好奇的故事坐下来。",
+    "duration_hint": "建议 2 天：右岸半天 + 午餐，左岸半天 + 晚餐，Le Train Bleu 可作为离开巴黎当天的告别午餐。",
+    "walking_note": "这些章节分布在不同片区，建议选择部分停留并搭乘公共交通。城外地点需单独安排。",
+    "stops": [
+      {
+        "poi_id": "la-tour-dargent",
+        "story_id": "la-tour-dargent--archive-1",
+        "phase": "第1章",
+        "transition": "下一章，大维富餐厅继续这个主题。",
+        "visit_note": "",
+        "order": 1
+      },
+      {
+        "poi_id": "le-grand-vefour",
+        "story_id": "le-grand-vefour--archive-2",
+        "phase": "第2章",
+        "transition": "下一章，马克西姆餐厅继续这个主题。",
+        "visit_note": "",
+        "order": 2
+      },
+      {
+        "poi_id": "maxims",
+        "story_id": "maxims--archive-1",
+        "phase": "第3章",
+        "transition": "下一章，蓝色列车餐厅继续这个主题。",
+        "visit_note": "",
+        "order": 3
+      },
+      {
+        "poi_id": "le-train-bleu",
+        "story_id": "le-train-bleu--archive-1",
+        "phase": "第4章",
+        "transition": "下一章，利普啤酒馆继续这个主题。",
+        "visit_note": "",
+        "order": 4
+      },
+      {
+        "poi_id": "brasserie-lipp",
+        "story_id": "brasserie-lipp--archive-1",
+        "phase": "第5章",
+        "transition": "下一章，哈利纽约酒吧继续这个主题。",
+        "visit_note": "",
+        "order": 5
+      },
+      {
+        "poi_id": "harrys-new-york-bar",
+        "story_id": "harrys-new-york-bar--archive-1",
+        "phase": "第6章",
+        "transition": "下一章，和平咖啡馆继续这个主题。",
+        "visit_note": "",
+        "order": 6
+      },
+      {
+        "poi_id": "cafe-de-la-paix",
+        "story_id": "cafe-de-la-paix--archive-1",
+        "phase": "第7章",
+        "transition": "",
+        "visit_note": "",
+        "order": 7
+      }
+    ]
+  },
+  {
+    "id": "paris-free",
+    "persona_id": "FREE",
+    "title": "一个人的巴黎时刻表：从水下到屋顶",
+    "opening": "从电影里的泳池到书店、运河与屋顶，把一个人的一天交给不同高度的巴黎。你可以只选其中两三章，留出发呆的空白。",
+    "closing": "巴黎不需要被一天走完。今天读到的一个场景，也可以成为下一次独自出门的理由。",
+    "duration_hint": "一整天约 12 小时（07:00–23:00），含 2.5 小时游船。这是一条真按小时排满的线。",
+    "walking_note": "这些章节分布在不同片区，建议选择部分停留并搭乘公共交通。城外地点需单独安排。",
+    "stops": [
+      {
+        "poi_id": "piscine-pontoise",
+        "story_id": "piscine-pontoise--archive-2",
+        "phase": "第1章",
+        "transition": "下一章，阿拉伯世界研究所 · 9 层全景天台继续这个主题。",
+        "visit_note": "",
+        "order": 1
+      },
+      {
+        "poi_id": "institut-du-monde-arabe",
+        "story_id": "institut-du-monde-arabe--archive-1",
+        "phase": "第2章",
+        "transition": "下一章，塞纳河畔旧书摊继续这个主题。",
+        "visit_note": "",
+        "order": 2
+      },
+      {
+        "poi_id": "bouquinistes-quais-de-seine",
+        "story_id": "bouquinistes-quais-de-seine--archive-1",
+        "phase": "第3章",
+        "transition": "下一章，莎士比亚书店现店继续这个主题。",
+        "visit_note": "",
+        "order": 3
+      },
+      {
+        "poi_id": "shakespeare-bucherie",
+        "story_id": "goat--bookshop-reunion",
+        "phase": "第4章",
+        "transition": "下一章，圣马丁运河「老巴黎」游船继续这个主题。",
+        "visit_note": "4→5 段需地铁",
+        "order": 4
+      },
+      {
+        "poi_id": "canal-saint-martin-cruise",
+        "story_id": "canal-saint-martin-cruise--archive-1",
+        "phase": "第5章",
+        "transition": "下一章，狩猎与自然博物馆继续这个主题。",
+        "visit_note": "5→6 段需地铁",
+        "order": 5
+      },
+      {
+        "poi_id": "musee-chasse-nature",
+        "story_id": "musee-chasse-nature--archive-1",
+        "phase": "第6章",
+        "transition": "下一章，老佛爷百货奥斯曼店 · 屋顶平台继续这个主题。",
+        "visit_note": "",
+        "order": 6
+      },
+      {
+        "poi_id": "galeries-lafayette-rooftop",
+        "story_id": "galeries-lafayette-rooftop--archive-1",
+        "phase": "第7章",
+        "transition": "下一章，夏蒂埃汤馆（大马路店）继续这个主题。",
+        "visit_note": "",
+        "order": 7
+      },
+      {
+        "poi_id": "bouillon-chartier-grands-boulevards",
+        "story_id": "bouillon-chartier-grands-boulevards--archive-1",
+        "phase": "第8章",
+        "transition": "",
+        "visit_note": "",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "id": "paris-wind",
+    "persona_id": "WIND",
+    "title": "废线之上：一条被巴黎丢掉的路",
+    "opening": "列车停了，城市却没有停止生长。沿着旧铁路、山坡与水岸，看看废弃空间如何长出花园，又保留普通人的记忆。",
+    "closing": "铁路留下的是连接，今天连接它们的也可以是你的目光。只走开放路段，未走到的部分留在故事里。",
+    "duration_hint": "这是一整天的行程，不可能半天走完。建议早 8:00 从 Bastille 出发，慢走 + 休息 6–8 小时，傍晚在 Bassin de la Villette 收尾。可在第 4 站（Ménilmontant）切成两天。全线免费。",
+    "walking_note": "长距离主题，原研究估算全线约 14–15 公里。可分段阅读和游览，废铁道仅进入合法开放段。",
+    "stops": [
+      {
+        "poi_id": "coulee-verte-rene-dumont",
+        "story_id": "coulee-verte-rene-dumont--archive-2",
+        "phase": "第1章",
+        "transition": "下一章，小环城铁道 12 区步道（PC12）继续这个主题。",
+        "visit_note": "Bastille → Square Charles Péguy，沿 Coulée verte 主线，东南向",
+        "order": 1
+      },
+      {
+        "poi_id": "petite-ceinture-12e",
+        "story_id": "petite-ceinture-12e--archive-1",
+        "phase": "第2章",
+        "transition": "下一章，小环城 20 区段与夏隆讷林继续这个主题。",
+        "visit_note": "Square Charles Péguy → PC12 圣芒代大道端，东向",
+        "order": 2
+      },
+      {
+        "poi_id": "bois-de-charonne-pc20",
+        "story_id": "bois-de-charonne-pc20--archive-1",
+        "phase": "第3章",
+        "transition": "下一章，小环城 20 区 Couronnes 段继续这个主题。",
+        "visit_note": "PC12 出口 → Cours de Vincennes 103 号入口（PC20 南入口），北向过马路。原语料把 PC20 入口与夏隆讷林合为一站，本条线的第 3→4 站之间另含 Bois de Charonne → rue de la Volga 约 1.5 km 的 PC20 段步行",
+        "order": 3
+      },
+      {
+        "poi_id": "pc20-couronnes",
+        "story_id": "pc20-couronnes--archive-1",
+        "phase": "第4章",
+        "transition": "下一章，美丽城公园（Willy Ronis 观景台）继续这个主题。",
+        "visit_note": "⚠️ 夜间闭园。注意 PC20 在 rue de la Volga 与 rue des Couronnes 之间因产权分段而断开，其间 2.8 km 必须走地面街道（Ménilmontant / Pyrénées 一带），没有铁轨景观",
+        "order": 4
+      },
+      {
+        "poi_id": "parc-de-belleville",
+        "story_id": "parc-de-belleville--archive-1",
+        "phase": "第5章",
+        "transition": "下一章，贝尔热尔山丘 / 修石灰工匠葡萄园继续这个主题。",
+        "visit_note": "⚠️ 全程最大断点：5→6 段的 2.8 km 为地面城市街道步行",
+        "order": 5
+      },
+      {
+        "poi_id": "butte-bergeyre",
+        "story_id": "butte-bergeyre--archive-1",
+        "phase": "第6章",
+        "transition": "下一章，肖蒙山丘公园继续这个主题。",
+        "visit_note": "北向上坡，经 rue Georges-Lardennois。⚠️ 葡萄园/陡坡花园不开放，只能从街角看出去",
+        "order": 6
+      },
+      {
+        "poi_id": "parc-des-buttes-chaumont",
+        "story_id": "parc-des-buttes-chaumont--archive-1",
+        "phase": "第7章",
+        "transition": "下一章，维莱特圆亭 / 维莱特水池 / 乌尔克运河继续这个主题。",
+        "visit_note": "⚠️ 核心区（岛、西比拉神庙、瀑布）封闭，只能远眺",
+        "order": 7
+      },
+      {
+        "poi_id": "rotonde-bassin-de-la-villette",
+        "story_id": "rotonde-bassin-de-la-villette--archive-1",
+        "phase": "第8章",
+        "transition": "",
+        "visit_note": "终点段；沿 Bassin de la Villette 北岸可再走约 2.4 km 到 Parc de la Villette",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "id": "paris-shan",
+    "persona_id": "SHAN",
+    "title": "一起吃、一起跳：巴黎的大桌子考古",
+    "opening": "为便宜的酒走到城外，为一顿午餐坐上阳台，为音乐在河边聚起来。一起吃、一起跳的巴黎，有一条很长的来路。",
+    "closing": "让一张餐桌变得特别的，往往是坐在旁边的人。挑一处当作相聚的起点，比走完所有站更有意义。",
+    "duration_hint": "建议 2 天：市内 1 天（下午市集 → 傍晚屋顶 → 夜里 guinguette），河畔 1 天（周日最佳，有乐队和舞会）。",
+    "walking_note": "这些章节分布在不同片区，建议选择部分停留并搭乘公共交通。城外地点需单独安排。",
+    "stops": [
+      {
+        "poi_id": "marche-des-enfants-rouges",
+        "story_id": "marche-des-enfants-rouges--archive-1",
+        "phase": "第1章",
+        "transition": "下一章，玫瑰丰收露天舞场（肖蒙山丘店）继续这个主题。",
+        "visit_note": "",
+        "order": 1
+      },
+      {
+        "poi_id": "rosa-bonheur-buttes-chaumont",
+        "story_id": "rosa-bonheur-buttes-chaumont--archive-1",
+        "phase": "第2章",
+        "transition": "下一章，塞纳河上的玫瑰丰收继续这个主题。",
+        "visit_note": "",
+        "order": 2
+      },
+      {
+        "poi_id": "rosa-bonheur-sur-seine",
+        "story_id": "rosa-bonheur-sur-seine--archive-1",
+        "phase": "第3章",
+        "transition": "下一章，翠鸟岛露天舞场继续这个主题。",
+        "visit_note": "",
+        "order": 3
+      },
+      {
+        "poi_id": "guinguette-ile-du-martin-pecheur",
+        "story_id": "guinguette-ile-du-martin-pecheur--archive-1",
+        "phase": "城外支线",
+        "transition": "下一章，富尔奈斯之家继续这个主题。",
+        "visit_note": "RER A（Champigny-sur-Marne）",
+        "order": 4
+      },
+      {
+        "poi_id": "maison-fournaise",
+        "story_id": "maison-fournaise--archive-1",
+        "phase": "城外支线",
+        "transition": "下一章，回收站（旧奥尔纳诺火车站）继续这个主题。",
+        "visit_note": "RER A（Chatou）",
+        "order": 5
+      },
+      {
+        "poi_id": "la-recyclerie",
+        "story_id": "la-recyclerie--archive-1",
+        "phase": "第6章",
+        "transition": "下一章，栖木屋顶酒吧（梅尼蒙当店）继续这个主题。",
+        "visit_note": "",
+        "order": 6
+      },
+      {
+        "poi_id": "le-perchoir-menilmontant",
+        "story_id": "le-perchoir-menilmontant--archive-1",
+        "phase": "第7章",
+        "transition": "",
+        "visit_note": "",
+        "order": 7
+      }
+    ]
+  },
+  {
+    "id": "paris-rest",
+    "persona_id": "REST",
+    "title": "没人来赶你：巴黎的七个不走也行的地方",
+    "opening": "椅子也有历史，书店也有待客的方法。今天不赶路，挑一处能停下来的地方，读它为什么让人愿意多待一会儿。",
+    "closing": "不走完也可以。一本书、一把椅子、一段树荫，已经足够组成今天的巴黎。",
+    "duration_hint": "建议一天挑 2 站、每站待 2–4 小时。低 planning 人格不排时刻表。",
+    "walking_note": "松散地点集合，今天挑 1–2 处即可；不要求按章节顺序步行。",
+    "stops": [
+      {
+        "poi_id": "grande-mosquee-de-paris",
+        "story_id": "grande-mosquee-de-paris--archive-1",
+        "phase": "第1章",
+        "transition": "下一章，卢森堡公园继续这个主题。",
+        "visit_note": "",
+        "order": 1
+      },
+      {
+        "poi_id": "jardin-du-luxembourg",
+        "story_id": "jardin-du-luxembourg--archive-1",
+        "phase": "第2章",
+        "transition": "下一章，皇家宫殿花园与布伦柱《两个平台》继续这个主题。",
+        "visit_note": "",
+        "order": 2
+      },
+      {
+        "poi_id": "palais-royal",
+        "story_id": "palais-royal--archive-1",
+        "phase": "第3章",
+        "transition": "下一章，蓬图瓦兹泳池继续这个主题。",
+        "visit_note": "",
+        "order": 3
+      },
+      {
+        "poi_id": "piscine-pontoise",
+        "story_id": "piscine-pontoise--archive-2",
+        "phase": "第4章",
+        "transition": "下一章，莎士比亚书店现店继续这个主题。",
+        "visit_note": "",
+        "order": 4
+      },
+      {
+        "poi_id": "shakespeare-bucherie",
+        "story_id": "shakespeare-bucherie--archive-1",
+        "phase": "第5章",
+        "transition": "下一章，巴黎植物园（国立自然史博物馆）继续这个主题。",
+        "visit_note": "",
+        "order": 5
+      },
+      {
+        "poi_id": "jardin-des-plantes",
+        "story_id": "jardin-des-plantes--archive-1",
+        "phase": "第6章",
+        "transition": "下一章，巴加泰勒公园（玫瑰园）继续这个主题。",
+        "visit_note": "",
+        "order": 6
+      },
+      {
+        "poi_id": "parc-de-bagatelle",
+        "story_id": "parc-de-bagatelle--archive-1",
+        "phase": "第7章",
+        "transition": "",
+        "visit_note": "",
+        "order": 7
+      }
+    ]
+  },
+  {
+    "id": "paris-cute",
+    "persona_id": "CUTE",
+    "title": "街头扭蛋：巴黎怪东西捡漏指南",
+    "opening": "有人从墙里探出身子，有人把外星人贴上高楼，还有一位“炼金术士”留下了真正的房子。把街角当作一本可以随手翻开的奇闻集。",
+    "closing": "不需要答对什么，也不用收集齐全。记住一个今天才发现的小怪东西，就已经不虚此行。",
+    "duration_hint": "不强制站序，按片区从八个故事中就近挑选；用时随选择的地点和停留而定。",
+    "walking_note": "按片区挑选的 8 个故事，可就近探索；其余地点仍可在知识库浏览。",
+    "stops": [
+      {
+        "poi_id": "passe-muraille",
+        "story_id": "passe-muraille--archive-1",
+        "phase": "蒙马特 18e",
+        "transition": "下一章，莱昂德尔巷（伪伦敦小巷）继续这个主题。",
+        "visit_note": "",
+        "order": 1
+      },
+      {
+        "poi_id": "villa-leandre",
+        "story_id": "villa-leandre--archive-1",
+        "phase": "蒙马特 18e",
+        "transition": "下一章，斯特拉文斯基喷泉（机器人喷泉）继续这个主题。",
+        "visit_note": "",
+        "order": 2
+      },
+      {
+        "poi_id": "fontaine-stravinsky",
+        "story_id": "fontaine-stravinsky--archive-1",
+        "phase": "蓬皮杜/玛黑 3e-4e",
+        "transition": "下一章，Invader 第 1500 号巴黎马赛克（蓬皮杜中心）继续这个主题。",
+        "visit_note": "",
+        "order": 3
+      },
+      {
+        "poi_id": "invader-pa-1500-pompidou",
+        "story_id": "invader-pa-1500-pompidou--archive-1",
+        "phase": "蓬皮杜/玛黑 3e-4e",
+        "transition": "下一章，尼古拉·弗拉梅尔之家继续这个主题。",
+        "visit_note": "",
+        "order": 4
+      },
+      {
+        "poi_id": "maison-de-nicolas-flamel",
+        "story_id": "maison-de-nicolas-flamel--ctrl-charity",
+        "phase": "蓬皮杜/玛黑 3e-4e",
+        "transition": "下一章，钓鱼猫街继续这个主题。",
+        "visit_note": "",
+        "order": 5
+      },
+      {
+        "poi_id": "rue-du-chat-qui-peche",
+        "story_id": "rue-du-chat-qui-peche--archive-1",
+        "phase": "拉丁区 5e",
+        "transition": "下一章，阿拉戈铜牌·皇家宫殿周边继续这个主题。",
+        "visit_note": "",
+        "order": 6
+      },
+      {
+        "poi_id": "medaillons-arago",
+        "story_id": "medaillons-arago--archive-1",
+        "phase": "贯穿全城 1/2/6/9/14/18e",
+        "transition": "下一章，天鹅岛自由女神像继续这个主题。",
+        "visit_note": "",
+        "order": 7
+      },
+      {
+        "poi_id": "statue-liberte-ile-aux-cygnes",
+        "story_id": "statue-liberte-ile-aux-cygnes--archive-1",
+        "phase": "西部 15e",
+        "transition": "",
+        "visit_note": "",
+        "order": 8
+      }
+    ]
+  }
+]

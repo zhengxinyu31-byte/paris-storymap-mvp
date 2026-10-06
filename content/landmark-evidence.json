@@ -1,0 +1,465 @@
+{
+  "pont-alexandre-iii": {
+    "url": "https://data.geopf.fr/geocodage/search?q=Pont+Alexandre+III+Paris&index=poi&limit=3",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.313554,
+            48.863659
+          ]
+        },
+        "properties": {
+          "name": [
+            "Pont Alexandre III"
+          ],
+          "toponym": "Pont Alexandre III",
+          "category": [
+            "pont",
+            "construction",
+            "construction surfacique"
+          ],
+          "postcode": [
+            "75008",
+            "75007"
+          ],
+          "citycode": [
+            "75108",
+            "75056",
+            "75107"
+          ],
+          "depcode": [
+            "75"
+          ],
+          "city": [
+            "Paris 8e Arrondissement",
+            "Paris",
+            "Paris 7e Arrondissement"
+          ],
+          "extrafields": {
+            "cleabs": "CONSSURF0000000000148141"
+          },
+          "classification": 7,
+          "territory": "METROPOLE",
+          "score": 0.4367504835589941,
+          "_type": "poi"
+        }
+      }
+    ],
+    "query": "Pont Alexandre III Paris"
+  },
+  "parc-de-bagatelle": {
+    "url": "https://data.geopf.fr/geocodage/search?q=Parc+de+Bagatelle+Paris&index=poi&limit=3",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.672358,
+            44.824573
+          ]
+        },
+        "properties": {
+          "name": [
+            "Parc Bagatelle"
+          ],
+          "toponym": "Parc Bagatelle",
+          "category": [
+            "zone industrielle",
+            "zone d'activité ou d'intérêt"
+          ],
+          "postcode": [
+            "33700"
+          ],
+          "citycode": [
+            "33281"
+          ],
+          "depcode": [
+            "33"
+          ],
+          "city": [
+            "Mérignac"
+          ],
+          "extrafields": {
+            "cleabs": "SURFACTI0000002207435048"
+          },
+          "classification": 7,
+          "territory": "METROPOLE",
+          "score": 0.387012987012987,
+          "_type": "poi"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0.088782,
+            49.369889
+          ]
+        },
+        "properties": {
+          "name": [
+            "le Parc de Bagatelle"
+          ],
+          "toponym": "le Parc de Bagatelle",
+          "category": [
+            "quartier",
+            "zone d'habitation"
+          ],
+          "postcode": [
+            "14360"
+          ],
+          "citycode": [
+            "14715"
+          ],
+          "depcode": [
+            "14"
+          ],
+          "city": [
+            "Trouville-sur-Mer"
+          ],
+          "extrafields": {
+            "cleabs": "PAIHABIT0000000329321659"
+          },
+          "classification": 7,
+          "territory": "METROPOLE",
+          "score": 0.3497098646034816,
+          "_type": "poi"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            3.84216,
+            43.593653
+          ]
+        },
+        "properties": {
+          "name": [
+            "Parc Bagatelle"
+          ],
+          "toponym": "Parc Bagatelle",
+          "category": [
+            "station de tramway",
+            "transport",
+            "équipement de transport"
+          ],
+          "postcode": [
+            "34000",
+            "34070",
+            "34080",
+            "34090"
+          ],
+          "citycode": [
+            "34172"
+          ],
+          "depcode": [
+            "34"
+          ],
+          "city": [
+            "Montpellier"
+          ],
+          "extrafields": {
+            "cleabs": "EQ_RESEA0000002498256127"
+          },
+          "classification": 7,
+          "territory": "METROPOLE",
+          "score": 0.33006993006993,
+          "_type": "poi"
+        }
+      }
+    ],
+    "query": "Parc de Bagatelle Paris"
+  },
+  "fontaine-stravinsky": {
+    "url": "https://data.geopf.fr/geocodage/search?q=Fontaine+Stravinsky+Paris&index=poi&limit=3",
+    "type": "FeatureCollection",
+    "features": [],
+    "query": "Fontaine Stravinsky Paris"
+  },
+  "place-stravinsky-wall": {
+    "url": "https://data.geopf.fr/geocodage/search?q=Place+Igor+Stravinsky+Paris&index=poi&limit=3",
+    "type": "FeatureCollection",
+    "features": [],
+    "query": "Place Igor Stravinsky Paris"
+  },
+  "rosa-bonheur-buttes-chaumont": {
+    "url": "https://data.geopf.fr/geocodage/search?q=Rosa+Bonheur+Paris+Buttes+Chaumont&index=poi&limit=3",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.381333,
+            48.878104
+          ]
+        },
+        "properties": {
+          "name": [
+            "Buttes Chaumont"
+          ],
+          "toponym": "Buttes Chaumont",
+          "category": [
+            "station de métro",
+            "transport",
+            "équipement de transport"
+          ],
+          "postcode": [
+            "75019"
+          ],
+          "citycode": [
+            "75119",
+            "75056"
+          ],
+          "depcode": [
+            "75"
+          ],
+          "city": [
+            "Paris 19e Arrondissement",
+            "Paris"
+          ],
+          "extrafields": {
+            "cleabs": "EQ_RESEA0000000000140084"
+          },
+          "classification": 7,
+          "territory": "METROPOLE",
+          "score": 0.3577922077922078,
+          "_type": "poi"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            1.926229,
+            47.625544
+          ]
+        },
+        "properties": {
+          "name": [
+            "la Butte"
+          ],
+          "toponym": "la Butte",
+          "category": [
+            "sommet",
+            "élément topographique ou forestier",
+            "détail orographique"
+          ],
+          "postcode": [
+            "41600"
+          ],
+          "citycode": [
+            "41046"
+          ],
+          "depcode": [
+            "41"
+          ],
+          "city": [
+            "Chaumont-sur-Tharonne"
+          ],
+          "extrafields": {
+            "cleabs": "PAIOROGR0000000016080503"
+          },
+          "classification": 8,
+          "territory": "METROPOLE",
+          "score": 0.3445269016697588,
+          "_type": "poi"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.390639,
+            48.884318
+          ]
+        },
+        "properties": {
+          "name": [
+            "Poste de Paris - Buttes Chaumont"
+          ],
+          "toponym": "Poste de Paris - Buttes Chaumont",
+          "category": [
+            "poste",
+            "zone d'activité ou d'intérêt"
+          ],
+          "postcode": [
+            "75019"
+          ],
+          "citycode": [
+            "75119",
+            "75056"
+          ],
+          "depcode": [
+            "75"
+          ],
+          "city": [
+            "Paris 19e Arrondissement",
+            "Paris"
+          ],
+          "extrafields": {
+            "cleabs": "SURFACTI0000000000142823"
+          },
+          "classification": 9,
+          "territory": "METROPOLE",
+          "score": 0.30276679841897236,
+          "_type": "poi"
+        }
+      }
+    ],
+    "query": "Rosa Bonheur Paris Buttes Chaumont"
+  },
+  "lamarck-caulaincourt": {
+    "url": "https://data.geopf.fr/geocodage/search?q=Lamarck+Caulaincourt+Paris&index=poi&limit=3",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.338621,
+            48.889788
+          ]
+        },
+        "properties": {
+          "name": [
+            "Lamarck-Caulaincourt"
+          ],
+          "toponym": "Lamarck-Caulaincourt",
+          "category": [
+            "station de métro",
+            "transport",
+            "équipement de transport"
+          ],
+          "postcode": [
+            "75018"
+          ],
+          "citycode": [
+            "75118",
+            "75056"
+          ],
+          "depcode": [
+            "75"
+          ],
+          "city": [
+            "Paris 18e Arrondissement",
+            "Paris"
+          ],
+          "extrafields": {
+            "cleabs": "EQ_RESEA0000000000140042"
+          },
+          "classification": 7,
+          "territory": "METROPOLE",
+          "score": 0.44545454545454544,
+          "_type": "poi"
+        }
+      }
+    ],
+    "query": "Lamarck Caulaincourt Paris"
+  },
+  "canal-saint-martin-cruise": {
+    "url": "https://data.geopf.fr/geocodage/search?q=Port+de+l+Arsenal+Paris&index=poi&limit=3",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.191943,
+            43.564089
+          ]
+        },
+        "properties": {
+          "name": [
+            "Porte de l'Arsenal"
+          ],
+          "toponym": "Porte de l'Arsenal",
+          "category": [
+            "construction",
+            "zone d'activité ou d'intérêt"
+          ],
+          "postcode": [
+            "30220"
+          ],
+          "citycode": [
+            "30003"
+          ],
+          "depcode": [
+            "30"
+          ],
+          "city": [
+            "Aigues-Mortes"
+          ],
+          "extrafields": {
+            "cleabs": "SURFACTI0000000335664445"
+          },
+          "classification": 9,
+          "territory": "METROPOLE",
+          "score": 0.3226215644820296,
+          "_type": "poi"
+        }
+      }
+    ],
+    "query": "Port de l Arsenal Paris"
+  },
+  "statue-liberte-ile-aux-cygnes": {
+    "url": "https://data.geopf.fr/geocodage/search?q=Statue+de+la+Liberte+Ile+aux+Cygnes+Paris&index=poi&limit=3",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.864827,
+            45.65547
+          ]
+        },
+        "properties": {
+          "name": [
+            "l'Île aux Cygnes"
+          ],
+          "toponym": "l'Île aux Cygnes",
+          "category": [
+            "camping",
+            "zone d'activité ou d'intérêt"
+          ],
+          "postcode": [
+            "73370"
+          ],
+          "citycode": [
+            "73051"
+          ],
+          "depcode": [
+            "73"
+          ],
+          "city": [
+            "Le Bourget-du-Lac"
+          ],
+          "extrafields": {
+            "cleabs": "SURFACTI0000000012532132"
+          },
+          "classification": 7,
+          "territory": "METROPOLE",
+          "score": 0.31371340523882896,
+          "_type": "poi"
+        }
+      }
+    ],
+    "query": "Statue de la Liberte Ile aux Cygnes Paris"
+  }
+}

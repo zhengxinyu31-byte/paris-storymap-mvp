@@ -1,0 +1,807 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "3572723": {
+        "pageid": 3572723,
+        "ns": 0,
+        "title": "Café de la Paix (Paris)",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Caf%C3%A9_de_la_Paix_1.jpg/1280px-Caf%C3%A9_de_la_Paix_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 675
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Caf%C3%A9_de_la_Paix_1.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4815,
+          "height": 2708
+        },
+        "pageimage": "Café_de_la_Paix_1.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "Fichier:Blason paris 75.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Blue pencil.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Café de la Paix 1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Ciudad.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Constant Korovine Café de la paix.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Cup-o-cofee-no-spoon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:David face.png"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Info Simple.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Korovin cafe.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo Café de la Paix (Paris).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo disambig.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo monument historique - rouge ombré sans texte.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo monument historique - rouge sans texte.svg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:05:08Z",
+        "lastrevid": 238286395,
+        "length": 5062,
+        "fullurl": "https://fr.wikipedia.org/wiki/Caf%C3%A9_de_la_Paix_(Paris)",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Caf%C3%A9_de_la_Paix_(Paris)&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Caf%C3%A9_de_la_Paix_(Paris)"
+      },
+      "1245588": {
+        "pageid": 1245588,
+        "ns": 0,
+        "title": "Café des 2 Moulins",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Cafe_des_2_Moulins%2C_Paris_24_August_2019.jpg/1280px-Cafe_des_2_Moulins%2C_Paris_24_August_2019.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cafe_des_2_Moulins%2C_Paris_24_August_2019.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 5228,
+          "height": 3485
+        },
+        "pageimage": "Cafe_des_2_Moulins,_Paris_24_August_2019.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "Fichier:18e Arrondissement, Paris, France - Open Street Map.png"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:A small cup of coffee.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Applications-multimedia.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Blason paris 75.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Blue pencil.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Cafe des 2 Moulins, Paris 24 August 2019.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Cafe des Deux Moulins 2, Paris 6 October 2009.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Cup-o-cofee-no-spoon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (1974–2020).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (lighter variant).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:France film clapperboard.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Info Simple.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris department location map 2.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Red pog.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Two Windmills Cafe inside.jpg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:04:12Z",
+        "lastrevid": 239449013,
+        "length": 5208,
+        "fullurl": "https://fr.wikipedia.org/wiki/Caf%C3%A9_des_2_Moulins",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Caf%C3%A9_des_2_Moulins&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Caf%C3%A9_des_2_Moulins"
+      },
+      "2804789": {
+        "pageid": 2804789,
+        "ns": 0,
+        "title": "Deyrolle (taxidermie)",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Deyrolle%2C_46_Rue_du_Bac%2C_75007_Paris_2013.jpg/1280px-Deyrolle%2C_46_Rue_du_Bac%2C_75007_Paris_2013.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 806
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Deyrolle%2C_46_Rue_du_Bac%2C_75007_Paris_2013.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3854,
+          "height": 2587
+        },
+        "pageimage": "Deyrolle,_46_Rue_du_Bac,_75007_Paris_2013.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "Fichier:46 rue du Bac Paris.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Blason paris 75.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Blue pencil.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Clemence Rolland-Casado.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Deyrolle, 46 Rue du Bac, 75007 Paris 2013.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (1974–2020).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (lighter variant).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:HZBpetite icone.gif"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Info Simple.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Intérieur du magasin Deyrolle.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo disambig.svg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-05T00:38:21Z",
+        "lastrevid": 234844296,
+        "length": 15518,
+        "fullurl": "https://fr.wikipedia.org/wiki/Deyrolle_(taxidermie)",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Deyrolle_(taxidermie)&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Deyrolle_(taxidermie)"
+      },
+      "3159058": {
+        "pageid": 3159058,
+        "ns": 0,
+        "title": "Le Grand Véfour",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/e/ea/Logo_Le_Grand_V%C3%A9four.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 164,
+          "height": 125
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/e/ea/Logo_Le_Grand_V%C3%A9four.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 164,
+          "height": 125
+        },
+        "pageimage": "Logo_Le_Grand_Véfour.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "Fichier:Blason paris 75.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Blue pencil.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:France location map-Regions and departements-2016.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Grand Véfour.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Info Simple.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo Le Grand Véfour.png"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo monument historique - rouge ombré sans texte.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Michelin star.gif"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris Palais Royal Restaurant Grand Véfour 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris Palais Royal Restaurant Grand Véfour 5.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris Palais Royal Restaurant Grand Véfour Decke 3.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris department location map 2.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Portal Food and gastronomy icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Red pog.svg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:04:57Z",
+        "lastrevid": 239400565,
+        "length": 9676,
+        "fullurl": "https://fr.wikipedia.org/wiki/Le_Grand_V%C3%A9four",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Le_Grand_V%C3%A9four&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Le_Grand_V%C3%A9four"
+      },
+      "1858412": {
+        "pageid": 1858412,
+        "ns": 0,
+        "title": "Le Train bleu (restaurant)",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/4/4c/Logo_Le_Train_bleu.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 248,
+          "height": 137
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/4/4c/Logo_Le_Train_bleu.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 248,
+          "height": 137
+        },
+        "pageimage": "Logo_Le_Train_bleu.png",
+        "images": [
+          {
+            "ns": 6,
+            "title": "Fichier:12e Arrondissement, Paris, France - Open Street Map.png"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:1906 Lambert model 4 mirror.png"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:2016-04-12 12-51-04 gare-de-lyon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Albert Chazal entouré de son équipe en 1988.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Albert Maignan - Vendanges en Bourgogne Esquisse pour le plafond du Buffet de la gare de Lyon (restaurant le Train Bleu) - P2457 - Musée Carnavalet.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Bahn aus Zusatzzeichen 1024-15.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Blason paris 75.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Buffet PLM - Le train Bleu - 1900.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:David face.png"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (1974–2020).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (lighter variant).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:France location map-Regions and departements-2016.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:GrenobleBertier130815.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Icon flat design plume.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Icon flatdesign plume.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Info Simple.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Le Train Bleu - Flickr - kkmarais.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Les fenêtres du Train Bleu vues du parvis de la gare de Lyon.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Lock-red-alt-2.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo Le Train bleu.png"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo disambig.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo monument historique - rouge ombré sans texte.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:P1060279 Paris XII gare de Lyon Train bleu rwk.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:P1060280 Paris XII gare de Lyon Train bleu rwk.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:P1060281 Paris XII gare de Lyon Train bleu rwk.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:P1120996 Paris XII gare de Lyon train bleu rwk.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:P1120998 Paris XII gare de Lyon train bleu fresque Orange rwk.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris Exposition Palace of Electricity, Paris, France, 1900 n4.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris department location map 2.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Portal Food and gastronomy icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Red pog.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Restaurant Train bleu 002.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Restaurant Train bleu 008.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Train bleu 03.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Train bleu 05.jpg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:03:05Z",
+        "lastrevid": 239553793,
+        "length": 25369,
+        "fullurl": "https://fr.wikipedia.org/wiki/Le_Train_bleu_(restaurant)",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Le_Train_bleu_(restaurant)&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Le_Train_bleu_(restaurant)"
+      },
+      "149132": {
+        "pageid": 149132,
+        "ns": 0,
+        "title": "Musée de l'Orangerie",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/0/04/Mus%C3%A9edel%27orangerielogo.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 900,
+          "height": 900
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/0/04/Mus%C3%A9edel%27orangerielogo.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 900,
+          "height": 900
+        },
+        "pageimage": "Muséedel'orangerielogo.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "Fichier:2011-12-Musee de lorangerie.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:2017-fr.wp-orange-source.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Auguste Rodin-L'ombre-Orangerie des Tuileries.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Blue pencil.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (1974–2020).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (lighter variant).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Gauguin paysage 1901.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Info Simple.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Lock-green.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo label musée de France (icon only).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Mona Lisa detail eyes.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Muséedel'orangerielogo.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Olympia icon for wikiportal.png"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Renoir jeunes filles au piano vers 1892.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Venus botticelli detail.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Vincent van Gogh - Self-Portrait - Google Art Project (cropped).jpg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:10Z",
+        "lastrevid": 238689576,
+        "length": 43759,
+        "fullurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Orangerie",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Mus%C3%A9e_de_l%27Orangerie&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Orangerie"
+      },
+      "194955": {
+        "pageid": 194955,
+        "ns": 0,
+        "title": "Polidor (restaurant)",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Polidor%2C_41_rue_Monsieur-le-Prince%2C_Paris_6e_3.jpg/1280px-Polidor%2C_41_rue_Monsieur-le-Prince%2C_Paris_6e_3.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1368
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Polidor%2C_41_rue_Monsieur-le-Prince%2C_Paris_6e_3.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3648,
+          "height": 4160
+        },
+        "pageimage": "Polidor,_41_rue_Monsieur-le-Prince,_Paris_6e_3.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "Fichier:Blason paris 75.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Blue pencil.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (1974–2020).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (lighter variant).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:France location map-Regions and departements-2016.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Info Simple.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo disambig.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris department location map 2.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Polidor, 41 rue Monsieur-le-Prince, Paris 6e 3.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Portal Food and gastronomy icon.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Red pog.svg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:03:06Z",
+        "lastrevid": 207303186,
+        "length": 3287,
+        "fullurl": "https://fr.wikipedia.org/wiki/Polidor_(restaurant)",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Polidor_(restaurant)&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Polidor_(restaurant)"
+      },
+      "105521": {
+        "pageid": 105521,
+        "ns": 0,
+        "title": "Île aux Cygnes (Paris)",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%C3%8Ele_aux_Cygnes%2C_Paris_June_2010.jpg/1280px-%C3%8Ele_aux_Cygnes%2C_Paris_June_2010.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 797
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/%C3%8Ele_aux_Cygnes%2C_Paris_June_2010.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4234,
+          "height": 2812
+        },
+        "pageimage": "Île_aux_Cygnes,_Paris_June_2010.jpg",
+        "images": [
+          {
+            "ns": 6,
+            "title": "Fichier:15e Arrondissement, Paris, France - Open Street Map.png"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Blason paris 75.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (1974–2020).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Flag of France (lighter variant).svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Icon river delta.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Icône-île.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Info Simple.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Liberty grenelle inscription.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Liberty grenelle tablet.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Logo disambig.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:P1040964 Paris XV île aux Cygnes rwk.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris-expo-1937-centre des provinces françaises-15.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris-liberte-eiffel.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris View from the Eiffel Tower third floor Ile aux Cygnes.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Paris department relief location map.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:PontDeGrenelle.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Pont de Bir-Hakeim Paris15e 002.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Red pog.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Statue of Liberty Paris 001.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Statue of Liberty Paris 2007-05-29.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:View of Exposition Universelle from Eiffel Tower, Paris, 1889.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Île aux Cygnes, Paris 1.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Île aux Cygnes, Paris 7.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Île aux Cygnes, Paris June 2010.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Île aux Cygnes, pont Rouelle, Paris 2.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Île aux Cygnes (Paris) neige 4.jpg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Île aux Cygnes - OSM 2016.svg"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Île aux Cygnes Paris 15e 001.JPG"
+          },
+          {
+            "ns": 6,
+            "title": "Fichier:Île aux Cygnes Paris 15e 003.JPG"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:08Z",
+        "lastrevid": 238918754,
+        "length": 25647,
+        "fullurl": "https://fr.wikipedia.org/wiki/%C3%8Ele_aux_Cygnes_(Paris)",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=%C3%8Ele_aux_Cygnes_(Paris)&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/%C3%8Ele_aux_Cygnes_(Paris)"
+      }
+    }
+  }
+}

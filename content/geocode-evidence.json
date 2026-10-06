@@ -1,0 +1,2152 @@
+{
+  "galerie-vero-dodat": {
+    "query": "19 rue Jean-Jacques Rousseau Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=19+rue+Jean-Jacques+Rousseau+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340788,
+          48.862715
+        ]
+      },
+      "properties": {
+        "label": "19 Rue Jean-Jacques Rousseau 75001 Paris",
+        "score": 0.9661381818181817,
+        "housenumber": "19",
+        "id": "75101_4901_00019",
+        "banId": "e7932628-8688-4c48-9c23-a467cb0eb03b",
+        "name": "19 Rue Jean-Jacques Rousseau",
+        "postcode": "75001",
+        "citycode": "75101",
+        "x": 651637.39,
+        "y": 6862722.12,
+        "city": "Paris",
+        "district": "Paris 1er Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.62752,
+        "depcode": "75",
+        "street": "Rue Jean-Jacques Rousseau",
+        "_type": "address"
+      }
+    }
+  },
+  "librairie-galignani": {
+    "query": "224 rue de Rivoli, 75001 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=224+rue+de+Rivoli%2C+75001+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328603,
+          48.865027
+        ]
+      },
+      "properties": {
+        "label": "224 Rue de Rivoli 75001 Paris",
+        "score": 0.970430909090909,
+        "housenumber": "224",
+        "id": "75101_8249_00224",
+        "banId": "f3a6f85e-1d02-4106-b068-6f63528a1bf7",
+        "name": "224 Rue de Rivoli",
+        "postcode": "75001",
+        "citycode": "75101",
+        "x": 650745.65,
+        "y": 6862986.73,
+        "city": "Paris",
+        "district": "Paris 1er Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.67474,
+        "depcode": "75",
+        "street": "Rue de Rivoli",
+        "_type": "address"
+      }
+    }
+  },
+  "hotel-le-meurice-dali": {
+    "query": "228 rue de Rivoli, 75001 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=228+rue+de+Rivoli%2C+75001+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328101,
+          48.865194
+        ]
+      },
+      "properties": {
+        "label": "228 Rue de Rivoli 75001 Paris",
+        "score": 0.970430909090909,
+        "housenumber": "228",
+        "id": "75101_8249_00228",
+        "banId": "9fd48204-4ab6-4c2d-abf8-7eca92e3439d",
+        "name": "228 Rue de Rivoli",
+        "postcode": "75001",
+        "citycode": "75101",
+        "x": 650708.98,
+        "y": 6863005.61,
+        "city": "Paris",
+        "district": "Paris 1er Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.67474,
+        "depcode": "75",
+        "street": "Rue de Rivoli",
+        "_type": "address"
+      }
+    }
+  },
+  "musee-cognacq-jay": {
+    "query": "8 rue Elzévir, 75003 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=8+rue+Elz%C3%A9vir%2C+75003+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.361468,
+          48.858202
+        ]
+      },
+      "properties": {
+        "label": "8 Rue Elzévir 75003 Paris",
+        "score": 0.9657209090909089,
+        "housenumber": "8",
+        "id": "75103_3196_00008",
+        "banId": "903c06ef-989f-4011-b0e2-c900ec959d25",
+        "name": "8 Rue Elzévir",
+        "postcode": "75003",
+        "citycode": "75103",
+        "x": 653150.47,
+        "y": 6862207.85,
+        "city": "Paris",
+        "district": "Paris 3e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.62293,
+        "depcode": "75",
+        "street": "Rue Elzévir",
+        "_type": "address"
+      }
+    }
+  },
+  "maison-deyrolle": {
+    "query": "46 rue du Bac, 75007 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=46+rue+du+Bac%2C+75007+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.326394,
+          48.856469
+        ]
+      },
+      "properties": {
+        "label": "46 Rue du Bac 75007 Paris",
+        "score": 0.9754572727272726,
+        "housenumber": "46",
+        "id": "75107_0620_00046",
+        "banId": "0c70bcea-14f4-4279-9aae-8773cd72c208",
+        "name": "46 Rue du Bac",
+        "postcode": "75007",
+        "citycode": "75107",
+        "x": 650575.48,
+        "y": 6862036.54,
+        "city": "Paris",
+        "district": "Paris 7e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.73003,
+        "depcode": "75",
+        "street": "Rue du Bac",
+        "_type": "address"
+      }
+    }
+  },
+  "musee-jacquemart-andre": {
+    "query": "158 boulevard Haussmann, 75008 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=158+boulevard+Haussmann%2C+75008+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.310873,
+          48.875265
+        ]
+      },
+      "properties": {
+        "label": "158 Boulevard Haussmann 75008 Paris",
+        "score": 0.9738236363636363,
+        "housenumber": "158",
+        "id": "75108_4485_00158",
+        "banId": "4d15a95d-18de-4741-a338-96efe2ae24c4",
+        "name": "158 Boulevard Haussmann",
+        "postcode": "75008",
+        "citycode": "75108",
+        "x": 649454.93,
+        "y": 6864136.32,
+        "city": "Paris",
+        "district": "Paris 8e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.71206,
+        "depcode": "75",
+        "street": "Boulevard Haussmann",
+        "_type": "address"
+      }
+    }
+  },
+  "piscine-pontoise": {
+    "query": "19 rue de Pontoise, 75005 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=19+rue+de+Pontoise%2C+75005+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351425,
+          48.848969
+        ]
+      },
+      "properties": {
+        "label": "19 Rue de Pontoise 75005 Paris",
+        "score": 0.9690381818181817,
+        "housenumber": "19",
+        "id": "75105_7621_00019",
+        "banId": "f694d2b2-d115-4a94-bbec-b380f3c028da",
+        "name": "19 Rue de Pontoise",
+        "postcode": "75005",
+        "citycode": "75105",
+        "x": 652405.19,
+        "y": 6861187.23,
+        "city": "Paris",
+        "district": "Paris 5e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.65942,
+        "depcode": "75",
+        "street": "Rue de Pontoise",
+        "_type": "address"
+      }
+    }
+  },
+  "institut-du-monde-arabe": {
+    "query": "1 rue des Fossés-Saint-Bernard, 75005 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=1+rue+des+Foss%C3%A9s-Saint-Bernard%2C+75005+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356212,
+          48.849172
+        ]
+      },
+      "properties": {
+        "label": "1 Rue des Fossés Saint-Bernard 75005 Paris",
+        "score": 0.9708290909090908,
+        "housenumber": "1",
+        "id": "75105_3747_00001",
+        "banId": "ea6a971d-16dd-43c3-a11d-387ee9d0db84",
+        "name": "1 Rue des Fossés Saint-Bernard",
+        "postcode": "75005",
+        "citycode": "75105",
+        "x": 652756.65,
+        "y": 6861206.93,
+        "city": "Paris",
+        "district": "Paris 5e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.67912,
+        "depcode": "75",
+        "street": "Rue des Fossés Saint-Bernard",
+        "_type": "address"
+      }
+    }
+  },
+  "bouquinistes-quais-de-seine": {
+    "query": "Quai de la Tournelle 75005 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Quai+de+la+Tournelle+75005+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352819,
+          48.850483
+        ]
+      },
+      "properties": {
+        "label": "Quai de la Tournelle 75005 Paris",
+        "score": 0.9703845454545453,
+        "id": "75105_9380",
+        "banId": "a7ff9666-0253-403d-ad05-f2b9c8d7a7db",
+        "name": "Quai de la Tournelle",
+        "postcode": "75005",
+        "citycode": "75105",
+        "x": 652508.86,
+        "y": 6861354.73,
+        "city": "Paris",
+        "district": "Paris 5e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.67423,
+        "depcode": "75",
+        "street": "Quai de la Tournelle",
+        "_type": "address"
+      }
+    }
+  },
+  "canal-saint-martin-cruise": {
+    "query": "Port de l Arsenal 75012 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Port+de+l+Arsenal+75012+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.366204,
+          48.850809
+        ]
+      },
+      "properties": {
+        "label": "Rue de l'Arsenal 75004 Paris",
+        "score": 0.5601739572192512,
+        "id": "75104_0471",
+        "banId": "32dcc7ab-b133-4733-9298-0cf4a1357c55",
+        "name": "Rue de l'Arsenal",
+        "postcode": "75004",
+        "citycode": "75104",
+        "x": 653491.35,
+        "y": 6861383.01,
+        "city": "Paris",
+        "district": "Paris 4e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.60309,
+        "depcode": "75",
+        "street": "Rue de l'Arsenal",
+        "_type": "address"
+      }
+    }
+  },
+  "musee-chasse-nature": {
+    "query": "62 rue des Archives, 75003 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=62+rue+des+Archives%2C+75003+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.358616,
+          48.861498
+        ]
+      },
+      "properties": {
+        "label": "62 Rue des Archives 75003 Paris",
+        "score": 0.968871818181818,
+        "housenumber": "62",
+        "id": "75103_0420_00062",
+        "banId": "3ed6eb78-917f-413e-b849-0b1f2358c313",
+        "name": "62 Rue des Archives",
+        "postcode": "75003",
+        "citycode": "75103",
+        "x": 652944.2,
+        "y": 6862576.03,
+        "city": "Paris",
+        "district": "Paris 3e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.65759,
+        "depcode": "75",
+        "street": "Rue des Archives",
+        "_type": "address"
+      }
+    }
+  },
+  "galeries-lafayette-rooftop": {
+    "query": "40 boulevard Haussmann, 75009 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=40+boulevard+Haussmann%2C+75009+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.332434,
+          48.873199
+        ]
+      },
+      "properties": {
+        "label": "40 Boulevard Haussmann 75009 Paris",
+        "score": 0.9732063636363636,
+        "housenumber": "40",
+        "id": "75109_4485_00040",
+        "banId": "5948294d-4c60-434e-9bd8-e40739213395",
+        "name": "40 Boulevard Haussmann",
+        "postcode": "75009",
+        "citycode": "75109",
+        "x": 651034.37,
+        "y": 6863893.01,
+        "city": "Paris",
+        "district": "Paris 9e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.70527,
+        "depcode": "75",
+        "street": "Boulevard Haussmann",
+        "_type": "address"
+      }
+    }
+  },
+  "bouillon-chartier-grands-boulevards": {
+    "query": "7 rue du Faubourg Montmartre, 75009 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=7+rue+du+Faubourg+Montmartre%2C+75009+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34304,
+          48.871924
+        ]
+      },
+      "properties": {
+        "label": "7 Rue du Faubourg Montmartre 75009 Paris",
+        "score": 0.9734590909090909,
+        "housenumber": "7",
+        "id": "75109_3510_00007",
+        "banId": "604b83a6-502f-4178-9c98-e0097651489f",
+        "name": "7 Rue du Faubourg Montmartre",
+        "postcode": "75009",
+        "citycode": "75109",
+        "x": 651811.12,
+        "y": 6863744.72,
+        "city": "Paris",
+        "district": "Paris 9e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.70805,
+        "depcode": "75",
+        "street": "Rue du Faubourg Montmartre",
+        "_type": "address"
+      }
+    }
+  },
+  "la-tour-dargent": {
+    "query": "15-17 Quai de la Tournelle, 75005 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=15-17+Quai+de+la+Tournelle%2C+75005+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354961,
+          48.849848
+        ]
+      },
+      "properties": {
+        "label": "17 Quai de la Tournelle 75005 Paris",
+        "score": 0.8131363882063882,
+        "housenumber": "17",
+        "id": "75105_9380_00017",
+        "banId": "14e6e1da-30de-4577-93e4-6b65a7cdb139",
+        "name": "17 Quai de la Tournelle",
+        "postcode": "75005",
+        "citycode": "75105",
+        "x": 652665.47,
+        "y": 6861282.84,
+        "city": "Paris",
+        "district": "Paris 5e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.67423,
+        "depcode": "75",
+        "street": "Quai de la Tournelle",
+        "_type": "address"
+      }
+    }
+  },
+  "le-grand-vefour": {
+    "query": "17 rue de Beaujolais, 75001 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=17+rue+de+Beaujolais%2C+75001+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338015,
+          48.866208
+        ]
+      },
+      "properties": {
+        "label": "17 Rue de Beaujolais 75001 Paris",
+        "score": 0.962471818181818,
+        "housenumber": "17",
+        "id": "75101_0776_00017",
+        "banId": "dd7f3d8a-eed0-4094-b29c-61e1afe0c648",
+        "name": "17 Rue de Beaujolais",
+        "postcode": "75001",
+        "citycode": "75101",
+        "x": 651437.21,
+        "y": 6863112.22,
+        "city": "Paris",
+        "district": "Paris 1er Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.58719,
+        "depcode": "75",
+        "street": "Rue de Beaujolais",
+        "_type": "address"
+      }
+    }
+  },
+  "maxims": {
+    "query": "3 rue Royale, 75008 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=3+rue+Royale%2C+75008+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.322239,
+          48.867306
+        ]
+      },
+      "properties": {
+        "label": "3 Rue Royale 75008 Paris",
+        "score": 0.9666790909090909,
+        "housenumber": "3",
+        "id": "75108_8418_00003",
+        "banId": "42de7c3b-3b4f-434f-aa85-e933b3e232c9",
+        "name": "3 Rue Royale",
+        "postcode": "75008",
+        "citycode": "75108",
+        "x": 650280.97,
+        "y": 6863244.13,
+        "city": "Paris",
+        "district": "Paris 8e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.63347,
+        "depcode": "75",
+        "street": "Rue Royale",
+        "_type": "address"
+      }
+    }
+  },
+  "le-train-bleu": {
+    "query": "Place Louis Armand 75012 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Place+Louis+Armand+75012+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.372737,
+          48.845045
+        ]
+      },
+      "properties": {
+        "label": "Place Louis Armand 75012 Paris",
+        "score": 0.9673454545454544,
+        "id": "75112_5761",
+        "banId": "4fe10a43-9e1a-42bc-aa90-4308200c662b",
+        "name": "Place Louis Armand",
+        "postcode": "75012",
+        "citycode": "75112",
+        "x": 653965.64,
+        "y": 6860738.28,
+        "city": "Paris",
+        "district": "Paris 12e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.6408,
+        "depcode": "75",
+        "street": "Place Louis Armand",
+        "_type": "address"
+      }
+    }
+  },
+  "harrys-new-york-bar": {
+    "query": "5 rue Daunou, 75002 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=5+rue+Daunou%2C+75002+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.332102,
+          48.869253
+        ]
+      },
+      "properties": {
+        "label": "5 Rue Daunou 75002 Paris",
+        "score": 0.9643845454545454,
+        "housenumber": "5",
+        "id": "75102_2591_00005",
+        "banId": "2d3a72c5-799a-4490-803c-58be0fbf2a8d",
+        "name": "5 Rue Daunou",
+        "postcode": "75002",
+        "citycode": "75102",
+        "x": 651006.31,
+        "y": 6863454.45,
+        "city": "Paris",
+        "district": "Paris 2e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.60823,
+        "depcode": "75",
+        "street": "Rue Daunou",
+        "_type": "address"
+      }
+    }
+  },
+  "cafe-de-la-paix": {
+    "query": "5 place de l'Opéra Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=5+place+de+l%27Op%C3%A9ra+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33174,
+          48.87094
+        ]
+      },
+      "properties": {
+        "label": "5 Place de l'Opéra 75009 Paris",
+        "score": 0.9620399999999999,
+        "housenumber": "5",
+        "id": "75109_6905_00005",
+        "banId": "eb91581b-4098-4cbd-b00c-86222a38a7da",
+        "name": "5 Place de l'Opéra",
+        "postcode": "75009",
+        "citycode": "75109",
+        "x": 650981.34,
+        "y": 6863642.26,
+        "city": "Paris",
+        "district": "Paris 9e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.58244,
+        "depcode": "75",
+        "street": "Place de l'Opéra",
+        "_type": "address"
+      }
+    }
+  },
+  "marche-des-enfants-rouges": {
+    "query": "39 rue de Bretagne, 75003 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=39+rue+de+Bretagne%2C+75003+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362155,
+          48.862954
+        ]
+      },
+      "properties": {
+        "label": "39 Rue de Bretagne 75003 Paris",
+        "score": 0.9693218181818182,
+        "housenumber": "39",
+        "id": "75103_1275_00039",
+        "banId": "6f02c44e-d413-434e-9156-686a59799a07",
+        "name": "39 Rue de Bretagne",
+        "postcode": "75003",
+        "citycode": "75103",
+        "x": 653205.14,
+        "y": 6862735.83,
+        "city": "Paris",
+        "district": "Paris 3e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.66254,
+        "depcode": "75",
+        "street": "Rue de Bretagne",
+        "_type": "address"
+      }
+    }
+  },
+  "rosa-bonheur-buttes-chaumont": {
+    "query": "Parc des Buttes-Chaumont, 2 allée de la Cascade, 75019 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Parc+des+Buttes-Chaumont%2C+2+all%C3%A9e+de+la+Cascade%2C+75019+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.387507,
+          48.8748
+        ]
+      },
+      "properties": {
+        "label": "2 Rue de la Villette 75019 Paris",
+        "score": 0.3773481818181818,
+        "housenumber": "2",
+        "id": "75119_9839_00002",
+        "banId": "695fc171-d48f-4ec7-8ece-da658b02a637",
+        "name": "2 Rue de la Villette",
+        "postcode": "75019",
+        "citycode": "75119",
+        "x": 655075.24,
+        "y": 6864038.29,
+        "city": "Paris",
+        "district": "Paris 19e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.77583,
+        "depcode": "75",
+        "street": "Rue de la Villette",
+        "_type": "address"
+      }
+    }
+  },
+  "rosa-bonheur-sur-seine": {
+    "query": "2 Port des Invalides, 75007 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=2+Port+des+Invalides%2C+75007+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31612,
+          48.863221
+        ]
+      },
+      "properties": {
+        "label": "2 Port des Invalides 75007 Paris",
+        "score": 0.963560909090909,
+        "housenumber": "2",
+        "id": "75107_4730_00002",
+        "banId": "50e80d7e-0eb2-4270-ac25-9fe64a9d54e3",
+        "name": "2 Port des Invalides",
+        "postcode": "75007",
+        "citycode": "75107",
+        "x": 649828.17,
+        "y": 6862793.78,
+        "city": "Paris",
+        "district": "Paris 7e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.59917,
+        "depcode": "75",
+        "street": "Port des Invalides",
+        "_type": "address"
+      }
+    }
+  },
+  "guinguette-ile-du-martin-pecheur": {
+    "query": "le du Martin-Pêcheur, 41 quai Victor-Hugo, 94500 Champigny-sur-Marne",
+    "url": "https://data.geopf.fr/geocodage/search?q=le+du+Martin-P%C3%AAcheur%2C+41+quai+Victor-Hugo%2C+94500+Champigny-sur-Marne&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.504602,
+          48.811144
+        ]
+      },
+      "properties": {
+        "label": "41 Quai Victor Hugo 94500 Champigny-sur-Marne",
+        "score": 0.613897972027972,
+        "housenumber": "41",
+        "id": "94017_9653_00041",
+        "banId": "d55bfbca-38eb-4319-b3a5-2ce04db88173",
+        "name": "41 Quai Victor Hugo",
+        "postcode": "94500",
+        "citycode": "94017",
+        "x": 663619.32,
+        "y": 6856900.03,
+        "city": "Champigny-sur-Marne",
+        "context": "94, Val-de-Marne, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.66057,
+        "depcode": "94",
+        "street": "Quai Victor Hugo",
+        "_type": "address"
+      }
+    }
+  },
+  "maison-fournaise": {
+    "query": "3 rue du Bac, Île des Impressionnistes, 78400 Chatou",
+    "url": "https://data.geopf.fr/geocodage/search?q=3+rue+du+Bac%2C+%C3%8Ele+des+Impressionnistes%2C+78400+Chatou&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.161562,
+          48.885942
+        ]
+      },
+      "properties": {
+        "label": "Ile des Impressionnistes 78400 Chatou",
+        "score": 0.651913172541744,
+        "id": "78146_B024",
+        "banId": "7ed9e776-49d2-4303-bd57-a0b9d57a9c2a",
+        "name": "Ile des Impressionnistes",
+        "postcode": "78400",
+        "citycode": "78146",
+        "x": 638516.47,
+        "y": 6865429.44,
+        "city": "Chatou",
+        "context": "78, Yvelines, Île-de-France",
+        "type": "street",
+        "importance": 0.5588,
+        "depcode": "78",
+        "street": "Ile des Impressionnistes",
+        "_type": "address"
+      }
+    }
+  },
+  "la-recyclerie": {
+    "query": "83 boulevard Ornano, 75018 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=83+boulevard+Ornano%2C+75018+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344183,
+          48.897647
+        ]
+      },
+      "properties": {
+        "label": "83 Boulevard Ornano 75018 Paris",
+        "score": 0.979581818181818,
+        "housenumber": "83",
+        "id": "75118_6946_00083",
+        "banId": "794217f8-d95e-483b-9282-01d6845f5a28",
+        "name": "83 Boulevard Ornano",
+        "postcode": "75018",
+        "citycode": "75118",
+        "x": 651918.71,
+        "y": 6866604.26,
+        "city": "Paris",
+        "district": "Paris 18e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.7754,
+        "depcode": "75",
+        "street": "Boulevard Ornano",
+        "_type": "address"
+      }
+    }
+  },
+  "le-perchoir-menilmontant": {
+    "query": "14 rue Crespin du Gast, 75011 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=14+rue+Crespin+du+Gast%2C+75011+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.382024,
+          48.86544
+        ]
+      },
+      "properties": {
+        "label": "14 Rue Camille Crespin-du Gast 75011 Paris",
+        "score": 0.7213938580931264,
+        "housenumber": "14",
+        "id": "75111_2434_00014",
+        "banId": "bbc71807-13ed-4069-be82-fa0ecb0ddf42",
+        "name": "14 Rue Camille Crespin-du Gast",
+        "postcode": "75011",
+        "citycode": "75111",
+        "x": 654664.94,
+        "y": 6863000.66,
+        "city": "Paris",
+        "district": "Paris 11e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.69143,
+        "depcode": "75",
+        "street": "Rue Camille Crespin-du Gast",
+        "_type": "address"
+      }
+    }
+  },
+  "coulee-verte-rene-dumont": {
+    "query": "1 Avenue Daumesnil 75012 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=1+Avenue+Daumesnil+75012+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.371611,
+          48.849297
+        ]
+      },
+      "properties": {
+        "label": "1 Avenue Daumesnil 75012 Paris",
+        "score": 0.9844154545454544,
+        "housenumber": "1",
+        "id": "75112_2584_00001",
+        "banId": "8acaba0f-3383-475f-a8b3-8c198d038f01",
+        "name": "1 Avenue Daumesnil",
+        "postcode": "75012",
+        "citycode": "75112",
+        "x": 653886.77,
+        "y": 6861211.72,
+        "city": "Paris",
+        "district": "Paris 12e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.82857,
+        "depcode": "75",
+        "street": "Avenue Daumesnil",
+        "_type": "address"
+      }
+    }
+  },
+  "petite-ceinture-12e": {
+    "query": "21 Rue Rottembourg 75012 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=21+Rue+Rottembourg+75012+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.406549,
+          48.838493
+        ]
+      },
+      "properties": {
+        "label": "21 Rue Rottembourg 75012 Paris",
+        "score": 0.9750945454545454,
+        "housenumber": "21",
+        "id": "75112_8378_00021",
+        "banId": "785d1689-7c5b-4807-a9b9-22d955fb1aed",
+        "name": "21 Rue Rottembourg",
+        "postcode": "75012",
+        "citycode": "75112",
+        "x": 656441.56,
+        "y": 6859990.58,
+        "city": "Paris",
+        "district": "Paris 12e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.72604,
+        "depcode": "75",
+        "street": "Rue Rottembourg",
+        "_type": "address"
+      }
+    }
+  },
+  "bois-de-charonne-pc20": {
+    "query": "103 Cours de Vincennes, 75020 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=103+Cours+de+Vincennes%2C+75020+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.409665,
+          48.847552
+        ]
+      },
+      "properties": {
+        "label": "103 Cours de Vincennes 75020 Paris",
+        "score": 0.9771,
+        "housenumber": "103",
+        "id": "75120_9850_00103",
+        "banId": "2e01c71d-837a-4a1a-ba27-d5ac0972f903",
+        "name": "103 Cours de Vincennes",
+        "postcode": "75020",
+        "citycode": "75120",
+        "x": 656677.79,
+        "y": 6860996.14,
+        "city": "Paris",
+        "district": "Paris 20e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.7481,
+        "depcode": "75",
+        "street": "Cours de Vincennes",
+        "_type": "address"
+      }
+    }
+  },
+  "pc20-couronnes": {
+    "query": "Rue des Couronnes 75020 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Rue+des+Couronnes+75020+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.385752,
+          48.870505
+        ]
+      },
+      "properties": {
+        "label": "Rue des Couronnes 75020 Paris",
+        "score": 0.9808354545454544,
+        "id": "75120_2398",
+        "banId": "acd8ca6f-2666-4750-a155-fc7eb170b9d4",
+        "name": "Rue des Couronnes",
+        "postcode": "75020",
+        "citycode": "75120",
+        "x": 654942.81,
+        "y": 6863561.72,
+        "city": "Paris",
+        "district": "Paris 20e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.78919,
+        "depcode": "75",
+        "street": "Rue des Couronnes",
+        "_type": "address"
+      }
+    }
+  },
+  "parc-de-belleville": {
+    "query": "47 rue des Couronnes, 75020 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=47+rue+des+Couronnes%2C+75020+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.384951,
+          48.870321
+        ]
+      },
+      "properties": {
+        "label": "47 Rue des Couronnes 75020 Paris",
+        "score": 0.9808354545454544,
+        "housenumber": "47",
+        "id": "75120_2398_00047",
+        "banId": "bbd0d0fc-8971-4652-aae2-2c0784c4724d",
+        "name": "47 Rue des Couronnes",
+        "postcode": "75020",
+        "citycode": "75120",
+        "x": 654883.89,
+        "y": 6863541.71,
+        "city": "Paris",
+        "district": "Paris 20e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.78919,
+        "depcode": "75",
+        "street": "Rue des Couronnes",
+        "_type": "address"
+      }
+    }
+  },
+  "butte-bergeyre": {
+    "query": "70–78 rue Georges-Lardennois, 75019 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=70%E2%80%9378+rue+Georges-Lardennois%2C+75019+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375759,
+          48.877213
+        ]
+      },
+      "properties": {
+        "label": "78 Rue Georges Lardennois 75019 Paris",
+        "score": 0.8249656643356643,
+        "housenumber": "78",
+        "id": "75119_4137_00078",
+        "banId": "f911bad4-7cb2-466c-9bd5-2872a08a84be",
+        "name": "78 Rue Georges Lardennois",
+        "postcode": "75019",
+        "citycode": "75119",
+        "x": 654215.7,
+        "y": 6864313.35,
+        "city": "Paris",
+        "district": "Paris 19e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.76693,
+        "depcode": "75",
+        "street": "Rue Georges Lardennois",
+        "_type": "address"
+      }
+    }
+  },
+  "parc-des-buttes-chaumont": {
+    "query": "Place Armand-Carrel, 75019 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Place+Armand-Carrel%2C+75019+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.376876,
+          48.882754
+        ]
+      },
+      "properties": {
+        "label": "Rue Armand Carrel 75019 Paris",
+        "score": 0.7348345454545455,
+        "id": "75119_0451",
+        "banId": "f18ed849-9722-47f7-93fa-a9bd46b4e87a",
+        "name": "Rue Armand Carrel",
+        "postcode": "75019",
+        "citycode": "75119",
+        "x": 654302.48,
+        "y": 6864928.83,
+        "city": "Paris",
+        "district": "Paris 19e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.77068,
+        "depcode": "75",
+        "street": "Rue Armand Carrel",
+        "_type": "address"
+      }
+    }
+  },
+  "rotonde-bassin-de-la-villette": {
+    "query": "6 Place de la Bataille de Stalingrad 75019 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=6+Place+de+la+Bataille+de+Stalingrad+75019+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369479,
+          48.883317
+        ]
+      },
+      "properties": {
+        "label": "6 Place de la Bataille de Stalingrad 75019 Paris",
+        "score": 0.9679127272727273,
+        "housenumber": "6",
+        "id": "75119_9068_00006",
+        "banId": "e2edf021-10b2-4958-ba18-eada3a0b53ad",
+        "name": "6 Place de la Bataille de Stalingrad",
+        "postcode": "75019",
+        "citycode": "75119",
+        "x": 653760.53,
+        "y": 6864995.74,
+        "city": "Paris",
+        "district": "Paris 19e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.64704,
+        "depcode": "75",
+        "street": "Place de la Bataille de Stalingrad",
+        "_type": "address"
+      }
+    }
+  },
+  "grande-mosquee-de-paris": {
+    "query": "39 rue Geoffroy Saint Hilaire 75005 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=39+rue+Geoffroy+Saint+Hilaire+75005+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.355641,
+          48.841782
+        ]
+      },
+      "properties": {
+        "label": "39 Rue Geoffroy-Saint-Hilaire 75005 Paris",
+        "score": 0.9720290909090908,
+        "housenumber": "39",
+        "id": "75105_4108_00039",
+        "banId": "2c4dc072-68b4-4835-8bf8-0f882d42e3e1",
+        "name": "39 Rue Geoffroy-Saint-Hilaire",
+        "postcode": "75005",
+        "citycode": "75105",
+        "x": 652708.05,
+        "y": 6860385.57,
+        "city": "Paris",
+        "district": "Paris 5e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.69232,
+        "depcode": "75",
+        "street": "Rue Geoffroy-Saint-Hilaire",
+        "_type": "address"
+      }
+    }
+  },
+  "jardin-des-plantes": {
+    "query": "57 rue Cuvier, 75005 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=57+rue+Cuvier%2C+75005+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356233,
+          48.844345
+        ]
+      },
+      "properties": {
+        "label": "57 Rue Cuvier 75005 Paris",
+        "score": 0.9677827272727273,
+        "housenumber": "57",
+        "id": "75105_2498_00057",
+        "banId": "14c7502e-ca8c-4e78-ba7e-8149c107ad7f",
+        "name": "57 Rue Cuvier",
+        "postcode": "75005",
+        "citycode": "75105",
+        "x": 652753.82,
+        "y": 6860670.2,
+        "city": "Paris",
+        "district": "Paris 5e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.64561,
+        "depcode": "75",
+        "street": "Rue Cuvier",
+        "_type": "address"
+      }
+    }
+  },
+  "parc-de-bagatelle": {
+    "query": "Parc de Bagatelle Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Parc+de+Bagatelle+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254183,
+          48.866743
+        ]
+      },
+      "properties": {
+        "label": "Route des Lacs à Bagatelle 75016 Paris",
+        "score": 0.47338649350649337,
+        "id": "75116_R111",
+        "banId": "921dd4a2-c389-4d69-8747-1cbcdd2cfc44",
+        "name": "Route des Lacs à Bagatelle",
+        "postcode": "75016",
+        "citycode": "75116",
+        "x": 645288.08,
+        "y": 6863226.53,
+        "city": "Paris",
+        "district": "Paris 16e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.57868,
+        "depcode": "75",
+        "street": "Route des Lacs à Bagatelle",
+        "_type": "address"
+      }
+    }
+  },
+  "villa-leandre": {
+    "query": "23 Avenue Junot 75018 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=23+Avenue+Junot+75018+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33546,
+          48.888295
+        ]
+      },
+      "properties": {
+        "label": "23 Avenue Junot 75018 Paris",
+        "score": 0.9767754545454546,
+        "housenumber": "23",
+        "id": "75118_5122_00023",
+        "banId": "d3bd2d09-787c-4c43-8499-9565bc2a8116",
+        "name": "23 Avenue Junot",
+        "postcode": "75018",
+        "citycode": "75118",
+        "x": 651270.45,
+        "y": 6865569.72,
+        "city": "Paris",
+        "district": "Paris 18e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.74453,
+        "depcode": "75",
+        "street": "Avenue Junot",
+        "_type": "address"
+      }
+    }
+  },
+  "mur-des-je-taime": {
+    "query": "14 Place des Abbesses 75018 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=14+Place+des+Abbesses+75018+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338618,
+          48.884646
+        ]
+      },
+      "properties": {
+        "label": "14 Place des Abbesses 75018 Paris",
+        "score": 0.9664945454545455,
+        "housenumber": "14",
+        "id": "75118_0019_00014",
+        "banId": "b71dca75-2944-419d-b193-b0f0c2daf9c6",
+        "name": "14 Place des Abbesses",
+        "postcode": "75018",
+        "citycode": "75118",
+        "x": 651498.62,
+        "y": 6865162.03,
+        "city": "Paris",
+        "district": "Paris 18e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.63144,
+        "depcode": "75",
+        "street": "Place des Abbesses",
+        "_type": "address"
+      }
+    }
+  },
+  "fontaine-stravinsky": {
+    "query": "Place Igor Stravinsky 75004 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Place+Igor+Stravinsky+75004+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.026466,
+          49.210641
+        ]
+      },
+      "properties": {
+        "label": "Rue Igor Stravinsky 51100 Reims",
+        "score": 0.45134889952153107,
+        "id": "51454_4677",
+        "banId": "df11d48a-4500-4d23-8b09-41048d50302f",
+        "name": "Rue Igor Stravinsky",
+        "postcode": "51100",
+        "citycode": "51454",
+        "x": 774801.7,
+        "y": 6901700.62,
+        "city": "Reims",
+        "context": "51, Marne, Grand Est",
+        "type": "street",
+        "importance": 0.70168,
+        "depcode": "51",
+        "street": "Rue Igor Stravinsky",
+        "_type": "address"
+      }
+    }
+  },
+  "place-stravinsky-wall": {
+    "query": "Place Igor Stravinsky 75004 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Place+Igor+Stravinsky+75004+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.026466,
+          49.210641
+        ]
+      },
+      "properties": {
+        "label": "Rue Igor Stravinsky 51100 Reims",
+        "score": 0.45134889952153107,
+        "id": "51454_4677",
+        "banId": "df11d48a-4500-4d23-8b09-41048d50302f",
+        "name": "Rue Igor Stravinsky",
+        "postcode": "51100",
+        "citycode": "51454",
+        "x": 774801.7,
+        "y": 6901700.62,
+        "city": "Reims",
+        "context": "51, Marne, Grand Est",
+        "type": "street",
+        "importance": 0.70168,
+        "depcode": "51",
+        "street": "Rue Igor Stravinsky",
+        "_type": "address"
+      }
+    }
+  },
+  "invader-pa-1500-pompidou": {
+    "query": "Place Georges Pompidou 75004 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Place+Georges+Pompidou+75004+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351132,
+          48.860307
+        ]
+      },
+      "properties": {
+        "label": "Place Georges Pompidou 75004 Paris",
+        "score": 0.9536836363636364,
+        "id": "75104_4236",
+        "banId": "dcf9096d-67eb-4d18-9b47-30bdbe650e2b",
+        "name": "Place Georges Pompidou",
+        "postcode": "75004",
+        "citycode": "75104",
+        "x": 652394.05,
+        "y": 6862448.09,
+        "city": "Paris",
+        "district": "Paris 4e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.49052,
+        "depcode": "75",
+        "street": "Place Georges Pompidou",
+        "_type": "address"
+      }
+    }
+  },
+  "maison-de-nicolas-flamel": {
+    "query": "51 rue de Montmorency, 75003 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=51+rue+de+Montmorency%2C+75003+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353155,
+          48.863568
+        ]
+      },
+      "properties": {
+        "label": "51 Rue de Montmorency 75003 Paris",
+        "score": 0.9697318181818181,
+        "housenumber": "51",
+        "id": "75103_6517_00051",
+        "banId": "1070886f-4954-4c8e-9797-535740ddebdc",
+        "name": "51 Rue de Montmorency",
+        "postcode": "75003",
+        "citycode": "75103",
+        "x": 652545.44,
+        "y": 6862809.47,
+        "city": "Paris",
+        "district": "Paris 3e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.66705,
+        "depcode": "75",
+        "street": "Rue de Montmorency",
+        "_type": "address"
+      }
+    }
+  },
+  "rue-du-chat-qui-peche": {
+    "query": "Rue du Chat qui Peche 75005 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Rue+du+Chat+qui+Peche+75005+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346137,
+          48.85305
+        ]
+      },
+      "properties": {
+        "label": "Rue du Chat Qui Pêche 75005 Paris",
+        "score": 0.9600336363636361,
+        "id": "75105_1935",
+        "banId": "605bc7ef-6b2d-4cd2-b857-c2f338813061",
+        "name": "Rue du Chat Qui Pêche",
+        "postcode": "75005",
+        "citycode": "75105",
+        "x": 652020.9,
+        "y": 6861644.2,
+        "city": "Paris",
+        "district": "Paris 5e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.56037,
+        "depcode": "75",
+        "street": "Rue du Chat Qui Pêche",
+        "_type": "address"
+      }
+    }
+  },
+  "medaillons-arago": {
+    "query": "Place Colette 75001 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Place+Colette+75001+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.336069,
+          48.863356
+        ]
+      },
+      "properties": {
+        "label": "Place Colette 75001 Paris",
+        "score": 0.9509918181818182,
+        "id": "75101_2184",
+        "banId": "62fdef54-8a35-4ae4-af79-f1e06d0e3cce",
+        "name": "Place Colette",
+        "postcode": "75001",
+        "citycode": "75101",
+        "x": 651291.79,
+        "y": 6862796.3,
+        "city": "Paris",
+        "district": "Paris 1er Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.46091,
+        "depcode": "75",
+        "street": "Place Colette",
+        "_type": "address"
+      }
+    }
+  },
+  "sentier-des-merisiers": {
+    "query": "101 boulevard Soult 75012 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=101+boulevard+Soult+75012+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.409571,
+          48.84294
+        ]
+      },
+      "properties": {
+        "label": "101 Boulevard Soult 75012 Paris",
+        "score": 0.9795399999999999,
+        "housenumber": "101",
+        "id": "75112_9047_00101",
+        "banId": "db832bc6-dba4-49f3-9177-e7d5c152b520",
+        "name": "101 Boulevard Soult",
+        "postcode": "75012",
+        "citycode": "75112",
+        "x": 656667.06,
+        "y": 6860483.38,
+        "city": "Paris",
+        "district": "Paris 12e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.77494,
+        "depcode": "75",
+        "street": "Boulevard Soult",
+        "_type": "address"
+      }
+    }
+  },
+  "rue-denoyez": {
+    "query": "Rue Dénoyez, 75020 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Rue+D%C3%A9noyez%2C+75020+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.378505,
+          48.871704
+        ]
+      },
+      "properties": {
+        "label": "Rue Dénoyez 75020 Paris",
+        "score": 0.9743745454545454,
+        "id": "75120_2696",
+        "banId": "e16d2b24-6ef7-4d38-9d0d-04b94147ce91",
+        "name": "Rue Dénoyez",
+        "postcode": "75020",
+        "citycode": "75120",
+        "x": 654412.28,
+        "y": 6863699.2,
+        "city": "Paris",
+        "district": "Paris 20e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.71812,
+        "depcode": "75",
+        "street": "Rue Dénoyez",
+        "_type": "address"
+      }
+    }
+  },
+  "statue-liberte-ile-aux-cygnes": {
+    "query": "Pont de Grenelle Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Pont+de+Grenelle+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.284655,
+          48.852286
+        ]
+      },
+      "properties": {
+        "label": "Port de Grenelle 75015 Paris",
+        "score": 0.7364593280632411,
+        "id": "75115_4312",
+        "banId": "e5545021-71e4-4657-a1e9-4e25e27a9bef",
+        "name": "Port de Grenelle",
+        "postcode": "75015",
+        "citycode": "75115",
+        "x": 647508.83,
+        "y": 6861598.36,
+        "city": "Paris",
+        "district": "Paris 15e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.66627,
+        "depcode": "75",
+        "street": "Port de Grenelle",
+        "_type": "address"
+      }
+    }
+  },
+  "pont-alexandre-iii": {
+    "query": "Pont Alexandre III, 75007 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Pont+Alexandre+III%2C+75007+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.301936,
+          48.859715
+        ]
+      },
+      "properties": {
+        "label": "Rue Edmond Valentin 75007 Paris",
+        "score": 0.38777519480519484,
+        "id": "75107_3138",
+        "banId": "57d3056c-bdd3-4a95-a52b-de68897e93d3",
+        "name": "Rue Edmond Valentin",
+        "postcode": "75007",
+        "citycode": "75107",
+        "x": 648784.16,
+        "y": 6862413.05,
+        "city": "Paris",
+        "district": "Paris 7e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.62267,
+        "depcode": "75",
+        "street": "Rue Edmond Valentin",
+        "_type": "address"
+      }
+    }
+  },
+  "van-gogh-rue-lepic": {
+    "query": "54 rue Lepic, 75018 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=54+rue+Lepic%2C+75018+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333926,
+          48.886566
+        ]
+      },
+      "properties": {
+        "label": "54 Rue Lepic 75018 Paris",
+        "score": 0.9807463636363636,
+        "housenumber": "54",
+        "id": "75118_5595_00054",
+        "banId": "9fbe534f-5b4c-4f79-8336-559342237374",
+        "name": "54 Rue Lepic",
+        "postcode": "75018",
+        "citycode": "75118",
+        "x": 651156.34,
+        "y": 6865378.41,
+        "city": "Paris",
+        "district": "Paris 18e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.78821,
+        "depcode": "75",
+        "street": "Rue Lepic",
+        "_type": "address"
+      }
+    }
+  },
+  "moulin-de-la-galette": {
+    "query": "83 rue Lepic, 75018 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=83+rue+Lepic%2C+75018+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.337054,
+          48.887338
+        ]
+      },
+      "properties": {
+        "label": "83 Rue Lepic 75018 Paris",
+        "score": 0.9807463636363636,
+        "housenumber": "83",
+        "id": "75118_5595_00083",
+        "banId": "34be2e5e-b661-44d0-bb21-7d7c28705523",
+        "name": "83 Rue Lepic",
+        "postcode": "75018",
+        "citycode": "75118",
+        "x": 651386.44,
+        "y": 6865462.32,
+        "city": "Paris",
+        "district": "Paris 18e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.78821,
+        "depcode": "75",
+        "street": "Rue Lepic",
+        "_type": "address"
+      }
+    }
+  },
+  "au-lapin-agile": {
+    "query": "22 rue des Saules, 75018 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=22+rue+des+Saules%2C+75018+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.339989,
+          48.888734
+        ]
+      },
+      "properties": {
+        "label": "22 Rue des Saules 75018 Paris",
+        "score": 0.9779381818181817,
+        "housenumber": "22",
+        "id": "75118_8834_00022",
+        "banId": "59474d99-9faf-485e-a6b8-6776c99f1724",
+        "name": "22 Rue des Saules",
+        "postcode": "75018",
+        "citycode": "75118",
+        "x": 651602.95,
+        "y": 6865615.75,
+        "city": "Paris",
+        "district": "Paris 18e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.75732,
+        "depcode": "75",
+        "street": "Rue des Saules",
+        "_type": "address"
+      }
+    }
+  },
+  "rue-des-jardins-saint-paul": {
+    "query": "Rue des Jardins Saint-Paul, angle rue de l’Ave Maria, 75004 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Rue+des+Jardins+Saint-Paul%2C+angle+rue+de+l%E2%80%99Ave+Maria%2C+75004+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.360596,
+          48.853401
+        ]
+      },
+      "properties": {
+        "label": "Rue des Jardins Saint-Paul 75004 Paris",
+        "score": 0.5448588856304984,
+        "id": "75104_4829",
+        "banId": "1cd3076c-8f9d-4d9b-a634-f234efbfe29b",
+        "name": "Rue des Jardins Saint-Paul",
+        "postcode": "75004",
+        "citycode": "75104",
+        "x": 653082.17,
+        "y": 6861674.54,
+        "city": "Paris",
+        "district": "Paris 4e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.62248,
+        "depcode": "75",
+        "street": "Rue des Jardins Saint-Paul",
+        "_type": "address"
+      }
+    }
+  },
+  "le-pure-cafe": {
+    "query": "14 rue Jean-Macé, 75011 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=14+rue+Jean-Mac%C3%A9%2C+75011+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.383426,
+          48.85325
+        ]
+      },
+      "properties": {
+        "label": "14 Rue Jean Macé 75011 Paris",
+        "score": 0.9717372727272726,
+        "housenumber": "14",
+        "id": "75111_4913_00014",
+        "banId": "0aa870bf-44e0-4974-9d6e-b0d6a0e8ffb9",
+        "name": "14 Rue Jean Macé",
+        "postcode": "75011",
+        "citycode": "75111",
+        "x": 654757.21,
+        "y": 6861644.42,
+        "city": "Paris",
+        "district": "Paris 11e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.68911,
+        "depcode": "75",
+        "street": "Rue Jean Macé",
+        "_type": "address"
+      }
+    }
+  },
+  "quai-de-la-tournelle": {
+    "query": "Quai de la Tournelle, 75005 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Quai+de+la+Tournelle%2C+75005+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352819,
+          48.850483
+        ]
+      },
+      "properties": {
+        "label": "Quai de la Tournelle 75005 Paris",
+        "score": 0.9703845454545453,
+        "id": "75105_9380",
+        "banId": "a7ff9666-0253-403d-ad05-f2b9c8d7a7db",
+        "name": "Quai de la Tournelle",
+        "postcode": "75005",
+        "citycode": "75105",
+        "x": 652508.86,
+        "y": 6861354.73,
+        "city": "Paris",
+        "district": "Paris 5e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.67423,
+        "depcode": "75",
+        "street": "Quai de la Tournelle",
+        "_type": "address"
+      }
+    }
+  },
+  "quai-henri-iv": {
+    "query": "Quai Henri-IV, 75004 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Quai+Henri-IV%2C+75004+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36303,
+          48.848838
+        ]
+      },
+      "properties": {
+        "label": "Quai Henri IV 75004 Paris",
+        "score": 0.9661418181818181,
+        "id": "75104_4586",
+        "banId": "408dfc0f-65a9-41b8-9fbe-f0adaaaef6f2",
+        "name": "Quai Henri IV",
+        "postcode": "75004",
+        "citycode": "75104",
+        "x": 653256.67,
+        "y": 6861165.73,
+        "city": "Paris",
+        "district": "Paris 4e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.62756,
+        "depcode": "75",
+        "street": "Quai Henri IV",
+        "_type": "address"
+      }
+    }
+  },
+  "cour-etoile-or": {
+    "query": "75 rue du Faubourg-Saint-Antoine, 75011 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=75+rue+du+Faubourg-Saint-Antoine%2C+75011+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.374517,
+          48.851799
+        ]
+      },
+      "properties": {
+        "label": "75 Rue du Faubourg Saint-Antoine 75011 Paris",
+        "score": 0.9809954545454543,
+        "housenumber": "75",
+        "id": "75111_3514_00075",
+        "banId": "ac3ee168-c9c6-4daa-8b74-0c8597538c35",
+        "name": "75 Rue du Faubourg Saint-Antoine",
+        "postcode": "75011",
+        "citycode": "75111",
+        "x": 654102.22,
+        "y": 6861488.23,
+        "city": "Paris",
+        "district": "Paris 11e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.79095,
+        "depcode": "75",
+        "street": "Rue du Faubourg Saint-Antoine",
+        "_type": "address"
+      }
+    }
+  },
+  "place-de-lestrapade": {
+    "query": "Place de l’Estrapade, 75005 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Place+de+l%E2%80%99Estrapade%2C+75005+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.345077,
+          48.845078
+        ]
+      },
+      "properties": {
+        "label": "Place de l'Estrapade 75005 Paris",
+        "score": 0.9568827272727272,
+        "id": "75105_3376",
+        "banId": "693f79b9-f621-4370-8000-d9e11c45ac67",
+        "name": "Place de l'Estrapade",
+        "postcode": "75005",
+        "citycode": "75105",
+        "x": 651935.77,
+        "y": 6860758.43,
+        "city": "Paris",
+        "district": "Paris 5e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.52571,
+        "depcode": "75",
+        "street": "Place de l'Estrapade",
+        "_type": "address"
+      }
+    }
+  },
+  "place-de-valois": {
+    "query": "6 place de Valois, 75001 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=6+place+de+Valois%2C+75001+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33823,
+          48.863117
+        ]
+      },
+      "properties": {
+        "label": "6 Place de Valois 75001 Paris",
+        "score": 0.9578281818181819,
+        "housenumber": "6",
+        "id": "75101_9574_00006",
+        "banId": "92adeb07-ade7-4e66-856d-77d81d831ab0",
+        "name": "6 Place de Valois",
+        "postcode": "75001",
+        "citycode": "75101",
+        "x": 651450.1,
+        "y": 6862768.39,
+        "city": "Paris",
+        "district": "Paris 1er Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.53611,
+        "depcode": "75",
+        "street": "Place de Valois",
+        "_type": "address"
+      }
+    }
+  },
+  "studio-28": {
+    "query": "10 rue Tholozé, 75018 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=10+rue+Tholoz%C3%A9%2C+75018+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335348,
+          48.88615
+        ]
+      },
+      "properties": {
+        "label": "10 Rue Tholozé 75018 Paris",
+        "score": 0.9757136363636363,
+        "housenumber": "10",
+        "id": "75118_9287_00010",
+        "banId": "ada6657a-edf0-4097-b855-41f579eb7d34",
+        "name": "10 Rue Tholozé",
+        "postcode": "75018",
+        "citycode": "75118",
+        "x": 651260.23,
+        "y": 6865331.28,
+        "city": "Paris",
+        "district": "Paris 18e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.73285,
+        "depcode": "75",
+        "street": "Rue Tholozé",
+        "_type": "address"
+      }
+    }
+  },
+  "maison-collignon": {
+    "query": "56 rue des Trois Frères, 75018 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=56+rue+des+Trois+Fr%C3%A8res%2C+75018+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338364,
+          48.885636
+        ]
+      },
+      "properties": {
+        "label": "56 Rue des Trois Frères 75018 Paris",
+        "score": 0.9783581818181818,
+        "housenumber": "56",
+        "id": "75118_9462_00056",
+        "banId": "f783236c-2454-4d81-98ce-185b98ac7e63",
+        "name": "56 Rue des Trois Frères",
+        "postcode": "75018",
+        "citycode": "75118",
+        "x": 651480.91,
+        "y": 6865272.26,
+        "city": "Paris",
+        "district": "Paris 18e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "housenumber",
+        "importance": 0.76194,
+        "depcode": "75",
+        "street": "Rue des Trois Frères",
+        "_type": "address"
+      }
+    }
+  },
+  "rue-saint-vincent": {
+    "query": "Rue Saint-Vincent, près du Clos Montmartre, 75018 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Rue+Saint-Vincent%2C+pr%C3%A8s+du+Clos+Montmartre%2C+75018+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340563,
+          48.888504
+        ]
+      },
+      "properties": {
+        "label": "Rue Saint-Vincent 75018 Paris",
+        "score": 0.5075276223776224,
+        "id": "75118_8780",
+        "banId": "6f059da1-464e-4096-bd7a-35c99e96a47e",
+        "name": "Rue Saint-Vincent",
+        "postcode": "75018",
+        "citycode": "75118",
+        "x": 651644.83,
+        "y": 6865589.82,
+        "city": "Paris",
+        "district": "Paris 18e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.73665,
+        "depcode": "75",
+        "street": "Rue Saint-Vincent",
+        "_type": "address"
+      }
+    }
+  },
+  "lamarck-caulaincourt": {
+    "query": "Rue Lamarck, entrée du métro Lamarck–Caulaincourt, 75018 Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Rue+Lamarck%2C+entr%C3%A9e+du+m%C3%A9tro+Lamarck%E2%80%93Caulaincourt%2C+75018+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335924,
+          48.888597
+        ]
+      },
+      "properties": {
+        "label": "Rue Caulaincourt 75018 Paris",
+        "score": 0.4464536363636363,
+        "id": "75118_1614",
+        "banId": "df6cbe85-4e3a-4cc9-9545-f9f692b4a5ac",
+        "name": "Rue Caulaincourt",
+        "postcode": "75018",
+        "citycode": "75118",
+        "x": 651304.76,
+        "y": 6865603.01,
+        "city": "Paris",
+        "district": "Paris 18e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.78599,
+        "depcode": "75",
+        "street": "Rue Caulaincourt",
+        "_type": "address"
+      }
+    }
+  },
+  "canal-saint-martin-amelie": {
+    "query": "Quai de Valmy Paris",
+    "url": "https://data.geopf.fr/geocodage/search?q=Quai+de+Valmy+Paris&limit=1",
+    "result": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.365589,
+          48.876098
+        ]
+      },
+      "properties": {
+        "label": "Quai de Valmy 75010 Paris",
+        "score": 0.976561818181818,
+        "id": "75110_9568",
+        "banId": "35b72508-61b3-450e-931d-f4a75b938627",
+        "name": "Quai de Valmy",
+        "postcode": "75010",
+        "citycode": "75110",
+        "x": 653468.81,
+        "y": 6864195.31,
+        "city": "Paris",
+        "district": "Paris 10e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.74218,
+        "depcode": "75",
+        "street": "Quai de Valmy",
+        "_type": "address"
+      }
+    }
+  }
+}

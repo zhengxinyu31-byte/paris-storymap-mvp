@@ -1,0 +1,40 @@
+开发、验证和部署
+
+安装
+Node.js 22+，npm ci。仓库内含 package-lock.json，勿依赖相邻项目的 node_modules。
+开发 npm run dev（5175）；构建 npm run build；生产预览 npm run preview（4175）。
+可传 -- --host 0.0.0.0 供同一局域网设备预览；确保系统防火墙允许。
+
+数据维护
+Python 3.9+：npm run kb。仅标准库，无 pip 依赖。
+更新路线需联网及 curl：npm run paths。FOSSGIS 最大每秒一次请求；脚本间隔 1.1 秒并缓存，禁止放在每次页面访问里调用。
+正常安装、构建与部署无需重抓图片或地图路径。
+
+验证
+npm test：Node 数据、主支线状态、测试评分、图片关联、路径匹配。
+npm run build：检查公开内容英文覆盖后构建。
+先开 dev 服务，再运行 test:browser、test:map、test:route-map、test:quiz、test:journey、test:language、test:photos、test:photo-fit。
+macOS 默认用已安装 Google Chrome；也可设置 CHROME_PATH。Linux/Windows 先 npx playwright install chromium，测试使用 Playwright 自带浏览器。
+部分脚本支持 DEMO_URL；完整默认回归统一用 5175。报告与截图自动写入 artifacts/，不提交。
+地图自动化使用真实 MapLibre 引擎和固定底图响应；另做一次联网实际底图目视检查。固定底图测试不能验证地图供应商可用性。
+
+部署
+当前公开站点：https://paris-storymap-mvp.liaoyanqing666.chatgpt.site 。Sites 仅托管构建产物；版本、公开权限及更新/回退见 release-and-handoff.txt。
+npm ci && npm run build。把 dist/ 全部文件上传任意静态 HTTP/HTTPS 托管；发布目录是 dist。
+Vite base='./'，hash 路由支持 GitHub Pages 子目录，不需要服务端 rewrite。
+GitHub Pages 可将 dist 作为 Pages artifact，或使用静态部署分支；私有仓库的 Pages 可用性依账号方案决定。创建仓库不会自动公开网站。
+不需要配置 API key、.env 或后端 URL。
+
+CI
+.github/workflows/check.yml 对 push/PR 执行 npm ci、npm run kb、生成文件漂移检查、npm test 与 npm run build。
+此 CI 只做检查，不自动部署；仓库建立后实际运行结果应在 GitHub Actions 核对。
+浏览器回归按需要本地执行，不在 CI 中调用公共路径服务。
+
+照片维护工具
+tools/prepare_photos.py 的部分优化流程使用 macOS sips，仅为维护工具。已提交 WebP 可在所有平台直接构建。新增图片应先核对地点，再转换 WebP、记录哈希与尺寸、检查横竖裁切。
+
+常见问题
+端口占用：结束旧服务或用 -- --port 指定新端口。
+地图为空：先检查网络；本地坐标示意图仍可点选。
+修改内容后未更新：npm run kb，再检查英文完整文本键与 overrides 优先级。
+生成路径失败：先保留明确的示意连接，修复网络后重跑；不要将示意线标成已核验步行路网。

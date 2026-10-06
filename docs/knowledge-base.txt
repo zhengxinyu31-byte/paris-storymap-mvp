@@ -1,0 +1,32 @@
+知识库维护
+
+以 POI 为中心
+POI 是可辨识的真实地点；故事是附着于地点的可引用叙事；路线以有序 stops 引用 POI 与其中一则故事。同一地点可进入多线并各讲不同人物轶事。
+
+入库原则
+地点能定位，故事与该地有具体关系，游客能轻松观察或理解，有可追溯出处。优先保留可复用的经典地点与有辨识度的小地点；避免为了凑人格而虚构人物关联。
+真实地点、旧址、电影场景、传说分别说明。门票或内部参观不是读故事的强制前提。季节性和易变信息不写成永久承诺。
+
+核心记录
+pois：id、name_zh/name_fr、address、coordinates(lat/lon/source/source_url/status)、area、category、parent_poi_id、outside_paris、official_url、status、access_note、best_time、story_ids、media。
+stories：id、poi_id、title、hook、body、person_names、work_names、when、why_here、detail、relationship、observable_cue、source_ids、confidence、caveat、myth、provenance。
+routes：id、persona_id、title、opening、closing、duration_hint、walking_note、stops[]。
+stop：order、poi_id、story_id、phase、transition、visit_note。顺序与叙事应一同审阅，不能只为缩短距离而盲目重排。
+personas：id、name_zh、dims、default_route_id、match_reason 等推荐说明。
+sources：id、url、title、publisher。优先官方机构、博物馆、原始作品和当事人资料；当事人自述需标注归属。
+media：src、alt、source_url、匹配依据、verified_on、sha256、bytes、width、height、crop.landscape/crop.portrait。
+paths：route_id → fingerprint、provider、generated_at、segments；每段含 from/to_poi_id、输入坐标、geometry 坐标、原始路网 distance_m/duration_s、道路接近距离；原始估算仅保留在缓存资料中，不用于界面分类或推荐交通方式。
+
+编辑入口
+1. 修改事实、标题、摘要：写入 content/editorial-overrides.json 的 story_updates；停用故事放 remove_story_ids，并配置 route_story_replacements。
+2. 修改路线或人格：同文件 route_updates / persona_updates。不要只改 src/data，否则下次重建会被覆盖。
+3. 新增成组故事：content/ 下包含 stories 的增补 JSON；字段参照 nerd.json。
+4. 坐标：content/coordinates.json，保留来源与参考点类型；墓位、建筑中心、入口不能混称。
+5. 照片：content/photo-manifest.json 与 public/photos/。每个 POI 一张正确照片；不同分店、旧址和墓主需分别核对。crop 保存焦点，组件使用 cover 裁切。
+6. 英文：content/i18n/en-*.json，以完整中文文本为键。新增或修改公开文本时同步翻译；避免依赖浏览器自动翻译。
+7. npm run kb；站序/坐标有变再 npm run paths；运行数据测试、翻译检查、构建及受影响的浏览器回归。
+
+组合规则
+路线围绕一个可概括的问题或主题，通常 6–8 章，每章有承担的叙事作用；连续性来自故事因果、对照或时代变化，不是堆人物名字。
+人格控制文化深度、规划程度、社交与消费偏好；现实通行距离、开放条件与休息需求优先。
+路线不复制 POI 事实，主线可选较轻故事，支线补足背景；争议内容不能因为符合人格而省去归属说明。

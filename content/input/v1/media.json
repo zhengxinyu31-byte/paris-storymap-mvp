@@ -1,0 +1,82 @@
+{
+  "cafe-de-flore": {
+    "src": "/photos/cafe-de-flore.jpg",
+    "alt": "花神咖啡馆临街外观与露台，2015年",
+    "author": "Tom Hilton",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Cafe_de_Flore_(20213355919).jpg"
+  },
+  "palais-royal": {
+    "src": "/photos/palais-royal.jpg",
+    "alt": "皇家宫殿柱廊与庭院外观，2016年",
+    "author": "Guilhem Vellut",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Palais_Royal_@_Paris_(29031181781).jpg"
+  },
+  "tour-eiffel": {
+    "src": "/photos/tour-eiffel.jpg",
+    "alt": "从塞纳河对岸远望白天的埃菲尔铁塔，2016年",
+    "author": "Guilhem Vellut",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_@_Paris_(25188489559).jpg"
+  },
+  "notre-dame": {
+    "src": "/photos/notre-dame.jpg",
+    "alt": "从塞纳河畔看巴黎圣母院西立面，2016年修复前照片",
+    "author": "Guilhem Vellut",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Notre_Dame_@_Seine_@_Paris_(29589970970).jpg"
+  },
+  "jardin-du-luxembourg": {
+    "src": "/photos/jardin-du-luxembourg.jpg",
+    "alt": "卢森堡花园内的绿椅、树木盆栽与阅读休息场景，2015年",
+    "author": "Tom Hilton",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jardin_du_Luxembourg_(18928180470).jpg"
+  },
+  "sacre-coeur": {
+    "src": "/photos/sacre-coeur.jpg",
+    "alt": "蒙马特圣心堂圆顶与入口的近距离外观，2017年",
+    "author": "Guilhem Vellut",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sacré-Coeur_de_Montmartre_@_Paris_(33842615670).jpg"
+  },
+  "louvre": {
+    "src": "/photos/louvre.jpg",
+    "alt": "卢浮宫方形庭院Cour Carrée及中央喷泉，2011年",
+    "author": "Cristian Bortes",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Cour_Carrée,_Palais_du_Louvre,_Paris_29_April_2011_002.jpg"
+  },
+  "galerie-vivienne": {
+    "src": "/photos/galerie-vivienne.jpg",
+    "alt": "薇薇安拱廊内部的玻璃屋顶、店面与马赛克地面，2015年",
+    "author": "Pergl Pergl",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Galerie_Vivienne,_Paris_18_September_2015_003.jpg"
+  },
+  "palais-garnier": {
+    "src": "/photos/palais-garnier.jpg",
+    "alt": "从歌剧院大道远望加尼叶歌剧院正立面，2017年",
+    "author": "Bradley Weber",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_(32539469062).jpg"
+  },
+  "shakespeare-bucherie": {
+    "src": "/photos/shakespeare-bucherie.jpg",
+    "alt": "比舍里街莎士比亚书店与门前华莱士喷泉，2004年低分辨率历史实景",
+    "author": "Jon Hurd",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shakespeare_and_Company_store_in_Paris.jpg"
+  }
+}

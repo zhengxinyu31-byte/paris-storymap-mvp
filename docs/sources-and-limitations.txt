@@ -1,0 +1,30 @@
+来源与限制
+
+主要原材料
+https://github.com/zhengxinyu31-byte/paris-storymap（数据基准 c1d190e）
+https://github.com/zhengxinyu31-byte/best
+https://github.com/zhengxinyu31-byte/lemi-wanders
+交互参考 https://github.com/cuizicheng1024/storymap；借鉴人物/作品足迹及主支线返回，产品主线仍是巴黎故事路线，不引入中国历史人物。
+content/input/ 是研究快照；src/data/sources.json 保留逐篇引用。这个独立项目不依赖本机 repo-review/ 文件夹。
+
+本轮校对依据
+BnF：萨特与圣日耳曼咖啡馆 https://expositions.bnf.fr/sartre/arret/1945.htm
+Cognacq-Jay 博物馆历史 https://www.museecognacqjay.paris.fr/le-musee/histoire-du-musee
+UNESCO 巴黎塞纳河畔 https://whc.unesco.org/en/list/600/
+老佛爷百货历史 https://www.galerieslafayette.com/m/magasin-haussmann/inspirations/visite-du-magasin-haussmann
+巴黎市拉雪兹官方导览 https://www.paris.fr/pages/cimetiere-du-pere-lachaise-informations-17576
+
+地图与照片
+MapLibre GL：地图引擎；OpenFreeMap / OpenMapTiles / OpenStreetMap：底图。
+FOSSGIS OSRM foot：静态步行路网缓存，服务说明 https://routing.openstreetmap.de/about.html
+IGN Géoplateforme 与 OpenStreetMap：地点参考坐标，具体记录保存来源。
+图片来源、照片对应地点、核对日期和哈希见 content/photo-manifest.json。署名与链接保留；仓库不对第三方文字、照片和数据授予统一许可。
+
+实际限制
+地图按章节顺序统一连线；没有展示分段交通类型或步行估时，未做全线实地踏勘。
+不按距离或时长推荐换乘。点“导航”打开外部地图查询，链接不预设交通方式。
+图库是选定时的地点照片，不代表当天状态。历史旧址照片不意味着可以进入。
+内容仍有回忆、经营方陈述及有争议的素材，应结合出处阅读。来源标签不代表所有字段均已独立核证。
+地图底图需要网络；本地故事与照片随构建打包，但未实现首次访问后的完整离线安装。
+静态包较大，构建可能提示 chunk 超过 500 kB；后续可按路线/语言拆包。当前地图引擎已分包。
+人格和推荐规则固定，不是心理测评模型；收藏与进度没有跨设备同步。

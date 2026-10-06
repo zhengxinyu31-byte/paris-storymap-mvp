@@ -1,0 +1,16 @@
+{
+  "poi_id": "pont-alexandre-iii",
+  "query": "Pont Alexandre-III",
+  "candidates": [
+    {
+      "title": "Pont_Alexandre_III_from_pont_de_la_Concorde,_Paris_17_May_2012.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Pont_Alexandre_III_from_pont_de_la_Concorde%2C_Paris_17_May_2012.jpg/1280px-Pont_Alexandre_III_from_pont_de_la_Concorde%2C_Paris_17_May_2012.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Pont_Alexandre_III_from_pont_de_la_Concorde%2C_Paris_17_May_2012.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source_url": "https://fr.wikipedia.org/wiki/Pont_Alexandre-III",
+      "width": 1200,
+      "height": 800,
+      "description": "Pont Alexandre-III",
+      "match_note": "法语百科该地点条目的主图；需目视核对"
+    }
+  ]
+}

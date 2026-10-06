@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "source": {
+    "repository": "https://github.com/zhengxinyu31-byte/paris-storymap",
+    "file": "demo/assets/index-BBaoC3QO.js",
+    "sha256": "a6bdd41f8871384ca18aa03c627a1159a9ab60494e37fa66d53f822e9966c8bb",
+    "questionBinding": "ve",
+    "profileBinding": "_e",
+    "selectedQuestionNumbers": [
+      1,
+      4,
+      7,
+      12
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "dimension": "culture",
+      "promptZh": "看到一个地方，你最想知道的是——",
+      "promptEn": "At a new spot, the first thing you want to know is —",
+      "options": [
+        {
+          "labelZh": "这儿好不好拍、氛围如何",
+          "labelEn": "Is it photogenic? What’s the vibe?",
+          "score": 0
+        },
+        {
+          "labelZh": "有没有什么有意思的小故事",
+          "labelEn": "Any fun little stories here?",
+          "score": 1
+        },
+        {
+          "labelZh": "谁在这儿待过、哪本书哪部电影写过它",
+          "labelEn": "Who lived here, which book or film featured it",
+          "score": 2
+        }
+      ],
+      "sourceNumber": 1
+    },
+    {
+      "id": 4,
+      "dimension": "planning",
+      "promptZh": "出发前你的行程是——",
+      "promptEn": "Before you set out, your itinerary is —",
+      "options": [
+        {
+          "labelZh": "没有行程，走到哪算哪",
+          "labelEn": "No itinerary — wherever it goes",
+          "score": 0
+        },
+        {
+          "labelZh": "有个大概方向",
+          "labelEn": "A rough direction",
+          "score": 1
+        },
+        {
+          "labelZh": "精确到站序和时段",
+          "labelEn": "Down to the stop order and time slots",
+          "score": 2
+        }
+      ],
+      "sourceNumber": 4
+    },
+    {
+      "id": 7,
+      "dimension": "social",
+      "promptZh": "理想的逛法是——",
+      "promptEn": "Your ideal way to explore is —",
+      "options": [
+        {
+          "labelZh": "一个人，安静地走",
+          "labelEn": "Alone and quiet",
+          "score": 0
+        },
+        {
+          "labelZh": "和一两个熟人",
+          "labelEn": "With one or two close friends",
+          "score": 1
+        },
+        {
+          "labelZh": "一群人，边走边聊",
+          "labelEn": "A whole group, chatting along",
+          "score": 2
+        }
+      ],
+      "sourceNumber": 7
+    },
+    {
+      "id": 12,
+      "dimension": "spending",
+      "promptZh": "面对需要花钱的体验项目，你——",
+      "promptEn": "For paid experiences, you —",
+      "options": [
+        {
+          "labelZh": "能免费看就绝不花钱",
+          "labelEn": "If it’s free to see, I won’t pay",
+          "score": 0
+        },
+        {
+          "labelZh": "值得就花",
+          "labelEn": "Pay if it’s worth it",
+          "score": 1
+        },
+        {
+          "labelZh": "花钱买体验，天经地义",
+          "labelEn": "Paying for experience is only natural",
+          "score": 2
+        }
+      ],
+      "sourceNumber": 12
+    }
+  ],
+  "profiles": [
+    {
+      "id": "GOAT",
+      "taglineZh": "你负责享受，剩下的交给我。",
+      "taglineEn": "You enjoy; I’ll handle the rest.",
+      "descZh": "你是那种把所有人的行程都安排明白、还能顺便订到最难订的位子的人。文化、效率、社交、体验，你全都要，而且能拿到。",
+      "descEn": "You’re the one who nails everyone’s itinerary and still lands the hardest reservation. Culture, efficiency, socializing, experience — you want it all, and you get it."
+    },
+    {
+      "id": "CTRL",
+      "taglineZh": "跟着我走，一分钱不多花。",
+      "taglineEn": "Follow me — not a euro wasted.",
+      "descZh": "你是朋友圈里那个「知道最多冷知识又最会省钱」的团长，路线排得明明白白，还专挑有梗又免费的点。",
+      "descEn": "You’re the group leader who knows the most trivia and spends the least — tight routes, all the free-and-fun spots."
+    },
+    {
+      "id": "BLUE",
+      "taglineZh": "一个人，也要走得讲究。",
+      "taglineEn": "Alone, but done properly.",
+      "descZh": "你享受独自的深度体验，愿意为品质买单，但不需要人陪。安静、考究、有内容，是你的关键词。",
+      "descEn": "You savor deep solo experiences and pay for quality, no company needed. Quiet, refined, substantial."
+    },
+    {
+      "id": "NERD",
+      "taglineZh": "一杯咖啡，我能坐一整天。",
+      "taglineEn": "One coffee. All day.",
+      "descZh": "你对典故、人物关系、文本互文有近乎偏执的兴趣，喜欢按图索骥地走一条有纵深的线，独处、省钱、读得越深越开心。",
+      "descEn": "You’re near-obsessive about allusions, relationships and textual echoes; you love walking a route with real depth — solo, thrifty, and happiest the deeper it goes."
+    },
+    {
+      "id": "DODO",
+      "taglineZh": "有意思就上，别问计划。",
+      "taglineEn": "If it’s cool, we’re in — don’t ask for a plan.",
+      "descZh": "你有文化底子但讨厌被行程绑住，走到哪玩到哪，爱热闹也舍得花，蒙马特画家们的即兴人生就是你。",
+      "descEn": "Cultured but allergic to fixed schedules; you go where the fun is, love a crowd and don’t mind spending. The improvised life of the Montmartre painters is you."
+    },
+    {
+      "id": "MYTH",
+      "taglineZh": "穷有穷的浪漫。",
+      "taglineEn": "Broke, but romantic about it.",
+      "descZh": "你迷恋旧日故事和穷艺术家的浪漫，喜欢跟人聊天听掌故，钱不多但过得有滋味，海明威的巴黎就是你的巴黎。",
+      "descEn": "You love old stories and the romance of the broke artist; you chat, collect anecdotes, and live richly on little. Hemingway’s Paris is yours."
+    },
+    {
+      "id": "LORD",
+      "taglineZh": "慢慢逛，挑好的。",
+      "taglineEn": "Wander slowly, choose the finest.",
+      "descZh": "你偏爱安静而高级的文化体验，随性但讲究，愿意为一杯好茶、一间私人美术馆停下脚步。",
+      "descEn": "You favor quiet, high-end culture — casual yet discerning, happy to stop for a fine tea or a private gallery."
+    },
+    {
+      "id": "BUDD",
+      "taglineZh": "和名人们，静静待一会儿。",
+      "taglineEn": "A quiet while among the famous dead.",
+      "descZh": "你喜欢清晨的公墓、无人的小美术馆，一个人安静地与历史相处，不赶时间也不花钱。",
+      "descEn": "You like dawn cemeteries and empty little museums — communing quietly with history, unhurried and unspending."
+    },
+    {
+      "id": "BOSS",
+      "taglineZh": "订最好的，招呼所有人。",
+      "taglineEn": "Book the best, bring everyone.",
+      "descZh": "你不太在乎典故，但极其在乎体验和排面，计划周密、出手大方，米其林和游船晚宴是你的主场。",
+      "descEn": "You don’t care much for allusions but care intensely about experience and status — well-planned, generous, at home with Michelin and dinner cruises."
+    },
+    {
+      "id": "TIME",
+      "taglineZh": "打卡效率拉满。",
+      "taglineEn": "Check-in efficiency: maxed.",
+      "descZh": "你追求高效的打卡体验，路线安排得像时刻表，爱和人一起拍照发图，但不为深度内容停留太久。",
+      "descEn": "You chase efficient check-ins, routes tight as a timetable — you love group photos, but won’t linger for deep content."
+    },
+    {
+      "id": "FREE",
+      "taglineZh": "一个人的塞纳河。",
+      "taglineEn": "The Seine, all to yourself.",
+      "descZh": "你享受精心安排的独处，愿意为舒适买单，一个人沿河慢走、找家精品酒店喝下午茶，谁也不打扰。",
+      "descEn": "You enjoy carefully arranged solitude and pay for comfort — a slow riverside walk, afternoon tea at a boutique hotel, nobody bothering you."
+    },
+    {
+      "id": "WIND",
+      "taglineZh": "往城市边缘走。",
+      "taglineEn": "Head for the edge of the city.",
+      "descZh": "你规划清楚但不爱人多，喜欢沿运河、去城市远端的公园，找免费的观景点，一个人吹风。",
+      "descEn": "You plan clearly but avoid crowds — canal towpaths, far-flung parks, free viewpoints, wind in your face, alone."
+    },
+    {
+      "id": "SHAN",
+      "taglineZh": "这顿我请。",
+      "taglineEn": "This one’s on me.",
+      "descZh": "你随性、爱热闹、出手阔绰，最开心的事是招呼一桌人吃吃喝喝，气氛比景点重要。",
+      "descEn": "Spontaneous, sociable and generous — your favorite thing is treating a table of friends; atmosphere beats sightseeing."
+    },
+    {
+      "id": "BEE",
+      "taglineZh": "哪儿热闹去哪儿。",
+      "taglineEn": "Wherever the buzz is.",
+      "descZh": "你走到哪聊到哪，不做攻略也不花大钱，蒙马特街头的十五分钟人生，就是你的日常。",
+      "descEn": "You chat everywhere, skip the planning and the big spending — the fifteen-minute street life of Montmartre is your everyday."
+    },
+    {
+      "id": "REST",
+      "taglineZh": "找个位子，坐一下午。",
+      "taglineEn": "Find a seat, stay all afternoon.",
+      "descZh": "你来巴黎就是为了躺平，公园草坪、露天咖啡、酒店大堂酒廊，舒服最重要，没人赶你就赢了。",
+      "descEn": "You came to Paris to do nothing — park lawns, terrace cafés, hotel lounges. Comfort is everything; if nobody rushes you, you win."
+    },
+    {
+      "id": "CUTE",
+      "taglineZh": "盲盒式漫游，走到哪算哪。",
+      "taglineEn": "Blind-box wandering — wherever it lands.",
+      "descZh": "你没有计划也不想有，一个人随机在街区里游荡，跳蚤市场、街头装置、小众甜品店，惊喜比目标更重要。",
+      "descEn": "No plan and no wish for one — you drift solo through neighborhoods; flea markets, street installations, obscure pâtisseries. Surprise beats destination."
+    }
+  ]
+}

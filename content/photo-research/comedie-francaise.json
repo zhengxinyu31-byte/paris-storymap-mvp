@@ -1,0 +1,81 @@
+{
+  "poi_id": "comedie-francaise",
+  "query": "\"Comédie-Française\" Paris",
+  "candidates": [
+    {
+      "title": "File:Comédie Française colonnes.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg/1280px-Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Com%C3%A9die_Fran%C3%A7aise_colonnes.jpg",
+      "width": 1100,
+      "height": 731,
+      "description": "The southwest corner of the Salle Richelieu, the theatre of the Comédie-Française in Paris. The Place Colette is on the right, the Place André-Malraux on the left.",
+      "author": "Jebulon",
+      "license": "Public domain",
+      "license_url": "",
+      "date": "2010-07-17",
+      "original_width": 4492,
+      "original_height": 2984
+    },
+    {
+      "title": "File:Rue de Rohan from the Palais du Louvre, Paris September 2017.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Rue_de_Rohan_from_the_Palais_du_Louvre%2C_Paris_September_2017.jpg/1280px-Rue_de_Rohan_from_the_Palais_du_Louvre%2C_Paris_September_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rue_de_Rohan_from_the_Palais_du_Louvre%2C_Paris_September_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rue_de_Rohan_from_the_Palais_du_Louvre,_Paris_September_2017.jpg",
+      "width": 1100,
+      "height": 844,
+      "description": "Paris for SIAM PP 2016",
+      "author": "Jason Riedy from East Point, GA, USA",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2017-09-12 17:18",
+      "original_width": 4086,
+      "original_height": 3135
+    },
+    {
+      "title": "File:Paris Place Colette 035.JPG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Paris_Place_Colette_035.JPG/1280px-Paris_Place_Colette_035.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Paris_Place_Colette_035.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Paris_Place_Colette_035.JPG",
+      "width": 1100,
+      "height": 825,
+      "description": "Place Colette in Paris, France.",
+      "author": "Demeester",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "",
+      "original_width": 3264,
+      "original_height": 2448
+    },
+    {
+      "title": "File:Comédie Française Paris 4.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Com%C3%A9die_Fran%C3%A7aise_Paris_4.jpg/1280px-Com%C3%A9die_Fran%C3%A7aise_Paris_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Com%C3%A9die_Fran%C3%A7aise_Paris_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Com%C3%A9die_Fran%C3%A7aise_Paris_4.jpg",
+      "width": 1100,
+      "height": 733,
+      "description": "Comédie-Française, Paris.",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2017-05-07 19:16:20",
+      "original_width": 5184,
+      "original_height": 3456
+    },
+    {
+      "title": "File:Comédie Française Paris 3.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Com%C3%A9die_Fran%C3%A7aise_Paris_3.jpg/1280px-Com%C3%A9die_Fran%C3%A7aise_Paris_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Com%C3%A9die_Fran%C3%A7aise_Paris_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Com%C3%A9die_Fran%C3%A7aise_Paris_3.jpg",
+      "width": 1100,
+      "height": 733,
+      "description": "Comédie-Française, Paris.",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2017-05-07 19:16:18",
+      "original_width": 5184,
+      "original_height": 3456
+    }
+  ]
+}

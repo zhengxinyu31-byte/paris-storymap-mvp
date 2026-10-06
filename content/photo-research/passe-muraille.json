@@ -1,0 +1,81 @@
+{
+  "poi_id": "passe-muraille",
+  "query": "Passe muraille statue Montmartre",
+  "candidates": [
+    {
+      "title": "File:Rue-Norvins-Le-Passe-Muraille-statue.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Rue-Norvins-Le-Passe-Muraille-statue.jpg/1280px-Rue-Norvins-Le-Passe-Muraille-statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rue-Norvins-Le-Passe-Muraille-statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rue-Norvins-Le-Passe-Muraille-statue.jpg",
+      "width": 1100,
+      "height": 619,
+      "description": "Le Passe-Muraille (statue)",
+      "author": "Mlzarathustra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2014-09-10",
+      "original_width": 4160,
+      "original_height": 2340
+    },
+    {
+      "title": "File:Le Passe-muraille.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Le_Passe-muraille.jpg/1280px-Le_Passe-muraille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Le_Passe-muraille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Le_Passe-muraille.jpg",
+      "width": 1100,
+      "height": 1650,
+      "description": "Le Passe-Muraille Sculpture in Paris, IDF, France",
+      "author": "Lindsey Garrett",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "11/10/2022",
+      "original_width": 3000,
+      "original_height": 4500
+    },
+    {
+      "title": "File:Le Passe-Muraille @ Montmartre @ Paris 18 (32146228024).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Le_Passe-Muraille_%40_Montmartre_%40_Paris_18_%2832146228024%29.jpg/1280px-Le_Passe-Muraille_%40_Montmartre_%40_Paris_18_%2832146228024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Le_Passe-Muraille_%40_Montmartre_%40_Paris_18_%2832146228024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Le_Passe-Muraille_@_Montmartre_@_Paris_18_(32146228024).jpg",
+      "width": 1100,
+      "height": 733,
+      "description": "Le Passe-Muraille @ Montmartre @ Paris 18",
+      "author": "Guilhem Vellut from Paris, France",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2017-02-18 17:07",
+      "original_width": 5472,
+      "original_height": 3648
+    },
+    {
+      "title": "File:Panneau Passe-Muraille.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Panneau_Passe-Muraille.jpg/1280px-Panneau_Passe-Muraille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Panneau_Passe-Muraille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Panneau_Passe-Muraille.jpg",
+      "width": 1100,
+      "height": 2237,
+      "description": "Panneau Histoire de Paris",
+      "author": "William Jexpire",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-08-07 12:32:02",
+      "original_width": 2222,
+      "original_height": 4519
+    },
+    {
+      "title": "File:Passe-muraille.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Passe-muraille.jpg/1280px-Passe-muraille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Passe-muraille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Passe-muraille.jpg",
+      "width": 1100,
+      "height": 812,
+      "description": "Le Passe-muraille, a sculpture by Jean Marais",
+      "author": "Mlzarathustra",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2014-09-10",
+      "original_width": 1690,
+      "original_height": 1247
+    }
+  ]
+}

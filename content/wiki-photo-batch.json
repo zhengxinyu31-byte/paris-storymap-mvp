@@ -1,0 +1,1059 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "redirects": [
+      {
+        "from": "Le Procope",
+        "to": "Café Procope"
+      },
+      {
+        "from": "Maxim’s",
+        "to": "Maxim's"
+      },
+      {
+        "from": "La Tour d’Argent",
+        "to": "La Tour d'Argent"
+      },
+      {
+        "from": "Lapin Agile",
+        "to": "Au Lapin agile"
+      },
+      {
+        "from": "Hôtel Ritz (Paris)",
+        "to": "Ritz Paris"
+      }
+    ],
+    "pages": {
+      "-1": {
+        "ns": 0,
+        "title": "Café des Deux Moulins",
+        "missing": "",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "fullurl": "https://fr.wikipedia.org/wiki/Caf%C3%A9_des_Deux_Moulins",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Caf%C3%A9_des_Deux_Moulins&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Caf%C3%A9_des_Deux_Moulins"
+      },
+      "520315": {
+        "pageid": 520315,
+        "ns": 0,
+        "title": "Bateau-Lavoir",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Bateau-Lavoir_face_avant.jpg/1280px-Bateau-Lavoir_face_avant.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 888
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bateau-Lavoir_face_avant.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2582,
+          "height": 1911
+        },
+        "pageimage": "Bateau-Lavoir_face_avant.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:30Z",
+        "lastrevid": 239489009,
+        "length": 15065,
+        "fullurl": "https://fr.wikipedia.org/wiki/Bateau-Lavoir",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Bateau-Lavoir&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Bateau-Lavoir"
+      },
+      "1229950": {
+        "pageid": 1229950,
+        "ns": 0,
+        "title": "Bouillon Chartier",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Paris_Chartier_1304.jpg/1280px-Paris_Chartier_1304.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Paris_Chartier_1304.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4986,
+          "height": 3324
+        },
+        "pageimage": "Paris_Chartier_1304.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:04:11Z",
+        "lastrevid": 238460499,
+        "length": 14715,
+        "fullurl": "https://fr.wikipedia.org/wiki/Bouillon_Chartier",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Bouillon_Chartier&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Bouillon_Chartier"
+      },
+      "129425": {
+        "pageid": 129425,
+        "ns": 0,
+        "title": "Bouquinistes de Paris",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bouquinistes_in_Paris_%2822890464511%29.jpg/1280px-Bouquinistes_in_Paris_%2822890464511%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bouquinistes_in_Paris_%2822890464511%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2598,
+          "height": 1732
+        },
+        "pageimage": "Bouquinistes_in_Paris_(22890464511).jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:09Z",
+        "lastrevid": 234505449,
+        "length": 28808,
+        "fullurl": "https://fr.wikipedia.org/wiki/Bouquinistes_de_Paris",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Bouquinistes_de_Paris&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Bouquinistes_de_Paris"
+      },
+      "1317847": {
+        "pageid": 1317847,
+        "ns": 0,
+        "title": "Café de la Paix",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2025-06-03T07:56:51Z",
+        "lastrevid": 225129967,
+        "length": 421,
+        "fullurl": "https://fr.wikipedia.org/wiki/Caf%C3%A9_de_la_Paix",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Caf%C3%A9_de_la_Paix&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Caf%C3%A9_de_la_Paix"
+      },
+      "104136": {
+        "pageid": 104136,
+        "ns": 0,
+        "title": "Champ-de-Mars (Paris)",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Champ_de_Mars_from_the_Eiffel_Tower_-_July_2006_edit.jpg/1280px-Champ_de_Mars_from_the_Eiffel_Tower_-_July_2006_edit.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1182
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Champ_de_Mars_from_the_Eiffel_Tower_-_July_2006_edit.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1900,
+          "height": 1871
+        },
+        "pageimage": "Champ_de_Mars_from_the_Eiffel_Tower_-_July_2006_edit.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T15:38:26Z",
+        "lastrevid": 238067593,
+        "length": 33153,
+        "fullurl": "https://fr.wikipedia.org/wiki/Champ-de-Mars_(Paris)",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Champ-de-Mars_(Paris)&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Champ-de-Mars_(Paris)"
+      },
+      "22615": {
+        "pageid": 22615,
+        "ns": 0,
+        "title": "Cimetière du Père-Lachaise",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Main_gate_of_the_P%C3%A8re-Lachaise_Cemetery%2C_Paris_13_June_2014.jpg/1280px-Main_gate_of_the_P%C3%A8re-Lachaise_Cemetery%2C_Paris_13_June_2014.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Main_gate_of_the_P%C3%A8re-Lachaise_Cemetery%2C_Paris_13_June_2014.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4272,
+          "height": 2848
+        },
+        "pageimage": "Main_gate_of_the_Père-Lachaise_Cemetery,_Paris_13_June_2014.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:04Z",
+        "lastrevid": 239297056,
+        "length": 98123,
+        "fullurl": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Cimeti%C3%A8re_du_P%C3%A8re-Lachaise&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise"
+      },
+      "2886503": {
+        "pageid": 2886503,
+        "ns": 0,
+        "title": "Deyrolle",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-04-21T17:38:03Z",
+        "lastrevid": 235416928,
+        "length": 684,
+        "fullurl": "https://fr.wikipedia.org/wiki/Deyrolle",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Deyrolle&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Deyrolle"
+      },
+      "7102083": {
+        "pageid": 7102083,
+        "ns": 0,
+        "title": "Fontaine Stravinsky",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Paris_75004_Place_Igor-Stravinsky_Fountain_01b.jpg/1280px-Paris_75004_Place_Igor-Stravinsky_Fountain_01b.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Paris_75004_Place_Igor-Stravinsky_Fountain_01b.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3648,
+          "height": 2736
+        },
+        "pageimage": "Paris_75004_Place_Igor-Stravinsky_Fountain_01b.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:04:54Z",
+        "lastrevid": 212824578,
+        "length": 7272,
+        "fullurl": "https://fr.wikipedia.org/wiki/Fontaine_Stravinsky",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Fontaine_Stravinsky&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Fontaine_Stravinsky"
+      },
+      "3928846": {
+        "pageid": 3928846,
+        "ns": 0,
+        "title": "Harry's New York Bar",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Harrys_New_York_Bar_6%2C_Paris_2012.jpg/1280px-Harrys_New_York_Bar_6%2C_Paris_2012.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1597
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Harrys_New_York_Bar_6%2C_Paris_2012.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2888,
+          "height": 3843
+        },
+        "pageimage": "Harrys_New_York_Bar_6,_Paris_2012.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:05:19Z",
+        "lastrevid": 217998002,
+        "length": 4619,
+        "fullurl": "https://fr.wikipedia.org/wiki/Harry%27s_New_York_Bar",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Harry%27s_New_York_Bar&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Harry%27s_New_York_Bar"
+      },
+      "3159058": {
+        "pageid": 3159058,
+        "ns": 0,
+        "title": "Le Grand Véfour",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/e/ea/Logo_Le_Grand_V%C3%A9four.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 164,
+          "height": 125
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/e/ea/Logo_Le_Grand_V%C3%A9four.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 164,
+          "height": 125
+        },
+        "pageimage": "Logo_Le_Grand_Véfour.png",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:04:57Z",
+        "lastrevid": 239400565,
+        "length": 9676,
+        "fullurl": "https://fr.wikipedia.org/wiki/Le_Grand_V%C3%A9four",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Le_Grand_V%C3%A9four&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Le_Grand_V%C3%A9four"
+      },
+      "1858412": {
+        "pageid": 1858412,
+        "ns": 0,
+        "title": "Le Train bleu (restaurant)",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/4/4c/Logo_Le_Train_bleu.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 248,
+          "height": 137
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/4/4c/Logo_Le_Train_bleu.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 248,
+          "height": 137
+        },
+        "pageimage": "Logo_Le_Train_bleu.png",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:03:05Z",
+        "lastrevid": 239553793,
+        "length": 25369,
+        "fullurl": "https://fr.wikipedia.org/wiki/Le_Train_bleu_(restaurant)",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Le_Train_bleu_(restaurant)&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Le_Train_bleu_(restaurant)"
+      },
+      "123165": {
+        "pageid": 123165,
+        "ns": 0,
+        "title": "Maison Fournaise",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Le_D%C3%A9jeuner_des_canotiers_devant_la_Maison_Fournaise.JPG/1280px-Le_D%C3%A9jeuner_des_canotiers_devant_la_Maison_Fournaise.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 799
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/Le_D%C3%A9jeuner_des_canotiers_devant_la_Maison_Fournaise.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4000,
+          "height": 2664
+        },
+        "pageimage": "Le_Déjeuner_des_canotiers_devant_la_Maison_Fournaise.JPG",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:03:00Z",
+        "lastrevid": 237522973,
+        "length": 8331,
+        "fullurl": "https://fr.wikipedia.org/wiki/Maison_Fournaise",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Maison_Fournaise&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Maison_Fournaise"
+      },
+      "4927466": {
+        "pageid": 4927466,
+        "ns": 0,
+        "title": "Maison de Nicolas Flamel",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Paris-Auberge-Flamel.JPG/1280px-Paris-Auberge-Flamel.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1753
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Paris-Auberge-Flamel.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1768,
+          "height": 2583
+        },
+        "pageimage": "Paris-Auberge-Flamel.JPG",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:05:48Z",
+        "lastrevid": 216678907,
+        "length": 7721,
+        "fullurl": "https://fr.wikipedia.org/wiki/Maison_de_Nicolas_Flamel",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Maison_de_Nicolas_Flamel&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Maison_de_Nicolas_Flamel"
+      },
+      "2107233": {
+        "pageid": 2107233,
+        "ns": 0,
+        "title": "Marché des Enfants-Rouges",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/March%C3%A9_des_Enfants-Rouges%2C_Paris_May_2016.jpg/1280px-March%C3%A9_des_Enfants-Rouges%2C_Paris_May_2016.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/March%C3%A9_des_Enfants-Rouges%2C_Paris_May_2016.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2780,
+          "height": 1853
+        },
+        "pageimage": "Marché_des_Enfants-Rouges,_Paris_May_2016.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:04:38Z",
+        "lastrevid": 238907884,
+        "length": 6282,
+        "fullurl": "https://fr.wikipedia.org/wiki/March%C3%A9_des_Enfants-Rouges",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=March%C3%A9_des_Enfants-Rouges&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/March%C3%A9_des_Enfants-Rouges"
+      },
+      "97851": {
+        "pageid": 97851,
+        "ns": 0,
+        "title": "Moulin-Rouge",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Moulin_rouge.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 1280,
+          "height": 960
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Moulin_rouge.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1280,
+          "height": 960
+        },
+        "pageimage": "Moulin_rouge.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:07Z",
+        "lastrevid": 239570745,
+        "length": 53356,
+        "fullurl": "https://fr.wikipedia.org/wiki/Moulin-Rouge",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Moulin-Rouge&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Moulin-Rouge"
+      },
+      "554226": {
+        "pageid": 554226,
+        "ns": 0,
+        "title": "Moulin de la Galette",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Paris_18e_Moulin_Radet_220.jpg/1280px-Paris_18e_Moulin_Radet_220.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Paris_18e_Moulin_Radet_220.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4896,
+          "height": 3264
+        },
+        "pageimage": "Paris_18e_Moulin_Radet_220.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:31Z",
+        "lastrevid": 239477390,
+        "length": 54420,
+        "fullurl": "https://fr.wikipedia.org/wiki/Moulin_de_la_Galette",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Moulin_de_la_Galette&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Moulin_de_la_Galette"
+      },
+      "2966249": {
+        "pageid": 2966249,
+        "ns": 0,
+        "title": "Musée Cognacq-Jay",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/8_rue_Elz%C3%A9vir_Paris.jpg/1280px-8_rue_Elz%C3%A9vir_Paris.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/8_rue_Elz%C3%A9vir_Paris.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3464,
+          "height": 4618
+        },
+        "pageimage": "8_rue_Elzévir_Paris.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:04:52Z",
+        "lastrevid": 238342137,
+        "length": 11951,
+        "fullurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Cognacq-Jay",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Mus%C3%A9e_Cognacq-Jay&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Cognacq-Jay"
+      },
+      "109272": {
+        "pageid": 109272,
+        "ns": 0,
+        "title": "Musée Jacquemart-André",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Mus%C3%A9e_Jacquemart_Andr%C3%A9_2007_-_Recoura.jpg/1280px-Mus%C3%A9e_Jacquemart_Andr%C3%A9_2007_-_Recoura.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 924
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mus%C3%A9e_Jacquemart_Andr%C3%A9_2007_-_Recoura.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4973,
+          "height": 3830
+        },
+        "pageimage": "Musée_Jacquemart_André_2007_-_Recoura.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:08Z",
+        "lastrevid": 239522758,
+        "length": 23421,
+        "fullurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Jacquemart-Andr%C3%A9",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Mus%C3%A9e_Jacquemart-Andr%C3%A9&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Jacquemart-Andr%C3%A9"
+      },
+      "133570": {
+        "pageid": 133570,
+        "ns": 0,
+        "title": "Musée Rodin",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Le_mus%C3%A9e_Rodin.jpg/1280px-Le_mus%C3%A9e_Rodin.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Le_mus%C3%A9e_Rodin.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1800,
+          "height": 1200
+        },
+        "pageimage": "Le_musée_Rodin.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:09Z",
+        "lastrevid": 239113149,
+        "length": 24763,
+        "fullurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Rodin",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Mus%C3%A9e_Rodin&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Rodin"
+      },
+      "149132": {
+        "pageid": 149132,
+        "ns": 0,
+        "title": "Musée de l'Orangerie",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/0/04/Mus%C3%A9edel%27orangerielogo.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 900,
+          "height": 900
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/0/04/Mus%C3%A9edel%27orangerielogo.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 900,
+          "height": 900
+        },
+        "pageimage": "Muséedel'orangerielogo.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:10Z",
+        "lastrevid": 238689576,
+        "length": 43759,
+        "fullurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Orangerie",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Mus%C3%A9e_de_l%27Orangerie&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Orangerie"
+      },
+      "395013": {
+        "pageid": 395013,
+        "ns": 0,
+        "title": "Musée de la Chasse et de la Nature",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Fa%C3%A7ades_du_Mus%C3%A9e_de_la_chasse_et_de_la_nature.jpg/1280px-Fa%C3%A7ades_du_Mus%C3%A9e_de_la_chasse_et_de_la_nature.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1729
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Fa%C3%A7ades_du_Mus%C3%A9e_de_la_chasse_et_de_la_nature.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2982,
+          "height": 4296
+        },
+        "pageimage": "Façades_du_Musée_de_la_chasse_et_de_la_nature.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:24Z",
+        "lastrevid": 238226210,
+        "length": 16077,
+        "fullurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Chasse_et_de_la_Nature",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Mus%C3%A9e_de_la_Chasse_et_de_la_Nature&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Chasse_et_de_la_Nature"
+      },
+      "119783": {
+        "pageid": 119783,
+        "ns": 0,
+        "title": "Musée du Quai Branly - Jacques-Chirac",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_%2810629%29.jpg/1280px-Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_%2810629%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mus%C3%A9e_du_quai_Branly_-_20150801_16h07_%2810629%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3447,
+          "height": 5170
+        },
+        "pageimage": "Musée_du_quai_Branly_-_20150801_16h07_(10629).jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:08Z",
+        "lastrevid": 239942311,
+        "length": 80073,
+        "fullurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_Quai_Branly_-_Jacques-Chirac",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Mus%C3%A9e_du_Quai_Branly_-_Jacques-Chirac&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_Quai_Branly_-_Jacques-Chirac"
+      },
+      "24940": {
+        "pageid": 24940,
+        "ns": 0,
+        "title": "Panthéon (Paris)",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Pantheon_of_Paris_007.JPG/1280px-Pantheon_of_Paris_007.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 901
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Pantheon_of_Paris_007.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3704,
+          "height": 2780
+        },
+        "pageimage": "Pantheon_of_Paris_007.JPG",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:04Z",
+        "lastrevid": 239973087,
+        "length": 198215,
+        "fullurl": "https://fr.wikipedia.org/wiki/Panth%C3%A9on_(Paris)",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Panth%C3%A9on_(Paris)&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Panth%C3%A9on_(Paris)"
+      },
+      "92561": {
+        "pageid": 92561,
+        "ns": 0,
+        "title": "Parc des Buttes-Chaumont",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/ParcDesButtesChaumont.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 450,
+          "height": 600
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/ParcDesButtesChaumont.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 450,
+          "height": 600
+        },
+        "pageimage": "ParcDesButtesChaumont.JPG",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:07Z",
+        "lastrevid": 238884957,
+        "length": 73207,
+        "fullurl": "https://fr.wikipedia.org/wiki/Parc_des_Buttes-Chaumont",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Parc_des_Buttes-Chaumont&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Parc_des_Buttes-Chaumont"
+      },
+      "5263006": {
+        "pageid": 5263006,
+        "ns": 0,
+        "title": "Piscine Pontoise",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Piscine_Pontoise_%C3%A0_Paris_%28ext%C3%A9rieur%29_-_2026_%2802%29.jpg/1280px-Piscine_Pontoise_%C3%A0_Paris_%28ext%C3%A9rieur%29_-_2026_%2802%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Piscine_Pontoise_%C3%A0_Paris_%28ext%C3%A9rieur%29_-_2026_%2802%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3888,
+          "height": 2592
+        },
+        "pageimage": "Piscine_Pontoise_à_Paris_(extérieur)_-_2026_(02).jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-30T18:05:57Z",
+        "lastrevid": 239015447,
+        "length": 6773,
+        "fullurl": "https://fr.wikipedia.org/wiki/Piscine_Pontoise",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Piscine_Pontoise&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Piscine_Pontoise"
+      },
+      "103389": {
+        "pageid": 103389,
+        "ns": 0,
+        "title": "Place Vendôme",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Place_Vend%C3%B4me_vue_a%C3%A9rienne.png/1280px-Place_Vend%C3%B4me_vue_a%C3%A9rienne.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Place_Vend%C3%B4me_vue_a%C3%A9rienne.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1352,
+          "height": 901
+        },
+        "pageimage": "Place_Vendôme_vue_aérienne.png",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:08Z",
+        "lastrevid": 238539657,
+        "length": 25742,
+        "fullurl": "https://fr.wikipedia.org/wiki/Place_Vend%C3%B4me",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Place_Vend%C3%B4me&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Place_Vend%C3%B4me"
+      },
+      "1817661": {
+        "pageid": 1817661,
+        "ns": 0,
+        "title": "Place de la Contrescarpe",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/P1300182_Paris_V_place_Contrescarpe_rwk.jpg/1280px-P1300182_Paris_V_place_Contrescarpe_rwk.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 907
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/P1300182_Paris_V_place_Contrescarpe_rwk.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2000,
+          "height": 1511
+        },
+        "pageimage": "P1300182_Paris_V_place_Contrescarpe_rwk.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:03:05Z",
+        "lastrevid": 237471350,
+        "length": 10457,
+        "fullurl": "https://fr.wikipedia.org/wiki/Place_de_la_Contrescarpe",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Place_de_la_Contrescarpe&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Place_de_la_Contrescarpe"
+      },
+      "4073368": {
+        "pageid": 4073368,
+        "ns": 0,
+        "title": "Polidor",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/%C3%88_sbarcato_un_marinaio_%281940%29_Polidor.png/1280px-%C3%88_sbarcato_un_marinaio_%281940%29_Polidor.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1298
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/%C3%88_sbarcato_un_marinaio_%281940%29_Polidor.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1540,
+          "height": 1666
+        },
+        "pageimage": "È_sbarcato_un_marinaio_(1940)_Polidor.png",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T06:23:14Z",
+        "lastrevid": 231820500,
+        "length": 6519,
+        "fullurl": "https://fr.wikipedia.org/wiki/Polidor",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Polidor&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Polidor"
+      },
+      "130347": {
+        "pageid": 130347,
+        "ns": 0,
+        "title": "Pont Alexandre-III",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Pont_Alexandre_III_from_pont_de_la_Concorde%2C_Paris_17_May_2012.jpg/1280px-Pont_Alexandre_III_from_pont_de_la_Concorde%2C_Paris_17_May_2012.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Pont_Alexandre_III_from_pont_de_la_Concorde%2C_Paris_17_May_2012.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4566,
+          "height": 3044
+        },
+        "pageimage": "Pont_Alexandre_III_from_pont_de_la_Concorde,_Paris_17_May_2012.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:09Z",
+        "lastrevid": 239701392,
+        "length": 31894,
+        "fullurl": "https://fr.wikipedia.org/wiki/Pont_Alexandre-III",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Pont_Alexandre-III&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Pont_Alexandre-III"
+      },
+      "3416700": {
+        "pageid": 3416700,
+        "ns": 0,
+        "title": "Rue Dénoyez",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Rue_D%C3%A9noyez_-_Paris_%28France%29.JPG/1280px-Rue_D%C3%A9noyez_-_Paris_%28France%29.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Rue_D%C3%A9noyez_-_Paris_%28France%29.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3072,
+          "height": 2304
+        },
+        "pageimage": "Rue_Dénoyez_-_Paris_(France).JPG",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:03:25Z",
+        "lastrevid": 239015385,
+        "length": 3188,
+        "fullurl": "https://fr.wikipedia.org/wiki/Rue_D%C3%A9noyez",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Rue_D%C3%A9noyez&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Rue_D%C3%A9noyez"
+      },
+      "1418834": {
+        "pageid": 1418834,
+        "ns": 0,
+        "title": "Rue Saint-Vincent (Paris)",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/P1270024_Paris_XVIII_rue_Saint-Vincent_rwk.jpg/1280px-P1270024_Paris_XVIII_rue_Saint-Vincent_rwk.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 974
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/P1270024_Paris_XVIII_rue_Saint-Vincent_rwk.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2000,
+          "height": 1624
+        },
+        "pageimage": "P1270024_Paris_XVIII_rue_Saint-Vincent_rwk.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:57Z",
+        "lastrevid": 238892810,
+        "length": 8144,
+        "fullurl": "https://fr.wikipedia.org/wiki/Rue_Saint-Vincent_(Paris)",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Rue_Saint-Vincent_(Paris)&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Rue_Saint-Vincent_(Paris)"
+      },
+      "941568": {
+        "pageid": 941568,
+        "ns": 0,
+        "title": "Rue du Chat-qui-Pêche",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Rue_du_Chat-qui-Peche.JPG/1280px-Rue_du_Chat-qui-Peche.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rue_du_Chat-qui-Peche.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2966,
+          "height": 2224
+        },
+        "pageimage": "Rue_du_Chat-qui-Peche.JPG",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:44Z",
+        "lastrevid": 234400520,
+        "length": 10063,
+        "fullurl": "https://fr.wikipedia.org/wiki/Rue_du_Chat-qui-P%C3%AAche",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Rue_du_Chat-qui-P%C3%AAche&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Rue_du_Chat-qui-P%C3%AAche"
+      },
+      "1687246": {
+        "pageid": 1687246,
+        "ns": 0,
+        "title": "Répliques de la statue de la Liberté",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Heide-Park_Soltau_Colossos.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 1120,
+          "height": 840
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Heide-Park_Soltau_Colossos.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1120,
+          "height": 840
+        },
+        "pageimage": "Heide-Park_Soltau_Colossos.JPG",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:03:02Z",
+        "lastrevid": 239213108,
+        "length": 43131,
+        "fullurl": "https://fr.wikipedia.org/wiki/R%C3%A9pliques_de_la_statue_de_la_Libert%C3%A9",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=R%C3%A9pliques_de_la_statue_de_la_Libert%C3%A9&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/R%C3%A9pliques_de_la_statue_de_la_Libert%C3%A9"
+      },
+      "1016407": {
+        "pageid": 1016407,
+        "ns": 0,
+        "title": "Sentier des Merisiers",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Paris12_sentier_des_Merisiers.jpg/1280px-Paris12_sentier_des_Merisiers.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Paris12_sentier_des_Merisiers.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 2736,
+          "height": 2736
+        },
+        "pageimage": "Paris12_sentier_des_Merisiers.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:46Z",
+        "lastrevid": 232095800,
+        "length": 9140,
+        "fullurl": "https://fr.wikipedia.org/wiki/Sentier_des_Merisiers",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Sentier_des_Merisiers&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Sentier_des_Merisiers"
+      },
+      "106174": {
+        "pageid": 106174,
+        "ns": 0,
+        "title": "Église Saint-Étienne-du-Mont de Paris",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/St-Etienne-du-Mont_Exterior%2C_Paris%2C_France_-_Diliff.jpg/1280px-St-Etienne-du-Mont_Exterior%2C_Paris%2C_France_-_Diliff.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1920
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/St-Etienne-du-Mont_Exterior%2C_Paris%2C_France_-_Diliff.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3137,
+          "height": 5020
+        },
+        "pageimage": "St-Etienne-du-Mont_Exterior,_Paris,_France_-_Diliff.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:08Z",
+        "lastrevid": 239708814,
+        "length": 44195,
+        "fullurl": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne-du-Mont_de_Paris",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=%C3%89glise_Saint-%C3%89tienne-du-Mont_de_Paris&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne-du-Mont_de_Paris"
+      },
+      "534327": {
+        "pageid": 534327,
+        "ns": 0,
+        "title": "Au Lapin agile",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Au_Lapin_Agile%2C_Paris_20_May_2014.jpg/1280px-Au_Lapin_Agile%2C_Paris_20_May_2014.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 795
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Au_Lapin_Agile%2C_Paris_20_May_2014.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4928,
+          "height": 3264
+        },
+        "pageimage": "Au_Lapin_Agile,_Paris_20_May_2014.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:30Z",
+        "lastrevid": 239232623,
+        "length": 37096,
+        "fullurl": "https://fr.wikipedia.org/wiki/Au_Lapin_agile",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Au_Lapin_agile&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Au_Lapin_agile"
+      },
+      "161985": {
+        "pageid": 161985,
+        "ns": 0,
+        "title": "Café Procope",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Le_Procope_1%2C_Paris_2010.jpg/1280px-Le_Procope_1%2C_Paris_2010.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Le_Procope_1%2C_Paris_2010.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 5054,
+          "height": 3369
+        },
+        "pageimage": "Le_Procope_1,_Paris_2010.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:11Z",
+        "lastrevid": 240002535,
+        "length": 23080,
+        "fullurl": "https://fr.wikipedia.org/wiki/Caf%C3%A9_Procope",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Caf%C3%A9_Procope&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Caf%C3%A9_Procope"
+      },
+      "1871614": {
+        "pageid": 1871614,
+        "ns": 0,
+        "title": "La Tour d'Argent",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Rue_Card-Lemoine-Rest_Tour_d%27argent.JPG/1280px-Rue_Card-Lemoine-Rest_Tour_d%27argent.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1451
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rue_Card-Lemoine-Rest_Tour_d%27argent.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1536,
+          "height": 1857
+        },
+        "pageimage": "Rue_Card-Lemoine-Rest_Tour_d'argent.JPG",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:03:05Z",
+        "lastrevid": 239852782,
+        "length": 27224,
+        "fullurl": "https://fr.wikipedia.org/wiki/La_Tour_d%27Argent",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=La_Tour_d%27Argent&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/La_Tour_d%27Argent"
+      },
+      "4038463": {
+        "pageid": 4038463,
+        "ns": 0,
+        "title": "Maxim's",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Maxim%27s%2C_7_Rue_Royale%2C_75008_Paris%2C_14_September_2019.jpg/1280px-Maxim%27s%2C_7_Rue_Royale%2C_75008_Paris%2C_14_September_2019.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 675
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Maxim%27s%2C_7_Rue_Royale%2C_75008_Paris%2C_14_September_2019.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4032,
+          "height": 2268
+        },
+        "pageimage": "Maxim's,_7_Rue_Royale,_75008_Paris,_14_September_2019.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:03:37Z",
+        "lastrevid": 239300525,
+        "length": 15928,
+        "fullurl": "https://fr.wikipedia.org/wiki/Maxim%27s",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Maxim%27s&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Maxim%27s"
+      },
+      "918031": {
+        "pageid": 918031,
+        "ns": 0,
+        "title": "Ritz Paris",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/H%C3%B4tel_Ritz.jpg/1280px-H%C3%B4tel_Ritz.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/H%C3%B4tel_Ritz.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 4553,
+          "height": 3035
+        },
+        "pageimage": "Hôtel_Ritz.jpg",
+        "contentmodel": "wikitext",
+        "pagelanguage": "fr",
+        "pagelanguagehtmlcode": "fr",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-10-04T14:02:43Z",
+        "lastrevid": 239995535,
+        "length": 33763,
+        "fullurl": "https://fr.wikipedia.org/wiki/Ritz_Paris",
+        "editurl": "https://fr.wikipedia.org/w/index.php?title=Ritz_Paris&action=edit",
+        "canonicalurl": "https://fr.wikipedia.org/wiki/Ritz_Paris"
+      }
+    }
+  }
+}

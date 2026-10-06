@@ -1,0 +1,18 @@
+Paris StoryMap v3 知识库
+
+前台以故事线串联巴黎 POI：人格 → 故事线 → POI章节 → 转场与尾声。人物/作品作为故事支线。
+存储层仍以 POI 为主记录。故事通过 poi_id 归属于地点；路线每站引用 poi_id/story_id；人物和作品是衍生交叉索引。
+119 个 POI 记录（含一个公墓父记录）、260 则故事、16 条路线、313 个人物/作品索引项。
+
+pois.json：名称、别名、类别、地址、区域、坐标与精度状态、官方链接、访问说明、故事引用。
+stories.json：标题、钩子、正文、人物/作品、when、why_here、relationship、observable_cue、confidence/caveat/myth、来源引用。
+routes.json：人格、开头/尾声、顺序章节、选用故事、转场、步行说明。
+entities.json：id/kind/name/aliases/poi_ids/story_refs；每个 story_ref 含 story_id、poi_id、source_ids、time。
+time.label 保留原始年代，sortYear 仅首个明确四位年份，basis 为 first_explicit_year 或 undated。不是逐个人物核验的生平年表，多时间叙述不解释成连续区间。
+sources.json：出版机构、标题、URL。出处存在不等于每条断言都已独立考证。
+media.json：以 poi_id 为键的图片记录，含本地 src、alt/caption、原图 URL、来源页面、地点匹配说明、尺寸、体积、SHA-256 与核对日期；作者/许可仅在已知时记录。119 个 POI 均有对应照片。
+pois.media 引用图片键，media_status 标记 photo_verified。content/photo-manifest.json 为可重复构建的图片主记录；实际文件在 public/photos/。
+media.crop.landscape / portrait 保存横向与窄纵向取景位置（CSS百分比），按真实图片主体人工设置；原始图片文件和SHA-256不因显示裁切而改变。前端使用等比填充，不拉伸或留边。
+paths.json：16 条路线的 97 个顺序连接。74 段为缓存步行路网，23 段为建议换乘的示意连接。含当前相邻 POI ID、输入坐标、生成时间、来源、模式、步行距离与估时；前端校验端点和方向，拒绝过时路径。
+
+编辑输入在源码包 content/；npm run kb 生成最终数据及实体索引。入口、墓位、历史事件、作品场景应分别核实。

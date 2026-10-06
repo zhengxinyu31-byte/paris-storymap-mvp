@@ -1,0 +1,3382 @@
+[
+  {
+    "id": "cafe-de-flore--workroom",
+    "title": "暖气怎样成为写作条件",
+    "hook": "先看桌子，再想思想怎样落地。",
+    "body": "萨特和波伏娃把花神当作工作地点，最初的吸引力之一是能在这里取暖。法国国家图书馆的资料把这段生活写得很具体，经营方也提到店内的大炉子。今天先从公共人行道看露台与店面，把咖啡馆理解为写作所需的空间、时间和日常条件；不必买咖啡，也不必猜哪张桌子属于谁。",
+    "person_names": [
+      "让-保罗·萨特",
+      "西蒙娜·德·波伏娃"
+    ],
+    "work_names": [],
+    "themes": [
+      "哲学",
+      "写作日常"
+    ],
+    "observable_cue": "店名、露台桌椅与临街立面",
+    "visitor_action": "观察桌椅怎样把街道变成停留空间。",
+    "knowledge_takeaway": "思想史也有取暖、工作与社交的物质条件。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "萨特和波伏娃最初到花神工作也为取暖。",
+        "source_ids": [
+          "src-left-sartre-bnf"
+        ]
+      },
+      {
+        "text": "经营方历史记载店内大炉子和两人的长时间停留。",
+        "source_ids": [
+          "src-left-flore"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-sartre-bnf",
+      "src-left-flore"
+    ],
+    "caveat": "不标注未经证明的原座位，不推断特定著作在某张桌子写成。",
+    "poi_id": "cafe-de-flore",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "cafe-de-flore--exp-facade"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "cafe-de-flore--apollinaire",
+    "title": "咖啡馆也是杂志办公室",
+    "hook": "一间店面，连接一张文学网络。",
+    "body": "花神官方历史把阿波利奈尔与《巴黎之夜》的编辑活动联系起来：约1913年，他与安德烈·萨尔蒙把底层作为工作空间。站在门外想象稿件、会面和消息怎样通过一家咖啡馆流动，比背一串名人名单更有意思。看清店招与街口，再在手机上打开来源；今天的装潢不是当年编辑部的完整复原。",
+    "person_names": [
+      "纪尧姆·阿波利奈尔",
+      "安德烈·萨尔蒙"
+    ],
+    "work_names": [
+      "巴黎之夜",
+      "Les Soirées de Paris"
+    ],
+    "themes": [
+      "先锋文学",
+      "出版"
+    ],
+    "observable_cue": "底层店面与街口",
+    "visitor_action": "打开官方历史对应段落，对照今天店面。",
+    "knowledge_takeaway": "咖啡馆可成为非正式的文学生产节点。",
+    "claim_type": "literary_connection",
+    "claims": [
+      {
+        "text": "经营方记载约1913年阿波利奈尔与萨尔蒙在底层进行杂志编辑活动。",
+        "source_ids": [
+          "src-left-flore"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-flore"
+    ],
+    "caveat": "官方自述把杂志起源简化；这里只讲编辑活动，不称杂志在此首次创刊，也不称诗人在这里去世。",
+    "poi_id": "cafe-de-flore",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "cafe-de-flore--exp-facade"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "cafe-de-flore--prize",
+    "title": "从旧名人到新作家",
+    "hook": "文学咖啡馆不只收藏过去。",
+    "body": "1994年创立的花神奖，把一家咖啡馆与新作者的文学评价连接起来。官网列有历届获奖者，不必认识全部名字：挑一个，再搜索他的书，就能把眼前的店招变成阅读入口。这个故事适合在外面短停，或有预算时坐下读几页；获奖者的待遇不是普通游客权益，今天也不保证有活动。",
+    "person_names": [
+      "弗雷德里克·贝格伯德"
+    ],
+    "work_names": [
+      "Prix de Flore"
+    ],
+    "themes": [
+      "文学奖",
+      "当代文学"
+    ],
+    "observable_cue": "CAFÉ DE FLORE店招",
+    "visitor_action": "从历届名单选一位作家，记下一本想读的书。",
+    "knowledge_takeaway": "文学地点也通过评奖持续生产文化价值。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "花神奖创立于1994年。",
+        "source_ids": [
+          "src-left-flore"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-flore"
+    ],
+    "caveat": "不沿用官网不同年份的奖金金额，不推断当天有颁奖活动。",
+    "poi_id": "cafe-de-flore",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "cafe-de-flore--exp-facade"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "les-deux-magots--wooden-figures",
+    "title": "店名留下了商店时代",
+    "hook": "双叟首先是两件看得见的物件。",
+    "body": "双叟的名字来自这里前身商店的招牌；经营方写明两尊人物是木雕，位于店内中央柱子高处。咖啡馆官网把开业记为1884年。先在外面读故事，再决定是否消费入内抬头寻找；不用把普通客人的座位当作观察通道。一个沿用的店名，能把今天的餐饮场所与更早的零售空间接起来。",
+    "person_names": [],
+    "work_names": [],
+    "themes": [
+      "城市商业",
+      "物件观察"
+    ],
+    "observable_cue": "店招；入内后如可见，中央柱子上的木雕",
+    "visitor_action": "比较店名与塑像，不为找物件打扰用餐客人。",
+    "knowledge_takeaway": "商业空间改用途后，旧招牌仍可保存地点记忆。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "店名源于此前同址商店；经营方记1884年成为咖啡馆。",
+        "source_ids": [
+          "src-left-deux-history"
+        ]
+      },
+      {
+        "text": "两尊人物被官网明确称为木质塑像。",
+        "source_ids": [
+          "src-left-deux-home"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-deux-history",
+      "src-left-deux-home"
+    ],
+    "caveat": "旧稿称瓷人并写1885，与当前经营方叙述不符；不保证从外面能看到塑像。",
+    "poi_id": "les-deux-magots",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "les-deux-magots--exp-outside"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "les-deux-magots--queneau",
+    "title": "格诺的第一届双叟奖",
+    "hook": "在咖啡桌上，谁有资格定义好小说？",
+    "body": "双叟官网获奖名录把1933年的第一届奖列给雷蒙·格诺的《Le Chiendent》。这给眼前咖啡馆增加了一种角色：它不只接待作者，也参与选择作者。面对店面，可以把花神和双叟的文学奖放在一起比较，思考奖项怎样帮助读者发现作品。无需替当年的评委编一段争吵，也不必把这里说成格诺写成小说的地方。",
+    "person_names": [
+      "雷蒙·格诺"
+    ],
+    "work_names": [
+      "Le Chiendent",
+      "Prix des Deux Magots"
+    ],
+    "themes": [
+      "文学奖",
+      "阅读发现"
+    ],
+    "observable_cue": "双叟店名与官网历届名单",
+    "visitor_action": "在名单中找1933年条目，记录作者与书名。",
+    "knowledge_takeaway": "文学制度可以依托日常社交场所形成。",
+    "claim_type": "literary_connection",
+    "claims": [
+      {
+        "text": "官网历届名单列1933年雷蒙·格诺《Le Chiendent》。",
+        "source_ids": [
+          "src-left-deux-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-deux-history"
+    ],
+    "caveat": "不采用首届创办冲突、老板读报等未经独立核验的戏剧化细节。",
+    "poi_id": "les-deux-magots",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "les-deux-magots--exp-outside"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "saint-germain-des-pres--layers",
+    "title": "咖啡馆之前，先有修道院",
+    "hook": "同一个街口，可以把时间拉长一千多年。",
+    "body": "教区历史从六世纪希尔德贝尔建造的圣堂讲起，558年与主教日耳曼的献堂相连。今天看到的建筑并不全是六世纪原物：约一千年时曾重建，1163年又为新的唱诗席献堂。先在广场看钟楼与教堂体量，再把它与旁边咖啡馆放在一张时间线上，便能理解街区名称背后的宗教中心。",
+    "person_names": [
+      "希尔德贝尔一世",
+      "巴黎的圣日耳曼"
+    ],
+    "work_names": [],
+    "themes": [
+      "建筑分期",
+      "中世纪"
+    ],
+    "observable_cue": "钟楼与教堂外观",
+    "visitor_action": "区分地点起源与现存建筑年代。",
+    "knowledge_takeaway": "古老地点经多次重建延续，并非整栋建筑同龄。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "六世纪建堂、558年献堂，约1000年重建，1163年新唱诗席献堂。",
+        "source_ids": [
+          "src-left-sgp-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-sgp-history"
+    ],
+    "caveat": "不称现存全部建筑为六世纪原建；只在公共广场观察。",
+    "poi_id": "saint-germain-des-pres",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "saint-germain-des-pres--exp-tower"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "saint-germain-des-pres--descartes",
+    "title": "笛卡尔的名字藏在小堂里",
+    "hook": "哲学家也进入了教堂的记忆空间。",
+    "body": "教区参观指南把笛卡尔、蒙福孔和马比永的纪念碑列在圣伯努瓦小堂。若当日允许安静进入，可以按指南寻找这些名字；若遇礼拜，就在外面读完这个故事。这里适合讨论的是思想人物如何被纪念，而不是把教堂误当成他们的写作现场。看一块有名字的纪念碑，比笼统地说左岸充满哲学更具体。",
+    "person_names": [
+      "勒内·笛卡尔",
+      "贝尔纳·德·蒙福孔",
+      "让·马比永"
+    ],
+    "work_names": [],
+    "themes": [
+      "哲学",
+      "纪念"
+    ],
+    "observable_cue": "指南所标Saint-Benoît小堂纪念碑",
+    "visitor_action": "按教区指南寻找名字，尊重礼拜与现场限制。",
+    "knowledge_takeaway": "纪念地点与生前活动地点是两种不同关联。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "教区指南列Saint-Benoît小堂有笛卡尔、蒙福孔、马比永纪念碑。",
+        "source_ids": [
+          "src-left-sgp-guide"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-sgp-guide"
+    ],
+    "caveat": "本条核验的是纪念碑存在与导览位置，不追加遗骨转移年代或遗骨完整性断言。",
+    "poi_id": "saint-germain-des-pres",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "saint-germain-des-pres--exp-memorial"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "jardin-du-luxembourg--medicis",
+    "title": "喷泉也被街道搬过家",
+    "hook": "静止的园林，藏着移动的历史。",
+    "body": "玛丽·德·美第奇约在1630年营建了这处意大利式园林装饰。参议院资料说明，1862年开辟美第奇街时，喷泉向宫殿方向移动约三十米，前面又加了长水池。来到池边先看纵深，再读这段城市改造：今天的安静构图并非一次完成。池边可短停，但不要把任何椅子或树荫写成预留给游客的服务。",
+    "person_names": [
+      "玛丽·德·美第奇",
+      "阿尔方斯·德·吉索尔"
+    ],
+    "work_names": [],
+    "themes": [
+      "园林",
+      "城市改造"
+    ],
+    "observable_cue": "美第奇喷泉与长水池",
+    "visitor_action": "从水池一端观察它的纵深，比较最初装饰与后来布局。",
+    "knowledge_takeaway": "园林也会随城市道路建设重组。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "约1630年营建；1862年移动约30米，吉索尔增建长水池。",
+        "source_ids": [
+          "src-left-lux-medicis"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-lux-medicis"
+    ],
+    "caveat": "将喷泉设计者归属留作未定，不把今日雕刻全算为1630年原物。",
+    "poi_id": "jardin-du-luxembourg",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "jardin-du-luxembourg--exp-pause"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "jardin-du-luxembourg--george-sand",
+    "title": "乔治·桑怎样被放进公园",
+    "hook": "找一位女作家，而不是赶所有雕像。",
+    "body": "公园靠圣米歇尔大道的一组雕像中，有弗朗索瓦·西卡尔创作的乔治·桑。参议院记载，1904年先放置石膏版本，1906年换为大理石。沿园路寻找铭牌与人物形象，再想想一位写作者怎样被转化为公共纪念物。这里能证明的是她受到纪念，不能凭雕像就说某一本小说在它旁边写成。",
+    "person_names": [
+      "乔治·桑",
+      "弗朗索瓦·西卡尔"
+    ],
+    "work_names": [],
+    "themes": [
+      "女性作家",
+      "公共艺术"
+    ],
+    "observable_cue": "乔治·桑雕像及底座铭牌",
+    "visitor_action": "用官方地图寻找雕像，读作者名字后慢看姿态。",
+    "knowledge_takeaway": "公共雕像表达后人的纪念选择，不是写作地点证据。",
+    "claim_type": "literary_connection",
+    "claims": [
+      {
+        "text": "西卡尔的乔治·桑像1904放石膏、1906改大理石。",
+        "source_ids": [
+          "src-left-lux-statues"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-lux-statues"
+    ],
+    "caveat": "雕像可见性受维护影响；不延伸未经核验的作品创作地点。",
+    "poi_id": "jardin-du-luxembourg",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "jardin-du-luxembourg--exp-pause"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "jardin-du-luxembourg--sartre-childhood",
+    "title": "从思想家退回一个孩子",
+    "hook": "公园里的萨特，不必总在讲存在主义。",
+    "body": "法国国家图书馆的萨特地理资料，收录《文字》中他坐在卢森堡公园长椅上、母亲让他歇一歇的童年回忆。这是文学自述，不是一张能找到原座位的地图。现在如果有空位，坐几分钟观察孩子、园路和来往的人，再想想回忆录怎样把普通休息变成个人历史；没有座位也可以站着完成。",
+    "person_names": [
+      "让-保罗·萨特"
+    ],
+    "work_names": [
+      "文字",
+      "Les Mots"
+    ],
+    "themes": [
+      "童年",
+      "回忆录",
+      "休息"
+    ],
+    "observable_cue": "公园椅子与园路",
+    "visitor_action": "有空位时短坐，辨认回忆中的感受与可定位事实。",
+    "knowledge_takeaway": "自传关联可以成立，但不支持指认原长椅。",
+    "claim_type": "literary_connection",
+    "claims": [
+      {
+        "text": "BnF地理资料收录《Les Mots》中卢森堡公园长椅童年回忆。",
+        "source_ids": [
+          "src-left-sartre-bnf"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-sartre-bnf"
+    ],
+    "caveat": "未指认原椅、具体年月或精确位置；回忆录内容以作者叙述为界。",
+    "poi_id": "jardin-du-luxembourg",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "jardin-du-luxembourg--exp-pause"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "shakespeare-odeon--ulysses",
+    "title": "一位书商与《尤利西斯》",
+    "hook": "小说出版的关键，也可能是一间小书店。",
+    "body": "西尔维娅·比奇的书店1921年迁到奥德翁街12号，次年以Shakespeare and Company名义出版乔伊斯的《尤利西斯》。普林斯顿保存的账簿把1922年2月2日作为出版日。站在门牌附近读这段事实，留意现场若可见的纪念标识；这条街证明的是出版联系，不意味着小说全部在这里创作。",
+    "person_names": [
+      "西尔维娅·比奇",
+      "詹姆斯·乔伊斯"
+    ],
+    "work_names": [
+      "尤利西斯",
+      "Ulysses"
+    ],
+    "themes": [
+      "现代主义",
+      "出版"
+    ],
+    "observable_cue": "12号门牌；若可见，纪念铭牌",
+    "visitor_action": "从人行道读门牌，打开账簿介绍核对出版日期。",
+    "knowledge_takeaway": "书商可承担出版者角色，地点关联应精确到具体事件。",
+    "claim_type": "literary_connection",
+    "claims": [
+      {
+        "text": "书店1921迁12 rue Odéon，1922以书店名义出版《Ulysses》。",
+        "source_ids": [
+          "src-left-odeon-members"
+        ]
+      },
+      {
+        "text": "档案项目记出版日期1922-02-02。",
+        "source_ids": [
+          "src-left-odeon-logbooks"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-odeon-members",
+      "src-left-odeon-logbooks"
+    ],
+    "caveat": "旧店已关闭；与1951年现店不同。外墙标识是否无遮挡未现场核验，不进私人门洞。",
+    "poi_id": "shakespeare-odeon",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "shakespeare-odeon--exp-address"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "shakespeare-odeon--lending-library",
+    "title": "这里卖书，也让人借书",
+    "hook": "文学社群靠制度，不只靠碰巧见到名人。",
+    "body": "比奇的店同时是英文书店和收费借阅图书馆。普林斯顿的档案研究展示会员卡、借阅卡和账簿，并说明它与街对面莫尼耶的法文借阅书店有优惠联系。站在奥德翁街上，想象两种语言的读者怎样通过借书制度聚到一起；今天无需进楼，就能在手机上看档案，理解文学社群如何运行。",
+    "person_names": [
+      "西尔维娅·比奇",
+      "阿德里安娜·莫尼耶"
+    ],
+    "work_names": [],
+    "themes": [
+      "借阅",
+      "文学社群"
+    ],
+    "observable_cue": "奥德翁街12号与对面街景",
+    "visitor_action": "打开档案会员卡，找借阅规则而非只看名人姓名。",
+    "knowledge_takeaway": "低门槛阅读渠道是文化网络的基础设施。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "原店兼售书和收费借阅，保留会员卡、借阅卡、账簿。",
+        "source_ids": [
+          "src-left-odeon-members",
+          "src-left-odeon-logbooks"
+        ]
+      },
+      {
+        "text": "会员制度与Monnier书店存在优惠联系。",
+        "source_ids": [
+          "src-left-odeon-members"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-odeon-members",
+      "src-left-odeon-logbooks"
+    ],
+    "caveat": "历史收费与优惠不是今日服务；莫尼耶旧店亦不作可入内景点。",
+    "poi_id": "shakespeare-odeon",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "shakespeare-odeon--exp-address"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "shakespeare-bucherie--two-bookshops",
+    "title": "同名，却是两家店",
+    "hook": "先把1919与1951分开。",
+    "body": "乔治·惠特曼1951年在布什里街37号开店，最初叫Le Mistral；1964年改用Shakespeare and Company，向西尔维娅·比奇致敬。因此眼前店招连接一段传统，却不能把乔伊斯1922年的出版事件搬到这里。站在门外把两处地址记清楚，再决定是否排队浏览；文学地点的魅力不需要靠合并两家店来增加。",
+    "person_names": [
+      "乔治·惠特曼",
+      "西尔维娅·比奇"
+    ],
+    "work_names": [],
+    "themes": [
+      "书店沿革",
+      "事实辨识"
+    ],
+    "observable_cue": "现店招牌与37号地址",
+    "visitor_action": "把现店与12 rue Odéon并列存入地图，标不同年份。",
+    "knowledge_takeaway": "名称与精神传承不等于同址、同一家历史机构。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "George Whitman于1951在37 rue Bûcherie创Le Mistral，1964改名致敬Beach。",
+        "source_ids": [
+          "src-left-snc-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-snc-history"
+    ],
+    "caveat": "不讨论未核验的法律继承关系；只说明不同创办人、时间和地址。",
+    "poi_id": "shakespeare-bucherie",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "shakespeare-bucherie--exp-front"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "shakespeare-bucherie--tumbleweeds",
+    "title": "让旅人也留下自己的文字",
+    "hook": "书架间的传统，留下的是一页页自传。",
+    "body": "现店官方历史介绍了Tumbleweeds传统：获接待的人在书店帮忙、每日读书，并写一页自传。它把阅读与互助联系起来，不是对游客开放的免费住宿券。看门口书店与行人，想想如果只留一页文字，你会怎样写今天的巴黎；愿意进去就安静浏览，拥挤时留在外面同样能完成这个小练习。",
+    "person_names": [
+      "乔治·惠特曼"
+    ],
+    "work_names": [],
+    "themes": [
+      "互助",
+      "阅读",
+      "自传"
+    ],
+    "observable_cue": "书店外观与公开历史页面",
+    "visitor_action": "写三句今日自传，不提出未经安排的住宿要求。",
+    "knowledge_takeaway": "文化机构的社群传统与普通游客服务应分清。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "经营方介绍Tumbleweeds需读书、帮忙和写一页自传。",
+        "source_ids": [
+          "src-left-snc-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-snc-history"
+    ],
+    "caveat": "不采用累计人数为实时事实；不能承诺任何旅人当晚可入住。",
+    "poi_id": "shakespeare-bucherie",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "shakespeare-bucherie--exp-front"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "square-rene-viviani--robin-tree",
+    "title": "一棵树的城市年表",
+    "hook": "从石头建筑，换成活的历史。",
+    "body": "巴黎市政府把花园里的刺槐记为1601年由亨利四世的植物学家让·罗班栽种，并称它为巴黎最老的树。来到树旁，先看树干与可见支撑结构，保持距离；再把1601年放到自己的城市时间线上。古树仍是活体，并不是可以攀爬的纪念物，也不需要用它编造几百年来见证每件大事的独白。",
+    "person_names": [
+      "让·罗班",
+      "亨利四世"
+    ],
+    "work_names": [],
+    "themes": [
+      "植物",
+      "城市时间"
+    ],
+    "observable_cue": "刺槐树干与可见支撑",
+    "visitor_action": "从园路观察树形，不攀爬、不触碰保护区域。",
+    "knowledge_takeaway": "植物也可保存城市历史，但树龄说法应注明机构来源。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "市政府记1601年Jean Robin栽种刺槐，并称其巴黎最老树。",
+        "source_ids": [
+          "src-left-viviani"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-viviani"
+    ],
+    "caveat": "“最老”采用市府表述，不声称独立完成树龄测定；支撑结构以现场可见为准。",
+    "poi_id": "square-rene-viviani",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "square-rene-viviani--exp-pause"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "square-rene-viviani--jeanclos",
+    "title": "花园里的战争记忆",
+    "hook": "一处休息地，也容得下严肃的纪念。",
+    "body": "花园不只有古树。市政府介绍，乔治·让克洛的青铜喷泉完成于1991年，旁边还有纪念1942至1944年被驱逐犹太儿童的纪念碑。到这里可以先找碑文，再慢看喷泉人物；不要把所有艺术细节都解释成某位遇难者的肖像。几分钟安静阅读，会让这个临河休息点显出另一层公共记忆。",
+    "person_names": [
+      "乔治·让克洛"
+    ],
+    "work_names": [
+      "Fontaine de Georges Jeanclos"
+    ],
+    "themes": [
+      "公共艺术",
+      "战争记忆"
+    ],
+    "observable_cue": "青铜喷泉与儿童纪念碑",
+    "visitor_action": "安静读纪念碑，区分艺术象征与明确碑文。",
+    "knowledge_takeaway": "休憩空间与纪念空间可以共存。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "市府记Jeanclos青铜喷泉1991年完成，并介绍1942—1944被驱逐儿童纪念碑。",
+        "source_ids": [
+          "src-left-viviani"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-viviani"
+    ],
+    "caveat": "不从雕塑外形推导具体人物身份，不引入未核验战争细节。",
+    "poi_id": "square-rene-viviani",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "square-rene-viviani--exp-pause"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "notre-dame--hugo",
+    "title": "雨果把建筑写进小说",
+    "hook": "石头与文字，是两种不同的观看方法。",
+    "body": "1831年雨果的《巴黎圣母院》让这座建筑成为广为人知的文学形象，文化部也用小说说明它的名望。站在广场看双塔和正面，再想到小说如何用人物命运带读者认识建筑。卡西莫多属于虚构故事，不能当真实看守人的传记；文学影响可以讲，但不能把复杂的保护史缩成一本书单独救下整座教堂。",
+    "person_names": [
+      "维克多·雨果"
+    ],
+    "work_names": [
+      "巴黎圣母院",
+      "Notre-Dame de Paris"
+    ],
+    "themes": [
+      "文学",
+      "建筑观看"
+    ],
+    "observable_cue": "正面双塔与门户",
+    "visitor_action": "看一分钟建筑，再记录小说带来的一个观察问题。",
+    "knowledge_takeaway": "作品能改变公共关注，却不等于事件人物都是真实史料。",
+    "claim_type": "literary_connection",
+    "claims": [
+      {
+        "text": "雨果小说《Notre-Dame de Paris》发表于1831，文化部将其与建筑名望相连。",
+        "source_ids": [
+          "src-left-nd-hugo"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-nd-hugo"
+    ],
+    "caveat": "不写小说单独直接造成修复的单一因果，不把虚构角色列作历史人物。",
+    "poi_id": "notre-dame",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "notre-dame--exp-front"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "notre-dame--restoration-authors",
+    "title": "修复也有作者",
+    "hook": "看似中世纪的整体，包含十九世纪的工作。",
+    "body": "法国文化遗产档案馆保存了1844至1865年圣母院工程日记，主持者是拉叙斯和维奥莱-勒-迪克。文化部说明，两人修复并重组了一部分雕刻装饰，著名奇兽也与这次工作相连。外面短看时不必硬辨每一块石头，只需记住：古迹不是完全冻结的原作，修复者也会影响后人所见的样貌。",
+    "person_names": [
+      "让-巴蒂斯特·拉叙斯",
+      "欧仁·维奥莱-勒-迪克"
+    ],
+    "work_names": [],
+    "themes": [
+      "修复",
+      "建筑分期"
+    ],
+    "observable_cue": "正面雕刻与整体轮廓",
+    "visitor_action": "打开工程档案介绍，区分建筑起源与修复年代。",
+    "knowledge_takeaway": "保护、重建和创造可以同时存在于一座古迹。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "档案馆保存1844—1865两位建筑师主持的工程日记。",
+        "source_ids": [
+          "src-left-nd-archive"
+        ]
+      },
+      {
+        "text": "文化部记两人重组部分装饰，奇兽出自此次修复。",
+        "source_ids": [
+          "src-left-nd-hugo"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-nd-archive",
+      "src-left-nd-hugo"
+    ],
+    "caveat": "仅打开日记目录介绍，未逐页核读原日记；高处奇兽不保证从地面清楚可见。",
+    "poi_id": "notre-dame",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "notre-dame--exp-front"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "notre-dame--ongoing-care",
+    "title": "重开不是修复的终点",
+    "hook": "建筑恢复使用，维护仍然继续。",
+    "body": "圣母院在2024年12月重新开放后，重建公共机构仍介绍后殿、飞扶壁和彩窗等持续工作，并列出后续修复规划。现在从公共空间看建筑，如果遇围挡，把它当成维护过程的一部分；不要按旧照片强求每个角度。这个故事适合短看后离开，不必购买塔楼票，也不把重开理解为整座建筑从此无需继续照料。",
+    "person_names": [],
+    "work_names": [],
+    "themes": [
+      "工艺",
+      "持续维护"
+    ],
+    "observable_cue": "可见建筑外观及当日围挡",
+    "visitor_action": "看公共机构当前项目说明，允许路线随围挡调整。",
+    "knowledge_takeaway": "古迹开放与长期维护是不同状态。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "机构说明2024年12月重开后仍继续修复并规划2026—2031后续工作。",
+        "source_ids": [
+          "src-left-nd-restoration"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-nd-restoration"
+    ],
+    "caveat": "后续规划不是完成保证；不提供未经本轮核验的教堂预约、塔楼票价或入口承诺。",
+    "poi_id": "notre-dame",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "notre-dame--exp-front"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "pantheon--church-nation",
+    "title": "一座建筑换过多种身份",
+    "hook": "先看柱廊，再问谁在定义伟人。",
+    "body": "先贤祠原为圣热纳维耶芙教堂，苏夫洛主持设计。1791年它转为国家纪念空间，此后又多次在宗教与世俗用途之间切换；1885年雨果葬礼后固定为先贤祠。面对柱廊读这条时间线，建筑就不再只是壮观的背景。无需进墓室，也能提出一个问题：不同政权如何通过同一座建筑讲述自己的公共价值？",
+    "person_names": [
+      "雅克-热尔曼·苏夫洛",
+      "维克多·雨果"
+    ],
+    "work_names": [],
+    "themes": [
+      "共和国",
+      "建筑用途"
+    ],
+    "observable_cue": "柱廊、山花与可见铭文",
+    "visitor_action": "在广场阅读用途时间线，看建筑如何承担国家纪念。",
+    "knowledge_takeaway": "空间意义会随政治制度改变。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "原教堂由Soufflot设计，1791转型，1885雨果葬礼后固定世俗纪念用途。",
+        "source_ids": [
+          "src-left-pantheon-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-pantheon-history"
+    ],
+    "caveat": "不把正立面今天所有装饰都当成1791年原物；外观停留免费不等于内馆免费。",
+    "poi_id": "pantheon",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "pantheon--exp-square",
+      "pantheon--exp-optional-visit"
+    ],
+    "compatibility_note": "未被初版路线选用；拓展新路线前复核现场观察方式。"
+  },
+  {
+    "id": "pantheon--curie",
+    "title": "凭自身成就进入纪念殿堂",
+    "hook": "纪念名单，也有性别与时代的门槛。",
+    "body": "1995年玛丽·居里成为第一位凭自身成就进入先贤祠的女性，这个限定词不能删掉。官方墓室介绍同时说明，贝克可用衣冠冢、塞泽尔可用铭文受到纪念。站在外面先读这几种形式，若愿意付费入内再看墓室；谁被纪念、用什么方式纪念，比死记总人数更能理解这座建筑的价值选择。",
+    "person_names": [
+      "玛丽·居里",
+      "约瑟芬·贝克",
+      "艾梅·塞泽尔"
+    ],
+    "work_names": [],
+    "themes": [
+      "女性科学家",
+      "纪念制度"
+    ],
+    "observable_cue": "外部铭文；内访时墓室标识",
+    "visitor_action": "区分凭自身成就入祠、衣冠冢和铭文。",
+    "knowledge_takeaway": "入祠不是单一埋葬形式，女性历史需要准确限定。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "1995居里首位凭自身成就入祠女性；贝克衣冠冢、塞泽尔铭文。",
+        "source_ids": [
+          "src-left-pantheon-crypt"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-pantheon-crypt"
+    ],
+    "caveat": "不误称1995此前没有任何女性；不推导未经核验的全部入祠人数。",
+    "poi_id": "pantheon",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "pantheon--exp-square"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "pantheon--foucault",
+    "title": "把地球转动变成可观察的实验",
+    "hook": "科学故事，不一定只有展柜。",
+    "body": "1851年傅科与工程师古斯塔夫·弗罗芒获准在先贤祠穹顶下展示摆实验。实验把摆的运动平面与地球转动联系起来；今日装置在1995年重新安装。若选择付费内访，观察摆与地面标记并读现场说明；只看外部时则把它作为可选故事。不能靠盯几秒就宣称测出地球转速，也不能把当代摆球称为1851年原件。",
+    "person_names": [
+      "莱昂·傅科",
+      "古斯塔夫·弗罗芒"
+    ],
+    "work_names": [
+      "傅科摆实验"
+    ],
+    "themes": [
+      "科学",
+      "观察方法"
+    ],
+    "observable_cue": "内馆摆与地面标记",
+    "visitor_action": "有条件内访时慢看装置，并以解释牌理解时间尺度。",
+    "knowledge_takeaway": "科学实验依靠参照系与持续观察。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "1851傅科与Froment在穹顶下展示实验；1995重新安装装置。",
+        "source_ids": [
+          "src-left-pantheon-pendulum"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-pantheon-pendulum"
+    ],
+    "caveat": "装置运行与可见性需以当日馆方安排为准；非1851原物保证。",
+    "poi_id": "pantheon",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "pantheon--exp-square",
+      "pantheon--exp-optional-visit"
+    ],
+    "compatibility_note": "未被初版路线选用；拓展新路线前复核现场观察方式。"
+  },
+  {
+    "id": "saint-sulpice--delacroix",
+    "title": "德拉克罗瓦的另一种观看",
+    "hook": "不是只追一幅名画，而是看三面如何对话。",
+    "body": "1849年德拉克罗瓦接到圣天使小堂的装饰委托，小堂于1861年开放。壁面有雅各与天使搏斗、赫利奥多罗斯被逐出圣殿，顶部是圣米歇尔的画面。允许内访时先看墙与顶的位置关系，再看动作、树木和建筑怎样组织视线；这些是绘画中的宗教叙事，不是证明天使曾在这栋楼出现的记录。",
+    "person_names": [
+      "欧仁·德拉克罗瓦"
+    ],
+    "work_names": [
+      "La lutte de Jacob avec l’ange",
+      "Héliodore chassé du temple"
+    ],
+    "themes": [
+      "绘画",
+      "观看方法"
+    ],
+    "observable_cue": "圣天使小堂两壁与顶画",
+    "visitor_action": "允许参观时比较画面方向，保持安静不打闪光灯。",
+    "knowledge_takeaway": "图像叙事的证据是作品本身，不是故事真的发生在现场。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "1849装饰委托、1861小堂开放；两壁与顶部的三幅题材。",
+        "source_ids": [
+          "src-left-sulpice-delacroix"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-sulpice-delacroix"
+    ],
+    "caveat": "普通访客能否进入小堂以教区与维护安排为准；不把神话题材当历史事件。",
+    "poi_id": "saint-sulpice",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "saint-sulpice--exp-paintings",
+      "saint-sulpice--exp-facade"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "saint-sulpice--gnomon",
+    "title": "日影仪的用途比秘闻具体",
+    "hook": "地上的线，先从太阳解释。",
+    "body": "修复项目介绍，圣叙尔比斯的日影仪与十八世纪的天文学家亨利·萨利有关，用于了解太阳位置和计算复活节日期。允许参观时看北侧横厅的装置与地面线，再思考光怎样被用来测量时间。这里不需要秘密社团才能成立，也不把这条教堂仪器线与另一套阿拉戈纪念铜牌混成一条寻宝路线。",
+    "person_names": [
+      "亨利·萨利"
+    ],
+    "work_names": [],
+    "themes": [
+      "天文",
+      "测量"
+    ],
+    "observable_cue": "北侧横厅日影仪与地面线",
+    "visitor_action": "查项目解释，再按现场导览观察装置。",
+    "knowledge_takeaway": "测量仪器首先有科学和历法用途。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "项目介绍十八世纪Henri Sully日影仪用于太阳位置和复活节日期计算。",
+        "source_ids": [
+          "src-left-sulpice-heritage"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-sulpice-heritage"
+    ],
+    "caveat": "不指认精确子午线间距，不把小说的神秘解释写作事实，也不保证当日有可观测光斑。",
+    "poi_id": "saint-sulpice",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "saint-sulpice--exp-paintings",
+      "saint-sulpice--exp-facade"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "editions-gallimard--publisher-not-printer",
+    "title": "门牌背后是出版机构",
+    "hook": "把一本书变成公共读物，需要谁？",
+    "body": "伽利玛的法定总部地址是加斯东·伽利玛街5号，出版社档案展示了圣琼·佩斯《颂歌》1911年NRF初版。站在门外读门牌，再想编辑、出版和印刷的区别：这里可讲出版机构，不该标成印刷厂。总部并非供游客自由进入的文学博物馆。",
+    "person_names": [
+      "圣琼·佩斯"
+    ],
+    "work_names": [
+      "颂歌",
+      "Éloges"
+    ],
+    "themes": [
+      "出版",
+      "文化生产"
+    ],
+    "observable_cue": "5号门牌与机构外观",
+    "visitor_action": "从人行道看地址，在官网看初版档案图注。",
+    "knowledge_takeaway": "出版社与印刷车间是不同机构角色。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "法定总部5 rue Gaston-Gallimard。",
+        "source_ids": [
+          "src-left-gallimard-address"
+        ]
+      },
+      {
+        "text": "出版社档案图注展示《Éloges》1911年6月NRF初版。",
+        "source_ids": [
+          "src-left-gallimard-eloges"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-gallimard-address",
+      "src-left-gallimard-eloges"
+    ],
+    "caveat": "不称1911年书在今日总部内印刷或编辑，未核验总部历史迁入年份。",
+    "poi_id": "editions-gallimard",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "editions-gallimard--exp-door"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "brasserie-lipp--alsatian-table",
+    "title": "文学街区也要吃饭",
+    "hook": "用餐场所，是理解日常的另一扇窗。",
+    "body": "利普官网把经营历史追溯到1880年，菜单传统包括阿尔萨斯酸菜等菜式。站在圣日耳曼大道看招牌和临街立面，可以把它与花神的咖啡桌并列，思考工作、社交和吃饭怎样构成街区生活。不必为了完成一站点正餐，也不把传说中的座次等级写成今日服务规则。",
+    "person_names": [],
+    "work_names": [],
+    "themes": [
+      "饮食",
+      "街区日常"
+    ],
+    "observable_cue": "LIPP店招与临街立面",
+    "visitor_action": "从外面看招牌，有兴趣再自行查菜单。",
+    "knowledge_takeaway": "餐饮机构帮助解释文化人物活动的日常环境。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "经营方自述1880起经营，提供阿尔萨斯酸菜等传统菜式。",
+        "source_ids": [
+          "src-left-lipp"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-lipp"
+    ],
+    "caveat": "本条不认证特定名人原座位；价格、排位与消费以当日店方为准。",
+    "poi_id": "brasserie-lipp",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "brasserie-lipp--exp-sign"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "sartre-bonaparte--settled-work",
+    "title": "从旅馆生活到自己的书房",
+    "hook": "萨特并非一直只在咖啡馆写作。",
+    "body": "BnF资料记载，1945年萨特搬到波拿巴街42号，与母亲同住，更多在书房工作，并逐渐购书、建立藏书。看门牌与楼上窗户，把这一站接到花神之后：同一个作家也会改变工作方式。这里仍是私人建筑，故事能在街上读完，不要把故居理解为开放展厅。",
+    "person_names": [
+      "让-保罗·萨特"
+    ],
+    "work_names": [],
+    "themes": [
+      "写作日常",
+      "居住"
+    ],
+    "observable_cue": "42号门牌与公共可见外观",
+    "visitor_action": "只在人行道看门牌，不按铃、不进门洞。",
+    "knowledge_takeaway": "作者的工作空间会随人生阶段改变。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "1945年Sartre与母亲住42 rue Bonaparte，更多在书房写作并购书。",
+        "source_ids": [
+          "src-left-sartre-bnf"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-sartre-bnf"
+    ],
+    "caveat": "不指认楼上哪扇窗就是书房，私人住宅不设可入内体验。",
+    "poi_id": "sartre-bonaparte",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "sartre-bonaparte--exp-address"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "le-tabou--vian-jazz",
+    "title": "思想讨论也会走进地下室",
+    "hook": "把哲学咖啡馆换成音乐的空间。",
+    "body": "市政府的鲍里斯·维昂路线把塔布定位在多芬街33号，介绍维昂演奏、格雷科朗诵与地下爵士活动。现在只从街上看地址，再在脑中对照花神的桌子与这里的地下空间。这个差别足以说明同一文化社群有不同交流方式，不需保证今日仍能进入当年的俱乐部。",
+    "person_names": [
+      "鲍里斯·维昂",
+      "朱丽叶·格雷科"
+    ],
+    "work_names": [
+      "Manuel de Saint-Germain-des-Prés"
+    ],
+    "themes": [
+      "爵士",
+      "文化社群"
+    ],
+    "observable_cue": "33号门牌及临街外观",
+    "visitor_action": "在街上读音乐史，不寻找未经确认的地下入口。",
+    "knowledge_takeaway": "文化网络不只通过文字，也通过音乐与聚会形成。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "市府定位Le Tabou于33 rue Dauphine，介绍Vian与Gréco相关活动。",
+        "source_ids": [
+          "src-left-vian"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-vian"
+    ],
+    "caveat": "历史场所仅外观；不声称今日招牌、经营者或地下空间与旧俱乐部相同。",
+    "poi_id": "le-tabou",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "le-tabou--exp-address"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "beauvoir-schoelcher--working-room",
+    "title": "一间住所与公共行动",
+    "hook": "独立的工作空间，也可以向同伴开放。",
+    "body": "市政府记载，波伏娃凭《名士》的成功购入舍尔歇街11bis的住所，这里接待文学同伴，也与1971年《343宣言》的讨论相连。在街上看门牌，想象私人工作空间怎样支持公共表达；无需窥看住户生活，也不能把一个住址说成所有女性运动的起点。",
+    "person_names": [
+      "西蒙娜·德·波伏娃"
+    ],
+    "work_names": [
+      "名士",
+      "Les Mandarins",
+      "Manifeste des 343"
+    ],
+    "themes": [
+      "女性写作",
+      "公共行动"
+    ],
+    "observable_cue": "11bis门牌与外观",
+    "visitor_action": "从公共人行道看门牌，不进住宅。",
+    "knowledge_takeaway": "私人工作条件与公共参与之间有具体连接。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "市府记11bis住所、《Les Mandarins》成功、文学聚会与343宣言。",
+        "source_ids": [
+          "src-left-beauvoir"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-beauvoir"
+    ],
+    "caveat": "同页部分图注简写11号，正文明确11bis；采用11bis，入口未现场核验。",
+    "poi_id": "beauvoir-schoelcher",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "beauvoir-schoelcher--exp-address"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "montparnasse-cemetery--shared-grave",
+    "title": "读两个名字，再安静离开",
+    "hook": "终点可以是一次克制的阅读。",
+    "body": "萨特1980年去世，波伏娃1986年去世后与他同墓，巴黎区政府介绍明确说明这一点。到蒙帕纳斯公墓先看官方平面图，再寻找写有两人姓名的墓；读名字即可，不要把留下口红印或物品当作必做任务。公墓是仍举行葬礼的公共空间，这段同行故事不需要打扰家属。",
+    "person_names": [
+      "让-保罗·萨特",
+      "西蒙娜·德·波伏娃"
+    ],
+    "work_names": [],
+    "themes": [
+      "纪念",
+      "哲学"
+    ],
+    "observable_cue": "官方公墓图与合葬墓姓名",
+    "visitor_action": "按管理方图找墓，保持安静、不触碰或留痕。",
+    "knowledge_takeaway": "纪念体验可以通过阅读与尊重完成。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "区政府记Sartre1980去世、Beauvoir1986去世并葬同墓。",
+        "source_ids": [
+          "src-left-beauvoir-tomb"
+        ]
+      }
+    ],
+    "source_ids": [
+      "src-left-beauvoir-tomb",
+      "src-left-montparnasse"
+    ],
+    "caveat": "墓位须按当日官方图查找；不把全公墓粗坐标当墓位或入口。市府不同文章有“旁边”简写，同墓采用区政府明确表述。",
+    "poi_id": "montparnasse-cemetery",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "montparnasse-cemetery--exp-quiet-walk"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "louvre-pei-circulation",
+    "title": "贝聿铭把入口变成一道解题题目",
+    "hook": "玻璃之下，真正改造的是人的移动。",
+    "body": "贝聿铭为大卢浮宫设计中央地下大厅，把原先分散的三翼接在一起；玻璃金字塔于1989年启用，透明材料让旧宫殿仍能被看见。站在庭院边缘，先看历史立面，再看人流汇向三角形入口。你眼前的地标，也是一套把复杂参观动线重新组织起来的工程方案。",
+    "person_names": [
+      "贝聿铭"
+    ],
+    "work_names": [],
+    "themes": [
+      "建筑",
+      "系统设计",
+      "创新"
+    ],
+    "observable_cue": "玻璃金字塔与周围宫殿立面",
+    "visitor_action": "从公共庭院边缘比较玻璃和石材的视觉关系，不进入排队区。",
+    "knowledge_takeaway": "建筑创新可以先解决空间连接，再形成视觉符号。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "中央地下大厅连通博物馆三翼；金字塔1989年启用。",
+        "source_ids": [
+          "right-src-louvre-pyramid"
+        ]
+      },
+      {
+        "text": "贝聿铭要求透明玻璃，使历史立面能够被看见。",
+        "source_ids": [
+          "right-src-louvre-pyramid"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-louvre-pyramid"
+    ],
+    "caveat": "历史事实来自所列机构页面；现场观察与动作是编辑建议。",
+    "poi_id": "louvre",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "louvre-courtyard-look"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "louvre-leonardo-sfumato",
+    "title": "达·芬奇的边缘为什么消失",
+    "hook": "一张小画，靠细微过渡抓住注意力。",
+    "body": "卢浮宫把《蒙娜丽莎》的魅力与达·芬奇的晕涂技法联系起来：轮廓像被薄雾包围，而非由硬线切开。外观停留时可打开官方作品页，放大脸部与背景的交界；若另行入馆，再用自己的目光验证。把注意力从名气移向边缘，你会发现技艺常藏在最不显眼的过渡里。",
+    "person_names": [
+      "列奥纳多·达·芬奇"
+    ],
+    "work_names": [
+      "蒙娜丽莎"
+    ],
+    "themes": [
+      "绘画",
+      "细节观察",
+      "个人技艺"
+    ],
+    "observable_cue": "官方作品图中的柔和轮廓；原作在付费馆内",
+    "visitor_action": "在官方页面观察一处轮廓；入馆为可选升级。",
+    "knowledge_takeaway": "艺术观察可以从一个可辨识的技法开始。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "馆方把《蒙娜丽莎》的迷人效果与sfumato晕涂技法关联。",
+        "source_ids": [
+          "right-src-louvre-masterpieces"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-louvre-masterpieces"
+    ],
+    "caveat": "外部庭院看不到原作；数字图观察不等同于现场观看，展厅开放须查官方。",
+    "poi_id": "louvre",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "louvre-courtyard-look"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "louvre-veronese-banquet",
+    "title": "委罗内塞把婚宴搬进自己的时代",
+    "hook": "转身看巨画，也问它为何在巴黎。",
+    "body": "《迦拿的婚宴》原为威尼斯修道院食堂订制，委罗内塞把圣经场景画成当时的威尼斯宴席；1797年，画作被拿破仑军队运往巴黎。它如今与《蒙娜丽莎》同厅相对。先在官方图中找餐桌与宾客，再问作品迁移的路径：收藏史也包含战争和权力，而不仅是审美。",
+    "person_names": [
+      "保罗·委罗内塞"
+    ],
+    "work_names": [
+      "迦拿的婚宴"
+    ],
+    "themes": [
+      "收藏史",
+      "权力",
+      "绘画"
+    ],
+    "observable_cue": "官方图中的长餐桌；原作在馆内",
+    "visitor_action": "不入馆也可阅读官方作品页，比较宗教题材与宴席场景。",
+    "knowledge_takeaway": "艺术作品的地理位置本身也有历史。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "作品为威尼斯修道院食堂订制，圣经故事被转为同时代宴席。",
+        "source_ids": [
+          "right-src-louvre-masterpieces"
+        ]
+      },
+      {
+        "text": "1797年拿破仑军队将画作运往巴黎。",
+        "source_ids": [
+          "right-src-louvre-masterpieces"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-louvre-masterpieces"
+    ],
+    "caveat": "原作位于馆内；故事不把今天的展示位置解释为原始创作地点。",
+    "poi_id": "louvre",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "louvre-courtyard-look"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "palais-royal-colette-neighbour",
+    "title": "科莱特的邻里尺度",
+    "hook": "文学地标也可以只是一扇窗与一座花园。",
+    "body": "国家古迹中心记载，科莱特1926年搬到博若莱街9号，1938年又回到这里。她与皇家宫殿的联系首先是居住关系，而非游客编出的咖啡馆奇遇。沿花园北侧望向住宅立面，试着写下一种光线或声音；把宏大的文学名声缩回邻里的尺度，日常也能成为观察的起点。",
+    "person_names": [
+      "科莱特"
+    ],
+    "work_names": [],
+    "themes": [
+      "文学",
+      "日常",
+      "感官观察"
+    ],
+    "observable_cue": "花园北侧博若莱街住宅立面",
+    "visitor_action": "从公共花园看立面，写下一句自己的感官观察。",
+    "knowledge_takeaway": "作家的居住事实与虚构作品情节应分开记录。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "CMN记载科莱特1926年搬入9 rue de Beaujolais，1938年返回。",
+        "source_ids": [
+          "right-src-palais-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-palais-history"
+    ],
+    "caveat": "只看公共外部；私人住宅不承诺开放，不断言具体作品在这扇窗边写成。",
+    "poi_id": "palais-royal",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "palais-royal-garden-rest"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "palais-royal-cocteau-marais",
+    "title": "科克托与马雷：创作也有邻居",
+    "hook": "把一个作家的地图，读成关系网络。",
+    "body": "国家古迹中心记载，让·科克托与让·马雷在1940至1947年住在蒙庞西耶街36号。两个人共享一个街区，为这座宫殿增加了与王权不同的生活尺度。沿西侧拱廊走一小段，观察住宅、商店和花园怎样并置，再想一个问题：你的创作空间，最需要独处还是与别人靠近？",
+    "person_names": [
+      "让·科克托",
+      "让·马雷"
+    ],
+    "work_names": [],
+    "themes": [
+      "文学",
+      "关系",
+      "创作"
+    ],
+    "observable_cue": "西侧蒙庞西耶街拱廊与住宅外观",
+    "visitor_action": "短走西侧拱廊，用一句话描述理想创作空间。",
+    "knowledge_takeaway": "文化地点可以连接人物之间的居住关系，而不仅是单人纪念。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "CMN记载科克托与马雷1940—1947年住36 rue de Montpensier。",
+        "source_ids": [
+          "right-src-palais-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-palais-history"
+    ],
+    "caveat": "采用CMN历史页明确的共同居住时段；不把其旧展览页概括的长期关联当成连续居住年限。",
+    "poi_id": "palais-royal",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "palais-royal-garden-rest"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "palais-royal-buren-perspective",
+    "title": "丹尼尔·布伦让柱子成为观看规则",
+    "hook": "退两步，同一个院子就换了读法。",
+    "body": "丹尼尔·布伦的作者网站把《两个平台》列为1985至1986年在皇家宫殿荣誉庭院完成的永久现场作品。黑白条纹的柱子与周围古典建筑共处。你不必登上任何柱子：站定看一次，再换到庭院边缘，比较高度、重复与间隔怎样改变构图。艺术在这里成为一个可以亲自试验的观看问题。",
+    "person_names": [
+      "丹尼尔·布伦"
+    ],
+    "work_names": [
+      "两个平台"
+    ],
+    "themes": [
+      "当代艺术",
+      "视觉",
+      "规则"
+    ],
+    "observable_cue": "荣誉庭院黑白条纹柱群",
+    "visitor_action": "在地面换两个公共站位，比对重复图案；不攀爬。",
+    "knowledge_takeaway": "同一作品可以随着观察者的位置形成不同关系。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "作者网站确认《Les Deux Plateaux》为皇家宫殿永久现场作品，日期1985—1986年。",
+        "source_ids": [
+          "right-src-buren-work"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-buren-work"
+    ],
+    "caveat": "历史事实来自所列机构页面；现场观察与动作是编辑建议。",
+    "poi_id": "palais-royal",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "palais-royal-buren-look"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "comedie-francaise-moliere-afterlife",
+    "title": "莫里哀之家，为什么莫里哀没来过",
+    "hook": "名字里的纪念，比建筑本身更长。",
+    "body": "法兰西喜剧院常被称作莫里哀之家，但剧院官方提醒：莫里哀1673年去世，剧团1680年才成立，重组剧团1799年才定居黎塞留厅。他没有在今天这座剧院居住或演出。站在科莱特广场看招牌，把名人、机构和建筑的三条时间线分开，便能理解文化遗产也会通过后来的命名延续。",
+    "person_names": [
+      "莫里哀"
+    ],
+    "work_names": [],
+    "themes": [
+      "戏剧",
+      "记忆",
+      "时间线"
+    ],
+    "observable_cue": "科莱特广场侧的剧院招牌与立面",
+    "visitor_action": "用三个日期复述人物、剧团、建筑之间的区别。",
+    "knowledge_takeaway": "纪念性名称不能直接证明名人曾在现场活动。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "1791年部分演员先迁入，1799年重组剧团正式定居黎塞留厅。",
+        "source_ids": [
+          "right-src-comedie-venues"
+        ]
+      },
+      {
+        "text": "莫里哀没有在该机构居住或演出。",
+        "source_ids": [
+          "right-src-comedie-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-comedie-history",
+      "right-src-comedie-venues"
+    ],
+    "caveat": "区分1791年分裂后一支演员入驻与1799年重组剧团定居；莫里哀此前已去世。",
+    "poi_id": "comedie-francaise",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "comedie-francaise-facade-reading"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "comedie-francaise-armande-collective",
+    "title": "阿尔芒德与拉格朗日：主角之外的剧团",
+    "hook": "一出戏结束后，谁让团队继续存在？",
+    "body": "莫里哀去世后，阿尔芒德与拉格朗日重新聚合演员；后来剧团1681年的章程规定集体决策，并在剧目、角色分配及财务责任上承认男女平等。看一眼今天的节目安排，试着把视线从主演移到整个团队。舞台是短暂的，协作规则却能让机构持续存在，这也是一种常被海报遮住的创作。",
+    "person_names": [
+      "阿尔芒德·贝雅尔",
+      "拉格朗日"
+    ],
+    "work_names": [],
+    "themes": [
+      "协作",
+      "制度",
+      "戏剧"
+    ],
+    "observable_cue": "剧院官方节目页中的剧目与演出团队",
+    "visitor_action": "打开官方当期节目，找一个主演之外的岗位。",
+    "knowledge_takeaway": "文化产品的持续性依赖团队治理与分工。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "莫里哀去世后阿尔芒德与拉格朗日重新聚合演员。",
+        "source_ids": [
+          "right-src-comedie-history"
+        ]
+      },
+      {
+        "text": "1681年章程规定集体决策及男女在选剧、分配和财务责任上的平等。",
+        "source_ids": [
+          "right-src-comedie-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-comedie-history"
+    ],
+    "caveat": "历史事实来自所列机构页面；现场观察与动作是编辑建议。",
+    "poi_id": "comedie-francaise",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "comedie-francaise-facade-reading"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "bnf-richelieu-labrouste-daylight",
+    "title": "拉布鲁斯特把光变成阅读设施",
+    "hook": "漂亮穹顶，还在解决火与光的问题。",
+    "body": "拉布鲁斯特阅览室建于1861至1868年，九个穹顶由十六根细铸铁柱支撑。图书馆介绍，当年为防火禁止燃气照明，开放时段因此依赖日光。先看官方室内图的光与支柱，再比较你面前的建筑入口：知识的保存与使用，需要结构、光线和安全共同配合，绝不只是把书摆上架。",
+    "person_names": [
+      "亨利·拉布鲁斯特"
+    ],
+    "work_names": [],
+    "themes": [
+      "建筑",
+      "科学",
+      "知识保存"
+    ],
+    "observable_cue": "官方室内图中的九穹顶与细柱；现场研究区须遵守资格限制",
+    "visitor_action": "在官方图中找自然光来源，现场不擅入研究阅览室。",
+    "knowledge_takeaway": "公共知识设施同时处理照明、防火和读者需求。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "阅览室建于1861—1868年，九穹顶由十六根铸铁柱支撑。",
+        "source_ids": [
+          "right-src-bnf-labrouste"
+        ]
+      },
+      {
+        "text": "当年燃气照明被禁止，开放时段依赖日光；现为INHA阅览室。",
+        "source_ids": [
+          "right-src-bnf-labrouste"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-bnf-labrouste"
+    ],
+    "caveat": "拉布鲁斯特厅与Salle Ovale不同；研究阅览室不保证游客自由进入，默认观察官方图片。",
+    "poi_id": "bnf-richelieu",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "bnf-richelieu-site-look"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "bnf-richelieu-pascal-public",
+    "title": "帕斯卡尔的椭圆，终于向所有人打开",
+    "hook": "图书馆的壮观，也可以用于普通人的阅读。",
+    "body": "让-路易·帕斯卡尔1897年启动椭圆阅览室工程，阿尔弗雷德·勒库拉接续建设，1936年才正式开幕。2022年改造后，这里成为向所有人免费开放的阅读与参观空间。若开放且现场允许，抬头看椭圆天窗，再找一本感兴趣的书：宏大的建筑不必只供远观，也可以支持一次安静的日常学习。",
+    "person_names": [
+      "让-路易·帕斯卡尔",
+      "阿尔弗雷德·勒库拉"
+    ],
+    "work_names": [],
+    "themes": [
+      "公共知识",
+      "阅读",
+      "耐心"
+    ],
+    "observable_cue": "Salle Ovale椭圆天窗与环绕书架",
+    "visitor_action": "开放时进入公共区，安静看书或短歇；未开放则读入口信息。",
+    "knowledge_takeaway": "知识机构可把纪念性空间转为日常公共资源。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "Salle Ovale工程1897年启动、1936年开幕。",
+        "source_ids": [
+          "right-src-bnf-oval"
+        ]
+      },
+      {
+        "text": "2022年起Salle Ovale免费向所有人开放。",
+        "source_ids": [
+          "right-src-bnf-oval"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-bnf-oval"
+    ],
+    "caveat": "官方区分1932年建成与1936年开幕；故事采用开幕年。免费不等于保证座位或全年每日开放。",
+    "poi_id": "bnf-richelieu",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "bnf-richelieu-oval-reading",
+      "bnf-richelieu-site-look"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "galerie-vivienne-marchoux-commerce",
+    "title": "马尔舒把购物变成有顶的漫步",
+    "hook": "一条通道，也是一种城市生活产品。",
+    "body": "公证人行业负责人马尔舒委托建造这座商业拱廊，德拉努瓦与德尚从1823年开始施工，1826年启用。玻璃顶把自然光引入商店之间，也为步行者遮挡天气。走到通道转折处，看店面、柱子与天窗怎样共同组织漫步：这不是单纯把街道盖起来，而是在设计人们愿意停留的商业环境。",
+    "person_names": [
+      "马尔舒",
+      "弗朗索瓦-让·德拉努瓦",
+      "雅克·德尚"
+    ],
+    "work_names": [],
+    "themes": [
+      "城市",
+      "创业",
+      "空间设计"
+    ],
+    "observable_cue": "玻璃顶、商店立面和通道转折",
+    "visitor_action": "慢走一段，辨认采光与店面如何引导停留。",
+    "knowledge_takeaway": "商业价值可以来自公共步行体验的改进。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "马尔舒委托，德拉努瓦与德尚1823年开始建设，1826年启用。",
+        "source_ids": [
+          "right-src-vivienne-history"
+        ]
+      },
+      {
+        "text": "玻璃顶引入自然光，拱廊提供有顶步行通道。",
+        "source_ids": [
+          "right-src-vivienne-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-vivienne-history"
+    ],
+    "caveat": "历史事实来自所列机构页面；现场观察与动作是编辑建议。",
+    "poi_id": "galerie-vivienne",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "galerie-vivienne-covered-walk"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "galerie-vivienne-facchina-mosaic",
+    "title": "法基纳把脚下变成作品",
+    "hook": "别只抬头，工艺也在你的脚边。",
+    "body": "维维安拱廊官网把1880年起铺设的地面马赛克归于詹多梅尼科·法基纳，材料包括大理石与彩色陶瓷。在不挡通道的位置，低头找一段边框、曲线或重复图案，再抬头看柱列。宏大的建筑气氛常由很多小构件累积而成；这一次，把照片的主角留给脚下的工艺，而不是商店橱窗。",
+    "person_names": [
+      "詹多梅尼科·法基纳"
+    ],
+    "work_names": [],
+    "themes": [
+      "工艺",
+      "细节",
+      "视觉"
+    ],
+    "observable_cue": "地面马赛克边框与重复纹样",
+    "visitor_action": "靠边站定辨认一段纹样，拍照时不给行人设置障碍。",
+    "knowledge_takeaway": "细节工艺可以改变整座空间的感受。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "拱廊官网将1880年起的地面马赛克归于Giandomenico Facchina。",
+        "source_ids": [
+          "right-src-vivienne-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-vivienne-history"
+    ],
+    "caveat": "历史事实来自所列机构页面；现场观察与动作是编辑建议。",
+    "poi_id": "galerie-vivienne",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "galerie-vivienne-covered-walk"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "jardin-des-tuileries-catherine-absence",
+    "title": "凯瑟琳的宫殿，留下了一座花园",
+    "hook": "地名也能保存已经消失的建筑。",
+    "body": "1564年，凯瑟琳·德·美第奇在这里兴建宫殿与花园，名称来自原有的制瓦作坊。宫殿1871年遭火灾，后来没有重建，花园却保留下来。站在通向卢浮宫的一端看开阔空间，想想哪些城市记忆还在，哪些只剩名称。眼前的公共绿地，也可以被读成一座缺席宫殿留下的痕迹。",
+    "person_names": [
+      "凯瑟琳·德·美第奇"
+    ],
+    "work_names": [],
+    "themes": [
+      "历史",
+      "城市记忆",
+      "空间"
+    ],
+    "observable_cue": "花园东端面向卢浮宫的开阔视线",
+    "visitor_action": "沿东端主路短看，比较可见花园与已消失宫殿。",
+    "knowledge_takeaway": "城市名称和剩余空间可以保存消失建筑的历史。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "凯瑟琳1564年建宫殿与花园，名称来自制瓦厂。",
+        "source_ids": [
+          "right-src-tuileries-history"
+        ]
+      },
+      {
+        "text": "宫殿1871年被烧毁且未重建，花园保留。",
+        "source_ids": [
+          "right-src-tuileries-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-tuileries-history"
+    ],
+    "caveat": "历史事实来自所列机构页面；现场观察与动作是编辑建议。",
+    "poi_id": "jardin-des-tuileries",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "jardin-des-tuileries-garden-pause"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "jardin-des-tuileries-lenotre-geometry",
+    "title": "勒诺特把散步排成一道轴线",
+    "hook": "走直线，也能看见景观设计的思考。",
+    "body": "勒诺特1664年重新设计杜伊勒里花园，以主路、对称树丛和水池组织视线。馆方说明，主路继续延伸为香榭丽舍的轴线。你可以沿一小段路看远处方向，再偏到树荫旁比较感受。几何不是只存在于图纸上的抽象概念，它也决定了人走在哪里、何时停下，以及怎样理解一座城市。",
+    "person_names": [
+      "安德烈·勒诺特"
+    ],
+    "work_names": [],
+    "themes": [
+      "景观",
+      "几何",
+      "秩序"
+    ],
+    "observable_cue": "主轴道路、对称树丛与水池",
+    "visitor_action": "沿主轴走几十米，再在开放侧路比较视线。",
+    "knowledge_takeaway": "景观设计用轴线与重复组织人的空间体验。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "勒诺特1664年改造花园，以对称树丛和主路组织空间；主路延伸为香榭丽舍轴线。",
+        "source_ids": [
+          "right-src-tuileries-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-tuileries-history"
+    ],
+    "caveat": "历史事实来自所列机构页面；现场观察与动作是编辑建议。",
+    "poi_id": "jardin-des-tuileries",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "jardin-des-tuileries-garden-pause",
+      "jardin-des-tuileries-axis-walk"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "musee-orangerie-monet-peace",
+    "title": "莫奈与克列孟梭：让水面成为和平纪念",
+    "hook": "一封停战后的信，后来变成环绕你的展厅。",
+    "body": "1918年停战次日，莫奈致信克列孟梭，希望经他将两块装饰画赠给国家；后续捐赠发展成橘园的《睡莲》整体，1927年在画家去世后安装。先看馆外朴素的体量；若选择入馆，再感受两个椭圆厅的自然顶光。纪念和平可以借助水面与观看空间，而不一定是一尊英雄雕像。",
+    "person_names": [
+      "克洛德·莫奈",
+      "乔治·克列孟梭"
+    ],
+    "work_names": [
+      "睡莲"
+    ],
+    "themes": [
+      "和平",
+      "沉浸",
+      "艺术"
+    ],
+    "observable_cue": "馆外建筑；馆内两个椭圆厅和顶光",
+    "visitor_action": "外观先读捐赠故事，付费入馆为可选；入馆时安静停看一处水面。",
+    "knowledge_takeaway": "作品的观看环境可以参与它的公共意义。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "莫奈1918年11月12日写信请克列孟梭转赠两块装饰画；正式捐赠在1922年。",
+        "source_ids": [
+          "right-src-orangerie-monet"
+        ]
+      },
+      {
+        "text": "《睡莲》1927年在橘园安装于两个椭圆厅。",
+        "source_ids": [
+          "right-src-orangerie-monet"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-orangerie-monet"
+    ],
+    "caveat": "不把1918年的捐赠意向当成当天完成的法律捐赠；外观停留看不到《睡莲》原作。",
+    "poi_id": "musee-orangerie",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "musee-orangerie-museum-upgrade",
+      "musee-orangerie-garden-exterior"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "musee-orangerie-guillaume-public",
+    "title": "纪尧姆与多梅尼卡：私人品味成为公共收藏",
+    "hook": "收藏的故事，也包括谁决定留下什么。",
+    "body": "画商保罗·纪尧姆在1914至1934年间积累大量现代绘画，曾希望建立博物馆。其遗孀多梅尼卡后来改组收藏，法国国家在1959和1963年收购，1966年公开展示。看官方馆藏中的不同画家，想一想选择与删减怎样塑造我们今天看到的艺术：博物馆也记录着收藏者的判断。",
+    "person_names": [
+      "保罗·纪尧姆",
+      "多梅尼卡·瓦尔特"
+    ],
+    "work_names": [],
+    "themes": [
+      "收藏",
+      "策展",
+      "公共文化"
+    ],
+    "observable_cue": "官方馆藏页面的多位画家条目；原作在馆内",
+    "visitor_action": "在官方馆藏页选两位画家，比较收藏的跨度。",
+    "knowledge_takeaway": "博物馆收藏由个人选择、交易和公共机构共同形成。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "保罗·纪尧姆1914—1934年积累收藏；多梅尼卡改组收藏。",
+        "source_ids": [
+          "right-src-orangerie-guillaume"
+        ]
+      },
+      {
+        "text": "国家1959及1963年收购，1966年举行公开展示。",
+        "source_ids": [
+          "right-src-orangerie-guillaume"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-orangerie-guillaume"
+    ],
+    "caveat": "不把1966年公开展示解释为所有画作当年永久交付；官网说明多梅尼卡保留使用权至去世。",
+    "poi_id": "musee-orangerie",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "musee-orangerie-museum-upgrade"
+    ],
+    "compatibility_note": "未被初版路线选用；拓展新路线前复核现场观察方式。"
+  },
+  {
+    "id": "place-vendome-mansart-square",
+    "title": "阿尔杜安-芒萨尔与博夫朗：读一圈立面",
+    "hook": "先暂时忽略橱窗，看广场如何成为整体。",
+    "body": "卡纳瓦莱博物馆的档案说明，把这座十七世纪广场的建设归于朱尔·阿尔杜安-芒萨尔与博夫朗。站在人行区域，观察连续立面的节奏，再比较一家家店面如何嵌在其中。你可以把它读成关于整体与局部的设计练习：一个空间如何在容纳不同使用者时，仍保有可辨认的共同秩序？",
+    "person_names": [
+      "朱尔·阿尔杜安-芒萨尔",
+      "热尔曼·博夫朗"
+    ],
+    "work_names": [],
+    "themes": [
+      "城市设计",
+      "秩序",
+      "观察"
+    ],
+    "observable_cue": "围合广场的连续立面",
+    "visitor_action": "在人行区域看两个相邻立面，比较重复与变化。",
+    "knowledge_takeaway": "城市空间可以同时具有整体秩序与局部差异。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "卡纳瓦莱馆藏档案将十七世纪广场建设归于Hardouin-Mansard与Boffrand。",
+        "source_ids": [
+          "right-src-vendome-archive"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-vendome-archive"
+    ],
+    "caveat": "这里讨论广场建筑布局，不把今日所有店铺或建筑细部归于同一位建筑师。",
+    "poi_id": "place-vendome",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "place-vendome-square-observe"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "place-vendome-napoleon-column",
+    "title": "拿破仑把胜利写成一根柱子",
+    "hook": "绕着柱子，看看权力如何选择自己的形状。",
+    "body": "官方旅游局介绍，旺多姆柱1810年由拿破仑一世揭幕，纪念奥斯特里茨的胜利，形式借鉴罗马图拉真柱。卡纳瓦莱还保存着1871年柱子倒下的照片。现在从安全的人行区域看螺旋浮雕，再想一想：纪念碑既讲述历史，也会随着政治变化被重新解释，它并不是永远不变的结论。",
+    "person_names": [
+      "拿破仑一世"
+    ],
+    "work_names": [],
+    "themes": [
+      "战争",
+      "权力",
+      "公共记忆"
+    ],
+    "observable_cue": "柱身螺旋浮雕；官方档案中的1871年倒柱照片",
+    "visitor_action": "远看浮雕，再打开档案照比较纪念物的两个状态。",
+    "knowledge_takeaway": "公共纪念物的意义会随着政治和社会变化改变。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "纪念柱1810年揭幕，纪念奥斯特里茨，形式借鉴图拉真柱。",
+        "source_ids": [
+          "right-src-vendome-column",
+          "right-src-vendome-archive"
+        ]
+      },
+      {
+        "text": "卡纳瓦莱保存1871年倒柱照片。",
+        "source_ids": [
+          "right-src-vendome-column",
+          "right-src-vendome-archive"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-vendome-column",
+      "right-src-vendome-archive"
+    ],
+    "caveat": "历史事实来自所列机构页面；现场观察与动作是编辑建议。",
+    "poi_id": "place-vendome",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "place-vendome-square-observe"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "ritz-paris-hemingway-naming",
+    "title": "海明威：作家名字成为酒店记忆",
+    "hook": "从门口即可读懂一条文学与品牌的连接。",
+    "body": "丽兹官网自述，海明威是酒店常客，并说明今天的海明威酒吧及同名套房用他的名字延续这种联系。从旺多姆广场看酒店招牌，再读官方对酒吧的介绍，你可以观察名人记忆如何成为一个场所的身份。无需买酒，也不必接受每一则传奇：先把可核实的命名事实与精彩轶闻分开。",
+    "person_names": [
+      "欧内斯特·海明威"
+    ],
+    "work_names": [],
+    "themes": [
+      "文学",
+      "品牌",
+      "记忆"
+    ],
+    "observable_cue": "酒店外部招牌；官网Bar Hemingway条目",
+    "visitor_action": "在公共广场看外观并读酒店原文，消费完全可选。",
+    "knowledge_takeaway": "场所可以通过命名保存、也经营名人关联。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "丽兹官网称海明威为常客，并有Bar Hemingway与同名套房。",
+        "source_ids": [
+          "right-src-ritz-writers"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-ritz-writers"
+    ],
+    "caveat": "来源是酒店自己的历史与品牌叙述，未做独立交叉史料核验；不采用“解放酒吧”或喝酒数量的传奇。",
+    "poi_id": "ritz-paris",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "ritz-paris-public-facade"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "ritz-paris-proust-second-home",
+    "title": "普鲁斯特：第二个家的自述",
+    "hook": "读一个文学名字，先问是谁在讲故事。",
+    "body": "丽兹官网将普鲁斯特描述为常客，称他把这里视作第二个家与灵感来源；酒店现在用他的名字命名套房和茶室。从门外读完这条关联后，想一想一个地方为什么能让人反复回来。这个提问属于你的观察；它不证明《追忆似水年华》某段在此写成，也不要求用一份下午茶换取文学体验。",
+    "person_names": [
+      "马塞尔·普鲁斯特"
+    ],
+    "work_names": [
+      "追忆似水年华"
+    ],
+    "themes": [
+      "文学",
+      "归属",
+      "记忆"
+    ],
+    "observable_cue": "酒店外观；官网Salon Proust条目",
+    "visitor_action": "在外部停留写一句“什么地方让我想回来”，不必进入酒店。",
+    "knowledge_takeaway": "人物关联的来源立场与作品创作地点需要分别核验。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "丽兹自述普鲁斯特为常客，并以其命名茶室和套房。",
+        "source_ids": [
+          "right-src-ritz-writers"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-ritz-writers"
+    ],
+    "caveat": "“第二个家”与灵感来源是酒店自述，不作为独立证实的作家原话；work_names仅供检索，不表示该书在酒店创作。",
+    "poi_id": "ritz-paris",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "ritz-paris-public-facade"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "palais-garnier-charles-social-stage",
+    "title": "夏尔·加尼叶：观众也进入舞台",
+    "hook": "戏还没开始，建筑已经安排了观看。",
+    "body": "夏尔·加尼叶设计的歌剧院1875年启用。巴黎歌剧院官网把大阶梯也称为一处表演空间：观众能在这里行走展示自己，再从阳台观察别人。先从街边看华丽外观；若另行入内，留意阶梯与回廊的视线关系。建筑除了容纳正式演出，也能让进入它的人参与一场社会性的观看。",
+    "person_names": [
+      "夏尔·加尼叶"
+    ],
+    "work_names": [],
+    "themes": [
+      "建筑",
+      "社交",
+      "表演"
+    ],
+    "observable_cue": "外部立面；大阶梯和回廊在馆内",
+    "visitor_action": "免费外观先看；入内为可选，观察谁在看谁而不拍摄陌生人特写。",
+    "knowledge_takeaway": "公共建筑可以通过动线与视线组织社会互动。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "歌剧院1875年启用；官方将大阶梯描述为观看与被观看的场所。",
+        "source_ids": [
+          "right-src-garnier-building"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-garnier-building"
+    ],
+    "caveat": "大阶梯不能从外观停留保证看到；内访须查票务与开放，不把观察练习解释为历史人物的原话。",
+    "poi_id": "palais-garnier",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "palais-garnier-facade-stop"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "palais-garnier-chagall-ceiling",
+    "title": "夏加尔把现代色彩放进旧剧院",
+    "hook": "历史建筑也会继续增加新的一层。",
+    "body": "巴黎歌剧院介绍，观众厅的夏加尔天顶画完成于1964年，向歌剧与芭蕾的重要作曲家致意。它与十九世纪剧院共处，提醒我们遗产并非在落成时就停止变化。外部停留可打开官方图看颜色；若当日观众厅允许参观，再抬头对照。新旧之间的关系，可以通过一个明确作品而不是泛泛赞美来讨论。",
+    "person_names": [
+      "马克·夏加尔"
+    ],
+    "work_names": [],
+    "themes": [
+      "现代艺术",
+      "音乐",
+      "新旧共存"
+    ],
+    "observable_cue": "官方天顶画图；原作在观众厅",
+    "visitor_action": "先看官方图，内访时仅在观众厅开放条件下对照。",
+    "knowledge_takeaway": "文化遗产也包含后来的艺术介入。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "夏加尔1964年绘制观众厅天顶画，致意歌剧和芭蕾作曲家。",
+        "source_ids": [
+          "right-src-garnier-building"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-garnier-building"
+    ],
+    "caveat": "官方明确观众厅会因排练等频繁关闭，任何参观票均不保证看到此画。",
+    "poi_id": "palais-garnier",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "palais-garnier-interior-upgrade"
+    ],
+    "compatibility_note": "未被初版路线选用；拓展新路线前复核现场观察方式。"
+  },
+  {
+    "id": "palais-garnier-baudry-foyer",
+    "title": "波德里让音乐进入绘画与镜面",
+    "hook": "休息厅，也在用视觉讲述音乐。",
+    "body": "歌剧院的参观页面把大休息厅天顶画归于保罗·波德里，内容涉及音乐史；镜面与窗户则加强空间的尺度感。先看官方全景，找出绘画、反射与真实开口的区别；若选择内访，再慢慢抬头辨认。原本供观众散步交谈的空间，也让不同艺术互相支持：音乐不只被听见，还能通过绘画被观看。",
+    "person_names": [
+      "保罗·波德里"
+    ],
+    "work_names": [],
+    "themes": [
+      "绘画",
+      "音乐",
+      "综合艺术"
+    ],
+    "observable_cue": "官方全景或馆内大休息厅的天顶、镜面与窗户",
+    "visitor_action": "区分图中镜面与窗户；内访为可选升级。",
+    "knowledge_takeaway": "表演建筑可以让不同艺术在同一空间形成联系。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "大休息厅天顶由Paul Baudry绘制，主题为音乐史；官方描述镜面与窗户强化空间尺度。",
+        "source_ids": [
+          "right-src-garnier-visit"
+        ]
+      }
+    ],
+    "source_ids": [
+      "right-src-garnier-visit"
+    ],
+    "caveat": "历史事实来自所列机构页面；现场观察与动作是编辑建议。",
+    "poi_id": "palais-garnier",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "palais-garnier-facade-stop"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "moulin-rouge-opening",
+    "title": "1889：把夜生活变成舞台",
+    "hook": "风车下面，谁在观看谁？",
+    "body": "1889年10月6日，约瑟夫·奥莱和夏尔·齐德勒经营的红磨坊开门迎客。早期场所包含舞池、镜面和花园，娱乐发生在台上，也发生在观众之间。站在今天的红风车前，可以把它理解为一枚吸引人走进夜生活的招牌。试着观察门口的字样、灯光与街道关系，再想一想：一家娱乐场所怎样让自己的形象比建筑本身更容易被记住？",
+    "person_names": [
+      "Joseph Oller",
+      "Charles Zidler"
+    ],
+    "work_names": [],
+    "themes": [
+      "城市娱乐",
+      "商业设计",
+      "夜生活"
+    ],
+    "observable_cue": "红风车招牌、入口文字与街道立面",
+    "visitor_action": "在公共人行道上找到风车、名称和入口三层视觉信息。",
+    "knowledge_takeaway": "红磨坊于1889年开业，早期是兼有舞池与花园的娱乐场所。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "1889年10月6日开业，经营者为Joseph Oller和Charles Zidler。",
+        "source_ids": [
+          "mont-moulin-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-moulin-history"
+    ],
+    "caveat": "今天的外观观察不等于1889年建筑或室内装饰仍原样保存；不据此声称康康舞起源于红磨坊。",
+    "poi_id": "moulin-rouge",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "moulin-rouge-exterior"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "moulin-rouge-poster",
+    "title": "一张海报如何塑造城市记忆",
+    "hook": "劳特累克并不是唯一的海报作者。",
+    "body": "红磨坊开业时，朱尔·谢雷已为它制作海报；1891年，图卢兹·劳特累克推出自己的《红磨坊：拉·古吕》。舞者、白色裙摆和暗色人物轮廓，把热闹的舞场压缩成鲜明图像。你不必入场，也能先看手机上的官方海报介绍，再抬头比较今天的招牌：哪一种轮廓让人一眼认出这里？这段历史适合把广告当作艺术来读，而不只把它当作购票提示。",
+    "person_names": [
+      "Jules Chéret",
+      "Henri de Toulouse-Lautrec",
+      "La Goulue"
+    ],
+    "work_names": [
+      "Moulin-Rouge (La Goulue)"
+    ],
+    "themes": [
+      "海报",
+      "视觉艺术",
+      "城市记忆"
+    ],
+    "observable_cue": "外部名称与风车轮廓；历史海报须在来源页面观看",
+    "visitor_action": "打开官方海报页，对比人物剪影与现场招牌的视觉重点。",
+    "knowledge_takeaway": "Chéret的1889年海报早于Lautrec的1891年海报。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "Chéret于1889年制作开业海报；Lautrec于1891年制作其首张海报《Moulin-Rouge (La Goulue)》。",
+        "source_ids": [
+          "mont-moulin-posters"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-moulin-posters"
+    ],
+    "caveat": "不宣称历史海报原作在门外展出；经营者另一页面称1891为首张广告，与其商店资料相冲突，已保留正确限定。",
+    "poi_id": "moulin-rouge",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "moulin-rouge-exterior"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "moulin-rouge-observer",
+    "title": "劳特累克的目光不只看舞台",
+    "hook": "观众也可以成为画面里的主角。",
+    "body": "劳特累克与红磨坊的联系，不止是给它画海报。经营者的艺术家介绍还记载，他在桌边描画舞者与顾客，让一场转瞬即逝的演出留下人物形象。今天到门口停留时，可以借用这种观察方式：先看等待的人群，再看舞台宣传中强调的动作。只记录姿态和节奏，不拍摄陌生人的特写。艺术家的线索提醒我们，城市文化也藏在观看者怎样站立、交谈和等待之中。",
+    "person_names": [
+      "Henri de Toulouse-Lautrec"
+    ],
+    "work_names": [],
+    "themes": [
+      "人物观察",
+      "绘画",
+      "夜生活"
+    ],
+    "observable_cue": "门外等候与经过人群；室内历史情景只作文字讲述",
+    "visitor_action": "用三个词记录现场姿态，不把路人当成可随意拍摄的模特。",
+    "knowledge_takeaway": "Lautrec曾描画红磨坊的舞者与顾客。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "经营者介绍记载Lautrec在红磨坊描画舞者及顾客。",
+        "source_ids": [
+          "mont-moulin-lautrec"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-moulin-lautrec"
+    ],
+    "caveat": "经营者文章带有宣传修辞；不采用“每晚”“唯一”等夸大频率，不复述未经交叉核验的私人关系。",
+    "poi_id": "moulin-rouge",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "moulin-rouge-exterior"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "cafe-des-deux-moulins-amelie",
+    "title": "虚构的服务员，真实的咖啡馆",
+    "hook": "艾米莉的工作，是电影里的生活。",
+    "body": "在《天使爱美丽》的故事里，艾米莉在双风车咖啡馆做服务员；现实中，这是一家位于勒皮克街的营业咖啡馆。巴黎旅游局提醒，导演让街区地理服从了电影叙事，所以不能照银幕剪辑推算实际步行距离。先在门外识别店名，再把电影里的小人物世界与眼前的街道分开观察：一种地方气氛可以启发虚构故事，却不意味着角色曾真实住在这里。",
+    "person_names": [
+      "Jean-Pierre Jeunet",
+      "Amélie Poulain（虚构角色）"
+    ],
+    "work_names": [
+      "Le Fabuleux Destin d’Amélie Poulain"
+    ],
+    "themes": [
+      "电影",
+      "日常善意",
+      "虚构与现实"
+    ],
+    "observable_cue": "门外店名；室内电影海报须进店后观察",
+    "visitor_action": "回想一段电影中的日常互动，再观察现实街道有哪些不同。",
+    "knowledge_takeaway": "艾米莉是虚构角色，咖啡馆是实际取景地点；电影地理经过调整。",
+    "claim_type": "literary_connection",
+    "claims": [
+      {
+        "text": "旅游局将此处列为电影中艾米莉工作的咖啡馆，并指出导演调整了街区地理。",
+        "source_ids": [
+          "mont-amelie-tour"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-amelie-tour"
+    ],
+    "caveat": "人物并非真实历史服务员；影片中的动线不能当作步行导航。",
+    "poi_id": "cafe-des-deux-moulins",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "cafe-des-deux-moulins-street"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "cafe-des-deux-moulins-living-bistro",
+    "title": "电影之外，店铺仍有日常",
+    "hook": "取景地也有今天的顾客。",
+    "body": "双风车咖啡馆并非只为一部电影存在。店方将自己介绍为社区酒吧、咖啡馆和供应家常菜的小餐馆，并说明它与热内的电影有关。若你选择进店，可以先观察吧台与正常营业的节奏，再决定是否消费；也可以只在门外看街角。把电影的想象留在故事里，把菜单、座位和等待留给当日现场判断，这样一次休息才会贴近自己的需要，而不是完成一项打卡任务。",
+    "person_names": [
+      "Jean-Pierre Jeunet"
+    ],
+    "work_names": [
+      "Le Fabuleux Destin d’Amélie Poulain"
+    ],
+    "themes": [
+      "社区生活",
+      "休息",
+      "电影"
+    ],
+    "observable_cue": "店名、街角外观；内部营业场景仅入店可见",
+    "visitor_action": "看当日菜单和现场安排，再决定是否点单或只作外观停留。",
+    "knowledge_takeaway": "这是营业中的咖啡馆与小餐馆，取景关联并未取代日常用途。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "店方自述为社区咖啡馆、酒吧及小餐馆，并说明电影取景关联。",
+        "source_ids": [
+          "mont-cafe-official"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-cafe-official"
+    ],
+    "caveat": "不保证座位、无需等候或焦糖布丁当天供应；营业时间和价格以店方当日信息为准。",
+    "poi_id": "cafe-des-deux-moulins",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "cafe-des-deux-moulins-street"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "bateau-lavoir-picasso",
+    "title": "毕加索住在这里的几年",
+    "hook": "小工作室与大胆画面相连。",
+    "body": "毕加索在1904年至1909年间住在洗衣船。正是在这段创作时期，他于1907年在巴黎完成《亚维农少女》，以角度分明的人物和压缩的空间挑战观看习惯。今天到广场看建筑，适合把“艺术家工作地点”与“作品所在地”分开：这里帮助你理解他的生活背景，画作则属于纽约现代艺术博物馆收藏。打开馆藏图像比较人物轮廓，别期待在街边看到原作。",
+    "person_names": [
+      "Pablo Picasso"
+    ],
+    "work_names": [
+      "Les Demoiselles d’Avignon"
+    ],
+    "themes": [
+      "现代艺术",
+      "创作生活",
+      "观看方式"
+    ],
+    "observable_cue": "工作室建筑外观；作品图像需打开MoMA馆藏页",
+    "visitor_action": "在公共广场看外观，再用馆藏图像找一处角度化人物线条。",
+    "knowledge_takeaway": "Picasso曾在洗衣船居住；1907年作品现为MoMA收藏。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "Picasso于1904至1909年在洗衣船居住。",
+        "source_ids": [
+          "mont-bateau"
+        ]
+      },
+      {
+        "text": "《Les Demoiselles d’Avignon》标为巴黎1907年作品，并属MoMA收藏。",
+        "source_ids": [
+          "mont-picasso-demoiselles"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-bateau",
+      "mont-picasso-demoiselles"
+    ],
+    "caveat": "此条依驻居年代与画作年代联系创作时期；不把MoMA仅写“巴黎工作室”的页面单独当作具体房间证据。原作不在街头。",
+    "poi_id": "bateau-lavoir",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "bateau-lavoir-square"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "bateau-lavoir-rebuilding",
+    "title": "经历火灾，艺术用途仍延续",
+    "hook": "今天看到的不是完整原建筑。",
+    "body": "洗衣船在1970年经历严重火灾，1978年重建后再次设置艺术工作室。这让眼前地点有两层时间：早年的艺术家聚集，以及后来对创作空间的延续。到广场时，可以先看门牌和立面，再想一想，保存一个文化地点是否一定要保留每一块旧木头。这里适合从公共空间阅读历史，而不把正在使用的工作室当作随时开放的景区；重建与继续使用，本身也是城市记忆的一部分。",
+    "person_names": [],
+    "work_names": [],
+    "themes": [
+      "城市记忆",
+      "修复重建",
+      "创作空间"
+    ],
+    "observable_cue": "门牌与工作室建筑立面",
+    "visitor_action": "在公共广场阅读外部标识，区分旧址、重建建筑与今天的用途。",
+    "knowledge_takeaway": "洗衣船经历1970年火灾和1978年重建，仍有艺术工作室。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "1970年火灾毁坏大部分建筑，1978年重建并重新设立艺术工作室。",
+        "source_ids": [
+          "mont-bateau"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-bateau"
+    ],
+    "caveat": "未核验私人工作室开放安排；不提供入内承诺，不称今天立面为全部1907年原物。",
+    "poi_id": "bateau-lavoir",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "bateau-lavoir-square"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "place-dalida-bust",
+    "title": "把歌声变成一张公共面孔",
+    "hook": "纪念的是歌手，也是社区中的人。",
+    "body": "达莉达广场的青铜半身像由雕塑家阿斯兰创作，于1997年设立，距离歌手1987年去世已有十年。市政介绍将它视为对蒙马特“被收养的孩子”的纪念，而不只是唱片明星的肖像。站在适当距离，看看面部、头发与青铜表面的光线变化，再读名字和年代。你可以把一首歌与一种表情联系起来；这是一种观看纪念物的方式，无需触摸雕像，也无需模仿网络上的仪式。",
+    "person_names": [
+      "Dalida",
+      "Aslan（Alain Gourdon）"
+    ],
+    "work_names": [],
+    "themes": [
+      "音乐",
+      "公共纪念",
+      "肖像"
+    ],
+    "observable_cue": "青铜半身像、姓名和生卒年代",
+    "visitor_action": "站在不妨碍他人的位置比较轮廓与光线，并阅读底座标记。",
+    "knowledge_takeaway": "Aslan的青铜半身像于1997年纪念Dalida，也表达她与蒙马特的关系。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "Place Dalida上的青铜像作者为Aslan，设立于1997年；Dalida生卒年为1933–1987。",
+        "source_ids": [
+          "mont-dalida-bust"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-dalida-bust"
+    ],
+    "caveat": "不把触摸雕像的传说当作史实或建议动作；未核验当日保护围挡及雕像状态。",
+    "poi_id": "place-dalida",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "place-dalida-portrait"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "place-dalida-chosen-home",
+    "title": "她选择蒙马特做归处",
+    "hook": "世界巡演之外，还有一条住宅街。",
+    "body": "达莉达1962年在蒙马特的奥尚街买下住宅。市政文章引述策展人说明，她更喜欢这里的气氛，没有搬进另一处诺伊的房子；密集国际巡演之间，蒙马特成为她的归处。在广场读完这段故事，可以朝住宅街的方向看看，不必追加登门行程。附近旧居的纪念牌属于另一处地点，不能说就在半身像旁。明星的地方联系，也可以来自她愿意反复回到哪里的普通选择。",
+    "person_names": [
+      "Dalida"
+    ],
+    "work_names": [],
+    "themes": [
+      "家的选择",
+      "音乐人生",
+      "社区"
+    ],
+    "observable_cue": "广场与周围住宅街的关系；旧居牌匾在11 bis rue d’Orchampt，非此POI",
+    "visitor_action": "在广场辨认住宅街方向，想一想旅行中最想返回的地方。",
+    "knowledge_takeaway": "Dalida于1962年购入Montmartre住宅，把这里作为巡演之间的归处。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "Dalida于1962年在rue d’Orchampt购房；市政引述策展人说明其偏好蒙马特。",
+        "source_ids": [
+          "mont-dalida-home"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-dalida-home"
+    ],
+    "caveat": "旧居不是本POI，未列为可入内体验；避开另一市政文章有误的“居住35年”说法。",
+    "poi_id": "place-dalida",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "place-dalida-portrait"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "passe-muraille-fiction",
+    "title": "穿过墙壁的是文学角色",
+    "hook": "把一个不可能的动作留在街角。",
+    "body": "《穿墙人》里的杜蒂耶是个普通职员，却突然拥有穿过墙壁的能力。这个设定属于马塞尔·埃梅的幻想文学，不是蒙马特发生过的真实奇事。站在雕像前，先看人物哪些部位显露在墙外，再想象下一秒的动作；也可以隔着距离，用自己的手势回应它。这一站的乐趣在于把阅读转换成观察：一堵日常的墙，因为一个故事，成了想象能力的入口。",
+    "person_names": [
+      "Marcel Aymé",
+      "Dutilleul（虚构角色）"
+    ],
+    "work_names": [
+      "Le Passe-muraille"
+    ],
+    "themes": [
+      "幻想文学",
+      "想象游戏",
+      "日常与奇异"
+    ],
+    "observable_cue": "人物从墙面显露的头部、手臂和腿部",
+    "visitor_action": "不触碰作品，在一旁用手势或一句话设计“下一秒”。",
+    "knowledge_takeaway": "Dutilleul的穿墙能力属于虚构文学设定。",
+    "claim_type": "literary_connection",
+    "claims": [
+      {
+        "text": "Gallimard的作品介绍将Dutilleul写作拥有穿墙能力的职员，并归入幻想文学。",
+        "source_ids": [
+          "mont-ayme-fiction"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-ayme-fiction",
+      "mont-ayme-memorial"
+    ],
+    "caveat": "雕像实际以作者Aymé化作穿墙人的形象呈现，不能把雕像肖像与虚构人物姓名等同为真人。",
+    "poi_id": "passe-muraille",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "passe-muraille-imagination"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "passe-muraille-author-and-sculptor",
+    "title": "作家的地址，被演员变成雕塑",
+    "hook": "让作者本人进入自己的奇想。",
+    "body": "埃梅1963年搬到诺尔万街26号；广场改名后，这个地址成为马塞尔·埃梅广场2号。1989年，让·马雷创作的作品在这里揭幕，形象是化作穿墙人的埃梅本人。读到这里，再看墙上的人，会发现作者、文学形象和雕塑作者各有角色。试着把三者分别说清楚：谁写故事，谁创造公共雕塑，谁有超能力？这种小辨认能让一张有趣的照片多出一层真实的地方历史。",
+    "person_names": [
+      "Marcel Aymé",
+      "Jean Marais"
+    ],
+    "work_names": [
+      "Le Passe-muraille"
+    ],
+    "themes": [
+      "作家故居",
+      "公共艺术",
+      "身份辨认"
+    ],
+    "observable_cue": "墙中人物与广场地址；附近纪念牌仅以现场实际可见为准",
+    "visitor_action": "用一句话分别说明作者、雕塑家与虚构角色。",
+    "knowledge_takeaway": "1989年Jean Marais的雕塑把作者Marcel Aymé呈现为穿墙人。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "Aymé于1963年移居26 rue Norvins、现2 place Marcel-Aymé；Jean Marais作品于1989年2月25日揭幕。",
+        "source_ids": [
+          "mont-ayme-memorial"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-ayme-memorial"
+    ],
+    "caveat": "不把不同门牌当作两处故居；不附加未核验的雕塑家与作者私交轶事。",
+    "poi_id": "passe-muraille",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "passe-muraille-imagination"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "musee-montmartre-renoir",
+    "title": "花园里读雷诺阿的光",
+    "hook": "先看树影，再想画面。",
+    "body": "雷诺阿曾在这里居住创作，今天的花园以他的名字纪念这段联系。博物馆列出《秋千》和《科尔托街的花园》等关联作品，让庭院成为理解绘画环境的入口。若购买花园票入内，可以先停下看一块叶影怎样落在地面，再换一个角度观察颜色；若只在门外，就把故事当作背景阅读。这里提供的是现场环境与作品的联系，不能把大作原件当成街边或花园里保证可见的东西。",
+    "person_names": [
+      "Auguste Renoir"
+    ],
+    "work_names": [
+      "La Balançoire",
+      "Jardin de la rue Cortot"
+    ],
+    "themes": [
+      "印象派",
+      "自然观察",
+      "光与颜色"
+    ],
+    "observable_cue": "持票后可见的花园树木、植物与地面光影",
+    "visitor_action": "入园后用两个位置比较树影和颜色；不入园时只读地点联系。",
+    "knowledge_takeaway": "花园以曾在此居住创作的Renoir命名，环境观察可帮助理解绘画。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "官方花园页说明花园纪念在此居住创作的Renoir，并列出《秋千》《科尔托街的花园》。",
+        "source_ids": [
+          "mont-museum-gardens"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-museum-gardens"
+    ],
+    "caveat": "官方不同页面分别写居住至1876、1877，本条不用结束年份。花园持票进入；不承诺关联画作原件在此展出。",
+    "poi_id": "musee-montmartre",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "musee-montmartre-atelier"
+    ],
+    "compatibility_note": "未被初版路线选用；拓展新路线前复核现场观察方式。"
+  },
+  {
+    "id": "musee-montmartre-valadon",
+    "title": "画室不是时间冻结的房间",
+    "hook": "复原本身也需要证据。",
+    "body": "苏珊娜·瓦拉东、莫里斯·郁特里罗和安德烈·于特尔于1912年入住这里的画室住宅。原有工作环境后来所剩不多，今天的展示由设计师依据当时书信、文字与历史照片复原。若入馆，先观察生活物件与画架怎样共处，再留意说明里的“复原”二字。你看见的是有依据的解释，而不是每件物品都从艺术家手中原样留下；这也让女性艺术家的工作与生活可以被具体地理解。",
+    "person_names": [
+      "Suzanne Valadon",
+      "Maurice Utrillo",
+      "André Utter",
+      "Hubert Le Gall"
+    ],
+    "work_names": [],
+    "themes": [
+      "女性艺术家",
+      "画室生活",
+      "证据与复原"
+    ],
+    "observable_cue": "持票入馆后可见的复原画室、生活物件与展示说明",
+    "visitor_action": "找一处生活物件和一处创作设施，阅读复原说明。",
+    "knowledge_takeaway": "今天的Valadon画室依据历史文字与照片复原，不能全部当作原物。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "三位艺术家于1912年入住；Hubert Le Gall依历史书信、文字与照片复原画室。",
+        "source_ids": [
+          "mont-museum-atelier"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-museum-atelier"
+    ],
+    "caveat": "只能在持票入馆且展区开放时观察；具体物件陈列可能调整，门外看不到内部画室。",
+    "poi_id": "musee-montmartre",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "musee-montmartre-entrance"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "musee-montmartre-community-memory",
+    "title": "收藏，让一个社区留住自己",
+    "hook": "保存的不只是一幅名画。",
+    "body": "蒙马特博物馆1960年开放，它的收藏与1886年成立的老蒙马特学会、地方收藏者的捐赠有关。文化部登记说明，资料不只包括绘画，还保存街区的历史与娱乐生活。到科尔托街门口，可以先把这里看作社区记忆的入口；选择入馆时，再留意一张海报或历史文件怎样补充建筑外观。名人让地点容易被记住，普通居民和收藏者留下的材料，则让一个街区的故事变得更完整。",
+    "person_names": [
+      "Claude Charpentier"
+    ],
+    "work_names": [],
+    "themes": [
+      "社区记忆",
+      "收藏",
+      "地方史"
+    ],
+    "observable_cue": "博物馆入口与馆名；历史文件和海报仅在开放展区内可见",
+    "visitor_action": "门外阅读馆史；入馆后任选一份公开展出的文件或海报看说明。",
+    "knowledge_takeaway": "博物馆1960年开放，收藏来自学会及地方收藏者的保存与捐赠。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "文化部记录学会创立于1886年，博物馆开放于1960年，Claude Charpentier为首任馆长；收藏受益于捐赠。",
+        "source_ids": [
+          "mont-museum-register"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-museum-register"
+    ],
+    "caveat": "收藏主题不等于每件对象当日都展出；不承诺无票进入、某件名画或私人档案可见。",
+    "poi_id": "musee-montmartre",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "musee-montmartre-entrance"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "sacre-coeur-building",
+    "title": "从奠基到祝圣的长时间",
+    "hook": "一眼看到的轮廓，经历了几十年。",
+    "body": "圣心堂的建筑竞赛由保罗·阿巴迪在1874年获胜，官方以罗马拜占庭风格描述他的设计。1875年奠基，1919年10月16日祝圣，这不是一个单一“建成年份”就能讲完的过程。站在前方先找圆顶、拱形和整体轮廓，再把时间线连起来：计划、施工与宗教启用可以是不同节点。看到一座熟悉建筑时，多问一句“哪个阶段”，常能避开旅游资料里看似简单却互相冲突的年代。",
+    "person_names": [
+      "Paul Abadie"
+    ],
+    "work_names": [],
+    "themes": [
+      "建筑",
+      "时间线",
+      "城市地标"
+    ],
+    "observable_cue": "圆顶、拱形与建筑轮廓",
+    "visitor_action": "从平台观察轮廓，在故事中辨认竞赛、奠基和祝圣三个阶段。",
+    "knowledge_takeaway": "圣心堂1875年奠基、1919年祝圣，两者不能互相替代。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "Paul Abadie于1874年赢得竞赛；1875年奠基，1919年10月16日祝圣。",
+        "source_ids": [
+          "mont-sacre-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-sacre-history"
+    ],
+    "caveat": "外观不是对内部空间的承诺；不用其他资料混淆的1891、1914年份概括全部完工。",
+    "poi_id": "sacre-coeur",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "sacre-coeur-parvis"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "sacre-coeur-mosaic",
+    "title": "金色的心在室内",
+    "hook": "把目光从圆顶转向唱诗席。",
+    "body": "圣心堂唱诗席的马赛克于1923年揭幕，由梅尔松、马涅和马丁共同署名。画面以白衣基督、展开的双臂和金色的心组织视线，这是进入教堂后才能观察的室内艺术。若当日可入内，先安静地看中心人物，再找哪一处颜色把目光拉回画面中央。这个体验不要求理解所有宗教符号；辨认光、姿态和构图，也能让一座常被当成外观地标的建筑多出一个值得停留的层次。",
+    "person_names": [
+      "Olivier Merson",
+      "H. M. Magne",
+      "R. Martin"
+    ],
+    "work_names": [
+      "La mosaïque du chœur"
+    ],
+    "themes": [
+      "马赛克",
+      "宗教艺术",
+      "构图"
+    ],
+    "observable_cue": "教堂内部唱诗席马赛克，外面不可见",
+    "visitor_action": "入内后安静观察白衣、手臂与金色心的视觉关系。",
+    "knowledge_takeaway": "唱诗席马赛克1923年揭幕；它是室内艺术，不是外墙装饰。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "官方记录马赛克于1923年揭幕，作者Merson、Magne、Martin，主体为展开双臂的白衣基督及金色心。",
+        "source_ids": [
+          "mont-sacre-mosaic"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-sacre-mosaic"
+    ],
+    "caveat": "仅在教堂开放且允许参观区域内观察；礼仪活动与现场管理可能影响停留。",
+    "poi_id": "sacre-coeur",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "sacre-coeur-mosaic-visit"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "sacre-coeur-living-sanctuary",
+    "title": "游客之外，祈祷仍在继续",
+    "hook": "地标也有自己的日常。",
+    "body": "圣心堂官方说明，持续朝拜的传统从1885年8月1日开始；夜间闭馆之后，另行报名的参与者仍会接续祈祷。这说明它不仅是看巴黎景色的地标，也是持续使用的宗教场所。白天若入内，可以用一分钟保持安静，观察人们如何停留，再决定是否继续看艺术。你的旅游时间与别人的礼拜时间可能重叠；认识这种日常用途，会让一次到访更接近地点本身的生活。",
+    "person_names": [],
+    "work_names": [],
+    "themes": [
+      "宗教日常",
+      "安静观察",
+      "地方用途"
+    ],
+    "observable_cue": "开放时教堂内部的礼拜空间与安静氛围",
+    "visitor_action": "仅在允许参观的时段安静停留，不把礼拜者作为拍摄对象。",
+    "knowledge_takeaway": "这里保持自1885年开始的持续朝拜传统；夜间参与与普通参观不同。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "官方说明持续朝拜始于1885年8月1日，闭馆后的夜间参与者需报名。",
+        "source_ids": [
+          "mont-sacre-visit"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-sacre-visit"
+    ],
+    "caveat": "不把持续朝拜等同为游客24小时自由入内；管风琴正在修复，不承诺听到主风琴演奏。",
+    "poi_id": "sacre-coeur",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "sacre-coeur-parvis",
+      "sacre-coeur-mosaic-visit"
+    ],
+    "compatibility_note": "未被初版路线选用；拓展新路线前复核现场观察方式。"
+  },
+  {
+    "id": "place-du-tertre-public-studio",
+    "title": "一个有规则的露天工作室",
+    "hook": "这里的画架，不是随意摆放。",
+    "body": "小丘广场的艺术家区域由巴黎市授权管理，画家、肖像师、漫画师和剪影师在编号位置轮流工作。市政把它称为露天工作室，因为作品是在行人面前绘制的。到广场时，可以先观察一种技法怎样从线条变成形象，再看画架与通行空间如何共存。你无需购买肖像也能读懂这个现场；若想请人作画，应先问价格与安排。街头艺术的自由感背后，也有一套支持共同使用空间的规则。",
+    "person_names": [],
+    "work_names": [],
+    "themes": [
+      "当代创作",
+      "公共空间",
+      "观察技法"
+    ],
+    "observable_cue": "编号位置、画架与正在绘制的作品，实际出勤依当日情况",
+    "visitor_action": "选一处不妨碍工作的地方观察一段绘制过程；委托前先询价。",
+    "knowledge_takeaway": "市政授权艺术家在编号位置轮流工作，广场也是现场创作空间。",
+    "claim_type": "institutional_history",
+    "claims": [
+      {
+        "text": "市政授权画家、肖像师、漫画师及剪影师使用编号位置，并由艺术家轮流工作。",
+        "source_ids": [
+          "mont-tertre-artists"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-tertre-artists"
+    ],
+    "caveat": "不承诺某位艺术家当日出勤或某种技法一定出现；不把肖像收费归入免费观察。",
+    "poi_id": "place-du-tertre",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "place-du-tertre-observe-art"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "place-du-tertre-two-gazes",
+    "title": "郁特里罗与杜瓦诺的两种目光",
+    "hook": "同一广场，可以进入不同图像。",
+    "body": "蒙马特博物馆介绍记载，郁特里罗画过小丘广场，杜瓦诺也曾摄影记录它。画家的取舍与摄影师的取景，让同一地点留下不同观看方式。今天站在广场边，试着做两个小框景：一次只看建筑轮廓，一次把经过的人放进想象画面。你看到的不是旧作原件，也不必重建过去；这个动作只是借两位创作者的线索，发现一处热闹广场既有固定的形状，也有不断变化的日常。",
+    "person_names": [
+      "Maurice Utrillo",
+      "Robert Doisneau"
+    ],
+    "work_names": [],
+    "themes": [
+      "绘画与摄影",
+      "城市观看",
+      "日常生活"
+    ],
+    "observable_cue": "广场建筑边界、画架与人流",
+    "visitor_action": "用手指或心中的画框分别选择建筑与人流，不拍摄陌生人特写。",
+    "knowledge_takeaway": "Utrillo与Doisneau分别以绘画和摄影记录过这处广场。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "蒙马特博物馆的广场介绍说明Utrillo曾绘画、Doisneau曾摄影记录Place du Tertre。",
+        "source_ids": [
+          "mont-tertre-image"
+        ]
+      }
+    ],
+    "source_ids": [
+      "mont-tertre-image"
+    ],
+    "caveat": "未锁定具体作品题名与拍摄年份，不声称现场可以看到旧作；框景动作是编辑设计的体验。",
+    "poi_id": "place-du-tertre",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "place-du-tertre-observe-art"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "tour-eiffel-engineers",
+    "title": "铁塔并非一个人的草图",
+    "hook": "名字属于埃菲尔，设计却是一场协作。",
+    "body": "1884年，工程师科什兰与努吉耶提出高塔构想，建筑师索韦斯特参与调整外形，埃菲尔推动项目实现。先看四条向上收拢的塔腿：曲线与抗风有关。再看底部大拱，它也包含建筑师的审美选择。一次抬头，就能分辨工程、设计和组织各自做了什么。",
+    "person_names": [
+      "古斯塔夫·埃菲尔",
+      "莫里斯·科什兰",
+      "埃米尔·努吉耶",
+      "斯蒂芬·索韦斯特"
+    ],
+    "work_names": [],
+    "themes": [
+      "engineering",
+      "collaboration"
+    ],
+    "observable_cue": "四条塔腿与底部拱形",
+    "visitor_action": "从公共步道观察轮廓，不进入安检区。",
+    "knowledge_takeaway": "地标来自多种专业协作。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "设计涉及埃菲尔、科什兰、努吉耶和索韦斯特。",
+        "source_ids": [
+          "west-eiffel-history"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-eiffel-history"
+    ],
+    "caveat": "",
+    "poi_id": "tour-eiffel",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "tour-eiffel-look"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "tour-eiffel-delaunay",
+    "title": "德劳内把铁塔拆进颜色里",
+    "hook": "同一座塔，可以有很多种看法。",
+    "body": "罗贝尔·德劳内多次把铁塔画进作品，官方艺术史资料列出《红塔》和《巴黎城》。站在塔下，我们看到连续的钢铁轮廓；把视线分成天空、铁架和建筑，便能做一次自己的构图练习。这里讲的是艺术家如何观看地标，画作并不悬挂在铁塔现场。",
+    "person_names": [
+      "罗贝尔·德劳内"
+    ],
+    "work_names": [
+      "红塔",
+      "巴黎城"
+    ],
+    "themes": [
+      "art",
+      "perspective"
+    ],
+    "observable_cue": "铁架与天空形成的色块",
+    "visitor_action": "与同行者各选一个角度，比较两张照片的构图。",
+    "knowledge_takeaway": "同一个对象可以拥有不同视觉解释。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "德劳内的《红塔》与《巴黎城》包含铁塔题材。",
+        "source_ids": [
+          "west-eiffel-art"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-eiffel-art"
+    ],
+    "caveat": "现场不展示这些画作；照片练习是编辑设计。",
+    "poi_id": "tour-eiffel",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "tour-eiffel-look"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "trocadero-alphand",
+    "title": "先别急着看铁塔",
+    "hook": "弯曲小径与笔直水轴，来自不同年代。",
+    "body": "阿尔方设计的1878年花园留下曲折道路、岩石与树木；1937年的改造强化了中央水景轴线。把头转向侧园，再转回喷泉，两种秩序便在同一画面相遇。这个观景点自身也值得看，不只是铁塔照片的背景。",
+    "person_names": [
+      "阿道夫·阿尔方"
+    ],
+    "work_names": [],
+    "themes": [
+      "garden",
+      "observation"
+    ],
+    "observable_cue": "侧园曲线和中央直线",
+    "visitor_action": "分别拍下一个弯和一条直线。",
+    "knowledge_takeaway": "园林可以保留不同年代的设计层。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "花园具有1878年和1937年的设计层次。",
+        "source_ids": [
+          "west-trocadero"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-trocadero"
+    ],
+    "caveat": "",
+    "poi_id": "trocadero",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "trocadero-garden-look"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "trocadero-chaillot",
+    "title": "换过主角的观景台",
+    "hook": "今天的宫殿不是1878年的那一座。",
+    "body": "达维乌为1878年世博建造了特罗卡德罗宫；1937年，夏约宫取代它，由阿泽马、卡吕和布瓦洛设计。看两翼之间敞开的视线，再把自己放进这幅大画框：拍照时觉得“理所当然”的开阔感，也是一种建筑安排。",
+    "person_names": [
+      "加布里埃尔·达维乌",
+      "雅克·卡吕",
+      "莱昂·阿泽马",
+      "路易-伊波利特·布瓦洛"
+    ],
+    "work_names": [],
+    "themes": [
+      "architecture",
+      "spectacle"
+    ],
+    "observable_cue": "夏约宫两翼及中间视线",
+    "visitor_action": "给同行者拍一张包含两翼边缘的远景。",
+    "knowledge_takeaway": "地标景观也经过重建与选择。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "1878旧宫被1937年夏约宫替代。",
+        "source_ids": [
+          "west-trocadero"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-trocadero"
+    ],
+    "caveat": "从花园看宫殿；不含宫内机构参观。",
+    "poi_id": "trocadero",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "trocadero-garden-look"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "passerelle-debilly-temporary",
+    "title": "临时搭的桥，留在了巴黎",
+    "hook": "一届世博结束了，这座桥没有退场。",
+    "body": "为1900年世博方便两岸通行，巴黎修建了这座人行桥。市政府的历史介绍记载，它原本计划拆除，后来被保留。走到桥的中段，看看河两岸的距离：宏大的展览也依赖这种很实际的连接，临时设施同样可能成为城市记忆。",
+    "person_names": [],
+    "work_names": [],
+    "themes": [
+      "engineering",
+      "exposition"
+    ],
+    "observable_cue": "桥面与两岸连接",
+    "visitor_action": "在不挡路的位置回头看刚刚走来的河岸。",
+    "knowledge_takeaway": "城市遗产不一定一开始就为永久保存而建。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "人行桥服务1900年世博，原计划拆除而被保留。",
+        "source_ids": [
+          "west-debilly"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-debilly"
+    ],
+    "caveat": "",
+    "poi_id": "passerelle-debilly",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "passerelle-debilly-cross"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "passerelle-debilly-resal",
+    "title": "桥的线条也有作者",
+    "hook": "把栏杆当作一张立体结构草图。",
+    "body": "巴黎市的桥梁资料将这座桥的建造与让·雷萨尔、阿梅代·阿尔比联系起来。抬头看拱线，再低头看栏杆与桥面的重复节奏：一座服务步行的桥，也能形成很有辨识度的画面。今天的小任务只是找出三种线条，不需要背下工程术语。",
+    "person_names": [
+      "让·雷萨尔",
+      "阿梅代·阿尔比"
+    ],
+    "work_names": [],
+    "themes": [
+      "design",
+      "observation"
+    ],
+    "observable_cue": "金属拱线与栏杆",
+    "visitor_action": "各找一条曲线、斜线和水平线。",
+    "knowledge_takeaway": "结构也能成为视觉体验。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "市政府桥梁资料列出雷萨尔和阿尔比。",
+        "source_ids": [
+          "west-bridges"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-bridges"
+    ],
+    "caveat": "观察动作是编辑建议，不推断每根构件的受力。",
+    "poi_id": "passerelle-debilly",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "passerelle-debilly-cross"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "quai-branly-patrick-blanc",
+    "title": "植物为什么能成为一面墙",
+    "hook": "布朗把植物的生长位置竖了起来。",
+    "body": "帕特里克·布朗设计的植物墙位于临街立面，是让·努维尔建筑环境的一部分。馆方说明，选用植物来自多个地区，其中包含能适应西欧气候的山地种类。先比较叶片大小和形状：看似一整块绿色，实际由许多不同的生命组成。",
+    "person_names": [
+      "帕特里克·布朗",
+      "让·努维尔"
+    ],
+    "work_names": [],
+    "themes": [
+      "botany",
+      "design"
+    ],
+    "observable_cue": "临街植物墙不同形态的叶片",
+    "visitor_action": "不触摸植物，找出三种叶形。",
+    "knowledge_takeaway": "植物墙也需要按环境选择物种。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "植物墙由帕特里克·布朗设计，选种考虑气候适应。",
+        "source_ids": [
+          "west-branly-wall"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-branly-wall"
+    ],
+    "caveat": "",
+    "poi_id": "quai-branly",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "quai-branly-wall"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "quai-branly-gilles-clement",
+    "title": "博物馆把地面让给了花园",
+    "hook": "克莱芒设计了一段可以慢下来的路。",
+    "body": "吉尔·克莱芒的花园拥有小径、起伏地形与水景；建筑架空，让部分花园延伸到馆体下方。无需急着冲向展厅，先沿一小段路观察遮阴和植物变化。这里的文化体验可以是看懂空间如何邀请人停留，而不是多记几个展品名字。",
+    "person_names": [
+      "吉尔·克莱芒",
+      "让·努维尔"
+    ],
+    "work_names": [],
+    "themes": [
+      "garden",
+      "rest"
+    ],
+    "observable_cue": "建筑下方的花园与小径",
+    "visitor_action": "若花园开放，在可停留处休息；不保证空座。",
+    "knowledge_takeaway": "建筑与自然可以共享地面。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "花园由克莱芒设计，部分延伸至架空馆体之下。",
+        "source_ids": [
+          "west-branly-garden"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-branly-garden"
+    ],
+    "caveat": "花园受开放日和时间限制；关闭时改看临街植物墙。",
+    "poi_id": "quai-branly",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "quai-branly-garden-rest"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "champ-de-mars-formige",
+    "title": "“操场”怎样变成公园",
+    "hook": "福尔米热给一片开阔地安排了另一种日常。",
+    "body": "战神广场曾用于军事操练，后来由巴黎市管理；1908年，福尔米热参与公园布局。今天可以从中央大草坪走向侧面的曲折小径，观察两种不同的空间性格。旅行中的休息，也能成为理解城市用途变化的一小课。",
+    "person_names": [
+      "让-卡米耶·福尔米热"
+    ],
+    "work_names": [],
+    "themes": [
+      "garden",
+      "city-life"
+    ],
+    "observable_cue": "中央轴线与侧面小径",
+    "visitor_action": "选择开放的侧径短停，给双脚留十分钟。",
+    "knowledge_takeaway": "公共空间的用途会随时代改变。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "公园有军事场地背景，1908年由福尔米热布置。",
+        "source_ids": [
+          "west-champmars"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-champmars"
+    ],
+    "caveat": "官网有道路与草坪修缮提示；不承诺草坪可进入。",
+    "poi_id": "champ-de-mars",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "champ-de-mars-rest"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "champ-de-mars-gathering",
+    "title": "地标之外，还有来看它的人",
+    "hook": "把视线从塔尖放回公园。",
+    "body": "巴黎市将这片场地的历史与联合庆典、世博和大型公共活动联系在一起。今天即使没有活动，也可以看看步道、休息设施与宽阔轴线如何容纳人群。给同行者拍一张自然的合照，让人和风景都进入画面：这站的主角可以是你们自己的相处。",
+    "person_names": [],
+    "work_names": [],
+    "themes": [
+      "public-life",
+      "social"
+    ],
+    "observable_cue": "步道与公共休息空间",
+    "visitor_action": "在允许停留的位置休息或合照，不占用草坪围挡区域。",
+    "knowledge_takeaway": "地标周围的公共空间也是城市文化的一部分。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "战神广场承载联合庆典、世博等公共活动。",
+        "source_ids": [
+          "west-champmars"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-champmars"
+    ],
+    "caveat": "",
+    "poi_id": "champ-de-mars",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "champ-de-mars-rest"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "pont-bir-hakeim-double-deck",
+    "title": "脚下散步，头顶地铁",
+    "hook": "比耶特与福尔米热把交通叠在同一座桥上。",
+    "body": "这座桥把地铁放在上层，把车辆和行人安排在下层。巴黎市资料列出工程师路易·比耶特与建筑师福尔米热参与项目。停在安全的位置，等一列地铁经过，听声音怎样靠近又远去：平常的通勤设施，也能成为一次现场工程观察。",
+    "person_names": [
+      "路易·比耶特",
+      "让-卡米耶·福尔米热"
+    ],
+    "work_names": [],
+    "themes": [
+      "engineering",
+      "sound"
+    ],
+    "observable_cue": "桥下立柱和上层轨道",
+    "visitor_action": "在人行区观察一次列车经过，不进入自行车道。",
+    "knowledge_takeaway": "交通可以通过垂直分层共享跨河空间。",
+    "claim_type": "historical_fact",
+    "claims": [
+      {
+        "text": "桥有双层交通结构，比耶特与福尔米热参与建造。",
+        "source_ids": [
+          "west-birhakeim"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-birhakeim"
+    ],
+    "caveat": "",
+    "poi_id": "pont-bir-hakeim",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "pont-bir-hakeim-walkway"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  },
+  {
+    "id": "pont-bir-hakeim-inception",
+    "title": "真实的柱廊，电影里的梦",
+    "hook": "《盗梦空间》用过这个日常通道。",
+    "body": "市政府的桥史列出《盗梦空间》在这里取景。电影能用剪辑和视觉效果改造空间，现实中的柱廊却有自己的重复节奏。找一个不影响通行的位置向前看，看看立柱如何汇向远处；不用模仿危险动作，也能理解导演为什么喜欢这种画面。",
+    "person_names": [
+      "克里斯托弗·诺兰"
+    ],
+    "work_names": [
+      "盗梦空间"
+    ],
+    "themes": [
+      "cinema",
+      "perspective"
+    ],
+    "observable_cue": "重复柱列的透视效果",
+    "visitor_action": "同行者轮流拍一张柱列远景，随后让出位置。",
+    "knowledge_takeaway": "电影取景关系真实，梦境情节属于虚构。",
+    "claim_type": "literary_connection",
+    "claims": [
+      {
+        "text": "《盗梦空间》在该桥取景。",
+        "source_ids": [
+          "west-birhakeim"
+        ]
+      }
+    ],
+    "source_ids": [
+      "west-birhakeim"
+    ],
+    "caveat": "不把电影特效当作桥梁的真实结构。",
+    "poi_id": "pont-bir-hakeim",
+    "status": "source_reviewed",
+    "editorial_action_note": "观察问题和旅行练习是编辑建议，不作为历史事实。",
+    "compatible_experience_ids": [
+      "pont-bir-hakeim-walkway"
+    ],
+    "compatibility_note": "初版所选组合已按正文与观察位置检查；外观背景故事不得声称已见室内原作。"
+  }
+]

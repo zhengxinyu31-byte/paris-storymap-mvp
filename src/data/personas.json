@@ -1,0 +1,210 @@
+[
+  {
+    "id": "GOAT",
+    "name_zh": "全能管家",
+    "dimensions": {
+      "culture": 1,
+      "planning": 1,
+      "social": 1,
+      "spending": 1
+    },
+    "default_route_id": "paris-goat",
+    "match_reason": "一起看建筑与人物故事，提供明确顺序；消费只作为一次自愿的休息升级。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "CTRL",
+    "name_zh": "宝藏团长",
+    "dimensions": {
+      "culture": 1,
+      "planning": 1,
+      "social": 1,
+      "spending": 0
+    },
+    "default_route_id": "paris-ctrl",
+    "match_reason": "默认免费外观，一站一个可核实的区别；同行者可以先猜再看解释。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "BLUE",
+    "name_zh": "深藏Blue之人",
+    "dimensions": {
+      "culture": 1,
+      "planning": 1,
+      "social": 0,
+      "spending": 1
+    },
+    "default_route_id": "paris-blue",
+    "match_reason": "独立观察、内容可展开；唯一预约依赖是橘园内访，可选择外观版本。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "NERD",
+    "name_zh": "学者",
+    "dimensions": {
+      "culture": 1,
+      "planning": 1,
+      "social": 0,
+      "spending": 0
+    },
+    "default_route_id": "paris-nerd",
+    "match_reason": "按顺序读人物关系与来源边界；外观为主，消费可选，保留安静停留。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "DODO",
+    "name_zh": "干就完了",
+    "dimensions": {
+      "culture": 1,
+      "planning": 0,
+      "social": 1,
+      "spending": 1
+    },
+    "default_route_id": "paris-dodo",
+    "match_reason": "保留文化深度与同行讨论；顺路选择馆内或咖啡消费，跳站不会失去主线。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "MYTH",
+    "name_zh": "拾光者",
+    "dimensions": {
+      "culture": 1,
+      "planning": 0,
+      "social": 1,
+      "spending": 0
+    },
+    "default_route_id": "paris-myth",
+    "match_reason": "文学线索与旧空间相连，主线无需消费；可与同行者各挑一个想继续读的人。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "LORD",
+    "name_zh": "大小姐",
+    "dimensions": {
+      "culture": 1,
+      "planning": 0,
+      "social": 0,
+      "spending": 1
+    },
+    "default_route_id": "paris-lord",
+    "match_reason": "从拱廊、收藏与酒店中的人物故事深入阅读；章节可自由挑选，下午茶或入馆体验按兴趣另行安排。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "BUDD",
+    "name_zh": "清冷佛子",
+    "dimensions": {
+      "culture": 1,
+      "planning": 0,
+      "social": 0,
+      "spending": 0
+    },
+    "default_route_id": "paris-budd",
+    "match_reason": "文化线索完整，外观免费；不要求交谈、礼拜或入馆，允许略过支线。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "BOSS",
+    "name_zh": "煤老板",
+    "dimensions": {
+      "culture": 0,
+      "planning": 1,
+      "social": 1,
+      "spending": 1
+    },
+    "default_route_id": "paris-boss",
+    "match_reason": "用餐桌、名店与社交轶事串起清楚的章节，适合结伴阅读；挑一家安排用餐，其他地点可以先读故事。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "TIME",
+    "name_zh": "时间管理大师",
+    "dimensions": {
+      "culture": 0,
+      "planning": 1,
+      "social": 1,
+      "spending": 0
+    },
+    "default_route_id": "paris-time",
+    "match_reason": "免费短停、明确顺序和结束位置；与同行者轮流找细节，减少临时选择。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "FREE",
+    "name_zh": "多比",
+    "dimensions": {
+      "culture": 0,
+      "planning": 1,
+      "social": 0,
+      "spending": 1
+    },
+    "default_route_id": "paris-free",
+    "match_reason": "从泳池、书店到屋顶，用清楚的章节安排独处时间；可只选两三处，泳池、游船与馆内体验按兴趣安排。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "WIND",
+    "name_zh": "追风筝的人",
+    "dimensions": {
+      "culture": 0,
+      "planning": 1,
+      "social": 0,
+      "spending": 0
+    },
+    "default_route_id": "paris-wind",
+    "match_reason": "沿旧铁路、公园与水岸独立观察，章节给出探索方向；跨区路段可拆开，仅进入合法开放的区域。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "SHAN",
+    "name_zh": "慈善家",
+    "dimensions": {
+      "culture": 0,
+      "planning": 0,
+      "social": 1,
+      "spending": 1
+    },
+    "default_route_id": "paris-shan",
+    "match_reason": "市集、河畔与餐桌的轻文化故事，适合同行分享；按片区挑一处相聚，消费、演出与城外行程另行选择。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "BEE",
+    "name_zh": "小蜜蜂",
+    "dimensions": {
+      "culture": 0,
+      "planning": 0,
+      "social": 1,
+      "spending": 0
+    },
+    "default_route_id": "paris-bee",
+    "match_reason": "免费外观与同行小游戏；不要求向陌生人搭话，不把消费或排队设为任务。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "REST",
+    "name_zh": "休息者",
+    "dimensions": {
+      "culture": 0,
+      "planning": 0,
+      "social": 0,
+      "spending": 1
+    },
+    "default_route_id": "paris-rest",
+    "match_reason": "围绕能坐下来、慢慢读的巴黎地点展开，每次选一两处即可；不要求赶路，入馆、泳池或茶点按兴趣安排。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  },
+  {
+    "id": "CUTE",
+    "name_zh": "史莱姆",
+    "dimensions": {
+      "culture": 0,
+      "planning": 0,
+      "social": 0,
+      "spending": 0
+    },
+    "default_route_id": "paris-cute",
+    "match_reason": "街角奇闻适合短读与随心发现；八个故事按片区自由挑选，读到喜欢的地方就可以停下。",
+    "model_note": "现有项目的旅行偏好分组，不是心理诊断或实证推荐模型。"
+  }
+]

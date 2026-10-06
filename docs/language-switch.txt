@@ -1,0 +1,9 @@
+Global language switch · implementation scope
+
+User authorized: a language button that selects Chinese or English globally.
+UI and public narrative content must switch together: all 16 routes, 260 story records, POI labels/access notes, person/work names, evidence/source captions, maps, photos, dialogs and status messages.
+A local translation dictionary is loaded with the app; no translation service runs during user visits. Long-form English is translated in full and checked separately from polished UI/route/name wording.
+Canonical IDs and Chinese source records remain stable. English is a display layer, so chapter links, branch returns, bookmarks and reading progress survive a switch or refresh.
+Default zh-CN; language preference stored separately as paris-storymap-language. Only zh/en accepted; invalid/unavailable storage falls back to Chinese.
+Set document language, page title and description. Language menu offers native names 中文 and English; current selection is keyboard accessible.
+Validate complete dictionary coverage, English text/accessibility labels, every route/POI/story/question, deep links and progress, fallback maps/photos, and mobile layouts in both languages.

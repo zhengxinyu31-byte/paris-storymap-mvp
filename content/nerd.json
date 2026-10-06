@@ -1,0 +1,708 @@
+{
+  "stories": [
+    {
+      "id": "editions-gallimard--melancholia",
+      "poi_id": "editions-gallimard",
+      "title": "《恶心》差一点没有走出这扇门",
+      "hook": "成名前的萨特，也收到过退稿。",
+      "body": "1936年，萨特送到伽利玛的小说还叫《Melancholia》：一个在外省教书的年轻人，把多年改写的稿子交给巴黎出版界，却先吃了闭门羹。朋友尼赞替他奔走，保朗、杜兰等人也相继介入；1937年稿子终于获准出版，编辑布里斯·帕兰又要求删掉过于露骨、可能惹上官司的段落。连书名也继续拉锯：萨特另提过以主人公罗冈丹命名的长标题，最后由加斯东·伽利玛提出《恶心》，波伏娃还担心这个名字会误导读者。1938年4月，薄薄的成书终于问世。门后的文学史，先是一场退稿、改稿与朋友帮忙的接力。",
+      "person_names": [
+        "让-保罗·萨特",
+        "保罗·尼赞",
+        "让·保朗",
+        "夏尔·杜兰",
+        "布里斯·帕兰",
+        "加斯东·伽利玛",
+        "西蒙娜·德·波伏娃"
+      ],
+      "work_names": [
+        "《恶心》"
+      ],
+      "when": "1936—1938年",
+      "why_here": "这家出版社接收、退回、编辑并最终出版了萨特成名的小说。",
+      "detail": "原题Melancholia；出版前更名为La Nausée。",
+      "relationship": "尼赞是萨特的朋友和引荐者；帕兰负责编辑；伽利玛是出版人；波伏娃是亲密伴侣与读稿者。",
+      "observable_cue": "出版社门牌与Gallimard字样",
+      "source_urls": [
+        {
+          "url": "https://www.cercle-enseignement.com/Lycee/Seconde-GT/Dossiers-thematiques/Sartre-Premiers-pas-chez-Gallimard",
+          "title": "Sartre : Premiers pas chez Gallimard",
+          "publisher": "Cercle Gallimard de l’enseignement"
+        },
+        {
+          "url": "https://classes.bnf.fr/pdf/Sartre2.pdf",
+          "title": "Sartre：Écriture",
+          "publisher": "法国国家图书馆 BnF"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "故事发生于出版社的编辑往来；现址立面不证明某次交稿发生在今天看到的门厅。",
+      "role": "main"
+    },
+    {
+      "id": "cafe-de-flore--stove-writing",
+      "poi_id": "cafe-de-flore",
+      "title": "先有一座暖炉，才有一间写作室",
+      "hook": "波伏娃和萨特把一天搬进了咖啡馆。",
+      "body": "占领时期的巴黎，寒冷会把人赶出房间。花神老板保罗·布巴尔1939年接手店铺后，厅中央的大煤炉成了作家们长坐的理由；波伏娃是早早坐下来的一位，萨特也把这里过成了家。他后来回忆，两人上午九点到中午工作，出去吃午饭，下午两点再回来，同朋友聊到晚上八点，晚饭后继续见约好的人。法国国家图书馆确认，《存在与虚无》和《缓期执行》的部分文字就在花神写成。桌面上既摊着稿纸，也留着朋友的位置；今天闻名世界的思想，曾夹在取暖、吃饭和一天又一天的返席之间。",
+      "person_names": [
+        "西蒙娜·德·波伏娃",
+        "让-保罗·萨特",
+        "保罗·布巴尔"
+      ],
+      "work_names": [
+        "《存在与虚无》",
+        "《缓期执行》"
+      ],
+      "when": "1939—1945年",
+      "why_here": "花神是两人的实际工作场所；暖炉和作息把抽象的写作史还原为生活。",
+      "detail": "萨特回忆的作息：9—12点写作，14点再返店。",
+      "relationship": "波伏娃与萨特共同写作、相互读稿，也在这里维系朋友圈；布巴尔是经营者。",
+      "observable_cue": "街边露台、窗内桌椅与店名；历史暖炉不是现存必见展品。",
+      "source_urls": [
+        {
+          "url": "https://cafedeflore.fr/dans-les-coulisses-dun-cafe-culte/",
+          "title": "Dans les coulisses d’un café culte",
+          "publisher": "Café de Flore"
+        },
+        {
+          "url": "https://multimedia-ext.bnf.fr/pdf/Sartre3.pdf",
+          "title": "Sartre：Paysages sartriens",
+          "publisher": "法国国家图书馆 BnF"
+        },
+        {
+          "url": "https://www.paris-bistro.com/univers/cafes-et-histoire/apres-guerre-saint-germain-des-pres/2",
+          "title": "Après-Guerre : la gloire de Saint-Germain-des-Prés",
+          "publisher": "Paris-Bistro（引Christophe Boubal《Café de Flore》）"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "暖炉和日程据经营方转引萨特回忆；“煤炉”燃料细节据Paris-Bistro对咖啡馆历史的转述。具体桌号无确证。",
+      "role": "main"
+    },
+    {
+      "id": "les-deux-magots--mandarins",
+      "poi_id": "les-deux-magots",
+      "title": "波伏娃在咖啡桌上写出了自己的名声",
+      "hook": "她笔下的人，正在决定战后该怎样生活。",
+      "body": "1954年，波伏娃凭《名士风流》获得龚古尔奖。双叟的馆史把这部小说的写作与自己的咖啡桌联系起来：在她常来的地方，谈话、报刊和稿纸原本就混在一起。小说从解放后的法国展开，让一群作家在政治承诺、友谊和爱情之间做选择；它献给美国作家纳尔逊·阿尔格伦，书中跨越大西洋的爱情也让人想起她自己的经历。读者常急着把人物认作萨特、加缪或作者本人，小说却将这些经验重新组织成了虚构。获奖带来的收入随后改变了她的居住生活——走到路线后半程，我们会看见她终于买下的那套公寓。",
+      "person_names": [
+        "西蒙娜·德·波伏娃",
+        "纳尔逊·阿尔格伦"
+      ],
+      "work_names": [
+        "《名士风流》"
+      ],
+      "when": "1954年及此前写作期",
+      "why_here": "双叟馆史明确记载波伏娃在此写《名士风流》，并把1954年获奖列为重要节点。",
+      "detail": "同一部获奖小说，连接双叟的咖啡桌与肖尔歇街的自有住宅。",
+      "relationship": "波伏娃是小说作者；阿尔格伦是她的美国恋人和小说受献者。",
+      "observable_cue": "双叟店名、面向广场的露台与室内两尊塑像。",
+      "source_urls": [
+        {
+          "url": "https://lesdeuxmagots.fr/notre-histoire/",
+          "title": "Histoire du Café littéraire : Les Deux Magots",
+          "publisher": "Les Deux Magots"
+        },
+        {
+          "url": "https://www.paris.fr/pages/sur-les-pas-de-simone-de-beauvoir-ecrivaine-et-feministe-emblematique-de-paris-21516",
+          "title": "Dans les pas de Simone de Beauvoir, rive gauche",
+          "publisher": "巴黎市政府"
+        },
+        {
+          "url": "https://www.fondationlaposte.org/florilettres/articles-critiques/simone-de-beauvoir-lettres-nelson-algren-par-corinne-amar",
+          "title": "Simone de Beauvoir — Lettres à Nelson Algren",
+          "publisher": "法国邮政基金会"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "“在双叟写作”来自咖啡馆自述，未据此断言全书在此完成；小说人物不能逐一当成历史人物的实录。",
+      "role": "main"
+    },
+    {
+      "id": "brasserie-lipp--hemingway-meal",
+      "poi_id": "brasserie-lipp",
+      "title": "海明威终于坐下来，吃完一盘又一盘土豆",
+      "hook": "在这场流动的盛宴里，最难忘的先是饥饿。",
+      "body": "《流动的盛宴》里的年轻海明威来到Lipp，在靠墙的长椅坐下，镜子在身后。他先要一大杯啤酒和油拌土豆：土豆结实，浸着橄榄油，他磨上黑胡椒，再拿面包蘸盘里的油。第一份吃完，他又添了一份，这回加了cervelas香肠，纵向剖开的香肠配着芥末酱。吃喝的动作被写得很慢，巴黎也暂时从远大的写作计划缩回一张餐桌。正是这种带着体温的细节，让Lipp进入文学记忆：后来成为大作家的人，当时首先需要的是吃饱，再回去写字。今天菜单上的菜名与这段文字之间，隔着的是他日后重写青春的时间。",
+      "person_names": [
+        "欧内斯特·海明威"
+      ],
+      "work_names": [
+        "《流动的盛宴》"
+      ],
+      "when": "回忆1920年代的巴黎生活；回忆录1964年出版",
+      "why_here": "海明威的回忆录直接点名Lipp，并细写座位、啤酒、土豆与香肠。",
+      "detail": "油拌土豆、黑胡椒、蘸油的面包、剖开的cervelas香肠。",
+      "relationship": "海明威是叙述自己青年生活的回忆录作者；这顿饭不是与萨特的会面。",
+      "observable_cue": "Lipp招牌；如用餐，可在当日菜单寻找pommes à l’huile与cervelas。",
+      "source_urls": [
+        {
+          "url": "https://www.brasserie-lipp.ch/fr/histoiredelabrasseriebrasserielipp/",
+          "title": "Histoire de la Brasserie Lipp（引《Paris est une fête》）",
+          "publisher": "Brasserie Lipp Zürich"
+        },
+        {
+          "url": "https://www.brasserielipp.fr/",
+          "title": "Brasserie Lipp",
+          "publisher": "巴黎Brasserie Lipp"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "具体餐食来自海明威晚年整理的回忆录，属于作者回忆；转引页将场景定为1927—1928年，正文未采用该未经独立核实的精确年份。",
+      "role": "main"
+    },
+    {
+      "id": "sartre-bonaparte--two-bombs",
+      "poi_id": "sartre-bonaparte",
+      "title": "炸弹两次找到了萨特的家",
+      "hook": "反战文章的后果，落在了真实的门口。",
+      "body": "萨特公开反对阿尔及利亚战争，攻击也找到了波拿巴街42号。1961年7月，炸药在楼下门厅爆炸，玻璃门被震脱；当时《世界报》说，这是他母亲的公寓，萨特常来写作，遇袭时本人正在度假。1962年1月7日，这个地址再次发生爆炸。法国国家图书馆保存着袭击照片，并谨慎注明塑胶炸药很可能由秘密军组织OAS放置——它主张保住“法属阿尔及利亚”。这次之后，萨特离开圣日耳曼，搬回蒙帕纳斯。刚刚在咖啡馆听见的谈论，走到这扇门前，已经有了被震坏的门、受到波及的家人和必须迁居的代价。",
+      "person_names": [
+        "让-保罗·萨特"
+      ],
+      "work_names": [],
+      "when": "1961年7月、1962年1月",
+      "why_here": "42 rue Bonaparte是遭袭的实际住所，随后迁居也由BnF资料确认。",
+      "detail": "第一次炸弹置于门厅，玻璃门被震脱；萨特本人正在度假。1962年1月7日再度受袭。",
+      "relationship": "萨特是反殖民战争的公开发声者；OAS是主张法属阿尔及利亚的武装组织。",
+      "observable_cue": "42号门牌与住宅外墙。",
+      "source_urls": [
+        {
+          "url": "https://www.lemonde.fr/archives/article/1961/07/21/pas-de-victimes-des-degats-materiels_2265746_1819218.html",
+          "title": "Pas de victimes, des dégâts matériels",
+          "publisher": "Le Monde（1961年7月21日报道）"
+        },
+        {
+          "url": "https://expositions.bnf.fr/sartre/grand/221.htm",
+          "title": "Attentat au domicile de Sartre — 7 janvier 1962",
+          "publisher": "法国国家图书馆 BnF"
+        },
+        {
+          "url": "https://multimedia-ext.bnf.fr/pdf/Sartre3.pdf",
+          "title": "Sartre：Paysages sartriens",
+          "publisher": "法国国家图书馆 BnF"
+        },
+        {
+          "url": "https://classes.bnf.fr/pdf/Sartre4.pdf",
+          "title": "Sartre：Repères biographiques",
+          "publisher": "法国国家图书馆 BnF"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "BnF概述称萨特住所，1961年《世界报》现场报道强调公寓属于其母亲、萨特常来工作；两者的居住表述不同，正文分别交代。第二次日期据BnF为1月7日；OAS归因采用照片说明的“很可能”。",
+      "role": "main"
+    },
+    {
+      "id": "le-tabou--vian-brothers",
+      "poi_id": "le-tabou",
+      "title": "维昂兄弟把地下室变成了乐队的家",
+      "hook": "白天的作家，到了夜里举起了小号。",
+      "body": "1947年4月，Dauphine街33号的地下室开了张：Le Tabou地方不大，却刚好容下战后急着跳舞、听爵士的年轻人。鲍里斯·维昂拿起他亲昵称作“trompinette”的小号，与兄弟阿兰、莱利奥等人组成乐队。这里的维昂不只是《岁月的泡沫》的作者，更是把呼吸和节拍交给现场的乐手；朱丽叶特·格蕾科也成为这处夜生活据点的熟面孔。巴黎市的回顾说，开业初期酒单甚至只有朗姆可乐。维昂后来在《圣日耳曼德佩指南》中，把这里称作有组织的疯狂中心。音乐停下后，这群人的脸和玩笑，又会回到白天的小说、杂志与咖啡桌上。",
+      "person_names": [
+        "鲍里斯·维昂",
+        "阿兰·维昂",
+        "莱利奥·维昂",
+        "朱丽叶特·格蕾科"
+      ],
+      "work_names": [
+        "《岁月的泡沫》",
+        "《圣日耳曼德佩指南》"
+      ],
+      "when": "1947年起",
+      "why_here": "Le Tabou的地下室是维昂兄弟演奏和圣日耳曼战后夜生活的具体现场。",
+      "detail": "三兄弟加入同一乐队；开业初期的朗姆可乐。",
+      "relationship": "鲍里斯、阿兰和莱利奥是兄弟；格蕾科是同一夜生活圈的朋友与歌手。",
+      "observable_cue": "33 rue Dauphine门牌与街面入口；昔日地下俱乐部不等于现有商家。",
+      "source_urls": [
+        {
+          "url": "https://www.paris.fr/pages/paris-de-la-liberation-7084",
+          "title": "Libération de Paris : ces lieux de sorties qui ont marqué l’histoire",
+          "publisher": "巴黎市政府"
+        },
+        {
+          "url": "https://www.paris.fr/pages/balade-dans-le-paris-enjazze-de-boris-vian-19064",
+          "title": "Balade dans le Paris enjazzé de Boris Vian",
+          "publisher": "巴黎市政府"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "朗姆可乐是市政府对开业初期的概述；不是今天营业、演出或酒单的保证。",
+      "role": "main"
+    },
+    {
+      "id": "beauvoir-schoelcher--own-apartment",
+      "poi_id": "beauvoir-schoelcher",
+      "title": "波伏娃终于买下了一扇自己的窗",
+      "hook": "《名士风流》获奖之后，咖啡馆常客有了自己的家。",
+      "body": "1954年《名士风流》获得龚古尔奖，书带来的收入让波伏娃买下肖尔歇街11 bis号的公寓。1955年，她搬进这里，此后一直把它作为住处，直到1986年去世。长期住旅馆、在咖啡馆写作的生活，从此多了一处可以由自己安排的房间。她接待作家朋友，也让《现代》杂志的编辑们在家里碰头；这并没有变成与萨特共同置办的夫妻住宅。后来萨特也迁回蒙帕纳斯，两人的日常往返重新缩短了距离。路线前面那张写作的咖啡桌、那本带来声誉的小说，走到这里，就化成了买房的钱、一扇窗和晚年仍在继续的工作。",
+      "person_names": [
+        "西蒙娜·德·波伏娃",
+        "让-保罗·萨特"
+      ],
+      "work_names": [
+        "《名士风流》",
+        "《现代》"
+      ],
+      "when": "1955—1986年",
+      "why_here": "这里是波伏娃以写作收入购置、长期居住的公寓。",
+      "detail": "1954年获奖，1955年迁入11 bis rue Victor-Schœlcher。",
+      "relationship": "波伏娃与萨特是长期伴侣，保有各自住所；杂志编辑和作家是她在家接待的同事朋友。",
+      "observable_cue": "11 bis门牌与纪念牌；住宅从公共街道观察。",
+      "source_urls": [
+        {
+          "url": "https://www.paris.fr/pages/sur-les-pas-de-simone-de-beauvoir-ecrivaine-et-feministe-emblematique-de-paris-21516",
+          "title": "Dans les pas de Simone de Beauvoir, rive gauche",
+          "publisher": "巴黎市政府"
+        },
+        {
+          "url": "https://multimedia-ext.bnf.fr/pdf/Sartre3.pdf",
+          "title": "Sartre：Paysages sartriens",
+          "publisher": "法国国家图书馆 BnF"
+        },
+        {
+          "url": "https://museedupatrimoine.fr/immeuble-11-11bis-rue-victor-schoelcher-a-paris-paris-14eme-observatoire/32124.html?id=32124&lang=fr",
+          "title": "Immeuble 11–11 bis rue Victor-Schoelcher",
+          "publisher": "Musée du Patrimoine de France（遗产资料网站）"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "购置资金表述依据巴黎市政府“获奖带来的收入”，不将它简化为龚古尔奖金本身；精确迁入年由建筑资料补充。",
+      "role": "main"
+    },
+    {
+      "id": "montparnasse-cemetery--shared-grave",
+      "poi_id": "montparnasse-cemetery",
+      "title": "两次四月的送别，最后落在同一块墓石",
+      "hook": "六年后的同一天，波伏娃被送到萨特身边。",
+      "body": "1980年4月19日，数以万计的人从布鲁赛医院一路陪伴萨特的灵柩，走向蒙帕纳斯公墓。新闻影像里，波伏娃跪在棺木旁；这场没有宗教仪式的送别，将咖啡馆里的名字变成了街上的人群。六年后的4月19日，又一支送葬队伍从科尚医院出发，这一次送的是波伏娃。《世界报》的现场报道记下，参加者约五千人，女性占了多数；她的棺木被安放进已经刻着萨特姓名的墓穴。两人相伴逾半个世纪，未曾结婚，最终共享一处墓地。读到同一墓石上的两个名字时，也别忘了：她还写过寄往美国的情书，那是这段人生另一条没有刻上石头的线。",
+      "person_names": [
+        "让-保罗·萨特",
+        "西蒙娜·德·波伏娃",
+        "纳尔逊·阿尔格伦"
+      ],
+      "work_names": [
+        "《致纳尔逊·阿尔格伦书简》"
+      ],
+      "when": "1980年4月19日、1986年4月19日",
+      "why_here": "萨特与波伏娃的合葬墓实际位于此处；两次葬礼均有当时报导和影像。",
+      "detail": "两场葬礼都是4月19日，相隔六年。",
+      "relationship": "萨特与波伏娃是长期伴侣并合葬；阿尔格伦是波伏娃另一段重要爱情的对象。",
+      "observable_cue": "同一墓石上的Jean-Paul Sartre与Simone de Beauvoir姓名。",
+      "source_urls": [
+        {
+          "url": "https://enseignants.lumni.fr/fiche-media/00000000514/les-obseques-de-jean-paul-sartre.html",
+          "title": "Les obsèques de Jean-Paul Sartre",
+          "publisher": "INA／Lumni"
+        },
+        {
+          "url": "https://www.lemonde.fr/archives/article/1986/04/22/une-ceremonie-de-femmes_2918354_1819218.html",
+          "title": "Une cérémonie de femmes",
+          "publisher": "Le Monde（1986年4月22日报道）"
+        },
+        {
+          "url": "https://www.cercle-enseignement.com/Ouvrages/Gallimard/Folio/Lettres-a-Nelson-Algren",
+          "title": "Lettres à Nelson Algren",
+          "publisher": "Cercle Gallimard de l’enseignement"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "萨特葬礼人数在报道中有差异，采用INA的“数以万计”；波伏娃人数为当时报导估计。",
+      "role": "main"
+    },
+    {
+      "id": "editions-gallimard--temps-modernes",
+      "poi_id": "editions-gallimard",
+      "title": "一个出版社，容不下所有朋友的政治立场",
+      "hook": "萨特终于获得了自己的杂志，麻烦也跟着来了。",
+      "body": "1945年，加斯东·伽利玛邀请萨特主持一份新刊，《现代》由此加入出版社的书架。波伏娃、梅洛-庞蒂、雷蒙·阿隆、米歇尔·莱里斯和保朗等人进入编辑委员会；写小说的朋友们开始共同处理战争之后的现实。杂志刊登文学，也发表政治判断，热闹很快变成了冲突：同为伽利玛重要作者的马尔罗，因为支持戴高乐而受到《现代》批评，便要求出版人停止出版这份刊物。1948年12月，《现代》转到朱利亚尔。出版社的大门让他们相识，却并不能把每一场分歧挡在门外；萨特想要的公共发言，从一开始就要面对朋友和出版人的压力。",
+      "person_names": [
+        "让-保罗·萨特",
+        "加斯东·伽利玛",
+        "西蒙娜·德·波伏娃",
+        "莫里斯·梅洛-庞蒂",
+        "雷蒙·阿隆",
+        "米歇尔·莱里斯",
+        "让·保朗",
+        "安德烈·马尔罗"
+      ],
+      "work_names": [
+        "《现代》"
+      ],
+      "when": "1945—1948年",
+      "why_here": "伽利玛最初出版《现代》，1948年的转社也源于作者和出版人之间的冲突。",
+      "detail": "马尔罗因杂志批评其戴高乐立场，向出版人施压。",
+      "relationship": "萨特是刊物负责人；波伏娃等是编辑同事；马尔罗既是同行，也是被刊物批评的政治对手。",
+      "observable_cue": "Gallimard门牌；杂志早期封面上的出版社名称可与现场联系。",
+      "source_urls": [
+        {
+          "url": "https://cdn.essentiels.bnf.fr/uploads/media/attachment/20230804110654000000_historique_gallimard.pdf",
+          "title": "Un siècle NRF — Pour les revues",
+          "publisher": "法国国家图书馆 BnF／Gallimard历史资料"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "转社经过按BnF提供的出版社历史叙述；不将后续多次转社归为同一个原因。",
+      "role": "branch"
+    },
+    {
+      "id": "cafe-de-flore--apollinaire-editor",
+      "poi_id": "cafe-de-flore",
+      "title": "在萨特之前，阿波利奈尔已把花神当办公室",
+      "hook": "一杯咖啡的时间，足够替年轻诗人牵一根线。",
+      "body": "大约1913年，阿波利奈尔成了花神的常客。按咖啡馆的回忆，他和诗人安德烈·萨尔蒙把底层当成《巴黎之夜》的编辑室，在固定时段接待朋友。这本1912年创刊的小杂志，把文字与新艺术放在一起；讨论一篇稿子，也是在为新的作品寻找同伴。馆史还记下一个春天的会面：1917年，阿波利奈尔把年轻的菲利普·苏波介绍给安德烈·布勒东。两人后来进入超现实主义的核心圈子。那时花神还没有“萨特的咖啡馆”这个标签，桌边已有另一代人在替未来安排相识；多年后换了一批面孔，咖啡馆作为非正式编辑部的习惯却留了下来。",
+      "person_names": [
+        "纪尧姆·阿波利奈尔",
+        "安德烈·萨尔蒙",
+        "菲利普·苏波",
+        "安德烈·布勒东"
+      ],
+      "work_names": [
+        "《巴黎之夜》"
+      ],
+      "when": "约1913年；1917年春",
+      "why_here": "花神馆史记载阿波利奈尔的编辑活动与苏波、布勒东的引荐会面。",
+      "detail": "固定接待时间；1917年春的一次诗人引荐。",
+      "relationship": "阿波利奈尔是年长的诗人和引荐者；萨尔蒙是编辑伙伴；苏波与布勒东后来成为文学同道。",
+      "observable_cue": "咖啡馆底层与临街窗面。",
+      "source_urls": [
+        {
+          "url": "https://cafedeflore.fr/dans-les-coulisses-dun-cafe-culte/",
+          "title": "Café de Flore — 1887–1930",
+          "publisher": "Café de Flore"
+        },
+        {
+          "url": "https://data.bnf.fr/fr/ark%3A/12148/cb32870652c.pdf",
+          "title": "Les Soirées de Paris",
+          "publisher": "法国国家图书馆 BnF"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "花神的编辑室和引荐细节依据经营方叙述；杂志1912年创刊由BnF确认，不能把馆史的约1913年往来等同创刊日期。",
+      "role": "branch"
+    },
+    {
+      "id": "les-deux-magots--queneau-prize",
+      "poi_id": "les-deux-magots",
+      "title": "十三位常客，给格诺凑出一个文学奖",
+      "hook": "书没人注意，朋友们便决定自己把它举起来。",
+      "body": "1933年，雷蒙·格诺的《犬齿草》出版后反响冷淡。双叟的朋友们担心这本书就此沉下去，于是一个属于咖啡馆的文学奖出现了：首位得主就是格诺。关于那次筹划，留下了几种版本。文学研究引述当事人回忆：有人离开桌子去说服老板，许诺咖啡馆的名字从此年年见报；另一版则说，剧作家罗歇·维特拉克与美院图书管理员马尔蒂纳召集十三位朋友，每人出一百法郎，组成一千三百法郎的奖金。共同的落点十分具体：一群常客，把对一本书的偏爱变成了钱和公开的认可。二十多年后波伏娃在这里写作时，咖啡馆早已有自己的评奖记忆。",
+      "person_names": [
+        "雷蒙·格诺",
+        "罗歇·维特拉克",
+        "夏尔·马尔蒂纳",
+        "弗朗西斯·多博"
+      ],
+      "work_names": [
+        "《犬齿草》"
+      ],
+      "when": "1933年",
+      "why_here": "双叟文学奖在此诞生，格诺的《犬齿草》是首届获奖作。",
+      "detail": "十三位成员、一千三百法郎；谁先提议存在不同回忆。",
+      "relationship": "格诺是受奖作者；维特拉克和马尔蒂纳等是咖啡馆常客；多博留下创奖过程的回忆。",
+      "observable_cue": "店名Les Deux Magots；文学奖用的正是这家咖啡馆的名字。",
+      "source_urls": [
+        {
+          "url": "https://lesdeuxmagots.fr/prix-litteraires/",
+          "title": "Le Prix des Deux Magots",
+          "publisher": "Les Deux Magots"
+        },
+        {
+          "url": "https://lesdeuxmagots.fr/notre-histoire/",
+          "title": "Palmarès du Prix des Deux Magots",
+          "publisher": "Les Deux Magots"
+        },
+        {
+          "url": "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/7329822/315-327_Oki.pdf",
+          "title": "Isao Oki：Le 7 décembre 1933 — le prix Goncourt et le prix des Deux Magots（Stella 43，2024）",
+          "publisher": "九州大学法国文学研究会／学术资料库"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "获奖年份、得主和书名有正式奖项记录；筹钱与游说老板的过程存在多个当事人版本，正文并列呈现。",
+      "role": "branch"
+    },
+    {
+      "id": "brasserie-lipp--cazes-bessette",
+      "poi_id": "brasserie-lipp",
+      "title": "老板设了文学奖，一位女教师被看见",
+      "hook": "Lipp给作家的，除了饭菜，还有一次登场机会。",
+      "body": "1935年，Lipp老板马塞兰·卡兹创立了以自己命名的文学奖。1954年，一位叫埃莱娜·贝塞特的女教师凭《莉莉哭了》获得它。她曾随当牧师的丈夫远赴新喀里多尼亚，返回法国时已经离婚，要照顾两个儿子，再次靠教书生活。她的手稿辗转经过民族学家莫里斯·莱纳尔、米歇尔·莱里斯，最后得到格诺注意，1952年与伽利玛签约；萨特还在《现代》刊过小说片段。于是路线开头的出版社、双叟的格诺与这间餐馆，在一个后来常被遗忘的女人身上接到了一起。文学奖给了她一次被看见的机会，她后来的处境却仍远没有奖项听起来那样顺利。",
+      "person_names": [
+        "马塞兰·卡兹",
+        "埃莱娜·贝塞特",
+        "莫里斯·莱纳尔",
+        "米歇尔·莱里斯",
+        "雷蒙·格诺",
+        "让-保罗·萨特"
+      ],
+      "work_names": [
+        "《莉莉哭了》",
+        "《现代》"
+      ],
+      "when": "1935年创奖；1954年贝塞特获奖",
+      "why_here": "卡兹奖由Lipp老板创办；贝塞特的获奖把此地同出版和杂志圈相连。",
+      "detail": "1954年卡兹奖得主：曾任女教师的埃莱娜·贝塞特。",
+      "relationship": "卡兹是奖项创办人；莱纳尔、莱里斯与格诺帮助贝塞特接近出版界；萨特刊登她的作品。",
+      "observable_cue": "Lipp店招；这处餐馆同时是卡兹文学奖的历史地址。",
+      "source_urls": [
+        {
+          "url": "https://www.brasserielipp.fr/a-propos/",
+          "title": "Prix Cazes 2019 — créé en 1935",
+          "publisher": "Brasserie Lipp"
+        },
+        {
+          "url": "https://www.bnf.fr/fr/helene-bessette-bibliographie",
+          "title": "Hélène Bessette — Bibliographie",
+          "publisher": "法国国家图书馆 BnF"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "未把早期奖项资格、奖金或赠餐数量写成今天仍适用的规则。",
+      "role": "branch"
+    },
+    {
+      "id": "sartre-bonaparte--mother-library",
+      "poi_id": "sartre-bonaparte",
+      "title": "四十岁的萨特，搬去和母亲一起住",
+      "hook": "咖啡馆常客，终于有了一间堆得下书的书房。",
+      "body": "1945年，萨特离开旅馆，搬进波拿巴街42号，与再次守寡的母亲安娜-玛丽同住。此前他把工作和见朋友的时间分给旅馆与咖啡馆，如今楼上的书房逐渐成为写作中心。他开始买书、安置自己的藏书，又请秘书帮忙处理事务；总在街上移动的作家，也有了越来越固定的生活。几步之外，花神与双叟仍然热闹，但熟悉的邻近并不意味着日子照旧：成名带来的稿件、通信与来访，也需要家中的空间容纳。到1961年，《世界报》仍把这里称作母亲的公寓，提到他常来写作。后来人最容易记住炸弹，炸弹之前，这里首先是一个儿子和母亲的家。",
+      "person_names": [
+        "让-保罗·萨特",
+        "安娜-玛丽·萨特／芒西夫人"
+      ],
+      "work_names": [],
+      "when": "1945年起",
+      "why_here": "BnF记载萨特在42号与母亲同住，以及由咖啡馆转向书房的生活变化。",
+      "detail": "买书、建立藏书、聘请秘书。",
+      "relationship": "安娜-玛丽是萨特的母亲，再婚后姓Mancy；此住所不应被误写成与波伏娃的夫妻共同住宅。",
+      "observable_cue": "42号入口与楼上住宅窗户。",
+      "source_urls": [
+        {
+          "url": "https://multimedia-ext.bnf.fr/pdf/Sartre3.pdf",
+          "title": "Sartre：Paysages sartriens，第2页",
+          "publisher": "法国国家图书馆 BnF"
+        },
+        {
+          "url": "https://www.lemonde.fr/archives/article/1961/07/21/pas-de-victimes-des-degats-materiels_2265746_1819218.html",
+          "title": "Pas de victimes, des dégâts matériels",
+          "publisher": "Le Monde（1961年7月21日报道）"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "1945年同住与书房生活据BnF；1961年报导强调母亲拥有公寓、萨特常来工作，因此不声称整个1945—1962年间每天同住。室内现状未核实。",
+      "role": "branch"
+    },
+    {
+      "id": "le-tabou--greco-coat",
+      "poi_id": "le-tabou",
+      "title": "一件掉下楼梯的外套，和格蕾科的第一首歌",
+      "hook": "她先找到一个地下室，随后找到自己的声音。",
+      "body": "关于Tabou的诞生，格蕾科留下了一段极像电影的记忆：她把外套搭在楼梯栏杆上，衣服滑了下去，才发现下面有一间闲置的拱顶地窖，老板叫它“隧道”。朋友们觉得这里适合音乐和舞蹈，年轻的夜生活便钻进了地下。好奇的人很快来围观他们，报刊把这群人叫作“存在主义者”，格蕾科也被推成一张代表面孔。后来萨特给了她《白袍街》的歌词，由约瑟夫·科斯马谱曲，成为她早期的演唱曲目。那首歌的首次登台在Bœuf sur le Toit；Tabou留住的，是她还与朋友挤在一起、还没有成为舞台传奇的那一段开始。",
+      "person_names": [
+        "朱丽叶特·格蕾科",
+        "让-保罗·萨特",
+        "约瑟夫·科斯马"
+      ],
+      "work_names": [
+        "《白袍街》"
+      ],
+      "when": "1947年前后；1949年前后开始歌唱生涯",
+      "why_here": "掉落外套的地窖发现故事指向Le Tabou，后来的歌曲见证这个朋友圈如何帮助格蕾科起步。",
+      "detail": "落在楼梯下的外套；被称作“隧道”的拱顶地窖。",
+      "relationship": "格蕾科是歌手；萨特提供歌词；科斯马负责谱曲。",
+      "observable_cue": "街面入口；地下室往事通过回忆阅读，不将现有台阶指认为原现场。",
+      "source_urls": [
+        {
+          "url": "https://www.radiofrance.fr/franceinter/la-chanteuse-juliette-greco-est-morte-9541121",
+          "title": "La chanteuse Juliette Gréco est morte",
+          "publisher": "France Inter／Radio France"
+        },
+        {
+          "url": "https://musee.sacem.fr/index.php/ExhibitionCMS/Chroniques/SimpleExhibitions?id=54",
+          "title": "Jean-Paul Sartre et la rue des Blancs-Manteaux",
+          "publisher": "法国音乐著作权协会 SACEM 博物馆"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "外套发现地窖是流传的格蕾科回忆，按Radio France报道保留归属；她首次唱《白袍街》不在Tabou，正文明确区分。",
+      "role": "branch"
+    },
+    {
+      "id": "beauvoir-schoelcher--manifesto-343",
+      "poi_id": "beauvoir-schoelcher",
+      "title": "她打开家门，让343个名字走向报纸",
+      "hook": "一处私人住宅，也曾是公开行动的会合点。",
+      "body": "1971年，波伏娃的肖尔歇街公寓迎来了一批女性主义活动者。巴黎市的历史资料把这里与《343人宣言》的准备工作联系起来：作家用自己的住处接待来客，一份要把私密经历公开化的文字逐渐成形。4月5日，《新观察家》刊出343名女性的姓名，她们公开声明自己曾经堕胎，在当时面对着被起诉的风险。波伏娃的名声提供了声援，与她一起行动的还有律师吉赛勒·阿利米；同年两人参与创立“选择”协会。几十年前，她在咖啡馆寻找暖和的写作位置，如今她拥有的房间又给别人提供了集合的地方。书里的女性处境，走成了敲门、签名与走上街头的行动。",
+      "person_names": [
+        "西蒙娜·德·波伏娃",
+        "吉赛勒·阿利米"
+      ],
+      "work_names": [
+        "《343人宣言》"
+      ],
+      "when": "1971年",
+      "why_here": "巴黎市政府将此住所与《343人宣言》准备期间的女性活动者聚会相联系。",
+      "detail": "4月5日刊出343人姓名；同年参与创立Choisir。",
+      "relationship": "波伏娃是作家与活动参与者；阿利米是律师、同行动者；签署者包括知名女性与普通女性。",
+      "observable_cue": "私人住宅入口与纪念牌。",
+      "source_urls": [
+        {
+          "url": "https://www.paris.fr/pages/sur-les-pas-de-simone-de-beauvoir-ecrivaine-et-feministe-emblematique-de-paris-21516",
+          "title": "Dans les pas de Simone de Beauvoir",
+          "publisher": "巴黎市政府"
+        },
+        {
+          "url": "https://www2.assemblee-nationale.fr/14/evenements/2015/anniversaire-loi-veil/la-marche-vers-la-loi/vers-la-loi",
+          "title": "Vers la loi",
+          "publisher": "法国国民议会"
+        },
+        {
+          "url": "https://www2.assemblee-nationale.fr/15/evenements/2021/manifeste-des-343-c-etait-il-y-a-cinquante-ans",
+          "title": "Manifeste des 343 : c’était il y a cinquante ans",
+          "publisher": "法国国民议会"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "公寓与筹备的关联依据巴黎市资料；不虚构某一场会议的座位、逐字对话或全部到场者。",
+      "role": "branch"
+    },
+    {
+      "id": "montparnasse-cemetery--algren-ring",
+      "poi_id": "montparnasse-cemetery",
+      "title": "墓石之外，还有一枚戒指和304封情书",
+      "hook": "与萨特合葬，并没有抹掉她写给阿尔格伦的那一生。",
+      "body": "1947年，波伏娃在美国遇见小说家纳尔逊·阿尔格伦；两人的爱情随后被大西洋分隔。因为他不懂法语，她改用英语写信，把巴黎的写作、朋友与政治都寄给他。1947至1964年的304封信后来由养女西尔维·勒邦·德·波伏娃整理出版，其中有牵挂、邀约，也有无法为对方放下自己生活的为难。阿尔格伦送过她一枚戒指；1959年她寄去照片时，还在信里提醒他，手上仍戴着那枚戒指。后来《观察家》的回顾记载，她去世时依然佩戴它。站在与萨特合葬的墓前，这枚看不见的戒指让第三个人重新进入故事：亲密关系并不会自动照着墓石上的两个名字排好顺序。",
+      "person_names": [
+        "西蒙娜·德·波伏娃",
+        "纳尔逊·阿尔格伦",
+        "西尔维·勒邦·德·波伏娃",
+        "让-保罗·萨特"
+      ],
+      "work_names": [
+        "《致纳尔逊·阿尔格伦书简》"
+      ],
+      "when": "1947—1964年通信；1986年去世",
+      "why_here": "合葬墓是回望波伏娃复杂亲密关系的终点；阿尔格伦并未葬于此。",
+      "detail": "304封英文书信；1959年信中请他留意照片上的戒指。",
+      "relationship": "阿尔格伦是美国小说家与波伏娃的重要恋人；萨特是她的长期伴侣；西尔维是养女、书信整理者与译者。",
+      "observable_cue": "合葬墓上只有萨特与波伏娃的姓名；戒指不是现场可见物。",
+      "source_urls": [
+        {
+          "url": "https://www.cercle-enseignement.com/Ouvrages/Gallimard/Folio/Lettres-a-Nelson-Algren",
+          "title": "Lettres à Nelson Algren",
+          "publisher": "Cercle Gallimard de l’enseignement"
+        },
+        {
+          "url": "https://www.fondationlaposte.org/florilettres/articles-critiques/simone-de-beauvoir-lettres-nelson-algren-par-corinne-amar",
+          "title": "Simone de Beauvoir — Lettres à Nelson Algren",
+          "publisher": "法国邮政基金会"
+        },
+        {
+          "url": "https://popups.uliege.be/2795-8892/index.php?id=85",
+          "title": "Nuances de mariage",
+          "publisher": "列日大学期刊平台"
+        },
+        {
+          "url": "https://www.theguardian.com/uk/2000/may/14/filmnews.film",
+          "title": "Attenborough goes star-hunting for film on De Beauvoir’s Left Bank loves",
+          "publisher": "The Observer／The Guardian"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "书信、语言与戒指自述有出版材料支持；去世时佩戴戒指按《观察家》转述。关于戒指材质、购置时点、具体入葬过程的说法不一，未作为确证细节。列日论文误写火化，未采用该表述。",
+      "role": "branch"
+    },
+    {
+      "id": "sartre-bonaparte--greco-bookmarks",
+      "poi_id": "sartre-bonaparte",
+      "title": "萨特用白纸条，为格蕾科挑出歌声",
+      "hook": "她来到楼上，看见一摞已经替她做过标记的诗集。",
+      "body": "1949年春，一个聚餐的晚上，萨特听说格蕾科准备唱歌，便让她第二天到波拿巴街42号来。她上楼时，诗集已经堆好，夹在书页里的白纸条标出他觉得适合她的文字。格蕾科选了雷蒙·格诺和朱尔·拉福格的诗，后来成了《如果你想象》和《永恒的女性》；萨特又送她自己为《禁闭》写过的《白袍街》。接下来他让她去找住在附近的作曲家约瑟夫·科斯马，把文字变成歌。6月21日，她在Bœuf sur le Toit登台。这扇后来遭到炸弹袭击的住宅门，也曾为一个尚在起步的年轻歌手打开；书房里那几张白纸条，是朋友能给予的具体帮助。",
+      "person_names": [
+        "让-保罗·萨特",
+        "朱丽叶特·格蕾科",
+        "雷蒙·格诺",
+        "朱尔·拉福格",
+        "约瑟夫·科斯马"
+      ],
+      "work_names": [
+        "《如果你想象》",
+        "《永恒的女性》",
+        "《白袍街》",
+        "《禁闭》"
+      ],
+      "when": "1949年春；1949年6月21日",
+      "why_here": "SACEM博物馆记载格蕾科应萨特邀请来到42号住所挑选诗作。",
+      "detail": "一摞诗集；萨特用白纸条预先标出适合演唱的诗。",
+      "relationship": "萨特是帮助格蕾科起步的作家朋友；格诺、拉福格提供诗歌文本；科斯马为歌词谱曲。",
+      "observable_cue": "42号住宅入口；诗集和纸条是文献中的室内细节，并非现存展示。",
+      "source_urls": [
+        {
+          "url": "https://musee.sacem.fr/index.php/ExhibitionCMS/Chroniques/SimpleExhibitions?id=54",
+          "title": "Jean-Paul Sartre et la rue des Blancs-Manteaux",
+          "publisher": "法国音乐著作权协会 SACEM 博物馆"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "细节据音乐史家Bertrand Dicale在SACEM档案专题中的叙述；格蕾科实际登台地点与此住宅不同。",
+      "role": "branch"
+    }
+  ],
+  "route": {
+    "persona_id": "NERD",
+    "title": "他们怎样在左岸过完一生",
+    "opening": "从一份被退回的小说稿开始，沿八个真实地址读懂思想如何长进日常：炉边写作、午饭、朋友、炸弹、爵士与情书。每个街角接续一个情节，也遇见萨特、波伏娃、海明威和维昂。",
+    "closing": "最后留下的并非一张关系简单的名人合影：他们写书、相爱、争论，也需要吃饭和取暖。墓石把两个人并排留住，书与信让更多人的声音继续存在。",
+    "stops": [
+      {
+        "poi_id": "editions-gallimard",
+        "story_id": "editions-gallimard--melancholia",
+        "phase": "第一章 · 成为作家",
+        "transition": "从退稿的出版社会走到作家每日开工的地方；名声之前，先得找到一张桌子。"
+      },
+      {
+        "poi_id": "cafe-de-flore",
+        "story_id": "cafe-de-flore--stove-writing",
+        "phase": "第二章 · 写作的一天",
+        "transition": "隔着一小段街道，波伏娃从这间共同工作室走向她自己的小说与奖项。"
+      },
+      {
+        "poi_id": "les-deux-magots",
+        "story_id": "les-deux-magots--mandarins",
+        "phase": "第三章 · 她的成名作",
+        "transition": "写作者需要出版，也需要吃饭。到马路对面的Lipp，看海明威记住了怎样一顿饭。"
+      },
+      {
+        "poi_id": "brasserie-lipp",
+        "story_id": "brasserie-lipp--hemingway-meal",
+        "phase": "第四章 · 先吃饱，再写作",
+        "transition": "离开餐桌，转到附近的住宅门前；萨特的公共发言曾让私人生活直接遭到袭击。"
+      },
+      {
+        "poi_id": "sartre-bonaparte",
+        "story_id": "sartre-bonaparte--two-bombs",
+        "phase": "第五章 · 发声的代价",
+        "transition": "这座城也有另一种声响。回到战后岁月，去听维昂兄弟给地下室带来的爵士。"
+      },
+      {
+        "poi_id": "le-tabou",
+        "story_id": "le-tabou--vian-brothers",
+        "phase": "第六章 · 地下室的夜晚",
+        "transition": "从一群人的喧闹夜晚走向蒙帕纳斯，接着看波伏娃怎样安排自己的晚年生活。"
+      },
+      {
+        "poi_id": "beauvoir-schoelcher",
+        "story_id": "beauvoir-schoelcher--own-apartment",
+        "phase": "第七章 · 自己的房间",
+        "transition": "公寓旁就是这段路的终章：两个人各自生活，最后让姓名并排留在墓石上。"
+      },
+      {
+        "poi_id": "montparnasse-cemetery",
+        "story_id": "montparnasse-cemetery--shared-grave",
+        "phase": "第八章 · 关系的余音",
+        "transition": "停在合葬墓前，让一路出现的书名、餐桌、朋友与情人重新连起来。"
+      }
+    ]
+  }
+}

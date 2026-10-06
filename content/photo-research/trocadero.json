@@ -1,0 +1,81 @@
+{
+  "poi_id": "trocadero",
+  "query": "\"Jardins du Trocadéro\" Paris",
+  "candidates": [
+    {
+      "title": "File:56441-Paris (36201356970).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/56441-Paris_%2836201356970%29.jpg/1280px-56441-Paris_%2836201356970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/56441-Paris_%2836201356970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:56441-Paris_(36201356970).jpg",
+      "width": 1100,
+      "height": 762,
+      "description": "56441-Paris",
+      "author": "xiquinhosilva from Cacau",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2017-05-26 16:26",
+      "original_width": 5465,
+      "original_height": 3788
+    },
+    {
+      "title": "File:New Year 2003 in Paris 6.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/New_Year_2003_in_Paris_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/New_Year_2003_in_Paris_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:New_Year_2003_in_Paris_6.jpg",
+      "width": 1100,
+      "height": 825,
+      "description": "New Year 2003 in Paris ",
+      "author": "Syced",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "25 January 2000 (according to Exif data)",
+      "original_width": 1280,
+      "original_height": 960
+    },
+    {
+      "title": "File:Exposition universelle - Paris, 1878 by Isidore Laurent Deroy - Gallica.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Exposition_universelle_-_Paris%2C_1878_by_Isidore_Laurent_Deroy_-_Gallica.jpg/1280px-Exposition_universelle_-_Paris%2C_1878_by_Isidore_Laurent_Deroy_-_Gallica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Exposition_universelle_-_Paris%2C_1878_by_Isidore_Laurent_Deroy_-_Gallica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Exposition_universelle_-_Paris,_1878_by_Isidore_Laurent_Deroy_-_Gallica.jpg",
+      "width": 1100,
+      "height": 724,
+      "description": "Bird's eye view of the Palais du Trocadéro, 1878 World's Fair, Paris.",
+      "author": "Isidore Laurent Deroy",
+      "license": "Public domain",
+      "license_url": "",
+      "date": "1878date QS:P571,+1878-00-00T00:00:00Z/9",
+      "original_width": 9125,
+      "original_height": 6005
+    },
+    {
+      "title": "File:Panorama in the Jardins du Trocadéro.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Panorama_in_the_Jardins_du_Trocad%C3%A9ro.jpg/1280px-Panorama_in_the_Jardins_du_Trocad%C3%A9ro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Panorama_in_the_Jardins_du_Trocad%C3%A9ro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Panorama_in_the_Jardins_du_Trocad%C3%A9ro.jpg",
+      "width": 1100,
+      "height": 281,
+      "description": "Panorama in the Jardins du Trocadéro in Paris, France.",
+      "author": "DiscoA340",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2022-07-19 17:29:41",
+      "original_width": 11124,
+      "original_height": 2842
+    },
+    {
+      "title": "File:Palais de Chaillot in July 2022.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Palais_de_Chaillot_in_July_2022.jpg/1280px-Palais_de_Chaillot_in_July_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Palais_de_Chaillot_in_July_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Palais_de_Chaillot_in_July_2022.jpg",
+      "width": 1100,
+      "height": 808,
+      "description": "Palais de Chaillot seen from the Trocadéro Gardens in Paris, France.",
+      "author": "DiscoA340",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2022-07-19 17:15:01",
+      "original_width": 3750,
+      "original_height": 2753
+    }
+  ]
+}

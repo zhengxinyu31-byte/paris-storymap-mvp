@@ -1,0 +1,81 @@
+{
+  "poi_id": "place-du-tertre",
+  "query": "\"Place du Tertre\" Paris",
+  "candidates": [
+    {
+      "title": "File:Restaurants, Place du Tertre, Paris 30 September 2019.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Restaurants%2C_Place_du_Tertre%2C_Paris_30_September_2019.jpg/1280px-Restaurants%2C_Place_du_Tertre%2C_Paris_30_September_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Restaurants%2C_Place_du_Tertre%2C_Paris_30_September_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Restaurants,_Place_du_Tertre,_Paris_30_September_2019.jpg",
+      "width": 1100,
+      "height": 619,
+      "description": "Restaurants, Place du Tertre, Paris, France.",
+      "author": "Pierre Blaché from Paris, France",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2019-09-30 20:08:12",
+      "original_width": 6000,
+      "original_height": 3375
+    },
+    {
+      "title": "File:Paris July 2011-4.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Paris_July_2011-4.jpg/1280px-Paris_July_2011-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Paris_July_2011-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Paris_July_2011-4.jpg",
+      "width": 1100,
+      "height": 739,
+      "description": "Street portraitist, Place du Tertre, XVIIIe arrondissement, Paris, France.",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2011-07-08",
+      "original_width": 2739,
+      "original_height": 1839
+    },
+    {
+      "title": "File:Paris July 2011-5.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Paris_July_2011-5.jpg/1280px-Paris_July_2011-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Paris_July_2011-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Paris_July_2011-5.jpg",
+      "width": 1100,
+      "height": 778,
+      "description": "Street portraitist, Place du Tertre, XVIIIe arrondissement, Paris, France.",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2011-07-08",
+      "original_width": 2415,
+      "original_height": 1708
+    },
+    {
+      "title": "File:Paris July 2011-2.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Paris_July_2011-2.jpg/1280px-Paris_July_2011-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Paris_July_2011-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Paris_July_2011-2.jpg",
+      "width": 1100,
+      "height": 1639,
+      "description": "Street portraitiste at La Place du Tertre, Paris",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2011-07-08",
+      "original_width": 1944,
+      "original_height": 2896
+    },
+    {
+      "title": "File:Paris July 2011-3.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Paris_July_2011-3.jpg/1280px-Paris_July_2011-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Paris_July_2011-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Paris_July_2011-3.jpg",
+      "width": 1100,
+      "height": 1639,
+      "description": "Street portraitist, Place du Tertre, XVIIIe arrondissement, Paris, France.",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2011-07-08",
+      "original_width": 1944,
+      "original_height": 2896
+    }
+  ]
+}

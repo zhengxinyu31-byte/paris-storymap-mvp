@@ -1,0 +1,16 @@
+{
+  "poi_id": "bouillon-chartier-grands-boulevards",
+  "query": "Bouillon Chartier",
+  "candidates": [
+    {
+      "title": "Paris_Chartier_1304.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Paris_Chartier_1304.jpg/1280px-Paris_Chartier_1304.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Paris_Chartier_1304.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source_url": "https://fr.wikipedia.org/wiki/Bouillon_Chartier",
+      "width": 1200,
+      "height": 800,
+      "description": "Bouillon Chartier",
+      "match_note": "法语百科该地点条目的主图；需目视核对"
+    }
+  ]
+}

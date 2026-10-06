@@ -1,0 +1,4306 @@
+[
+  {
+    "id": "paris-goat",
+    "persona_id": "GOAT",
+    "title": "把一座城变成大家的客厅",
+    "theme_question": "文化空间怎样让不同的人找到自己的位置？",
+    "opening": "从歌剧院的宏大门面开始，经过广场、酒店与花园，最后走向可以共享的书页。今天给每位同行者留一个能参与的小问题。",
+    "closing": "空间各有门槛，但同行的快乐来自每个人都看见一点自己的东西。",
+    "match_reason": "一起看建筑与人物故事，提供明确顺序；消费只作为一次自愿的休息升级。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 8,
+    "estimated_total_min": [
+      140,
+      216
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "palais-garnier",
+        "story_id": "palais-garnier-charles-social-stage",
+        "experience_id": "palais-garnier-facade-stop",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "免费外观先看；入内为可选，观察谁在看谁而不拍摄陌生人特写。 可以与同行者比较各自发现。",
+        "transition_to_next": "从剧场走向广场，看看观看如何进入公共空间。",
+        "fallback": null,
+        "visibility_note": "外观短停只观察建筑或招牌；正文提到的内部空间、画作、店内物件须另行进入才能看到。"
+      },
+      {
+        "order": 2,
+        "poi_id": "place-vendome",
+        "story_id": "place-vendome-mansart-square",
+        "experience_id": "place-vendome-square-observe",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "在人行区域看两个相邻立面，比较重复与变化。 可以与同行者比较各自发现。",
+        "transition_to_next": "从整齐的立面转向一个具体地址，观察场所怎样保存名人记忆。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：围合广场的连续立面"
+      },
+      {
+        "order": 3,
+        "poi_id": "ritz-paris",
+        "story_id": "ritz-paris-hemingway-naming",
+        "experience_id": "ritz-paris-public-facade",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          11
+        ],
+        "display_depth": "expanded",
+        "interaction": "在公共广场看外观并读酒店原文，消费完全可选。 可以与同行者比较各自发现。",
+        "transition_to_next": "离开酒店门前，去公共花园比较另一种停留方式。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：酒店外部招牌；官网Bar Hemingway条目"
+      },
+      {
+        "order": 4,
+        "poi_id": "jardin-des-tuileries",
+        "story_id": "jardin-des-tuileries-catherine-absence",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "沿东端主路短看，比较可见花园与已消失宫殿。 可以与同行者比较各自发现。",
+        "transition_to_next": "沿着花园的方向走到宫殿入口，看看设计怎样组织人流。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：花园东端面向卢浮宫的开阔视线"
+      },
+      {
+        "order": 5,
+        "poi_id": "louvre",
+        "story_id": "louvre-pei-circulation",
+        "experience_id": "louvre-courtyard-look",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "从公共庭院边缘比较玻璃和石材的视觉关系，不进入排队区。 可以与同行者比较各自发现。",
+        "transition_to_next": "建筑让人进入，剧团则靠协作让故事继续。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：玻璃金字塔与周围宫殿立面"
+      },
+      {
+        "order": 6,
+        "poi_id": "comedie-francaise",
+        "story_id": "comedie-francaise-armande-collective",
+        "experience_id": "comedie-francaise-facade-reading",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "expanded",
+        "interaction": "打开官方当期节目，找一个主演之外的岗位。 可以与同行者比较各自发现。",
+        "transition_to_next": "从舞台转向旁边的住宅，艺术家也有日常生活。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：剧院官方节目页中的剧目与演出团队"
+      },
+      {
+        "order": 7,
+        "poi_id": "palais-royal",
+        "story_id": "palais-royal-cocteau-marais",
+        "experience_id": "palais-royal-garden-rest",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "短走西侧拱廊，用一句话描述理想创作空间。 可以与同行者比较各自发现。",
+        "transition_to_next": "从邻里走向公共阅读，最后给每个人留一页自己的时间。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：西侧蒙庞西耶街拱廊与住宅外观"
+      },
+      {
+        "order": 8,
+        "poi_id": "bnf-richelieu",
+        "story_id": "bnf-richelieu-pascal-public",
+        "experience_id": "bnf-richelieu-oval-reading",
+        "role": "pause",
+        "essential": true,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "开放时进入公共区，安静看书或短歇；未开放则读入口信息。 可以与同行者比较各自发现。",
+        "transition_to_next": "",
+        "fallback": {
+          "story_id": "bnf-richelieu-pascal-public",
+          "experience_id": "bnf-richelieu-site-look",
+          "instruction": "公共阅览厅关闭或无法进入时，只在入口外读故事；不前往研究阅览室。",
+          "duration_min": [
+            5,
+            10
+          ]
+        },
+        "visibility_note": "本体验现场观察：Salle Ovale椭圆天窗与环绕书架"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "palais-garnier",
+        "to_poi_id": "place-vendome",
+        "straight_line_m": 526,
+        "estimated_walk_min": [
+          10,
+          15
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "place-vendome",
+        "to_poi_id": "ritz-paris",
+        "straight_line_m": 105,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "ritz-paris",
+        "to_poi_id": "jardin-des-tuileries",
+        "straight_line_m": 506,
+        "estimated_walk_min": [
+          9,
+          15
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "jardin-des-tuileries",
+        "to_poi_id": "louvre",
+        "straight_line_m": 824,
+        "estimated_walk_min": [
+          15,
+          24
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "louvre",
+        "to_poi_id": "comedie-francaise",
+        "straight_line_m": 302,
+        "estimated_walk_min": [
+          6,
+          9
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "comedie-francaise",
+        "to_poi_id": "palais-royal",
+        "straight_line_m": 258,
+        "estimated_walk_min": [
+          5,
+          8
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "palais-royal",
+        "to_poi_id": "bnf-richelieu",
+        "straight_line_m": 226,
+        "estimated_walk_min": [
+          4,
+          7
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 4,
+        "poi_id": "jardin-des-tuileries",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "杜伊勒里花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "right-src-tuileries-history"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "suggested_fixed",
+    "short_version_orders": [
+      1,
+      5,
+      8
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [
+      {
+        "at_stop": 1,
+        "experience_id": "palais-garnier-interior-upgrade",
+        "replaces_default_experience": true,
+        "additional_duration_min": [
+          30,
+          80
+        ],
+        "instruction": "自愿升级为「可选：阶梯和绘画」，替代该站默认外观停留。先查官方接待/票务；增加时间另计，不含安检或排队。"
+      }
+    ],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      140,
+      216
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-ctrl",
+    "persona_id": "CTRL",
+    "title": "把巴黎传说拆开看",
+    "theme_question": "一个流传很广的故事，哪些部分能被证据支持？",
+    "opening": "不急着给传说判真伪。先看花园、教堂与咖啡馆，再辨认两家名字相同的书店，让每个人找出一个原来没注意的区别。",
+    "closing": "最值得带走的冷知识，是知道一个说法可以讲到哪里。",
+    "match_reason": "默认免费外观，一站一个可核实的区别；同行者可以先猜再看解释。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 8,
+    "estimated_total_min": [
+      121,
+      190
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "jardin-du-luxembourg",
+        "story_id": "jardin-du-luxembourg--medicis",
+        "experience_id": "jardin-du-luxembourg--exp-pause",
+        "role": "pause",
+        "essential": true,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "从水池一端观察它的纵深，比较最初装饰与后来布局。 可以与同行者比较各自发现。",
+        "transition_to_next": "离开花园，去辨认教堂里一个容易被误读的线索。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：美第奇喷泉与长水池"
+      },
+      {
+        "order": 2,
+        "poi_id": "saint-sulpice",
+        "story_id": "saint-sulpice--gnomon",
+        "experience_id": "saint-sulpice--exp-paintings",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          12,
+          20
+        ],
+        "display_depth": "expanded",
+        "interaction": "查项目解释，再按现场导览观察装置。 可以与同行者比较各自发现。",
+        "transition_to_next": "从建筑传说转向作家常去的咖啡馆，先看证据支持到哪里。",
+        "fallback": {
+          "story_id": "saint-sulpice--gnomon",
+          "experience_id": "saint-sulpice--exp-facade",
+          "instruction": "礼拜或维护限制内访时，在外面读背景或略过；门外看不到壁画和日影仪。",
+          "duration_min": [
+            5,
+            8
+          ]
+        },
+        "visibility_note": "本体验现场观察：北侧横厅日影仪与地面线"
+      },
+      {
+        "order": 3,
+        "poi_id": "cafe-de-flore",
+        "story_id": "cafe-de-flore--prize",
+        "experience_id": "cafe-de-flore--exp-facade",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "expanded",
+        "interaction": "从历届名单选一位作家，记下一本想读的书。 可以与同行者比较各自发现。",
+        "transition_to_next": "走几步比较另一家咖啡馆，把名字、年代和人物分开。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：CAFÉ DE FLORE店招"
+      },
+      {
+        "order": 4,
+        "poi_id": "les-deux-magots",
+        "story_id": "les-deux-magots--wooden-figures",
+        "experience_id": "les-deux-magots--exp-outside",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "expanded",
+        "interaction": "比较店名与塑像，不为找物件打扰用餐客人。 可以与同行者比较各自发现。",
+        "transition_to_next": "再抬头看这个街区更早的建筑，时间尺度一下拉长。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：店招；入内后如可见，中央柱子上的木雕"
+      },
+      {
+        "order": 5,
+        "poi_id": "saint-germain-des-pres",
+        "story_id": "saint-germain-des-pres--layers",
+        "experience_id": "saint-germain-des-pres--exp-tower",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          5,
+          8
+        ],
+        "display_depth": "expanded",
+        "interaction": "区分地点起源与现存建筑年代。 可以与同行者比较各自发现。",
+        "transition_to_next": "离开咖啡与教堂，去找一个出版史上的真实地址。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：钟楼与教堂外观"
+      },
+      {
+        "order": 6,
+        "poi_id": "shakespeare-odeon",
+        "story_id": "shakespeare-odeon--ulysses",
+        "experience_id": "shakespeare-odeon--exp-address",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "expanded",
+        "interaction": "从人行道读门牌，打开账簿介绍核对出版日期。 可以与同行者比较各自发现。",
+        "transition_to_next": "现在走向另一家同名书店：名字相同，并不意味着是同一段历史。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：12号门牌；若可见，纪念铭牌"
+      },
+      {
+        "order": 7,
+        "poi_id": "shakespeare-bucherie",
+        "story_id": "shakespeare-bucherie--two-bookshops",
+        "experience_id": "shakespeare-bucherie--exp-front",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          5,
+          8
+        ],
+        "display_depth": "expanded",
+        "interaction": "把现店与12 rue Odéon并列存入地图，标不同年份。 可以与同行者比较各自发现。",
+        "transition_to_next": "最后看一座被文学重新讲述的建筑，分清作品、修复与现场。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：现店招牌与37号地址"
+      },
+      {
+        "order": 8,
+        "poi_id": "notre-dame",
+        "story_id": "notre-dame--restoration-authors",
+        "experience_id": "notre-dame--exp-front",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "expanded",
+        "interaction": "打开工程档案介绍，区分建筑起源与修复年代。 可以与同行者比较各自发现。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：正面雕刻与整体轮廓"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "jardin-du-luxembourg",
+        "to_poi_id": "saint-sulpice",
+        "straight_line_m": 538,
+        "estimated_walk_min": [
+          10,
+          16
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "saint-sulpice",
+        "to_poi_id": "cafe-de-flore",
+        "straight_line_m": 397,
+        "estimated_walk_min": [
+          7,
+          12
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "cafe-de-flore",
+        "to_poi_id": "les-deux-magots",
+        "straight_line_m": 43,
+        "estimated_walk_min": [
+          1,
+          2
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "les-deux-magots",
+        "to_poi_id": "saint-germain-des-pres",
+        "straight_line_m": 31,
+        "estimated_walk_min": [
+          1,
+          2
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "saint-germain-des-pres",
+        "to_poi_id": "shakespeare-odeon",
+        "straight_line_m": 440,
+        "estimated_walk_min": [
+          8,
+          13
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。 本段预算经所列公共休息点计算，仍须核验路网。",
+        "via_poi_ids": [
+          "square-felix-desruelles"
+        ],
+        "budget_distance_basis_m": 441
+      },
+      {
+        "from_poi_id": "shakespeare-odeon",
+        "to_poi_id": "shakespeare-bucherie",
+        "straight_line_m": 644,
+        "estimated_walk_min": [
+          12,
+          19
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "shakespeare-bucherie",
+        "to_poi_id": "notre-dame",
+        "straight_line_m": 210,
+        "estimated_walk_min": [
+          4,
+          6
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 1,
+        "poi_id": "jardin-du-luxembourg",
+        "experience_id": "jardin-du-luxembourg--exp-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "卢森堡公园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "src-left-lux-map"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      },
+      {
+        "after_stop": 5,
+        "poi_id": "square-felix-desruelles",
+        "experience_id": "square-felix-desruelles-rest",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": false,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "费利克斯·德吕埃勒广场花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "support-square-felix-desruelles"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "suggested_fixed",
+    "short_version_orders": [
+      1,
+      5,
+      8
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      121,
+      190
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-blue",
+    "persona_id": "BLUE",
+    "title": "从书页走进一片睡莲",
+    "theme_question": "城市的喧闹中，怎样给观看留出空间？",
+    "opening": "先把注意力放在一间图书馆、一段拱廊和一座花园。走到橘园时，只保留一件需要慢慢看的事。",
+    "closing": "留白不是漏看了什么，而是终于有时间看清眼前这一件。",
+    "match_reason": "独立观察、内容可展开；唯一预约依赖是橘园内访，可选择外观版本。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 6,
+    "estimated_total_min": [
+      147,
+      251
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "bnf-richelieu",
+        "story_id": "bnf-richelieu-pascal-public",
+        "experience_id": "bnf-richelieu-oval-reading",
+        "role": "pause",
+        "essential": true,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "开放时进入公共区，安静看书或短歇；未开放则读入口信息。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从阅读空间走向玻璃顶下的漫步，继续留意光线。",
+        "fallback": {
+          "story_id": "bnf-richelieu-pascal-public",
+          "experience_id": "bnf-richelieu-site-look",
+          "instruction": "公共阅览厅关闭或无法进入时，只在入口外读故事；不前往研究阅览室。",
+          "duration_min": [
+            5,
+            10
+          ]
+        },
+        "visibility_note": "本体验现场观察：Salle Ovale椭圆天窗与环绕书架"
+      },
+      {
+        "order": 2,
+        "poi_id": "galerie-vivienne",
+        "story_id": "galerie-vivienne-marchoux-commerce",
+        "experience_id": "galerie-vivienne-covered-walk",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          20
+        ],
+        "display_depth": "expanded",
+        "interaction": "慢走一段，辨认采光与店面如何引导停留。 可独立完成，不需要提交答案。",
+        "transition_to_next": "离开商业拱廊，走入一个作家日常生活过的花园。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：玻璃顶、商店立面和通道转折"
+      },
+      {
+        "order": 3,
+        "poi_id": "palais-royal",
+        "story_id": "palais-royal-colette-neighbour",
+        "experience_id": "palais-royal-garden-rest",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "从公共花园看立面，写下一句自己的感官观察。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从生活的观察转向绘画的观看：细节藏在画面边缘。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：花园北侧博若莱街住宅立面"
+      },
+      {
+        "order": 4,
+        "poi_id": "louvre",
+        "story_id": "louvre-leonardo-sfumato",
+        "experience_id": "louvre-courtyard-look",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "在官方页面观察一处轮廓；入馆为可选升级。 可独立完成，不需要提交答案。",
+        "transition_to_next": "把目光从画面的过渡放回花园轴线，先休息再继续。",
+        "fallback": null,
+        "visibility_note": "此站外观短停。所讲画作或室内装置不在外面可见，正文为背景故事；可从来源打开官方图片，内访另选体验。"
+      },
+      {
+        "order": 5,
+        "poi_id": "jardin-des-tuileries",
+        "story_id": "jardin-des-tuileries-lenotre-geometry",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "沿主轴走几十米，再在开放侧路比较视线。 可独立完成，不需要提交答案。",
+        "transition_to_next": "最后进入睡莲的观看空间，让这段安静有一个明确的落点。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：主轴道路、对称树丛与水池"
+      },
+      {
+        "order": 6,
+        "poi_id": "musee-orangerie",
+        "story_id": "musee-orangerie-monet-peace",
+        "experience_id": "musee-orangerie-museum-upgrade",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          45,
+          90
+        ],
+        "display_depth": "expanded",
+        "interaction": "外观先读捐赠故事，付费入馆为可选；入馆时安静停看一处水面。 可独立完成，不需要提交答案。",
+        "transition_to_next": "",
+        "fallback": {
+          "story_id": "musee-orangerie-monet-peace",
+          "experience_id": "musee-orangerie-garden-exterior",
+          "instruction": "未预约、闭馆或无票时选择外观版；只能听故事，看不到睡莲原作。",
+          "duration_min": [
+            8,
+            15
+          ]
+        },
+        "visibility_note": "本体验现场观察：馆外建筑；馆内两个椭圆厅和顶光"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "bnf-richelieu",
+        "to_poi_id": "galerie-vivienne",
+        "straight_line_m": 116,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "galerie-vivienne",
+        "to_poi_id": "palais-royal",
+        "straight_line_m": 227,
+        "estimated_walk_min": [
+          4,
+          7
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "palais-royal",
+        "to_poi_id": "louvre",
+        "straight_line_m": 534,
+        "estimated_walk_min": [
+          10,
+          16
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "louvre",
+        "to_poi_id": "jardin-des-tuileries",
+        "straight_line_m": 824,
+        "estimated_walk_min": [
+          15,
+          24
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "jardin-des-tuileries",
+        "to_poi_id": "musee-orangerie",
+        "straight_line_m": 345,
+        "estimated_walk_min": [
+          6,
+          10
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 5,
+        "poi_id": "jardin-des-tuileries",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "杜伊勒里花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "right-src-tuileries-history"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "suggested_fixed",
+    "short_version_orders": [
+      1,
+      4,
+      6
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 1,
+    "optional_upgrades": [],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "本路线默认含橘园付费内访45–90分钟，需先核验预约；未预约时一键选择免费外观回退版，不假装看过原作。",
+    "estimated_default_total_min": [
+      147,
+      251
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-nerd",
+    "persona_id": "NERD",
+    "title": "从咖啡桌走到一块墓碑",
+    "theme_question": "思想怎样进入一个人的写作、交往和生活？",
+    "opening": "沿用原示例的八站骨架：出版、咖啡馆、餐桌、住所、地窖与墓园。把宏大的思想史缩小到可观察的城市地址。",
+    "closing": "这些地址不能替我们解释全部作品，却能让书中的名字重新成为生活过的人。",
+    "match_reason": "按顺序读人物关系与来源边界；外观为主，消费可选，保留安静停留。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": true,
+    "stop_count": 8,
+    "estimated_total_min": [
+      125,
+      193
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "editions-gallimard",
+        "story_id": "editions-gallimard--publisher-not-printer",
+        "experience_id": "editions-gallimard--exp-door",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          4,
+          6
+        ],
+        "display_depth": "expanded",
+        "interaction": "从人行道看地址，在官网看初版档案图注。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从出版者的地址走向咖啡桌，回到写作与交往的日常。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：5号门牌与机构外观"
+      },
+      {
+        "order": 2,
+        "poi_id": "cafe-de-flore",
+        "story_id": "cafe-de-flore--workroom",
+        "experience_id": "cafe-de-flore--exp-facade",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "expanded",
+        "interaction": "观察桌椅怎样把街道变成停留空间。 可独立完成，不需要提交答案。",
+        "transition_to_next": "走到附近另一家咖啡馆，比较文学生活怎样留下不同记忆。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：店名、露台桌椅与临街立面"
+      },
+      {
+        "order": 3,
+        "poi_id": "les-deux-magots",
+        "story_id": "les-deux-magots--queneau",
+        "experience_id": "les-deux-magots--exp-outside",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "expanded",
+        "interaction": "在名单中找1933年条目，记录作者与书名。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从咖啡桌换到餐桌，作家的城市生活还包括吃饭。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：双叟店名与官网历届名单"
+      },
+      {
+        "order": 4,
+        "poi_id": "brasserie-lipp",
+        "story_id": "brasserie-lipp--alsatian-table",
+        "experience_id": "brasserie-lipp--exp-sign",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          4,
+          7
+        ],
+        "display_depth": "expanded",
+        "interaction": "从外面看招牌，有兴趣再自行查菜单。 可独立完成，不需要提交答案。",
+        "transition_to_next": "离开公共聚会空间，去看一处真实住址的外观。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：LIPP店招与临街立面"
+      },
+      {
+        "order": 5,
+        "poi_id": "sartre-bonaparte",
+        "story_id": "sartre-bonaparte--settled-work",
+        "experience_id": "sartre-bonaparte--exp-address",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          4,
+          6
+        ],
+        "display_depth": "expanded",
+        "interaction": "只在人行道看门牌，不按铃、不进门洞。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从居住街道转向曾经的爵士地窖，换一种声音理解这个街区。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：42号门牌与公共可见外观"
+      },
+      {
+        "order": 6,
+        "poi_id": "le-tabou",
+        "story_id": "le-tabou--vian-jazz",
+        "experience_id": "le-tabou--exp-address",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          4,
+          7
+        ],
+        "display_depth": "expanded",
+        "interaction": "在街上读音乐史，不寻找未经确认的地下入口。 可独立完成，不需要提交答案。",
+        "transition_to_next": "接下来步行较长，往蒙帕纳斯看波伏娃的晚年住址；可在此结束短版。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：33号门牌及临街外观"
+      },
+      {
+        "order": 7,
+        "poi_id": "beauvoir-schoelcher",
+        "story_id": "beauvoir-schoelcher--working-room",
+        "experience_id": "beauvoir-schoelcher--exp-address",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          4,
+          7
+        ],
+        "display_depth": "expanded",
+        "interaction": "从公共人行道看门牌，不进住宅。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从住所外观到墓园，以安静的停留结束人物生活的线索。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：11bis门牌与外观"
+      },
+      {
+        "order": 8,
+        "poi_id": "montparnasse-cemetery",
+        "story_id": "montparnasse-cemetery--shared-grave",
+        "experience_id": "montparnasse-cemetery--exp-quiet-walk",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          12,
+          17
+        ],
+        "display_depth": "expanded",
+        "interaction": "按管理方图找墓，保持安静、不触碰或留痕。 可独立完成，不需要提交答案。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：官方公墓图与合葬墓姓名"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "editions-gallimard",
+        "to_poi_id": "cafe-de-flore",
+        "straight_line_m": 433,
+        "estimated_walk_min": [
+          8,
+          13
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "cafe-de-flore",
+        "to_poi_id": "les-deux-magots",
+        "straight_line_m": 43,
+        "estimated_walk_min": [
+          1,
+          2
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "les-deux-magots",
+        "to_poi_id": "brasserie-lipp",
+        "straight_line_m": 50,
+        "estimated_walk_min": [
+          4,
+          6
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。 本段预算经所列公共休息点计算，仍须核验路网。",
+        "via_poi_ids": [
+          "square-felix-desruelles"
+        ],
+        "budget_distance_basis_m": 196
+      },
+      {
+        "from_poi_id": "brasserie-lipp",
+        "to_poi_id": "sartre-bonaparte",
+        "straight_line_m": 92,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "sartre-bonaparte",
+        "to_poi_id": "le-tabou",
+        "straight_line_m": 422,
+        "estimated_walk_min": [
+          8,
+          12
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "le-tabou",
+        "to_poi_id": "beauvoir-schoelcher",
+        "straight_line_m": 2049,
+        "estimated_walk_min": [
+          38,
+          60
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "beauvoir-schoelcher",
+        "to_poi_id": "montparnasse-cemetery",
+        "straight_line_m": 251,
+        "estimated_walk_min": [
+          5,
+          7
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 3,
+        "poi_id": "square-felix-desruelles",
+        "experience_id": "square-felix-desruelles-rest",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": false,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "费利克斯·德吕埃勒广场花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "support-square-felix-desruelles"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "suggested_fixed",
+    "short_version_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "参考骨架保留8站；MVP默认6站街区版，7–8站为蒙帕纳斯延伸。第6→7站直线约2公里，勿当成短步行。",
+    "default_closing": "从出版社到咖啡桌，再到爵士旧址，已经能看见写作与城市生活的关系。愿意继续的人，可以另走蒙帕纳斯延伸段。",
+    "estimated_default_total_min": [
+      66,
+      102
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-dodo",
+    "persona_id": "DODO",
+    "title": "艺术发生在拐弯之后",
+    "theme_question": "艺术家的生活，怎样从工作室流到街头？",
+    "opening": "从山顶开始顺坡慢走。画室、雕塑、电影咖啡馆与演出场所各留一道岔路，有兴趣再展开，不把临时入馆当作必做任务。",
+    "closing": "灵感不一定需要一张满满的日程表；有时从一个愿意停下的路口开始。",
+    "match_reason": "保留文化深度与同行讨论；顺路选择馆内或咖啡消费，跳站不会失去主线。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 8,
+    "estimated_total_min": [
+      103,
+      161
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "sacre-coeur",
+        "story_id": "sacre-coeur-building",
+        "experience_id": "sacre-coeur-parvis",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          12,
+          17
+        ],
+        "display_depth": "expanded",
+        "interaction": "从平台观察轮廓，在故事中辨认竞赛、奠基和祝圣三个阶段。 可以与同行者比较各自发现。",
+        "transition_to_next": "从山顶建筑来到画家广场，看艺术怎样进入公共场面。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：圆顶、拱形与建筑轮廓"
+      },
+      {
+        "order": 2,
+        "poi_id": "place-du-tertre",
+        "story_id": "place-du-tertre-two-gazes",
+        "experience_id": "place-du-tertre-observe-art",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "用手指或心中的画框分别选择建筑与人流，不拍摄陌生人特写。 可以与同行者比较各自发现。",
+        "transition_to_next": "再去画室与花园的所在处，把热闹背后的创作生活补上。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：广场建筑边界、画架与人流"
+      },
+      {
+        "order": 3,
+        "poi_id": "musee-montmartre",
+        "story_id": "musee-montmartre-valadon",
+        "experience_id": "musee-montmartre-entrance",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          5,
+          10
+        ],
+        "display_depth": "expanded",
+        "interaction": "找一处生活物件和一处创作设施，阅读复原说明。 可以与同行者比较各自发现。",
+        "transition_to_next": "离开真实画室，遇到一个从小说走出来的人物。",
+        "fallback": null,
+        "visibility_note": "此站外观短停。所讲画作或室内装置不在外面可见，正文为背景故事；可从来源打开官方图片，内访另选体验。"
+      },
+      {
+        "order": 4,
+        "poi_id": "passe-muraille",
+        "story_id": "passe-muraille-author-and-sculptor",
+        "experience_id": "passe-muraille-imagination",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "expanded",
+        "interaction": "用一句话分别说明作者、雕塑家与虚构角色。 可以与同行者比较各自发现。",
+        "transition_to_next": "从虚构人物转到真实歌者，比较城市纪念的两种方式。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：墙中人物与广场地址；附近纪念牌仅以现场实际可见为准"
+      },
+      {
+        "order": 5,
+        "poi_id": "place-dalida",
+        "story_id": "place-dalida-chosen-home",
+        "experience_id": "place-dalida-portrait",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "expanded",
+        "interaction": "在广场辨认住宅街方向，想一想旅行中最想返回的地方。 可以与同行者比较各自发现。",
+        "transition_to_next": "继续下坡，走到另一处艺术家聚集过的工作场所。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：广场与周围住宅街的关系；旧居牌匾在11 bis rue d’Orchampt，非此POI"
+      },
+      {
+        "order": 6,
+        "poi_id": "bateau-lavoir",
+        "story_id": "bateau-lavoir-picasso",
+        "experience_id": "bateau-lavoir-square",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "在公共广场看外观，再用馆藏图像找一处角度化人物线条。 可以与同行者比较各自发现。",
+        "transition_to_next": "从工作室走进电影的日常场景，愿意的话停下来喝一杯。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：工作室建筑外观；作品图像需打开MoMA馆藏页"
+      },
+      {
+        "order": 7,
+        "poi_id": "cafe-des-deux-moulins",
+        "story_id": "cafe-des-deux-moulins-amelie",
+        "experience_id": "cafe-des-deux-moulins-street",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          5,
+          10
+        ],
+        "display_depth": "expanded",
+        "interaction": "回想一段电影中的日常互动，再观察现实街道有哪些不同。 可以与同行者比较各自发现。",
+        "transition_to_next": "最后看演出的门面，是否另订一场演出留给之后决定。",
+        "fallback": null,
+        "visibility_note": "外观短停只观察建筑或招牌；正文提到的内部空间、画作、店内物件须另行进入才能看到。"
+      },
+      {
+        "order": 8,
+        "poi_id": "moulin-rouge",
+        "story_id": "moulin-rouge-poster",
+        "experience_id": "moulin-rouge-exterior",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "expanded",
+        "interaction": "打开官方海报页，对比人物剪影与现场招牌的视觉重点。 可以与同行者比较各自发现。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：外部名称与风车轮廓；历史海报须在来源页面观看"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "sacre-coeur",
+        "to_poi_id": "place-du-tertre",
+        "straight_line_m": 166,
+        "estimated_walk_min": [
+          3,
+          5
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "place-du-tertre",
+        "to_poi_id": "musee-montmartre",
+        "straight_line_m": 116,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "musee-montmartre",
+        "to_poi_id": "passe-muraille",
+        "straight_line_m": 169,
+        "estimated_walk_min": [
+          3,
+          5
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "passe-muraille",
+        "to_poi_id": "place-dalida",
+        "straight_line_m": 33,
+        "estimated_walk_min": [
+          1,
+          2
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "place-dalida",
+        "to_poi_id": "bateau-lavoir",
+        "straight_line_m": 245,
+        "estimated_walk_min": [
+          5,
+          7
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。 本段预算经所列公共休息点计算，仍须核验路网。",
+        "via_poi_ids": [
+          "square-suzanne-buisson"
+        ],
+        "budget_distance_basis_m": 252
+      },
+      {
+        "from_poi_id": "bateau-lavoir",
+        "to_poi_id": "cafe-des-deux-moulins",
+        "straight_line_m": 340,
+        "estimated_walk_min": [
+          6,
+          10
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "cafe-des-deux-moulins",
+        "to_poi_id": "moulin-rouge",
+        "straight_line_m": 117,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 5,
+        "poi_id": "square-suzanne-buisson",
+        "experience_id": "square-suzanne-buisson-rest",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": false,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "苏珊娜·比松广场花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "support-square-suzanne-buisson"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "default_with_skippable_stops",
+    "short_version_orders": [
+      1,
+      5,
+      8
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "hilly",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [
+      {
+        "at_stop": 3,
+        "experience_id": "musee-montmartre-atelier",
+        "replaces_default_experience": true,
+        "additional_duration_min": [
+          30,
+          65
+        ],
+        "instruction": "自愿升级为「可选复原画室参观」，替代该站默认外观停留。先查官方接待/票务；增加时间另计，不含安检或排队。"
+      }
+    ],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      103,
+      161
+    ],
+    "recommended_start": "先到圣心堂平台，再按大致下坡方向走；上山交通和爬升另计。"
+  },
+  {
+    "id": "paris-myth",
+    "persona_id": "MYTH",
+    "title": "故事怎样在人与人之间接力",
+    "theme_question": "一本书离开作者之后，还会遇到谁？",
+    "opening": "从雨果的巴黎走向书店，再经过花园、教堂和咖啡馆。这里的“接力”是我们阅读城市的方式，不是虚构一次跨年代的名人聚会。",
+    "closing": "作者、出版者、读者和闲坐的人，共同让故事继续流动。",
+    "match_reason": "文学线索与旧空间相连，主线无需消费；可与同行者各挑一个想继续读的人。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 8,
+    "estimated_total_min": [
+      114,
+      181
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "notre-dame",
+        "story_id": "notre-dame--hugo",
+        "experience_id": "notre-dame--exp-front",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "expanded",
+        "interaction": "看一分钟建筑，再记录小说带来的一个观察问题。 可以与同行者比较各自发现。",
+        "transition_to_next": "从文学中的建筑走到旁边的老树，换一种记录时间的生命。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：正面双塔与门户"
+      },
+      {
+        "order": 2,
+        "poi_id": "square-rene-viviani",
+        "story_id": "square-rene-viviani--robin-tree",
+        "experience_id": "square-rene-viviani--exp-pause",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "从园路观察树形，不攀爬、不触碰保护区域。 可以与同行者比较各自发现。",
+        "transition_to_next": "树旁就是书店，看故事如何被陌生读者接住。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：刺槐树干与可见支撑"
+      },
+      {
+        "order": 3,
+        "poi_id": "shakespeare-bucherie",
+        "story_id": "shakespeare-bucherie--tumbleweeds",
+        "experience_id": "shakespeare-bucherie--exp-front",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          5,
+          8
+        ],
+        "display_depth": "expanded",
+        "interaction": "写三句今日自传，不提出未经安排的住宿要求。 可以与同行者比较各自发现。",
+        "transition_to_next": "再去原书店的地址，把同名场所的两段历史放回各自年代。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：书店外观与公开历史页面"
+      },
+      {
+        "order": 4,
+        "poi_id": "shakespeare-odeon",
+        "story_id": "shakespeare-odeon--lending-library",
+        "experience_id": "shakespeare-odeon--exp-address",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "expanded",
+        "interaction": "打开档案会员卡，找借阅规则而非只看名人姓名。 可以与同行者比较各自发现。",
+        "transition_to_next": "离开出版与书店，在花园里给刚才的故事一点回味时间。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：奥德翁街12号与对面街景"
+      },
+      {
+        "order": 5,
+        "poi_id": "jardin-du-luxembourg",
+        "story_id": "jardin-du-luxembourg--george-sand",
+        "experience_id": "jardin-du-luxembourg--exp-pause",
+        "role": "pause",
+        "essential": true,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "用官方地图寻找雕像，读作者名字后慢看姿态。 可以与同行者比较各自发现。",
+        "transition_to_next": "从花园转向教堂，观察图像怎样替文字讲述。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：乔治·桑雕像及底座铭牌"
+      },
+      {
+        "order": 6,
+        "poi_id": "saint-sulpice",
+        "story_id": "saint-sulpice--delacroix",
+        "experience_id": "saint-sulpice--exp-paintings",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          12,
+          20
+        ],
+        "display_depth": "expanded",
+        "interaction": "允许参观时比较画面方向，保持安静不打闪光灯。 可以与同行者比较各自发现。",
+        "transition_to_next": "接着走到咖啡馆，看看交流怎样成为创作生活的一部分。",
+        "fallback": {
+          "story_id": "saint-sulpice--delacroix",
+          "experience_id": "saint-sulpice--exp-facade",
+          "instruction": "礼拜或维护限制内访时，在外面读背景或略过；门外看不到壁画和日影仪。",
+          "duration_min": [
+            5,
+            8
+          ]
+        },
+        "visibility_note": "本体验现场观察：圣天使小堂两壁与顶画"
+      },
+      {
+        "order": 7,
+        "poi_id": "cafe-de-flore",
+        "story_id": "cafe-de-flore--apollinaire",
+        "experience_id": "cafe-de-flore--exp-facade",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "expanded",
+        "interaction": "打开官方历史对应段落，对照今天店面。 可以与同行者比较各自发现。",
+        "transition_to_next": "最后比较另一家文学咖啡馆，让自己的阅读清单停在一个名字上。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：底层店面与街口"
+      },
+      {
+        "order": 8,
+        "poi_id": "les-deux-magots",
+        "story_id": "les-deux-magots--queneau",
+        "experience_id": "les-deux-magots--exp-outside",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "expanded",
+        "interaction": "在名单中找1933年条目，记录作者与书名。 可以与同行者比较各自发现。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：双叟店名与官网历届名单"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "notre-dame",
+        "to_poi_id": "square-rene-viviani",
+        "straight_line_m": 190,
+        "estimated_walk_min": [
+          4,
+          6
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "square-rene-viviani",
+        "to_poi_id": "shakespeare-bucherie",
+        "straight_line_m": 58,
+        "estimated_walk_min": [
+          1,
+          2
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "shakespeare-bucherie",
+        "to_poi_id": "shakespeare-odeon",
+        "straight_line_m": 644,
+        "estimated_walk_min": [
+          12,
+          19
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "shakespeare-odeon",
+        "to_poi_id": "jardin-du-luxembourg",
+        "straight_line_m": 596,
+        "estimated_walk_min": [
+          11,
+          17
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "jardin-du-luxembourg",
+        "to_poi_id": "saint-sulpice",
+        "straight_line_m": 538,
+        "estimated_walk_min": [
+          10,
+          16
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "saint-sulpice",
+        "to_poi_id": "cafe-de-flore",
+        "straight_line_m": 397,
+        "estimated_walk_min": [
+          7,
+          12
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "cafe-de-flore",
+        "to_poi_id": "les-deux-magots",
+        "straight_line_m": 43,
+        "estimated_walk_min": [
+          1,
+          2
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 5,
+        "poi_id": "jardin-du-luxembourg",
+        "experience_id": "jardin-du-luxembourg--exp-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "卢森堡公园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "src-left-lux-map"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "default_with_skippable_stops",
+    "short_version_orders": [
+      1,
+      5,
+      8
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      114,
+      181
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-lord",
+    "persona_id": "LORD",
+    "title": "把别人的审美，逛成自己的下午",
+    "theme_question": "那些被称为经典的空间，究竟是谁作出的选择？",
+    "opening": "从歌剧院看起，不急着入场。广场、酒店、花园与宫殿各有设计者和使用者，挑一个最合心意的角落慢慢看。",
+    "closing": "你不用接受所有经典，只需知道自己为什么喜欢其中一处。",
+    "match_reason": "深一点的设计与人物故事，松散节奏；酒店消费或馆内体验可选，默认不依赖临时预约。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 6,
+    "estimated_total_min": [
+      112,
+      173
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "palais-garnier",
+        "story_id": "palais-garnier-baudry-foyer",
+        "experience_id": "palais-garnier-facade-stop",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "区分图中镜面与窗户；内访为可选升级。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从剧院装饰转向广场整体，换一个尺度看审美选择。",
+        "fallback": null,
+        "visibility_note": "此站外观短停。所讲画作或室内装置不在外面可见，正文为背景故事；可从来源打开官方图片，内访另选体验。"
+      },
+      {
+        "order": 2,
+        "poi_id": "place-vendome",
+        "story_id": "place-vendome-mansart-square",
+        "experience_id": "place-vendome-square-observe",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "在人行区域看两个相邻立面，比较重复与变化。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从统一的广场立面，走到作家反复光顾的具体地址。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：围合广场的连续立面"
+      },
+      {
+        "order": 3,
+        "poi_id": "ritz-paris",
+        "story_id": "ritz-paris-proust-second-home",
+        "experience_id": "ritz-paris-public-facade",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          11
+        ],
+        "display_depth": "expanded",
+        "interaction": "在外部停留写一句“什么地方让我想回来”，不必进入酒店。 可独立完成，不需要提交答案。",
+        "transition_to_next": "离开酒店门前，在花园里看一位王后的选择留下什么。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：酒店外观；官网Salon Proust条目"
+      },
+      {
+        "order": 4,
+        "poi_id": "jardin-des-tuileries",
+        "story_id": "jardin-des-tuileries-catherine-absence",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "role": "pause",
+        "essential": true,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "沿东端主路短看，比较可见花园与已消失宫殿。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从已经消失的宫殿，走向仍收藏着艺术的宫殿。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：花园东端面向卢浮宫的开阔视线"
+      },
+      {
+        "order": 5,
+        "poi_id": "louvre",
+        "story_id": "louvre-veronese-banquet",
+        "experience_id": "louvre-courtyard-look",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "不入馆也可阅读官方作品页，比较宗教题材与宴席场景。 可独立完成，不需要提交答案。",
+        "transition_to_next": "最后回到作家居住的花园，把宏大的品味缩成自己的一个角落。",
+        "fallback": null,
+        "visibility_note": "此站外观短停。所讲画作或室内装置不在外面可见，正文为背景故事；可从来源打开官方图片，内访另选体验。"
+      },
+      {
+        "order": 6,
+        "poi_id": "palais-royal",
+        "story_id": "palais-royal-colette-neighbour",
+        "experience_id": "palais-royal-garden-rest",
+        "role": "pause",
+        "essential": true,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "从公共花园看立面，写下一句自己的感官观察。 可独立完成，不需要提交答案。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：花园北侧博若莱街住宅立面"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "palais-garnier",
+        "to_poi_id": "place-vendome",
+        "straight_line_m": 526,
+        "estimated_walk_min": [
+          10,
+          15
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "place-vendome",
+        "to_poi_id": "ritz-paris",
+        "straight_line_m": 105,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "ritz-paris",
+        "to_poi_id": "jardin-des-tuileries",
+        "straight_line_m": 506,
+        "estimated_walk_min": [
+          9,
+          15
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "jardin-des-tuileries",
+        "to_poi_id": "louvre",
+        "straight_line_m": 824,
+        "estimated_walk_min": [
+          15,
+          24
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "louvre",
+        "to_poi_id": "palais-royal",
+        "straight_line_m": 534,
+        "estimated_walk_min": [
+          10,
+          16
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 4,
+        "poi_id": "jardin-des-tuileries",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "杜伊勒里花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "right-src-tuileries-history"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "default_with_skippable_stops",
+    "short_version_orders": [
+      1,
+      4,
+      6
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [
+      {
+        "at_stop": 3,
+        "experience_id": "ritz-paris-tea-bar-upgrade",
+        "replaces_default_experience": true,
+        "additional_duration_min": [
+          19,
+          54
+        ],
+        "instruction": "自愿升级为「可选：茶室或酒吧」，替代该站默认外观停留。先查官方接待/票务；增加时间另计，不含安检或排队。"
+      }
+    ],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      112,
+      173
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-budd",
+    "persona_id": "BUDD",
+    "title": "城市怎样保存一个人",
+    "theme_question": "石头、文字与树木，怎样让时间留下痕迹？",
+    "opening": "从教堂外墙到花园，再到纪念建筑与老树。每站只留一个观察点，可以读得深，也可以安静地站一会儿。",
+    "closing": "纪念不只发生在宏大的建筑里，也发生在一次放慢的凝视中。",
+    "match_reason": "文化线索完整，外观免费；不要求交谈、礼拜或入馆，允许略过支线。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 6,
+    "estimated_total_min": [
+      107,
+      168
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "saint-germain-des-pres",
+        "story_id": "saint-germain-des-pres--descartes",
+        "experience_id": "saint-germain-des-pres--exp-memorial",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "按教区指南寻找名字，尊重礼拜与现场限制。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从一座教堂到另一座，只比较一个留下时间痕迹的细节。",
+        "fallback": {
+          "story_id": "saint-germain-des-pres--layers",
+          "experience_id": "saint-germain-des-pres--exp-tower",
+          "instruction": "内访受限时改看钟楼与建筑层次，不声称看到纪念碑。",
+          "duration_min": [
+            5,
+            8
+          ]
+        },
+        "visibility_note": "本体验现场观察：指南所标Saint-Benoît小堂纪念碑"
+      },
+      {
+        "order": 2,
+        "poi_id": "saint-sulpice",
+        "story_id": "saint-sulpice--delacroix",
+        "experience_id": "saint-sulpice--exp-paintings",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          12,
+          20
+        ],
+        "display_depth": "expanded",
+        "interaction": "允许参观时比较画面方向，保持安静不打闪光灯。 可独立完成，不需要提交答案。",
+        "transition_to_next": "把目光移到花园，给自己一段不必阅读的停留。",
+        "fallback": {
+          "story_id": "saint-sulpice--delacroix",
+          "experience_id": "saint-sulpice--exp-facade",
+          "instruction": "礼拜或维护限制内访时，在外面读背景或略过；门外看不到壁画和日影仪。",
+          "duration_min": [
+            5,
+            8
+          ]
+        },
+        "visibility_note": "本体验现场观察：圣天使小堂两壁与顶画"
+      },
+      {
+        "order": 3,
+        "poi_id": "jardin-du-luxembourg",
+        "story_id": "jardin-du-luxembourg--sartre-childhood",
+        "experience_id": "jardin-du-luxembourg--exp-pause",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "expanded",
+        "interaction": "有空位时短坐，辨认回忆中的感受与可定位事实。 可独立完成，不需要提交答案。",
+        "transition_to_next": "休息后看城市怎样用建筑纪念人物。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：公园椅子与园路"
+      },
+      {
+        "order": 4,
+        "poi_id": "pantheon",
+        "story_id": "pantheon--curie",
+        "experience_id": "pantheon--exp-square",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "expanded",
+        "interaction": "区分凭自身成就入祠、衣冠冢和铭文。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从纪念建筑转向一棵树，观察另一种长久。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：外部铭文；内访时墓室标识"
+      },
+      {
+        "order": 5,
+        "poi_id": "square-rene-viviani",
+        "story_id": "square-rene-viviani--jeanclos",
+        "experience_id": "square-rene-viviani--exp-pause",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "expanded",
+        "interaction": "安静读纪念碑，区分艺术象征与明确碑文。 可独立完成，不需要提交答案。",
+        "transition_to_next": "最后望向圣母院，把石头、修复与时间放在同一幅景里。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：青铜喷泉与儿童纪念碑"
+      },
+      {
+        "order": 6,
+        "poi_id": "notre-dame",
+        "story_id": "notre-dame--ongoing-care",
+        "experience_id": "notre-dame--exp-front",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "expanded",
+        "interaction": "看公共机构当前项目说明，允许路线随围挡调整。 可独立完成，不需要提交答案。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：可见建筑外观及当日围挡"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "saint-germain-des-pres",
+        "to_poi_id": "saint-sulpice",
+        "straight_line_m": 341,
+        "estimated_walk_min": [
+          6,
+          10
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "saint-sulpice",
+        "to_poi_id": "jardin-du-luxembourg",
+        "straight_line_m": 538,
+        "estimated_walk_min": [
+          10,
+          16
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "jardin-du-luxembourg",
+        "to_poi_id": "pantheon",
+        "straight_line_m": 674,
+        "estimated_walk_min": [
+          12,
+          20
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "pantheon",
+        "to_poi_id": "square-rene-viviani",
+        "straight_line_m": 673,
+        "estimated_walk_min": [
+          12,
+          20
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "square-rene-viviani",
+        "to_poi_id": "notre-dame",
+        "straight_line_m": 190,
+        "estimated_walk_min": [
+          4,
+          6
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 3,
+        "poi_id": "jardin-du-luxembourg",
+        "experience_id": "jardin-du-luxembourg--exp-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "卢森堡公园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "src-left-lux-map"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "default_with_skippable_stops",
+    "short_version_orders": [
+      1,
+      4,
+      6
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      107,
+      168
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-boss",
+    "persona_id": "BOSS",
+    "title": "巴黎怎样成为一张名片",
+    "theme_question": "一座城市的招牌，是怎样被设计、观看和拍摄出来的？",
+    "opening": "从观景花园到跨河桥梁，再到铁塔与电影柱廊。一起找几个让画面成立的细节，最后拍一张属于你们的巴黎。",
+    "closing": "名片上的地标人人相同，但镜头里的人可以让它成为一次自己的旅行。",
+    "match_reason": "清楚的顺序与轻量知识，适合同行拍照；可额外安排一次登塔，不承诺免排队。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 6,
+    "estimated_total_min": [
+      97,
+      149
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "trocadero",
+        "story_id": "trocadero-chaillot",
+        "experience_id": "trocadero-garden-look",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "brief",
+        "interaction": "给同行者拍一张包含两翼边缘的远景。 可以与同行者比较各自发现。",
+        "transition_to_next": "从观景构图走向桥梁，找一组让画面成立的线条。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：夏约宫两翼及中间视线"
+      },
+      {
+        "order": 2,
+        "poi_id": "passerelle-debilly",
+        "story_id": "passerelle-debilly-resal",
+        "experience_id": "passerelle-debilly-cross",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "brief",
+        "interaction": "各找一条曲线、斜线和水平线。 可以与同行者比较各自发现。",
+        "transition_to_next": "过河后看看另一种醒目的立面：一整面植物。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：金属拱线与栏杆"
+      },
+      {
+        "order": 3,
+        "poi_id": "quai-branly",
+        "story_id": "quai-branly-patrick-blanc",
+        "experience_id": "quai-branly-wall",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "brief",
+        "interaction": "不触摸植物，找出三种叶形。 可以与同行者比较各自发现。",
+        "transition_to_next": "再走向铁塔，观察艺术家怎样重新解释同一个地标。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：临街植物墙不同形态的叶片"
+      },
+      {
+        "order": 4,
+        "poi_id": "tour-eiffel",
+        "story_id": "tour-eiffel-delaunay",
+        "experience_id": "tour-eiffel-look",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "brief",
+        "interaction": "与同行者各选一个角度，比较两张照片的构图。 可以与同行者比较各自发现。",
+        "transition_to_next": "把镜头从塔尖放回人群，给同行者一段休息和合照时间。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：铁架与天空形成的色块"
+      },
+      {
+        "order": 5,
+        "poi_id": "champ-de-mars",
+        "story_id": "champ-de-mars-gathering",
+        "experience_id": "champ-de-mars-rest",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "brief",
+        "interaction": "在允许停留的位置休息或合照，不占用草坪围挡区域。 可以与同行者比较各自发现。",
+        "transition_to_next": "最后在电影取景过的柱廊收束，把地标照片变成自己的画面。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：步道与公共休息空间"
+      },
+      {
+        "order": 6,
+        "poi_id": "pont-bir-hakeim",
+        "story_id": "pont-bir-hakeim-inception",
+        "experience_id": "pont-bir-hakeim-walkway",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "brief",
+        "interaction": "同行者轮流拍一张柱列远景，随后让出位置。 可以与同行者比较各自发现。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：重复柱列的透视效果"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "trocadero",
+        "to_poi_id": "passerelle-debilly",
+        "straight_line_m": 602,
+        "estimated_walk_min": [
+          11,
+          18
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "passerelle-debilly",
+        "to_poi_id": "quai-branly",
+        "straight_line_m": 246,
+        "estimated_walk_min": [
+          5,
+          7
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "quai-branly",
+        "to_poi_id": "tour-eiffel",
+        "straight_line_m": 377,
+        "estimated_walk_min": [
+          7,
+          11
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "tour-eiffel",
+        "to_poi_id": "champ-de-mars",
+        "straight_line_m": 422,
+        "estimated_walk_min": [
+          8,
+          12
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "champ-de-mars",
+        "to_poi_id": "pont-bir-hakeim",
+        "straight_line_m": 728,
+        "estimated_walk_min": [
+          13,
+          21
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 5,
+        "poi_id": "champ-de-mars",
+        "experience_id": "champ-de-mars-rest",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "战神广场公园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "west-champmars"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "suggested_fixed",
+    "short_version_orders": [
+      1,
+      4,
+      6
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "moderate_with_height_changes",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [
+      {
+        "at_stop": 4,
+        "experience_id": "tour-eiffel-ascend",
+        "replaces_default_experience": true,
+        "additional_duration_min": [
+          48,
+          112
+        ],
+        "instruction": "自愿升级为「自选登塔」，替代该站默认外观停留。先查官方接待/票务；增加时间另计，不含安检或排队。"
+      }
+    ],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      97,
+      149
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-time",
+    "persona_id": "TIME",
+    "title": "六个画面，读懂城市的舞台",
+    "theme_question": "巴黎怎样把观看变成日常？",
+    "opening": "不闯大馆、不追所有名作。从歌剧院到庭院，在六个短停点各识别一个视觉线索，按顺序串成一个下午。",
+    "closing": "看懂一个细节，比匆忙收集一串地名更值得记住。",
+    "match_reason": "免费短停、明确顺序和结束位置；与同行者轮流找细节，减少临时选择。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 6,
+    "estimated_total_min": [
+      113,
+      173
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "palais-garnier",
+        "story_id": "palais-garnier-charles-social-stage",
+        "experience_id": "palais-garnier-facade-stop",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "brief",
+        "interaction": "免费外观先看；入内为可选，观察谁在看谁而不拍摄陌生人特写。 可以与同行者比较各自发现。",
+        "transition_to_next": "从剧场门面走向纪念柱，看公共空间怎样讲述自己。",
+        "fallback": null,
+        "visibility_note": "外观短停只观察建筑或招牌；正文提到的内部空间、画作、店内物件须另行进入才能看到。"
+      },
+      {
+        "order": 2,
+        "poi_id": "place-vendome",
+        "story_id": "place-vendome-napoleon-column",
+        "experience_id": "place-vendome-square-observe",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "brief",
+        "interaction": "远看浮雕，再打开档案照比较纪念物的两个状态。 可以与同行者比较各自发现。",
+        "transition_to_next": "从竖直的柱子转向水平轴线，只抓一个几何线索。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：柱身螺旋浮雕；官方档案中的1871年倒柱照片"
+      },
+      {
+        "order": 3,
+        "poi_id": "jardin-des-tuileries",
+        "story_id": "jardin-des-tuileries-lenotre-geometry",
+        "experience_id": "jardin-des-tuileries-axis-walk",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "brief",
+        "interaction": "沿主轴走几十米，再在开放侧路比较视线。 可以与同行者比较各自发现。",
+        "transition_to_next": "顺着方向走到金字塔，识别一套现代入口方案。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：主轴道路、对称树丛与水池"
+      },
+      {
+        "order": 4,
+        "poi_id": "louvre",
+        "story_id": "louvre-pei-circulation",
+        "experience_id": "louvre-courtyard-look",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "brief",
+        "interaction": "从公共庭院边缘比较玻璃和石材的视觉关系，不进入排队区。 可以与同行者比较各自发现。",
+        "transition_to_next": "再到剧院招牌前，用三个年代读懂一个名字。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：玻璃金字塔与周围宫殿立面"
+      },
+      {
+        "order": 5,
+        "poi_id": "comedie-francaise",
+        "story_id": "comedie-francaise-moliere-afterlife",
+        "experience_id": "comedie-francaise-facade-reading",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "brief",
+        "interaction": "用三个日期复述人物、剧团、建筑之间的区别。 可以与同行者比较各自发现。",
+        "transition_to_next": "最后在黑白柱群前换一个站位，看构图如何随你改变。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：科莱特广场侧的剧院招牌与立面"
+      },
+      {
+        "order": 6,
+        "poi_id": "palais-royal",
+        "story_id": "palais-royal-buren-perspective",
+        "experience_id": "palais-royal-buren-look",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "brief",
+        "interaction": "在地面换两个公共站位，比对重复图案；不攀爬。 可以与同行者比较各自发现。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：荣誉庭院黑白条纹柱群"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "palais-garnier",
+        "to_poi_id": "place-vendome",
+        "straight_line_m": 526,
+        "estimated_walk_min": [
+          10,
+          15
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "place-vendome",
+        "to_poi_id": "jardin-des-tuileries",
+        "straight_line_m": 460,
+        "estimated_walk_min": [
+          8,
+          13
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "jardin-des-tuileries",
+        "to_poi_id": "louvre",
+        "straight_line_m": 824,
+        "estimated_walk_min": [
+          15,
+          24
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "louvre",
+        "to_poi_id": "comedie-francaise",
+        "straight_line_m": 302,
+        "estimated_walk_min": [
+          6,
+          9
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "comedie-francaise",
+        "to_poi_id": "palais-royal",
+        "straight_line_m": 258,
+        "estimated_walk_min": [
+          5,
+          8
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 3,
+        "poi_id": "jardin-des-tuileries",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": false,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "杜伊勒里花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "right-src-tuileries-history"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "suggested_fixed",
+    "short_version_orders": [
+      1,
+      4,
+      6
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      113,
+      173
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-free",
+    "persona_id": "FREE",
+    "title": "把一个下午交还给自己",
+    "theme_question": "怎样在城市里安排一段不被催促的时间？",
+    "opening": "只安排一条走得通的顺序：书、拱廊、庭院、花园。是否在最后喝一杯，由当时的心情和座位情况决定。",
+    "closing": "计划的作用，是替自己的停留留出位置。",
+    "match_reason": "单人观察、固定步行骨架、明确休息段；花钱换舒适可以选择，但不是完成路线的条件。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 6,
+    "estimated_total_min": [
+      94,
+      156
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "bnf-richelieu",
+        "story_id": "bnf-richelieu-labrouste-daylight",
+        "experience_id": "bnf-richelieu-site-look",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          5,
+          10
+        ],
+        "display_depth": "brief",
+        "interaction": "在官方图中找自然光来源，现场不擅入研究阅览室。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从光线与阅读的关系走向拱廊，抬头和低头各看一次。",
+        "fallback": null,
+        "visibility_note": "此站外观短停。所讲画作或室内装置不在外面可见，正文为背景故事；可从来源打开官方图片，内访另选体验。"
+      },
+      {
+        "order": 2,
+        "poi_id": "galerie-vivienne",
+        "story_id": "galerie-vivienne-facchina-mosaic",
+        "experience_id": "galerie-vivienne-covered-walk",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          20
+        ],
+        "display_depth": "brief",
+        "interaction": "靠边站定辨认一段纹样，拍照时不给行人设置障碍。 可独立完成，不需要提交答案。",
+        "transition_to_next": "走入庭院，给自己一个无需交谈的观看练习。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：地面马赛克边框与重复纹样"
+      },
+      {
+        "order": 3,
+        "poi_id": "palais-royal",
+        "story_id": "palais-royal-buren-perspective",
+        "experience_id": "palais-royal-buren-look",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "brief",
+        "interaction": "在地面换两个公共站位，比对重复图案；不攀爬。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从艺术家的柱子转向建筑师的入口，继续看空间怎样引导人。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：荣誉庭院黑白条纹柱群"
+      },
+      {
+        "order": 4,
+        "poi_id": "louvre",
+        "story_id": "louvre-pei-circulation",
+        "experience_id": "louvre-courtyard-look",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "brief",
+        "interaction": "从公共庭院边缘比较玻璃和石材的视觉关系，不进入排队区。 可独立完成，不需要提交答案。",
+        "transition_to_next": "读完入口，在花园休息；这一段停留已算进时间。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：玻璃金字塔与周围宫殿立面"
+      },
+      {
+        "order": 5,
+        "poi_id": "jardin-des-tuileries",
+        "story_id": "jardin-des-tuileries-lenotre-geometry",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "brief",
+        "interaction": "沿主轴走几十米，再在开放侧路比较视线。 可独立完成，不需要提交答案。",
+        "transition_to_next": "最后到酒店门前读一位作家的场所记忆，消费可以另作选择。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：主轴道路、对称树丛与水池"
+      },
+      {
+        "order": 6,
+        "poi_id": "ritz-paris",
+        "story_id": "ritz-paris-hemingway-naming",
+        "experience_id": "ritz-paris-public-facade",
+        "role": "resolution",
+        "essential": false,
+        "duration_min": [
+          6,
+          11
+        ],
+        "display_depth": "brief",
+        "interaction": "在公共广场看外观并读酒店原文，消费完全可选。 可独立完成，不需要提交答案。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：酒店外部招牌；官网Bar Hemingway条目"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "bnf-richelieu",
+        "to_poi_id": "galerie-vivienne",
+        "straight_line_m": 116,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "galerie-vivienne",
+        "to_poi_id": "palais-royal",
+        "straight_line_m": 227,
+        "estimated_walk_min": [
+          4,
+          7
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "palais-royal",
+        "to_poi_id": "louvre",
+        "straight_line_m": 534,
+        "estimated_walk_min": [
+          10,
+          16
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "louvre",
+        "to_poi_id": "jardin-des-tuileries",
+        "straight_line_m": 824,
+        "estimated_walk_min": [
+          15,
+          24
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "jardin-des-tuileries",
+        "to_poi_id": "ritz-paris",
+        "straight_line_m": 506,
+        "estimated_walk_min": [
+          9,
+          15
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 5,
+        "poi_id": "jardin-des-tuileries",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "杜伊勒里花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "right-src-tuileries-history"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "suggested_fixed",
+    "short_version_orders": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [
+      {
+        "at_stop": 6,
+        "experience_id": "ritz-paris-tea-bar-upgrade",
+        "replaces_default_experience": true,
+        "additional_duration_min": [
+          19,
+          54
+        ],
+        "instruction": "自愿升级为「可选：茶室或酒吧」，替代该站默认外观停留。先查官方接待/票务；增加时间另计，不含安检或排队。"
+      }
+    ],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "第5站杜伊勒里已完成主线与休息；第6站丽兹外观是可略过的尾声，消费另选。",
+    "estimated_default_total_min": [
+      94,
+      156
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-wind",
+    "persona_id": "WIND",
+    "title": "风、河流与一座站稳的塔",
+    "theme_question": "城市怎样与看不见的力量相处？",
+    "opening": "从桥下的地铁声音出发，经过开阔花园与铁塔，再看植物墙和跨河结构。用眼睛和耳朵收集几个不用背公式的小发现。",
+    "closing": "风看不见，但它参与了铁塔的轮廓；城市的形状常常回答着一个实际问题。",
+    "match_reason": "免费户外、明确顺序、独立观察；有坡度与人流，不能保证清静或全线无障碍。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 6,
+    "estimated_total_min": [
+      104,
+      159
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "pont-bir-hakeim",
+        "story_id": "pont-bir-hakeim-double-deck",
+        "experience_id": "pont-bir-hakeim-walkway",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "brief",
+        "interaction": "在人行区观察一次列车经过，不进入自行车道。 可独立完成，不需要提交答案。",
+        "transition_to_next": "离开头顶的地铁声，先在公园给耳朵和双脚放松。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：桥下立柱和上层轨道"
+      },
+      {
+        "order": 2,
+        "poi_id": "champ-de-mars",
+        "story_id": "champ-de-mars-formige",
+        "experience_id": "champ-de-mars-rest",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "brief",
+        "interaction": "选择开放的侧径短停，给双脚留十分钟。 可独立完成，不需要提交答案。",
+        "transition_to_next": "再看铁塔轮廓，找出一项与风有关的设计。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：中央轴线与侧面小径"
+      },
+      {
+        "order": 3,
+        "poi_id": "tour-eiffel",
+        "story_id": "tour-eiffel-engineers",
+        "experience_id": "tour-eiffel-look",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "brief",
+        "interaction": "从公共步道观察轮廓，不进入安检区。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从金属结构转向植物与建筑，看地面如何留给生长。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：四条塔腿与底部拱形"
+      },
+      {
+        "order": 4,
+        "poi_id": "quai-branly",
+        "story_id": "quai-branly-gilles-clement",
+        "experience_id": "quai-branly-garden-rest",
+        "role": "pause",
+        "essential": true,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "brief",
+        "interaction": "若花园开放，在可停留处休息；不保证空座。 可独立完成，不需要提交答案。",
+        "transition_to_next": "离开花园来到跨河通道，看看一次世博留下的连接。",
+        "fallback": {
+          "story_id": "quai-branly-patrick-blanc",
+          "experience_id": "quai-branly-wall",
+          "instruction": "花园关闭时改看临街植物墙，休息已安排在战神广场。",
+          "duration_min": [
+            8,
+            12
+          ]
+        },
+        "visibility_note": "本体验现场观察：建筑下方的花园与小径"
+      },
+      {
+        "order": 5,
+        "poi_id": "passerelle-debilly",
+        "story_id": "passerelle-debilly-temporary",
+        "experience_id": "passerelle-debilly-cross",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "brief",
+        "interaction": "在不挡路的位置回头看刚刚走来的河岸。 可独立完成，不需要提交答案。",
+        "transition_to_next": "最后走向观景花园，比较弯曲小径与笔直水轴；上坡可略过。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：桥面与两岸连接"
+      },
+      {
+        "order": 6,
+        "poi_id": "trocadero",
+        "story_id": "trocadero-alphand",
+        "experience_id": "trocadero-garden-look",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "brief",
+        "interaction": "分别拍下一个弯和一条直线。 可独立完成，不需要提交答案。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：侧园曲线和中央直线"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "pont-bir-hakeim",
+        "to_poi_id": "champ-de-mars",
+        "straight_line_m": 728,
+        "estimated_walk_min": [
+          13,
+          21
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "champ-de-mars",
+        "to_poi_id": "tour-eiffel",
+        "straight_line_m": 422,
+        "estimated_walk_min": [
+          8,
+          12
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "tour-eiffel",
+        "to_poi_id": "quai-branly",
+        "straight_line_m": 377,
+        "estimated_walk_min": [
+          7,
+          11
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "quai-branly",
+        "to_poi_id": "passerelle-debilly",
+        "straight_line_m": 246,
+        "estimated_walk_min": [
+          5,
+          7
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "passerelle-debilly",
+        "to_poi_id": "trocadero",
+        "straight_line_m": 602,
+        "estimated_walk_min": [
+          11,
+          18
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 2,
+        "poi_id": "champ-de-mars",
+        "experience_id": "champ-de-mars-rest",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "战神广场公园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "west-champmars"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "suggested_fixed",
+    "short_version_orders": [
+      1,
+      4,
+      6
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "moderate_with_height_changes",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      104,
+      159
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-shan",
+    "persona_id": "SHAN",
+    "title": "一座山怎样一起开场",
+    "theme_question": "从广场到歌舞厅，热闹是怎样聚起来的？",
+    "opening": "从山顶往下走，看人们怎样围着画作、电影和表演聚在一起。一路给同行者留话题，想坐下时再选择咖啡馆。",
+    "closing": "热闹的重点，不是认识多少陌生人，而是一起经历了什么。",
+    "match_reason": "轻文化、同行互动与自愿消费；演出另查时段，不依赖临时购票，主线顺坡向下。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 6,
+    "estimated_total_min": [
+      88,
+      145
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "sacre-coeur",
+        "story_id": "sacre-coeur-mosaic",
+        "experience_id": "sacre-coeur-mosaic-visit",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          15,
+          30
+        ],
+        "display_depth": "brief",
+        "interaction": "入内后安静观察白衣、手臂与金色心的视觉关系。 可以与同行者比较各自发现。",
+        "transition_to_next": "从山顶来到画家广场，看人们怎样围着创作聚集。",
+        "fallback": {
+          "story_id": "sacre-coeur-building",
+          "experience_id": "sacre-coeur-parvis",
+          "instruction": "不能内访时看外部轮廓与建筑时间线；马赛克在室内。",
+          "duration_min": [
+            12,
+            20
+          ]
+        },
+        "visibility_note": "本体验现场观察：教堂内部唱诗席马赛克，外面不可见"
+      },
+      {
+        "order": 2,
+        "poi_id": "place-du-tertre",
+        "story_id": "place-du-tertre-public-studio",
+        "experience_id": "place-du-tertre-observe-art",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "brief",
+        "interaction": "选一处不妨碍工作的地方观察一段绘制过程；委托前先询价。 可以与同行者比较各自发现。",
+        "transition_to_next": "继续去艺术家曾生活的地方，给热闹补一个幕后视角。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：编号位置、画架与正在绘制的作品，实际出勤依当日情况"
+      },
+      {
+        "order": 3,
+        "poi_id": "musee-montmartre",
+        "story_id": "musee-montmartre-community-memory",
+        "experience_id": "musee-montmartre-entrance",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          5,
+          10
+        ],
+        "display_depth": "brief",
+        "interaction": "门外阅读馆史；入馆后任选一份公开展出的文件或海报看说明。 可以与同行者比较各自发现。",
+        "transition_to_next": "从一个创作住址到另一个，看看空间如何把人放在一起。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：博物馆入口与馆名；历史文件和海报仅在开放展区内可见"
+      },
+      {
+        "order": 4,
+        "poi_id": "bateau-lavoir",
+        "story_id": "bateau-lavoir-picasso",
+        "experience_id": "bateau-lavoir-square",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "brief",
+        "interaction": "在公共广场看外观，再用馆藏图像找一处角度化人物线条。 可以与同行者比较各自发现。",
+        "transition_to_next": "顺坡来到电影里的咖啡馆，想停就给同行者留一点聊天时间。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：工作室建筑外观；作品图像需打开MoMA馆藏页"
+      },
+      {
+        "order": 5,
+        "poi_id": "cafe-des-deux-moulins",
+        "story_id": "cafe-des-deux-moulins-living-bistro",
+        "experience_id": "cafe-des-deux-moulins-street",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          5,
+          10
+        ],
+        "display_depth": "brief",
+        "interaction": "看当日菜单和现场安排，再决定是否点单或只作外观停留。 可以与同行者比较各自发现。",
+        "transition_to_next": "最后看歌舞厅的外观，理解表演怎样给街区留下一个招牌。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：店名、街角外观；内部营业场景仅入店可见"
+      },
+      {
+        "order": 6,
+        "poi_id": "moulin-rouge",
+        "story_id": "moulin-rouge-opening",
+        "experience_id": "moulin-rouge-exterior",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "brief",
+        "interaction": "在公共人行道上找到风车、名称和入口三层视觉信息。 可以与同行者比较各自发现。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：红风车招牌、入口文字与街道立面"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "sacre-coeur",
+        "to_poi_id": "place-du-tertre",
+        "straight_line_m": 166,
+        "estimated_walk_min": [
+          3,
+          5
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "place-du-tertre",
+        "to_poi_id": "musee-montmartre",
+        "straight_line_m": 116,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "musee-montmartre",
+        "to_poi_id": "bateau-lavoir",
+        "straight_line_m": 275,
+        "estimated_walk_min": [
+          7,
+          11
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。 本段预算经所列公共休息点计算，仍须核验路网。",
+        "via_poi_ids": [
+          "square-suzanne-buisson"
+        ],
+        "budget_distance_basis_m": 362
+      },
+      {
+        "from_poi_id": "bateau-lavoir",
+        "to_poi_id": "cafe-des-deux-moulins",
+        "straight_line_m": 340,
+        "estimated_walk_min": [
+          6,
+          10
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "cafe-des-deux-moulins",
+        "to_poi_id": "moulin-rouge",
+        "straight_line_m": 117,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 3,
+        "poi_id": "square-suzanne-buisson",
+        "experience_id": "square-suzanne-buisson-rest",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": false,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "苏珊娜·比松广场花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "support-square-suzanne-buisson"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "default_with_skippable_stops",
+    "short_version_orders": [
+      1,
+      4,
+      6
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "hilly",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [
+      {
+        "at_stop": 5,
+        "experience_id": "cafe-des-deux-moulins-coffee",
+        "replaces_default_experience": true,
+        "additional_duration_min": [
+          10,
+          35
+        ],
+        "instruction": "自愿升级为「可选咖啡休息」，替代该站默认外观停留。先查官方接待/票务；增加时间另计，不含安检或排队。"
+      }
+    ],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      88,
+      145
+    ],
+    "recommended_start": "先到圣心堂平台，再按大致下坡方向走；上山交通和爬升另计。"
+  },
+  {
+    "id": "paris-bee",
+    "persona_id": "BEE",
+    "title": "把街角变成一场寻宝",
+    "theme_question": "艺术怎样从作品里跑到街上？",
+    "opening": "顺着山坡找人物、脸孔、门面和重复图案。每站一个发现，跟同行者互相指给对方看，累了随时跳过支线。",
+    "closing": "今天带走的不是一张必去清单，而是多了几种发现街道的方法。",
+    "match_reason": "免费外观与同行小游戏；不要求向陌生人搭话，不把消费或排队设为任务。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 7,
+    "estimated_total_min": [
+      97,
+      150
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "sacre-coeur",
+        "story_id": "sacre-coeur-building",
+        "experience_id": "sacre-coeur-parvis",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          12,
+          17
+        ],
+        "display_depth": "brief",
+        "interaction": "从平台观察轮廓，在故事中辨认竞赛、奠基和祝圣三个阶段。 可以与同行者比较各自发现。",
+        "transition_to_next": "从山顶向广场出发，先寻找一个正在被观看的画面。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：圆顶、拱形与建筑轮廓"
+      },
+      {
+        "order": 2,
+        "poi_id": "place-du-tertre",
+        "story_id": "place-du-tertre-public-studio",
+        "experience_id": "place-du-tertre-observe-art",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "brief",
+        "interaction": "选一处不妨碍工作的地方观察一段绘制过程；委托前先询价。 可以与同行者比较各自发现。",
+        "transition_to_next": "再找一个从墙里冒出来的人，猜完再看文学解释。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：编号位置、画架与正在绘制的作品，实际出勤依当日情况"
+      },
+      {
+        "order": 3,
+        "poi_id": "passe-muraille",
+        "story_id": "passe-muraille-fiction",
+        "experience_id": "passe-muraille-imagination",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "brief",
+        "interaction": "不触碰作品，在一旁用手势或一句话设计“下一秒”。 可以与同行者比较各自发现。",
+        "transition_to_next": "从虚构人物走向真实歌者的纪念像，换一个发现任务。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：人物从墙面显露的头部、手臂和腿部"
+      },
+      {
+        "order": 4,
+        "poi_id": "place-dalida",
+        "story_id": "place-dalida-bust",
+        "experience_id": "place-dalida-portrait",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "brief",
+        "interaction": "站在不妨碍他人的位置比较轮廓与光线，并阅读底座标记。 可以与同行者比较各自发现。",
+        "transition_to_next": "继续下坡，辨认一处工作室和它今天的外观。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：青铜半身像、姓名和生卒年代"
+      },
+      {
+        "order": 5,
+        "poi_id": "bateau-lavoir",
+        "story_id": "bateau-lavoir-rebuilding",
+        "experience_id": "bateau-lavoir-square",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "brief",
+        "interaction": "在公共广场阅读外部标识，区分旧址、重建建筑与今天的用途。 可以与同行者比较各自发现。",
+        "transition_to_next": "到咖啡馆门前找电影与现实的交界，不用进店消费。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：门牌与工作室建筑立面"
+      },
+      {
+        "order": 6,
+        "poi_id": "cafe-des-deux-moulins",
+        "story_id": "cafe-des-deux-moulins-amelie",
+        "experience_id": "cafe-des-deux-moulins-street",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          5,
+          10
+        ],
+        "display_depth": "brief",
+        "interaction": "回想一段电影中的日常互动，再观察现实街道有哪些不同。 可以与同行者比较各自发现。",
+        "transition_to_next": "最后寻找红色风车，让这场街头发现有一个醒目的终点。",
+        "fallback": null,
+        "visibility_note": "外观短停只观察建筑或招牌；正文提到的内部空间、画作、店内物件须另行进入才能看到。"
+      },
+      {
+        "order": 7,
+        "poi_id": "moulin-rouge",
+        "story_id": "moulin-rouge-observer",
+        "experience_id": "moulin-rouge-exterior",
+        "role": "resolution",
+        "essential": true,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "brief",
+        "interaction": "用三个词记录现场姿态，不把路人当成可随意拍摄的模特。 可以与同行者比较各自发现。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "外观短停只观察建筑或招牌；正文提到的内部空间、画作、店内物件须另行进入才能看到。"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "sacre-coeur",
+        "to_poi_id": "place-du-tertre",
+        "straight_line_m": 166,
+        "estimated_walk_min": [
+          3,
+          5
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "place-du-tertre",
+        "to_poi_id": "passe-muraille",
+        "straight_line_m": 224,
+        "estimated_walk_min": [
+          4,
+          7
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "passe-muraille",
+        "to_poi_id": "place-dalida",
+        "straight_line_m": 33,
+        "estimated_walk_min": [
+          1,
+          2
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "place-dalida",
+        "to_poi_id": "bateau-lavoir",
+        "straight_line_m": 245,
+        "estimated_walk_min": [
+          5,
+          7
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。 本段预算经所列公共休息点计算，仍须核验路网。",
+        "via_poi_ids": [
+          "square-suzanne-buisson"
+        ],
+        "budget_distance_basis_m": 252
+      },
+      {
+        "from_poi_id": "bateau-lavoir",
+        "to_poi_id": "cafe-des-deux-moulins",
+        "straight_line_m": 340,
+        "estimated_walk_min": [
+          6,
+          10
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "cafe-des-deux-moulins",
+        "to_poi_id": "moulin-rouge",
+        "straight_line_m": 117,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 4,
+        "poi_id": "square-suzanne-buisson",
+        "experience_id": "square-suzanne-buisson-rest",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": false,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "苏珊娜·比松广场花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "support-square-suzanne-buisson"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "default_with_skippable_stops",
+    "short_version_orders": [
+      1,
+      4,
+      7
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "hilly",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      97,
+      150
+    ],
+    "recommended_start": "先到圣心堂平台，再按大致下坡方向走；上山交通和爬升另计。"
+  },
+  {
+    "id": "paris-rest",
+    "persona_id": "REST",
+    "title": "谁给巴黎按下了慢放",
+    "theme_question": "一座忙碌的城市，在哪里允许人停下来？",
+    "opening": "从图书馆与拱廊走向庭院和花园。今天只看空间怎样让视线放慢，两个休息段比多进一家馆更重要。",
+    "closing": "休息也是一次完整的体验，不需要用打卡数量来证明。",
+    "match_reason": "短读、紧凑街区、两次公共休息；不把消费或入馆作为放松的条件。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 6,
+    "estimated_total_min": [
+      105,
+      165
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "bnf-richelieu",
+        "story_id": "bnf-richelieu-pascal-public",
+        "experience_id": "bnf-richelieu-oval-reading",
+        "role": "pause",
+        "essential": true,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "brief",
+        "interaction": "开放时进入公共区，安静看书或短歇；未开放则读入口信息。 可独立完成，不需要提交答案。",
+        "transition_to_next": "离开阅览空间，沿着玻璃顶慢慢走，不用购物。",
+        "fallback": {
+          "story_id": "bnf-richelieu-pascal-public",
+          "experience_id": "bnf-richelieu-site-look",
+          "instruction": "公共阅览厅关闭或无法进入时，只在入口外读故事；不前往研究阅览室。",
+          "duration_min": [
+            5,
+            10
+          ]
+        },
+        "visibility_note": "本体验现场观察：Salle Ovale椭圆天窗与环绕书架"
+      },
+      {
+        "order": 2,
+        "poi_id": "galerie-vivienne",
+        "story_id": "galerie-vivienne-facchina-mosaic",
+        "experience_id": "galerie-vivienne-covered-walk",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          20
+        ],
+        "display_depth": "brief",
+        "interaction": "靠边站定辨认一段纹样，拍照时不给行人设置障碍。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从拱廊走入花园，留出第一段公共休息。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：地面马赛克边框与重复纹样"
+      },
+      {
+        "order": 3,
+        "poi_id": "palais-royal",
+        "story_id": "palais-royal-colette-neighbour",
+        "experience_id": "palais-royal-garden-rest",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "brief",
+        "interaction": "从公共花园看立面，写下一句自己的感官观察。 可独立完成，不需要提交答案。",
+        "transition_to_next": "短短走到剧院外面，只读懂招牌背后的一个名字。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：花园北侧博若莱街住宅立面"
+      },
+      {
+        "order": 4,
+        "poi_id": "comedie-francaise",
+        "story_id": "comedie-francaise-moliere-afterlife",
+        "experience_id": "comedie-francaise-facade-reading",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          8,
+          13
+        ],
+        "display_depth": "brief",
+        "interaction": "用三个日期复述人物、剧团、建筑之间的区别。 可独立完成，不需要提交答案。",
+        "transition_to_next": "从戏剧的名字转向建筑的形状，看看金字塔怎样接住人流。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：科莱特广场侧的剧院招牌与立面"
+      },
+      {
+        "order": 5,
+        "poi_id": "louvre",
+        "story_id": "louvre-pei-circulation",
+        "experience_id": "louvre-courtyard-look",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "brief",
+        "interaction": "从公共庭院边缘比较玻璃和石材的视觉关系，不进入排队区。 可独立完成，不需要提交答案。",
+        "transition_to_next": "最后来到花园，用第二段休息结束，余下故事留给下次。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：玻璃金字塔与周围宫殿立面"
+      },
+      {
+        "order": 6,
+        "poi_id": "jardin-des-tuileries",
+        "story_id": "jardin-des-tuileries-lenotre-geometry",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "role": "pause",
+        "essential": true,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "brief",
+        "interaction": "沿主轴走几十米，再在开放侧路比较视线。 可独立完成，不需要提交答案。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：主轴道路、对称树丛与水池"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "bnf-richelieu",
+        "to_poi_id": "galerie-vivienne",
+        "straight_line_m": 116,
+        "estimated_walk_min": [
+          2,
+          3
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "galerie-vivienne",
+        "to_poi_id": "palais-royal",
+        "straight_line_m": 227,
+        "estimated_walk_min": [
+          4,
+          7
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "palais-royal",
+        "to_poi_id": "comedie-francaise",
+        "straight_line_m": 258,
+        "estimated_walk_min": [
+          5,
+          8
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "comedie-francaise",
+        "to_poi_id": "louvre",
+        "straight_line_m": 302,
+        "estimated_walk_min": [
+          6,
+          9
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "louvre",
+        "to_poi_id": "jardin-des-tuileries",
+        "straight_line_m": 824,
+        "estimated_walk_min": [
+          15,
+          24
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 3,
+        "poi_id": "palais-royal",
+        "experience_id": "palais-royal-garden-rest",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "皇家宫殿花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "right-src-palais-history"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      },
+      {
+        "after_stop": 6,
+        "poi_id": "jardin-des-tuileries",
+        "experience_id": "jardin-des-tuileries-garden-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "杜伊勒里花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "right-src-tuileries-history"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "default_with_skippable_stops",
+    "short_version_orders": [
+      3,
+      5,
+      6
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      105,
+      165
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  },
+  {
+    "id": "paris-cute",
+    "persona_id": "CUTE",
+    "title": "不费力地捡到六个小惊喜",
+    "theme_question": "只多看一眼，街头会多出什么？",
+    "opening": "从书店旁出发，看一棵树、一面外墙、一个地址，再到花园。不用答题，不用消费，故事只在你想看时展开。",
+    "closing": "知道得多一点，也可以很轻松。",
+    "match_reason": "免费、短读、少决定；主线六站，三站构成短版，随时结束也有完整收束。",
+    "connection_type": "editorial_theme_not_historical_causation",
+    "status": "content_draft_route_unverified",
+    "is_reference": false,
+    "stop_count": 6,
+    "estimated_total_min": [
+      85,
+      132
+    ],
+    "duration_basis": "逐站编辑停留预算＋近似地图点步行预算＋休息；不含排队、迷路或可选升级。",
+    "stops": [
+      {
+        "order": 1,
+        "poi_id": "shakespeare-bucherie",
+        "story_id": "shakespeare-bucherie--two-bookshops",
+        "experience_id": "shakespeare-bucherie--exp-front",
+        "role": "opening",
+        "essential": true,
+        "duration_min": [
+          5,
+          8
+        ],
+        "display_depth": "brief",
+        "interaction": "把现店与12 rue Odéon并列存入地图，标不同年份。 可独立完成，不需要提交答案。",
+        "transition_to_next": "书店旁边就有一棵老树，先发现眼前的生命。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：现店招牌与37号地址"
+      },
+      {
+        "order": 2,
+        "poi_id": "square-rene-viviani",
+        "story_id": "square-rene-viviani--robin-tree",
+        "experience_id": "square-rene-viviani--exp-pause",
+        "role": "pause",
+        "essential": false,
+        "duration_min": [
+          10,
+          15
+        ],
+        "display_depth": "brief",
+        "interaction": "从园路观察树形，不攀爬、不触碰保护区域。 可独立完成，不需要提交答案。",
+        "transition_to_next": "再看河对岸的建筑，找一个你原来没留意的形状。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：刺槐树干与可见支撑"
+      },
+      {
+        "order": 3,
+        "poi_id": "notre-dame",
+        "story_id": "notre-dame--hugo",
+        "experience_id": "notre-dame--exp-front",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          8,
+          12
+        ],
+        "display_depth": "brief",
+        "interaction": "看一分钟建筑，再记录小说带来的一个观察问题。 可独立完成，不需要提交答案。",
+        "transition_to_next": "往旧书店的地址走，捡到一个同名不同店的小区别。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：正面双塔与门户"
+      },
+      {
+        "order": 4,
+        "poi_id": "shakespeare-odeon",
+        "story_id": "shakespeare-odeon--ulysses",
+        "experience_id": "shakespeare-odeon--exp-address",
+        "role": "development",
+        "essential": true,
+        "duration_min": [
+          6,
+          10
+        ],
+        "display_depth": "brief",
+        "interaction": "从人行道读门牌，打开账簿介绍核对出版日期。 可独立完成，不需要提交答案。",
+        "transition_to_next": "再路过教堂，从外墙开始认识一个故事。",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：12号门牌；若可见，纪念铭牌"
+      },
+      {
+        "order": 5,
+        "poi_id": "saint-sulpice",
+        "story_id": "saint-sulpice--gnomon",
+        "experience_id": "saint-sulpice--exp-facade",
+        "role": "development",
+        "essential": false,
+        "duration_min": [
+          5,
+          8
+        ],
+        "display_depth": "brief",
+        "interaction": "查项目解释，再按现场导览观察装置。 可独立完成，不需要提交答案。",
+        "transition_to_next": "最后把路线交给花园，坐不坐、还读不读，都由现在的心情决定。",
+        "fallback": null,
+        "visibility_note": "此站外观短停。所讲画作或室内装置不在外面可见，正文为背景故事；可从来源打开官方图片，内访另选体验。"
+      },
+      {
+        "order": 6,
+        "poi_id": "jardin-du-luxembourg",
+        "story_id": "jardin-du-luxembourg--medicis",
+        "experience_id": "jardin-du-luxembourg--exp-pause",
+        "role": "pause",
+        "essential": true,
+        "duration_min": [
+          15,
+          22
+        ],
+        "display_depth": "brief",
+        "interaction": "从水池一端观察它的纵深，比较最初装饰与后来布局。 可独立完成，不需要提交答案。",
+        "transition_to_next": "",
+        "fallback": null,
+        "visibility_note": "本体验现场观察：美第奇喷泉与长水池"
+      }
+    ],
+    "legs": [
+      {
+        "from_poi_id": "shakespeare-bucherie",
+        "to_poi_id": "square-rene-viviani",
+        "straight_line_m": 58,
+        "estimated_walk_min": [
+          1,
+          2
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "square-rene-viviani",
+        "to_poi_id": "notre-dame",
+        "straight_line_m": 190,
+        "estimated_walk_min": [
+          4,
+          6
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "notre-dame",
+        "to_poi_id": "shakespeare-odeon",
+        "straight_line_m": 854,
+        "estimated_walk_min": [
+          16,
+          25
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "shakespeare-odeon",
+        "to_poi_id": "saint-sulpice",
+        "straight_line_m": 268,
+        "estimated_walk_min": [
+          5,
+          8
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      },
+      {
+        "from_poi_id": "saint-sulpice",
+        "to_poi_id": "jardin-du-luxembourg",
+        "straight_line_m": 538,
+        "estimated_walk_min": [
+          10,
+          16
+        ],
+        "geometry": null,
+        "status": "not_routed",
+        "method": "近似点直线距离×1.2–1.6，按55–65米/分钟作时间预算；不是实走、路网距离或导航。"
+      }
+    ],
+    "breaks": [
+      {
+        "after_stop": 2,
+        "poi_id": "square-rene-viviani",
+        "experience_id": "square-rene-viviani--exp-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "勒内·维维亚尼广场花园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "src-left-viviani"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      },
+      {
+        "after_stop": 6,
+        "poi_id": "jardin-du-luxembourg",
+        "experience_id": "jardin-du-luxembourg--exp-pause",
+        "duration_min": [
+          15,
+          20
+        ],
+        "included_in_stop_duration": true,
+        "cost": "free",
+        "status": "official_location_not_field_checked",
+        "instruction": "卢森堡公园开放时在允许停留处休息；有空座才坐，座位不保证。关闭或疲劳时可结束短版，不要求购买饮品。",
+        "source_ids": [
+          "src-left-lux-map"
+        ],
+        "detour_walk_min": [
+          0,
+          0
+        ]
+      }
+    ],
+    "ordering": "default_with_skippable_stops",
+    "short_version_orders": [
+      1,
+      2,
+      3
+    ],
+    "accessibility_status": "not_assessed",
+    "effort": "mostly_gentle_unverified",
+    "default_paid_stop_count": 0,
+    "optional_upgrades": [],
+    "operating_rule": "出发前核对官网与现场管制；未知开放状态不可解释为开放。",
+    "weather_rule": "户外占比高，遇强降雨不自动替换成未经预约的馆内行程；建议缩短或改日。",
+    "skip_rule": "跳站后沿剩余顺序继续；不得以直线连线充当导航。",
+    "editorial_note": "不同世纪和人物由主题相连，不暗示彼此见面或历史因果。",
+    "default_stop_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "variant_note": "完整顺序可直接推荐；短版可按标记跳站。",
+    "estimated_default_total_min": [
+      85,
+      132
+    ],
+    "recommended_start": "从第一站开始；当前地点到起点的交通不包含在路线预算中。"
+  }
+]

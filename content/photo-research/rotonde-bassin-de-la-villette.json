@@ -1,0 +1,81 @@
+{
+  "poi_id": "rotonde-bassin-de-la-villette",
+  "query": "Rotonde Villette bassin",
+  "candidates": [
+    {
+      "title": "File:Bassin de la Villette 1.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Bassin_de_la_Villette_1.jpg/1280px-Bassin_de_la_Villette_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bassin_de_la_Villette_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bassin_de_la_Villette_1.jpg",
+      "width": 1100,
+      "height": 731,
+      "description": "Barge in the bassin de la Villette with the Rotonde de la Villette in the background, in Paris, France.",
+      "author": "Myrabella",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2013-07-12",
+      "original_width": 4246,
+      "original_height": 2821
+    },
+    {
+      "title": "File:Rotonde de la Villette, Paris September 2011.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Rotonde_de_la_Villette%2C_Paris_September_2011.jpg/1280px-Rotonde_de_la_Villette%2C_Paris_September_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Rotonde_de_la_Villette%2C_Paris_September_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rotonde_de_la_Villette,_Paris_September_2011.jpg",
+      "width": 1100,
+      "height": 733,
+      "description": "Rotonde de la Villette, Paris.",
+      "author": "ParisSharing from Paris, France",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2011-09-28 13:44",
+      "original_width": 3888,
+      "original_height": 2592
+    },
+    {
+      "title": "File:Paris Bassin de la Villette towards rotonde 20090331.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Paris_Bassin_de_la_Villette_towards_rotonde_20090331.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Paris_Bassin_de_la_Villette_towards_rotonde_20090331.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Paris_Bassin_de_la_Villette_towards_rotonde_20090331.jpg",
+      "width": 1100,
+      "height": 727,
+      "description": "PARISselection 68",
+      "author": "Bernard Bolter from Amsterdam, the Netherlands",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2009-03-31 13:06",
+      "original_width": 1024,
+      "original_height": 677
+    },
+    {
+      "title": "File:Rotonde de la Villette, May 25, 2014.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Rotonde_de_la_Villette%2C_May_25%2C_2014.jpg/1280px-Rotonde_de_la_Villette%2C_May_25%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Rotonde_de_la_Villette%2C_May_25%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rotonde_de_la_Villette,_May_25,_2014.jpg",
+      "width": 1100,
+      "height": 732,
+      "description": "Rotonde de la Villette, Paris.",
+      "author": "besopha",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2014-05-25 01:44",
+      "original_width": 2048,
+      "original_height": 1363
+    },
+    {
+      "title": "File:Bassin de la Villette 1820.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bassin_de_la_Villette_1820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Bassin_de_la_Villette_1820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bassin_de_la_Villette_1820.jpg",
+      "width": 1100,
+      "height": 733,
+      "description": "",
+      "author": "\nUnknown artistUnknown artist",
+      "license": "Public domain",
+      "license_url": "",
+      "date": "circa 1820date QS:P571,+1820-00-00T00:00:00Z/9,P1480,Q5727902",
+      "original_width": 1020,
+      "original_height": 680
+    }
+  ]
+}

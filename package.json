@@ -1,0 +1,38 @@
+{
+  "name": "paris-storymap-mvp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5175",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4175",
+    "test": "node --test test/*.test.mjs",
+    "kb": "python3 tools/build_kb.py && node tools/build_entities.mjs",
+    "test:browser": "node test/browser.mjs",
+    "test:map": "node test/map.mjs",
+    "test:photos": "node test/photos-browser.mjs",
+    "test:language": "node tools/check-i18n.mjs && node test/language.mjs",
+    "prebuild": "node tools/check-i18n.mjs",
+    "test:route-map": "node test/route-map.mjs",
+    "test:quiz": "node test/quiz-browser.mjs",
+    "test:photo-fit": "node test/photo-fit.mjs",
+    "paths": "python3 tools/build_paths.py",
+    "test:journey": "node test/journey-browser.mjs"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "maplibre-gl": "4.7.1",
+    "lucide-react": "0.344.0"
+  },
+  "devDependencies": {
+    "vite": "5.4.11",
+    "@vitejs/plugin-react": "4.3.4",
+    "@playwright/test": "1.51.1",
+    "@babel/parser": "7.29.9"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

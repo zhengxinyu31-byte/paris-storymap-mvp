@@ -1,0 +1,1340 @@
+{
+  "pois": [
+    {
+      "id": "saint-sulpice",
+      "name_zh": "圣叙尔比斯教堂",
+      "name_fr": "Église Saint-Sulpice",
+      "address": "Place Saint-Sulpice, 75006 Paris",
+      "official_url": "https://www.paroissesaintsulpice.paris/",
+      "area": "Saint-Sulpice",
+      "coordinates": {
+        "lat": 48.851,
+        "lon": 2.3349,
+        "status": "approx_map_pin"
+      },
+      "access_note": "教堂内仍有礼拜；日晷需入内观察，开放与参观要求以教区公告为准。外观替代不能声称已看到铜线。"
+    },
+    {
+      "id": "shakespeare-bucherie",
+      "name_zh": "莎士比亚书店现店",
+      "name_fr": "Shakespeare and Company",
+      "address": "37 rue de la Bûcherie, 75005 Paris",
+      "official_url": "https://www.shakespeareandcompany.com/",
+      "area": "Quartier latin",
+      "coordinates": {
+        "lat": 48.8526,
+        "lon": 2.3471,
+        "status": "approx_map_pin"
+      },
+      "access_note": "营业与排队规则以书店公告为准；可在公共人行道读故事，不占门口与通道。"
+    },
+    {
+      "id": "musee-orangerie",
+      "name_zh": "橘园美术馆",
+      "name_fr": "Musée de l’Orangerie",
+      "address": "Jardin des Tuileries, Place de la Concorde côté Seine, 75001 Paris",
+      "official_url": "https://www.musee-orangerie.fr/",
+      "area": "右岸·杜伊勒里",
+      "coordinates": {
+        "lat": 48.8638,
+        "lon": 2.3226,
+        "status": "approx_map_pin"
+      },
+      "access_note": "《睡莲》需购票入馆，按官网预约；只到外面时可读故事，不能声称已看到原画。"
+    },
+    {
+      "id": "jardin-du-luxembourg",
+      "name_zh": "卢森堡公园",
+      "name_fr": "Jardin du Luxembourg",
+      "address": "Jardin du Luxembourg, 75006 Paris",
+      "official_url": "https://jardin.senat.fr/",
+      "area": "Luxembourg",
+      "coordinates": {
+        "lat": 48.8464,
+        "lon": 2.3372,
+        "status": "approx_map_pin"
+      },
+      "access_note": "园内步行按参议院公园当日开放安排；地图点仅为公园示意，不是历史固定座位。"
+    },
+    {
+      "id": "shakespeare-odeon",
+      "name_zh": "原莎士比亚书店旧址",
+      "name_fr": "Ancienne librairie Shakespeare and Company",
+      "address": "12 rue de l’Odéon, 75006 Paris",
+      "official_url": "https://shakespeareandco.princeton.edu/",
+      "area": "Odéon",
+      "coordinates": {
+        "lat": 48.8517,
+        "lon": 2.3384,
+        "status": "approx_map_pin"
+      },
+      "access_note": "旧址只作临街观察；不是今天仍营业的莎士比亚书店，不进入私人建筑。"
+    },
+    {
+      "id": "brasserie-lipp",
+      "name_zh": "利普啤酒馆",
+      "name_fr": "Brasserie Lipp",
+      "address": "151 boulevard Saint-Germain, 75006 Paris",
+      "official_url": "https://www.brasserielipp.fr/",
+      "area": "Saint-Germain-des-Prés",
+      "coordinates": {
+        "lat": 48.8537,
+        "lon": 2.3325,
+        "status": "approx_map_pin"
+      },
+      "access_note": "正文可在街边读；进店用餐为自选消费，菜单与价格以经营方为准，不保证历史菜式仍提供。"
+    },
+    {
+      "id": "maison-de-nicolas-flamel",
+      "name_zh": "尼古拉·弗拉梅尔之家",
+      "name_fr": "Maison de Nicolas Flamel",
+      "address": "51 rue de Montmorency, 75003 Paris",
+      "coordinates": {
+        "lat": 48.8638,
+        "lon": 2.3531,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://billetterie.musee-moyenage.fr/fr/visit/180",
+      "area": "Arts et Métiers",
+      "access_note": "从公共人行道看立面与铭文；室内餐厅不属于免费参观点。坐标仅为地址附近示意。"
+    },
+    {
+      "id": "salon-indien-grand-cafe",
+      "name_zh": "大咖啡馆印度沙龙旧址",
+      "name_fr": "Ancien Salon indien du Grand Café",
+      "address": "14 boulevard des Capucines, 75009 Paris",
+      "coordinates": {
+        "lat": 48.8708,
+        "lon": 2.3297,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.cinematheque.fr/expositions-virtuelles/guide-expo-machine/index.htm",
+      "area": "Opéra",
+      "access_note": "现为酒店所在地址；在街面核对门牌与纪念信息，不能把今日酒店室内当作原放映厅。"
+    },
+    {
+      "id": "medaillons-arago",
+      "name_zh": "阿拉戈铜牌·皇家宫殿周边",
+      "name_fr": "Médaillons Arago — secteur Palais-Royal",
+      "address": "Secteur Palais-Royal / rue de Montpensier, 75001 Paris",
+      "coordinates": {
+        "lat": 48.8633,
+        "lon": 2.3371,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.mam.paris.fr/fr/expositions/exposition-jan-dibbets",
+      "area": "Palais-Royal",
+      "access_note": "本点仅示意本线寻找铜牌的街区；铜牌是跨城作品，不保证此处某枚现存，不标注未经核验的铜牌精确位置。"
+    },
+    {
+      "id": "le-procope",
+      "name_zh": "普罗科普咖啡餐厅",
+      "name_fr": "Le Procope",
+      "address": "13 rue de l’Ancienne Comédie, 75006 Paris",
+      "coordinates": {
+        "lat": 48.8529,
+        "lon": 2.3388,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.procope.com/",
+      "area": "Odéon",
+      "access_note": "先在街面读故事；进入餐厅按经营规则消费。不要将现代陈设视为18世纪原座位。"
+    },
+    {
+      "id": "musee-rodin",
+      "name_zh": "罗丹博物馆",
+      "name_fr": "Musée Rodin",
+      "address": "77 rue de Varenne, 75007 Paris",
+      "coordinates": {
+        "lat": 48.8554,
+        "lon": 2.3159,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.musee-rodin.fr/",
+      "area": "Invalides",
+      "access_note": "庭园及展厅入场以馆方票务为准；本线相关作品需入内，坐标不是片中机位。"
+    },
+    {
+      "id": "deyrolle",
+      "name_zh": "德罗勒自然标本店",
+      "name_fr": "Deyrolle",
+      "address": "46 rue du Bac, 75007 Paris",
+      "coordinates": {
+        "lat": 48.8558,
+        "lon": 2.3256,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://deyrolle.com/",
+      "area": "Saint-Thomas-d’Aquin",
+      "access_note": "营业时按店内规则参观；夜间只看外观，标本与陈列可能调整，勿触摸。"
+    },
+    {
+      "id": "polidor",
+      "name_zh": "波利多餐厅",
+      "name_fr": "Polidor",
+      "address": "41 rue Monsieur-le-Prince, 75006 Paris",
+      "coordinates": {
+        "lat": 48.8499,
+        "lon": 2.3414,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.polidor.com/",
+      "area": "Odéon",
+      "access_note": "街面即可读取景故事；就餐与室内拍照遵循店方安排，不保证电影桌位。"
+    },
+    {
+      "id": "saint-etienne-du-mont",
+      "name_zh": "圣艾蒂安迪蒙教堂旁台阶",
+      "name_fr": "Escaliers près de Saint-Étienne-du-Mont",
+      "address": "Rue de la Montagne Sainte-Geneviève, à côté de l’église, 75005 Paris",
+      "coordinates": {
+        "lat": 48.8466,
+        "lon": 2.3485,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.saintetiennedumont.fr/",
+      "area": "Montagne Sainte-Geneviève",
+      "access_note": "取景关联为教堂旁街道台阶；无需午夜到访，不妨碍居民、礼拜者和通行。地图点不是精确摄影机位。"
+    },
+    {
+      "id": "pont-alexandre-iii",
+      "name_zh": "亚历山大三世桥",
+      "name_fr": "Pont Alexandre III",
+      "address": "Pont Alexandre III, 75007 / 75008 Paris",
+      "coordinates": {
+        "lat": 48.8639,
+        "lon": 2.3135,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.sonyclassics.com/midnightinparis/production.html",
+      "area": "Seine — Invalides",
+      "access_note": "可在人行道观察；桥上交通与临时封控以现场为准，地图点只表示整座桥。"
+    },
+    {
+      "id": "hemingway-cardinal-lemoine",
+      "name_zh": "海明威与哈德莉故居外观",
+      "name_fr": "Ancien domicile d’Ernest Hemingway et Hadley Richardson",
+      "address": "74 rue du Cardinal-Lemoine, 75005 Paris",
+      "coordinates": {
+        "lat": 48.8445,
+        "lon": 2.3496,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.paris.fr/pages/balade-sur-les-pas-d-ernest-hemingway-19062",
+      "area": "Quartier latin",
+      "access_note": "住宅只看外观和纪念牌，不进入楼道、不打扰住户；坐标为地址附近示意。"
+    },
+    {
+      "id": "place-de-la-contrescarpe",
+      "name_zh": "孔特斯卡普广场",
+      "name_fr": "Place de la Contrescarpe",
+      "address": "Place de la Contrescarpe, 75005 Paris",
+      "coordinates": {
+        "lat": 48.8444,
+        "lon": 2.3499,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.pbs.org/hemingwayadventure/pariswalk.html",
+      "area": "Quartier latin",
+      "access_note": "广场公共空间观察；旧咖啡馆与现商家不得混同，不把今天露台指定为海明威座位。"
+    },
+    {
+      "id": "stein-fleurus",
+      "name_zh": "斯泰因与托克拉斯沙龙旧址外观",
+      "name_fr": "Ancien salon de Gertrude Stein et Alice B. Toklas",
+      "address": "27 rue de Fleurus, 75006 Paris",
+      "coordinates": {
+        "lat": 48.8467,
+        "lon": 2.3317,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.pbs.org/hemingwayadventure/walk3.html",
+      "area": "Luxembourg",
+      "access_note": "私人住宅，只看门牌与外观，沙龙不对本路线开放。坐标为地址附近示意。"
+    },
+    {
+      "id": "pere-lachaise",
+      "name_zh": "拉雪兹神父公墓",
+      "name_fr": "Cimetière du Père-Lachaise",
+      "address": "Entrée principale, boulevard de Ménilmontant, 75020 Paris",
+      "coordinates": {
+        "lat": 48.8615,
+        "lon": 2.3934,
+        "status": "approx_map_pin"
+      },
+      "official_url": "https://www.paris.fr/pages/cimetiere-du-pere-lachaise-informations-17576",
+      "area": "Père-Lachaise",
+      "access_note": "父地点地图点仅示意公墓主入口附近，绝非墓地坐标。园内有坡道、石路及葬礼；开放、天气关闭和入口以市政公告为准。"
+    },
+    {
+      "id": "pere-lachaise-jim-morrison",
+      "name_zh": "吉姆·莫里森墓",
+      "name_fr": "Sépulture de Jim Morrison",
+      "address": "Cimetière du Père-Lachaise, division 6, 75020 Paris",
+      "coordinates": null,
+      "official_url": "https://www.paris.fr/pages/cimetiere-du-pere-lachaise-informations-17576",
+      "area": "Père-Lachaise",
+      "access_note": "第6墓区；精确墓位坐标未核验。先用入口官方地图找墓区，再按现场指示寻找；不得踩踏邻墓、越过围栏或影响祭扫。",
+      "parent_poi_id": "pere-lachaise"
+    },
+    {
+      "id": "pere-lachaise-chopin",
+      "name_zh": "肖邦墓",
+      "name_fr": "Sépulture de Frédéric Chopin",
+      "address": "Cimetière du Père-Lachaise, division 11, 75020 Paris",
+      "coordinates": null,
+      "official_url": "https://www.paris.fr/pages/cimetiere-du-pere-lachaise-informations-17576",
+      "area": "Père-Lachaise",
+      "access_note": "第11墓区；精确墓位坐标未核验。先用入口官方地图找墓区，再按现场指示寻找；不得踩踏邻墓、越过围栏或影响祭扫。",
+      "parent_poi_id": "pere-lachaise"
+    },
+    {
+      "id": "pere-lachaise-moliere",
+      "name_zh": "莫里哀纪念墓",
+      "name_fr": "Sépulture de Molière",
+      "address": "Cimetière du Père-Lachaise, division 25, 75020 Paris",
+      "coordinates": null,
+      "official_url": "https://www.paris.fr/pages/cimetiere-du-pere-lachaise-informations-17576",
+      "area": "Père-Lachaise",
+      "access_note": "第25墓区；精确墓位坐标未核验。先用入口官方地图找墓区，再按现场指示寻找；不得踩踏邻墓、越过围栏或影响祭扫。",
+      "parent_poi_id": "pere-lachaise"
+    },
+    {
+      "id": "pere-lachaise-oscar-wilde",
+      "name_zh": "奥斯卡·王尔德墓",
+      "name_fr": "Sépulture d’Oscar Wilde",
+      "address": "Cimetière du Père-Lachaise, division 89, 75020 Paris",
+      "coordinates": null,
+      "official_url": "https://www.paris.fr/pages/cimetiere-du-pere-lachaise-informations-17576",
+      "area": "Père-Lachaise",
+      "access_note": "第89墓区；精确墓位坐标未核验。先用入口官方地图找墓区，再按现场指示寻找；不得踩踏邻墓、越过围栏或影响祭扫。",
+      "parent_poi_id": "pere-lachaise"
+    },
+    {
+      "id": "pere-lachaise-stein-toklas",
+      "name_zh": "斯泰因与托克拉斯合葬墓",
+      "name_fr": "Sépulture de Gertrude Stein et Alice B. Toklas",
+      "address": "Cimetière du Père-Lachaise, division 94, 75020 Paris",
+      "coordinates": null,
+      "official_url": "https://mairie20.paris.fr/pages/decouvrez-le-pere-lachaise-a-travers-l-histoire-lgbtqia-35532",
+      "area": "Père-Lachaise",
+      "access_note": "第94墓区；精确墓位坐标未核验。先用入口官方地图找墓区，再按现场指示寻找；不得踩踏邻墓、越过围栏或影响祭扫。",
+      "parent_poi_id": "pere-lachaise"
+    },
+    {
+      "id": "pere-lachaise-edith-piaf",
+      "name_zh": "爱迪丝·皮雅芙墓",
+      "name_fr": "Sépulture d’Édith Piaf",
+      "address": "Cimetière du Père-Lachaise, division 97, 75020 Paris",
+      "coordinates": null,
+      "official_url": "https://www.paris.fr/pages/cimetiere-du-pere-lachaise-informations-17576",
+      "area": "Père-Lachaise",
+      "access_note": "第97墓区；精确墓位坐标未核验。先用入口官方地图找墓区，再按现场指示寻找；不得踩踏邻墓、越过围栏或影响祭扫。",
+      "parent_poi_id": "pere-lachaise"
+    }
+  ],
+  "stories": [
+    {
+      "id": "maison-de-nicolas-flamel--ctrl-charity",
+      "poi_id": "maison-de-nicolas-flamel",
+      "title": "炼金术士之前，他先是房东",
+      "hook": "石头留下的是人的名字，不是长生配方。",
+      "body": "51号与尼古拉·弗拉梅尔有关，可靠的入口却不是贤者之石。克吕尼博物馆依据墓志与档案，把他还原为公共书写员、慈善捐赠者和精明的地产投资人；这栋蒙莫朗西街房屋是其地产中现存可确认的一处。炼金名声在他死后才出现，博物馆将传说的开端放在十五世纪末。站在立面前，先认铭刻、姓名与地址，再想象一个真实巴黎人怎样被后来读者改写成魔法人物。这里值得带走的不是“魔法被拆穿”的失望，而是一个更有边界的好故事。",
+      "person_names": [
+        "尼古拉·弗拉梅尔"
+      ],
+      "work_names": [
+        "哈利·波特与魔法石"
+      ],
+      "when": "弗拉梅尔约1330/1340—1418；炼金传说始于15世纪末",
+      "why_here": "这座房屋是博物馆可确认的弗拉梅尔地产遗存。",
+      "detail": "克吕尼博物馆把炼金传说的出现放在其身后约半个世纪，不能照旧稿写成数百年。",
+      "observable_cue": "门牌51、底层石刻与立面铭文",
+      "source_urls": [
+        {
+          "url": "https://www.paris.fr/evenements/nicolas-flamel-alchimiste-de-papier-117753",
+          "title": "Nicolas Flamel. Alchimiste de papier — 克吕尼博物馆展览介绍",
+          "publisher": "Ville de Paris / Musée de Cluny"
+        },
+        {
+          "url": "https://billetterie.musee-moyenage.fr/fr/visit/180",
+          "title": "Nicolas Flamel, la création d’un patrimoine immobilier parisien exceptionnel",
+          "publisher": "Musée de Cluny"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "现代小说人物取材于传说；不把小说情节当史料，也不宣称这里是他的炼金实验室。",
+      "myth": {
+        "claim": "弗拉梅尔在这栋房子炼出贤者之石。",
+        "reality": "档案支持的是书写、地产与慈善活动；炼金名声属于死后形成的传说。"
+      }
+    },
+    {
+      "id": "salon-indien-grand-cafe--ctrl-two-cafes",
+      "poi_id": "salon-indien-grand-cafe",
+      "title": "相邻的咖啡馆，错位的电影史",
+      "hook": "把门牌从12读到14，故事就换了主人。",
+      "body": "1895年12月28日，卢米埃尔电影机的著名付费公开放映在大咖啡馆地下的印度沙龙举行。法国电影资料馆给出的地址非常具体：嘉布遣大道14号。沿街核对门牌，就能把它与常被混淆的和平咖啡馆分开。两家名字都带咖啡，附近又都是大酒店，很容易让一次转述悄悄换掉地点。今天无需寻找“第一排原座位”；看准地址，再回读那份展览说明，这一站的主角就是把活动影像带进售票空间的卢米埃尔团队，而不是任何一家店的名人招牌。",
+      "person_names": [
+        "路易·卢米埃尔",
+        "奥古斯特·卢米埃尔"
+      ],
+      "work_names": [
+        "卢米埃尔电影机放映"
+      ],
+      "when": "1895年12月28日",
+      "why_here": "法国电影资料馆明确记录印度沙龙位于嘉布遣大道14号。",
+      "detail": "地址能区分Grand Café与相邻的Café de la Paix，不把不同咖啡馆混作一处。",
+      "observable_cue": "嘉布遣大道14号的门牌、酒店立面和现场纪念信息",
+      "source_urls": [
+        {
+          "url": "https://www.cinematheque.fr/expositions-virtuelles/guide-expo-machine/index.htm",
+          "title": "De Méliès à la 3D : La Machine cinéma — 展览指南",
+          "publisher": "La Cinémathèque française"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "只表述卢米埃尔的这场付费公开放映，不作全球所有运动影像“绝对第一”的争议断言。",
+      "myth": {
+        "claim": "这场放映发生在和平咖啡馆地下室。",
+        "reality": "资料馆记录的地点是Grand Café的Salon indien，14 boulevard des Capucines。"
+      }
+    },
+    {
+      "id": "medaillons-arago--ctrl-modern-bronze",
+      "poi_id": "medaillons-arago",
+      "title": "看似古老的铜牌，其实生于1994年",
+      "hook": "先读作者与年代，再给神秘故事投票。",
+      "body": "地面上的ARAGO很容易被看成几个世纪前留下的秘密记号。巴黎现代艺术博物馆却把作者与年代写得很清楚：扬·迪贝茨的《向阿拉戈致敬》，1994年，以铜盘让巴黎子午线变得可见。作品纪念天文学家阿拉戈，也让行人用自己的步子感受一条本来抽象的线。《达芬奇密码》可以借它组织谜题，但铜牌首先是一件有作者的现代公共艺术。到了皇家宫殿周边，可以低头寻找字母和圆盘；找不到也不必替传说圆场，部分实物的当日状态尚需现场确认。",
+      "person_names": [
+        "扬·迪贝茨",
+        "弗朗索瓦·阿拉戈",
+        "丹·布朗"
+      ],
+      "work_names": [
+        "向阿拉戈致敬",
+        "达芬奇密码"
+      ],
+      "when": "1994年作品；小说于2003年出版",
+      "why_here": "本线在皇家宫殿周边接近跨城公共艺术的分布带。",
+      "detail": "作品题名、作者和1994年是博物馆明确记录；不把铜牌解释成中世纪遗物。",
+      "observable_cue": "如能找到，观察圆形铜盘及ARAGO字样；本点不保证某枚现存",
+      "source_urls": [
+        {
+          "url": "https://www.mam.paris.fr/fr/expositions/exposition-jan-dibbets",
+          "title": "Jan Dibbets Horizons — Hommage à Arago, 1994",
+          "publisher": "Musée d’Art Moderne de Paris"
+        },
+        {
+          "url": "https://www.mam.paris.fr/sites/default/files/documents/dossier-pedagogique_dibbets_1.pdf",
+          "title": "La boîte de Pandore — Dibbets教学资料，2016",
+          "publisher": "Musée d’Art Moderne de Paris"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "定位仅为寻找区域；不承诺现存铜牌数量，不沿用未经核实的电影版权费传闻。",
+      "myth": {
+        "claim": "ARAGO铜牌是一条古老秘密玫瑰线的原始遗物。",
+        "reality": "现见作品由Jan Dibbets于1994年创作，用于纪念阿拉戈并标示巴黎子午线。"
+      }
+    },
+    {
+      "id": "saint-sulpice--ctrl-sunlight",
+      "poi_id": "saint-sulpice",
+      "title": "铜线量的是太阳，不是秘密通道",
+      "hook": "把目光沿铜线移到高处，机器就开始显形。",
+      "body": "圣叙尔比斯的铜线能引出比小说谜题更具体的人物：研究太阳的天文学家勒莫尼耶。教区资料将这里的精密仪器定于1743年；阿拉戈的《通俗天文学》也写到高处开孔、地面铜线与太阳观测的关系。光穿过孔，落点随太阳位置变化，教堂因此也成为测量空间。读《达芬奇密码》时可享受悬疑，进门后则不妨把注意力还给器物的结构。看看地上的线怎样与北端高立构件相接：这是一场能由光、位置和观测解释的合作，不需要地下秘社才能成立。",
+      "person_names": [
+        "皮埃尔-夏尔·勒莫尼耶",
+        "弗朗索瓦·阿拉戈",
+        "丹·布朗"
+      ],
+      "work_names": [
+        "通俗天文学",
+        "达芬奇密码"
+      ],
+      "when": "18世纪；教区以1743年记载仪器建成",
+      "why_here": "铜线与高处进光装置构成教堂内真实存在的天文测量仪器。",
+      "detail": "阿拉戈原著记为1742，教区现资料记为1743，正文按18世纪并保留口径差异。",
+      "observable_cue": "入内可见的地面铜线与北端方尖碑式构件",
+      "source_urls": [
+        {
+          "url": "https://dioceseparis.fr/presentation-du-gnomon.html",
+          "title": "Présentation du gnomon — 1743年的天文仪器",
+          "publisher": "Diocèse de Paris"
+        },
+        {
+          "url": "https://fr.wikisource.org/wiki/Astronomie_populaire_%28Arago%29/XXXIII/50",
+          "title": "Astronomie populaire，卷XXXIII，第50章",
+          "publisher": "François Arago / Wikisource原著转录"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "原著与教区存在1742/1743的年份差异；不声称这里的子午线等同巴黎天文台子午线。",
+      "myth": {
+        "claim": "教堂铜线是小说中秘密玫瑰线的历史证明。",
+        "reality": "它是有文献记录的天文观测装置，小说赋予的秘密含义不能用来解释实物。"
+      }
+    },
+    {
+      "id": "le-procope--ctrl-franklin-dates",
+      "poi_id": "le-procope",
+      "title": "富兰克林的宪法，先查日期",
+      "hook": "一封从费城寄出的信，比一张名人桌牌更有用。",
+      "body": "站在普罗科普门口，很容易把启蒙名人、咖啡与革命揉成一个漂亮故事。若听到“富兰克林在这里写成美国宪法”，先打开他的信：1787年4月19日，他从费城写给杰斐逊，说制宪会议下月将在这里举行。美国国家档案馆再补上地点与过程：宪法是1787年夏天费城会议反复讨论的成果。富兰克林确实参与其中，但这不是某位名人在巴黎独坐一桌完成的作品。店名可以成为查证的起点；真正值得记住的，是地点、日期和多人协作怎样约束一句动听的传说。",
+      "person_names": [
+        "本杰明·富兰克林",
+        "托马斯·杰斐逊"
+      ],
+      "work_names": [
+        "美国宪法",
+        "1787年4月19日富兰克林致杰斐逊信"
+      ],
+      "when": "1787年4—9月",
+      "why_here": "普罗科普关联的咖啡馆传说可与富兰克林当年的书信及制宪会议记录对读。",
+      "detail": "信件开头标注Philada.，明确预告次月将在费城召开会议。",
+      "observable_cue": "Le Procope店招与13号门牌；手机上对读书信日期和寄信地点",
+      "source_urls": [
+        {
+          "url": "https://founders.archives.gov/documents/Jefferson/01-11-02-0292",
+          "title": "Benjamin Franklin to Thomas Jefferson, 19 April 1787",
+          "publisher": "U.S. National Archives / Founders Online"
+        },
+        {
+          "url": "https://www.archives.gov/milestone-documents/constitution",
+          "title": "Constitution of the United States (1787)",
+          "publisher": "U.S. National Archives"
+        },
+        {
+          "url": "https://www.procope.com/",
+          "title": "Le Procope — 地址与经营方历史介绍",
+          "publisher": "Le Procope"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不据此否认富兰克林曾到访巴黎咖啡馆；这里只检验“在这里写成1787年宪法”的具体说法。",
+      "myth": {
+        "claim": "富兰克林在普罗科普起草了美国宪法。",
+        "reality": "宪法来自1787年费城制宪会议，富兰克林本人书信也将该年活动放在费城。"
+      }
+    },
+    {
+      "id": "shakespeare-bucherie--ctrl-two-bookshops",
+      "poi_id": "shakespeare-bucherie",
+      "title": "同一个店名，两段不相同的人生",
+      "hook": "海明威的1920年代，没有发生在今天这间店里。",
+      "body": "塞纳河边的黄色店面确实延续着英语文学的生活，但它的创办人是乔治·惠特曼，开业时间是1951年，最初叫Le Mistral。1964年，他为致敬西尔维娅·毕奇，把店名改成莎士比亚书店。海明威在1920年代出入的那家由毕奇经营，位于奥德翁街；两者的精神传承很真实，地址和经营历史却不能合并。站在今天的门口，再回想前面几站的铜牌与门牌，你已能分辨纪念如何成立：致敬允许一个名字继续生活，却不能把后来一张椅子变成早年名人的坐具。",
+      "person_names": [
+        "乔治·惠特曼",
+        "西尔维娅·毕奇",
+        "欧内斯特·海明威"
+      ],
+      "work_names": [
+        "流动的盛宴"
+      ],
+      "when": "旧店1919—1941；现店1951开业、1964改名",
+      "why_here": "经营方官网清楚区分毕奇旧店与惠特曼现店。",
+      "detail": "现店原名Le Mistral，改名是对毕奇的致敬。",
+      "observable_cue": "临河店招与rue de la Bûcherie街牌",
+      "source_urls": [
+        {
+          "url": "https://www.shakespeareandcompany.com/history",
+          "title": "History — 两家莎士比亚书店的历史",
+          "publisher": "Shakespeare and Company"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "两店有传承和交往，不简化成“毫无关系”；只纠正地址与年代的混用。",
+      "myth": {
+        "claim": "眼前就是海明威在1920年代常来的莎士比亚书店。",
+        "reality": "那是西尔维娅·毕奇经营的奥德翁街旧店；眼前店由乔治·惠特曼于1951年创办。"
+      }
+    },
+    {
+      "id": "musee-orangerie--blue-real-time",
+      "poi_id": "musee-orangerie",
+      "title": "穿越之前，先坐进莫奈的时间",
+      "hook": "这一站的安静，来自一个真实的赠与。",
+      "body": "《午夜巴黎》的制作资料把橘园与《睡莲》列入取景地点。先把穿越放到一边：1918年停战后的次日，莫奈提出向法国赠画；后来，他为橘园设想的两间椭圆空间在1927年、他去世之后向观众打开。电影借来的是一个已经由画家精心组织的观看环境。入馆时先选一处坐下，让目光沿画面而不是沿自拍角度移动。吉尔想进入旧时代，而这里给你的练习更简单：在当下多留几分钟。真实的赠与和电影里的怀旧可以同时动人，它们不必被说成同一件事。",
+      "person_names": [
+        "克洛德·莫奈",
+        "吉尔·彭德（虚构角色）"
+      ],
+      "work_names": [
+        "睡莲",
+        "午夜巴黎"
+      ],
+      "when": "莫奈1918年提出赠画；橘园1927年呈现；电影2011年",
+      "why_here": "发行方确认橘园《睡莲》为取景点，馆方说明作品赠与与空间设计。",
+      "detail": "莫奈没有亲见1927年开放后的展厅。",
+      "observable_cue": "入馆后的两间椭圆《睡莲》展厅",
+      "source_urls": [
+        {
+          "url": "https://www.sonyclassics.com/midnightinparis/production.html",
+          "title": "Midnight in Paris — About the Production",
+          "publisher": "Sony Pictures Classics"
+        },
+        {
+          "url": "https://www.musee-orangerie.fr/fr/collection/les-nympheas-de-claude-monet",
+          "title": "Les Nymphéas de Claude Monet",
+          "publisher": "Musée de l’Orangerie"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "取景关联可核查；吉尔的心理变化是电影阅读，不是莫奈生平。"
+    },
+    {
+      "id": "musee-rodin--blue-guide",
+      "poi_id": "musee-rodin",
+      "title": "导游被打断的时候，谁在被忘记",
+      "hook": "别让一场争论把卡米耶再次变成配角。",
+      "body": "电影里，保罗在罗丹博物馆与导游争辩，急着证明自己比讲解者更懂艺术。制作资料确认了这场戏及导游由卡拉·布吕尼饰演。把银幕笑点放下，馆方对卡米耶·克洛岱尔的介绍更值得带着看：她约1884年加入罗丹工作室，参与实践，也持续发展自己的雕塑、参展并寻找认可。她不是只在某位大师的恋爱故事里出现的人。今天观察作品或展签时，可以给她完整读完一条说明的时间；这会让取景散步多一层收获，也让电影中的卖弄成为一次提醒。",
+      "person_names": [
+        "卡米耶·克洛岱尔",
+        "奥古斯特·罗丹",
+        "卡拉·布吕尼",
+        "保罗（虚构角色）"
+      ],
+      "work_names": [
+        "午夜巴黎"
+      ],
+      "when": "克洛岱尔约1884年加入工作室；电影2011年",
+      "why_here": "博物馆既是确证的电影取景场所，也保存并研究克洛岱尔的艺术。",
+      "detail": "馆方强调她同时从事实践、创作和争取独立认可；具体承担工序仍有不确定性。",
+      "observable_cue": "馆内克洛岱尔相关展签及庭园雕塑，陈列以当日为准",
+      "source_urls": [
+        {
+          "url": "https://www.sonyclassics.com/midnightinparis/production.html",
+          "title": "Midnight in Paris — About the Production",
+          "publisher": "Sony Pictures Classics"
+        },
+        {
+          "url": "https://www.musee-rodin.fr/ressources/rodin-et-artistes/camille-claudel",
+          "title": "Camille Claudel — Praticienne, artiste, collaboratrice",
+          "publisher": "Musée Rodin"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不把今天博物馆地址说成1884年克洛岱尔工作室，也不复述电影对白为传记证据。"
+    },
+    {
+      "id": "deyrolle--blue-rebuild",
+      "poi_id": "deyrolle",
+      "title": "标本之间的一场虚构派对",
+      "hook": "电影借来一个梦；这家店先经历了一次真实的火。",
+      "body": "电影把德罗勒的自然标本空间变成穿越者参加派对的场景，店方也保存着拍摄记忆。但那些看起来仿佛始终停在十九世纪的房间，在2008年遭过严重火灾。德罗勒邀请艺术家利用灾后残留物创作，并以拍卖支持修复和重建。于是，这一站不只是“吉尔来过”的屏幕坐标，也是一间真实店铺怎样重新把门打开的经历。白天进入时，看看标本、教学图板与陈列怎样相邻；若夜里到访，就在窗外读完故事。你看到的时间感，包含修复者做过的工作。",
+      "person_names": [
+        "伍迪·艾伦",
+        "苏菲·卡尔",
+        "南·戈尔丁",
+        "吉尔·彭德（虚构角色）"
+      ],
+      "work_names": [
+        "午夜巴黎"
+      ],
+      "when": "2008年火灾与重建；2011年上映电影的取景地点",
+      "why_here": "德罗勒经营方明确记录店内取景及火灾后艺术家募资修复。",
+      "detail": "利用火灾残留物创作并拍卖支持重建，是这里可核验的人物行动。",
+      "observable_cue": "标本、教学图板与店面橱窗；仅在营业时进入",
+      "source_urls": [
+        {
+          "url": "https://deyrolle.com/pages/notre-histoire",
+          "title": "Notre histoire — 2008年的火灾、重建与电影取景",
+          "publisher": "Deyrolle"
+        },
+        {
+          "url": "https://deyrolle.com/pages/la-maison-deyrolle",
+          "title": "La Maison Deyrolle — 46 rue du Bac",
+          "publisher": "Deyrolle"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "店方时间轴把拍摄标为2009且描述片中时代有误；本故事只采用取景事实与火灾重建，不采用该年份、派对宾客或时代作为史实。"
+    },
+    {
+      "id": "polidor--blue-hemingway",
+      "poi_id": "polidor",
+      "title": "见到的海明威，是科里·斯托尔",
+      "hook": "先辨认演员，才不会把电影桌边的对白带进历史。",
+      "body": "吉尔在波利多遇见海明威，是《午夜巴黎》最诱人的文学愿望之一：正在写小说的人，突然得到与崇拜对象说话的机会。餐厅官方的取景说明把两位演员写得清楚，吉尔由欧文·威尔逊饰演，海明威由科里·斯托尔饰演。这是一场拍摄可核查、相遇属虚构的戏。站在店外看店招，想想自己会向喜欢的作家问什么；若进去用餐，也不必争抢一张“历史原桌”。电影让想象获得真实的墙壁和灯光，而我们保留这层区别，恰好能更自由地享受它。",
+      "person_names": [
+        "欧文·威尔逊",
+        "科里·斯托尔",
+        "欧内斯特·海明威",
+        "吉尔·彭德（虚构角色）"
+      ],
+      "work_names": [
+        "午夜巴黎"
+      ],
+      "when": "2011年电影",
+      "why_here": "餐厅官方明确说明片中吉尔与海明威相遇的场景在此拍摄。",
+      "detail": "演员身份是检验“文学偶遇”性质最直接的线索。",
+      "observable_cue": "Polidor店招和临街入口；室内参观取决于消费与店方安排",
+      "source_urls": [
+        {
+          "url": "https://www.polidor.com/a-propos/",
+          "title": "Le Polidor dans « Minuit à Paris » de Woody Allen",
+          "publisher": "Polidor"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不凭电影证明历史上的海明威在此说过对白或使用过某张桌；官网误写的戛纳年份不采用。"
+    },
+    {
+      "id": "saint-etienne-du-mont--blue-midnight",
+      "poi_id": "saint-etienne-du-mont",
+      "title": "午夜的入口，其实是一段普通台阶",
+      "hook": "给自己一分钟，想想你想逃进哪一年。",
+      "body": "吉尔在圣热讷维耶芙山街一带等到午夜，进入电影设置的另一种时间。索尼制作资料把这条街明确标作他午夜前往的地点；教堂旁台阶也因此成了观众的记忆入口。今天到这里，不用等钟声准确响十二下，更不需要相信会有老车来接人。先看台阶、转角与街灯怎样围出一个可供等待的小空间，再想象欧文·威尔逊怎样把“想换一种人生”的犹豫演出来。我们借取景点回到一个故事，同时允许街道继续属于此刻经过的人。穿越是虚构的，那一刻的迟疑却很容易理解。",
+      "person_names": [
+        "欧文·威尔逊",
+        "吉尔·彭德（虚构角色）"
+      ],
+      "work_names": [
+        "午夜巴黎"
+      ],
+      "when": "电影2011年；片中午夜的虚构穿越",
+      "why_here": "发行方将Rue Montagne Sainte-Geneviève标注为吉尔午夜前往之处。",
+      "detail": "本点对应教堂旁街道台阶，不把教堂内部当成穿越场景。",
+      "observable_cue": "台阶、街道转角与教堂侧立面",
+      "source_urls": [
+        {
+          "url": "https://www.sonyclassics.com/midnightinparis/production.html",
+          "title": "Midnight in Paris — About the Production",
+          "publisher": "Sony Pictures Classics"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "吉尔及接他的车属于虚构情节；坐标仅示意取景街区，不保证摄影机位。"
+    },
+    {
+      "id": "pont-alexandre-iii--blue-present",
+      "poi_id": "pont-alexandre-iii",
+      "title": "桥的另一端，仍是今天",
+      "hook": "一场雨，让怀旧终于可以停下来。",
+      "body": "亚历山大三世桥在发行方列出的取景地点中，也是读懂电影结尾的好地方。吉尔终于把注意力从不可能长住的过去，转回眼前的人与生活。桥上看夜色时，可以把手机里的电影画面暂时关掉，观察走来的人、风和河面；这一分钟不需要模仿镜头。制作访谈里，伍迪·艾伦谈到角色必须面对现实，欧文·威尔逊也把故事理解为寻找当下的可能。走完这些被电影照亮的地点，终点不必是“巴黎曾经更好”，而是你今天愿意把时间交给什么。",
+      "person_names": [
+        "伍迪·艾伦",
+        "欧文·威尔逊",
+        "吉尔·彭德（虚构角色）",
+        "加布丽埃尔（虚构角色）"
+      ],
+      "work_names": [
+        "午夜巴黎"
+      ],
+      "when": "2011年电影",
+      "why_here": "桥是发行方确认的取景地点；在此以影片主题收束路线。",
+      "detail": "关于结尾与当下的阅读由制作访谈支撑；观景动作是编辑建议。",
+      "observable_cue": "桥上人行道、塞纳河与两岸视线",
+      "source_urls": [
+        {
+          "url": "https://www.sonyclassics.com/midnightinparis/production.html",
+          "title": "Midnight in Paris — About the Production",
+          "publisher": "Sony Pictures Classics"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不把电影天气、情节或人物相遇当作当地历史；不保证任何时间能重现画面。"
+    },
+    {
+      "id": "hemingway-cardinal-lemoine--myth-rented-life",
+      "poi_id": "hemingway-cardinal-lemoine",
+      "title": "诺贝尔奖之前，先有一间两居室",
+      "hook": "故事从哈德莉也住过的门牌开始。",
+      "body": "1921年12月，22岁的海明威与哈德莉抵达巴黎，在红衣主教勒穆万街74号的一间小两居室开始生活。他当时仍是《多伦多星报》的记者，小说家的身份还在形成。门口的纪念信息容易把后来声名照回整栋楼，读故事时不妨把镜头缩回两个人：租房、写稿、出门、回家。这里的“穷日子”来自他后来回望青春的叙事，不能自动变成每一天都一无所有的财务证明。看完门牌就让住户安静生活；我们能确认的是地址和人生阶段，不能从外墙看见原房间。",
+      "person_names": [
+        "欧内斯特·海明威",
+        "哈德莉·理查森"
+      ],
+      "work_names": [
+        "流动的盛宴"
+      ],
+      "when": "1921年12月抵达巴黎；1920年代初居住",
+      "why_here": "巴黎市资料记录夫妇居住于74号及海明威的记者身份。",
+      "detail": "抵达时他22岁，仍作为Toronto Star记者工作。",
+      "observable_cue": "74号门牌与故居纪念牌",
+      "source_urls": [
+        {
+          "url": "https://www.paris.fr/pages/balade-sur-les-pas-d-ernest-hemingway-19062",
+          "title": "Balade dans les pas d’Ernest Hemingway",
+          "publisher": "Ville de Paris"
+        },
+        {
+          "url": "https://www.pbs.org/hemingwayadventure/pariswalk.html",
+          "title": "Michael Palin’s Hemingway Adventure — Paris Walk",
+          "publisher": "PBS"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "“穷”是路线主题与回忆录框架，不作逐月收入、资产或持续饥饿的未经核验断言。"
+    },
+    {
+      "id": "place-de-la-contrescarpe--myth-avoid-cafe",
+      "poi_id": "place-de-la-contrescarpe",
+      "title": "他写进书里的咖啡馆，未必是他喜欢的",
+      "hook": "有时最好的追随，是知道他绕开了哪里。",
+      "body": "孔特斯卡普广场就在海明威早年住处旁边。《流动的盛宴》开篇写冷雨、湿叶和Café des Amateurs，也明确说自己避开那间令他不快的咖啡馆。书里的地点并不总是值得追认的“最爱”，有时它只是日常生活必须经过的部分。站在广场边，看今天露台与旧地名怎样重叠，再试着只记下一种声音、一种天气。你不必把他的尖刻评价送给现在的商家，也不必点一杯“同款”。这站更适合看清写作者如何挑选细节，让一个不愿久留的地方在多年后仍留在书里。",
+      "person_names": [
+        "欧内斯特·海明威"
+      ],
+      "work_names": [
+        "流动的盛宴"
+      ],
+      "when": "回忆1920年代生活；书1964年身后出版",
+      "why_here": "回忆录开篇点名广场及Café des Amateurs，PBS实地散步亦据此核对。",
+      "detail": "原著明确写作者回避Café des Amateurs，不应把文学提及自动变成常客认证。",
+      "observable_cue": "广场街牌、坡道与今日咖啡露台",
+      "source_urls": [
+        {
+          "url": "https://www.fadedpage.com/books/20141111/html.php",
+          "title": "A Moveable Feast，1964年版全文：相关章节见故事说明",
+          "publisher": "Ernest Hemingway / Faded Page校勘电子本"
+        },
+        {
+          "url": "https://www.pbs.org/hemingwayadventure/pariswalk.html",
+          "title": "Michael Palin’s Hemingway Adventure — Paris Walk",
+          "publisher": "PBS"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "气味与嫌恶来自作者多年后的第一人称叙述，不是对当代商家的评价，也不是无偏见的街区社会记录。",
+      "myth": {
+        "claim": "凡写进海明威书里的咖啡馆，都是他最喜欢的常去店。",
+        "reality": "开篇的Café des Amateurs恰被他说成自己避开的地方。"
+      }
+    },
+    {
+      "id": "jardin-du-luxembourg--myth-hunger-looking",
+      "poi_id": "jardin-du-luxembourg",
+      "title": "空着肚子看画，是他写出的巴黎",
+      "hook": "在回忆录里，公园是一段避开食物的路。",
+      "body": "《流动的盛宴》的“饥饿是很好的锻炼”一章，把卢森堡公园写成一条能暂时躲开食物气味的路线；他还记述去当时的卢森堡博物馆看画。这里呈现的是晚年作者怎样组织饥饿、观看与写作的关系，并不能替每一个下午作证。今天不需要饿着自己重演，只要沿园路走一段，想一想生活条件怎样改变人的注意力：他在省钱的行走里，仍为绘画留出时间。园中的风景不是当年展厅的替身；若想继续查画作去向，要读馆藏历史，不能默认那些塞尚今天仍在原处。",
+      "person_names": [
+        "欧内斯特·海明威",
+        "保罗·塞尚"
+      ],
+      "work_names": [
+        "流动的盛宴"
+      ],
+      "when": "书中回望1920年代；1964年出版",
+      "why_here": "作者将公园与当时卢森堡博物馆的看画经历联系起来。",
+      "detail": "“Hunger Was Good Discipline”是回忆录章节，不应当作临床或理财建议。",
+      "observable_cue": "园路、座椅和通向Vaugirard街的出口方向",
+      "source_urls": [
+        {
+          "url": "https://www.fadedpage.com/books/20141111/html.php",
+          "title": "A Moveable Feast，1964年版全文：相关章节见故事说明",
+          "publisher": "Ernest Hemingway / Faded Page校勘电子本"
+        },
+        {
+          "url": "https://www.paris.fr/pages/balade-sur-les-pas-d-ernest-hemingway-19062",
+          "title": "Balade dans les pas d’Ernest Hemingway",
+          "publisher": "Ville de Paris"
+        },
+        {
+          "url": "https://www.simonandschuster.com/books/A-Moveable-Feast/Ernest-Hemingway/9780684833637",
+          "title": "A Moveable Feast — 出版与修订版本说明",
+          "publisher": "Simon & Schuster"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "饥饿经历按作者回忆表述；当时馆藏与今天展陈不同，不标注未经证明的固定座椅。"
+    },
+    {
+      "id": "stein-fleurus--myth-salon",
+      "poi_id": "stein-fleurus",
+      "title": "27号门后，作家先学会做读者",
+      "hook": "暖气、画与谈话，组成了另一种课堂。",
+      "body": "海明威回忆自己穿过卢森堡公园，到弗勒吕斯街27号拜访格特鲁德·斯泰因。那里有画、有谈话，也有爱丽丝·托克拉斯参与维系的生活。对还在寻找写法的人，进入这样的房间意味着把自己的作品放到别人眼前，而不只是认识几个名人。PBS的文学散步据回忆录指出，这段关系后来也有决裂；导师故事并不保证永远温和。今天大门通常只让你看到门牌，画作和当年的对话无法在门外重演。保留这点距离，反而能把两位主人的日常劳动从名人打卡的背景里请回来。",
+      "person_names": [
+        "欧内斯特·海明威",
+        "格特鲁德·斯泰因",
+        "爱丽丝·B.托克拉斯"
+      ],
+      "work_names": [
+        "流动的盛宴"
+      ],
+      "when": "1920年代初的拜访；回忆录1964年出版",
+      "why_here": "27 rue de Fleurus是斯泰因与托克拉斯共同生活和接待文艺朋友的地址。",
+      "detail": "温暖、画作与交谈来自海明威回忆；两人的指导关系后来出现分歧。",
+      "observable_cue": "27号门牌与住宅外观",
+      "source_urls": [
+        {
+          "url": "https://www.pbs.org/hemingwayadventure/walk3.html",
+          "title": "Michael Palin’s Hemingway Adventure — Rue de Fleurus",
+          "publisher": "PBS"
+        },
+        {
+          "url": "https://mairie20.paris.fr/pages/decouvrez-le-pere-lachaise-a-travers-l-histoire-lgbtqia-35532",
+          "title": "Découvrez le Père-Lachaise à travers l’histoire LGBTQIA+",
+          "publisher": "Mairie du 20e arrondissement de Paris"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "正文的拜访细节是回忆录转述；不把所有现代主义文学都归因于此沙龙，也不邀请进入私人住宅。"
+    },
+    {
+      "id": "shakespeare-odeon--myth-library-card",
+      "poi_id": "shakespeare-odeon",
+      "title": "让穷作家有书读的人",
+      "hook": "与其找他的座位，不如翻他的借阅记录。",
+      "body": "奥德翁街12号的旧莎士比亚书店由西尔维娅·毕奇经营。它既卖书，也借书，作家生活在这里留下的不只是合影。普林斯顿大学整理她的借阅卡、账簿和通讯录，海明威的会员记录从1921年开始，页面还记着他得到过《尤利西斯》首印本的媒体赠书。把这条记录与门牌并排看，贫穷时代的阅读就有了具体形状：有人管理书、登记往来、使书在读者之间流动。这比想象每晚都有大师酒会更接近一间书店的工作。如今旧址不再营业，河边的同名书店则属于后来另一段历史。",
+      "person_names": [
+        "西尔维娅·毕奇",
+        "欧内斯特·海明威",
+        "詹姆斯·乔伊斯"
+      ],
+      "work_names": [
+        "尤利西斯"
+      ],
+      "when": "海明威会员记录自1921年起；旧店于1941年关闭",
+      "why_here": "旧址可与普林斯顿保存的毕奇书店档案对应。",
+      "detail": "档案页面记录1921起的会员年份及《尤利西斯》首印媒体赠书。",
+      "observable_cue": "12号门牌与旧址纪念信息；手机上的会员档案页",
+      "source_urls": [
+        {
+          "url": "https://shakespeareandco.princeton.edu/members/hemingway-ernest/",
+          "title": "Ernest Hemingway — Library Members",
+          "publisher": "Princeton University, Shakespeare and Company Project"
+        },
+        {
+          "url": "https://shakespeareandco.princeton.edu/",
+          "title": "Shakespeare and Company Project — 借阅卡、日志和通讯录档案",
+          "publisher": "Princeton University"
+        },
+        {
+          "url": "https://www.shakespeareandcompany.com/history",
+          "title": "History — 两家莎士比亚书店的历史",
+          "publisher": "Shakespeare and Company"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "记录不是穷困程度的证明；会员年份有间断，不说每年都借书。"
+    },
+    {
+      "id": "brasserie-lipp--myth-one-meal",
+      "poi_id": "brasserie-lipp",
+      "title": "路线最后，允许他好好吃一顿",
+      "hook": "土豆、香肠和啤酒，比永恒的饥饿更像生活。",
+      "body": "在《流动的盛宴》里，海明威终于走进利普，点啤酒和油渍土豆，后来又添了一份土豆与香肠。他把这一餐写得非常具体，却不等于给后来旅行者开出必须照点的菜单。站在圣日耳曼大道上，可以把此前的住处、绕路、公园、沙龙与借阅串起来：年轻写作者的日子既有匮乏，也有被帮助、看画、交谈和吃饱的时刻。今天是否进店由你决定，百年前的一餐也不能说明现在便宜。让路线停在真实的食欲上，正好打破“越挨饿越像作家”的浪漫捷径。",
+      "person_names": [
+        "欧内斯特·海明威"
+      ],
+      "work_names": [
+        "流动的盛宴"
+      ],
+      "when": "书中回望1920年代；1964年出版",
+      "why_here": "回忆录“Hunger Was Good Discipline”明确写到在Lipp的一餐。",
+      "detail": "原著有pommes à l’huile、cervelas和啤酒；不承诺今日可完全复刻。",
+      "observable_cue": "Lipp店招、临街菜单与街道；无需进入即可阅读",
+      "source_urls": [
+        {
+          "url": "https://www.fadedpage.com/books/20141111/html.php",
+          "title": "A Moveable Feast，1964年版全文：相关章节见故事说明",
+          "publisher": "Ernest Hemingway / Faded Page校勘电子本"
+        },
+        {
+          "url": "https://www.brasserielipp.fr/",
+          "title": "Brasserie Lipp — 151 boulevard Saint-Germain",
+          "publisher": "Brasserie Lipp"
+        }
+      ],
+      "confidence": "attributed",
+      "caveat": "餐食与心境来自晚年回忆录；今日菜品、价格和座位与当年不同。"
+    },
+    {
+      "id": "pere-lachaise-jim-morrison--budd-listeners",
+      "poi_id": "pere-lachaise-jim-morrison",
+      "title": "27岁之后，听众还在来",
+      "hook": "最热闹的名字，也可以安静地读。",
+      "body": "莫里森于1971年7月3日在巴黎去世，随后安葬在拉雪兹的第6墓区。INA保存的报道让人看到，几十年间不断有听众来到这里，有人把照顾这处墓地当作生活的一部分。比起再拼接一套关于最后一夜的猜测，这些镜头记录的纪念行为更可确认：一个已经停止演唱的人，怎样仍在陌生人的生活里发声。找到墓碑后，留意碑面上的名字与年份，给旁人也留出位置。若想听一首The Doors，用耳机把音量留给自己；现场是一处仍有祭扫和葬礼的公墓。",
+      "person_names": [
+        "吉姆·莫里森"
+      ],
+      "work_names": [
+        "The Doors"
+      ],
+      "when": "1943—1971；1971年安葬于此",
+      "why_here": "市政墓园索引列为第6墓区；INA影像记录持续到访的歌迷。",
+      "detail": "可确认的是去世日期、墓区与纪念活动；死因细节不在本故事作断言。",
+      "observable_cue": "第6墓区现场指示与墓碑姓名、年份",
+      "source_urls": [
+        {
+          "url": "https://cdn.paris.fr/paris/2022/06/15/af4a0e52b30f73922586f6417625535f.pdf",
+          "title": "Map of the Père Lachaise Cemetery — 人名与墓区索引",
+          "publisher": "Ville de Paris"
+        },
+        {
+          "url": "https://www.ina.fr/ina-eclaire-actu/la-tombe-de-jim-morrison-au-pere-lachaise-un-lieu-de-culte-intemporel",
+          "title": "La tombe de Jim Morrison au Père-Lachaise : un lieu de culte intemporel",
+          "publisher": "INA"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "没有精确墓位坐标；不传播未经确证的死亡现场故事，不承诺某件雕像仍在原处。"
+    },
+    {
+      "id": "pere-lachaise-chopin--budd-two-cities",
+      "poi_id": "pere-lachaise-chopin",
+      "title": "人留在巴黎，心回到华沙",
+      "hook": "这是一场由姐姐完成的归乡。",
+      "body": "肖邦1849年在巴黎去世，遗体安葬在拉雪兹第11墓区。按照他的遗愿，姐姐路德维卡把他的心脏带回波兰；肖邦研究院的资料把这段迁移与华沙圣十字教堂联系起来。同一位音乐家的纪念因此分在两座城市，一处是你眼前的墓，一处远在故乡。这比“音乐没有国界”的空泛句子更具体：有一个人真的收拾行装，替弟弟完成了不能亲自完成的旅行。看墓碑时，记住姐姐的名字，也把巴黎的职业生活与对故土的牵挂放在一起；这里不是心脏最终安放之处。",
+      "person_names": [
+        "弗雷德里克·肖邦",
+        "路德维卡·延杰耶维奇"
+      ],
+      "work_names": [],
+      "when": "肖邦1849年去世；心脏由姐姐带回波兰",
+      "why_here": "市政索引确认肖邦墓在第11墓区；研究院记录遗体与心脏分处两国。",
+      "detail": "归乡行动的具体执行者是肖邦的姐姐路德维卡。",
+      "observable_cue": "第11墓区、肖邦姓名与墓上纪念雕塑",
+      "source_urls": [
+        {
+          "url": "https://cdn.paris.fr/paris/2022/06/15/af4a0e52b30f73922586f6417625535f.pdf",
+          "title": "Map of the Père Lachaise Cemetery — 人名与墓区索引",
+          "publisher": "Ville de Paris"
+        },
+        {
+          "url": "https://chopin.nifc.pl/en/chopin/osoba/1_chopin_fryderyk",
+          "title": "Fryderyk Chopin — 生平与心脏归乡",
+          "publisher": "The Fryderyk Chopin Institute"
+        },
+        {
+          "url": "https://greatcomposers.nifc.pl/en/chopin/catalogs/places/157_holy-cross-church",
+          "title": "Holy Cross Church — 肖邦心脏的迁移记录",
+          "publisher": "The Fryderyk Chopin Institute"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不采用未经核实的过境藏匿细节或浸泡液传说；心脏移入教堂的确切年份有史料不确定性。"
+    },
+    {
+      "id": "pere-lachaise-moliere--budd-last-performance",
+      "poi_id": "pere-lachaise-moliere",
+      "title": "莫里哀没有死在舞台上",
+      "hook": "一部戏演到第四场，传说就替他加了结局。",
+      "body": "第25墓区的莫里哀纪念墓，让人想起最著名的戏剧故事：他扮演病人，竟在舞台上死去。法兰西喜剧院保存并引用的剧团记录把经过写得不同。1673年2月17日，他完成《无病呻吟》的第四场演出后，回到黎塞留街家中，当晚去世。故事仍然令人唏嘘，只是最后的地点被纠正了。站在墓前读到的是后来的纪念，并非1673年那晚的现场。把舞台与住所分开，你会更接近一个患病仍在工作的演员，也更能看懂后人为什么如此容易把他的最后一夜写成戏。",
+      "person_names": [
+        "莫里哀",
+        "拉格朗日"
+      ],
+      "work_names": [
+        "无病呻吟"
+      ],
+      "when": "1673年2月17日最后演出及当晚去世",
+      "why_here": "拉雪兹有莫里哀纪念墓；法兰西喜剧院以剧团记录纠正死亡地点。",
+      "detail": "第四场演出后在家去世，不能说当场倒毙于舞台。",
+      "observable_cue": "第25墓区莫里哀姓名与相邻拉封丹纪念墓",
+      "source_urls": [
+        {
+          "url": "https://cdn.paris.fr/paris/2022/06/15/af4a0e52b30f73922586f6417625535f.pdf",
+          "title": "Map of the Père Lachaise Cemetery — 人名与墓区索引",
+          "publisher": "Ville de Paris"
+        },
+        {
+          "url": "https://www.comedie-francaise.fr/www/comedie/media/document/moliere-bio-viemort.pdf",
+          "title": "Molière et la mort — 含拉格朗日剧团记录",
+          "publisher": "Comédie-Française"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "本故事不对后来移葬遗骨的身份争议作鉴定；墓地是纪念地点，不是死亡地点。",
+      "myth": {
+        "claim": "莫里哀演《无病呻吟》时直接死在舞台上。",
+        "reality": "剧团记录显示，他演出后回家，于当晚在住所去世。"
+      }
+    },
+    {
+      "id": "pere-lachaise-oscar-wilde--budd-monument",
+      "poi_id": "pere-lachaise-oscar-wilde",
+      "title": "王尔德的墓，也曾让人不安",
+      "hook": "身后的雕像继续承受生前的目光。",
+      "body": "王尔德在1895年于英国遭到与同性恋有关的刑事定罪，后来在贫困中结束巴黎流亡生活。第89墓区的纪念碑由雅各布·爱泼斯坦创作，它自身也有一段争议。罗丹博物馆保存的1912年信件与照片提到，管理方要求雕塑家修改细节，而他不愿接受。于是墓前不只有一个作家的故事，还有另一个艺术家怎样坚持作品的经历。观察有翼形象的轮廓时，可以想想社会如何决定什么能公开被看见。纪念不需要留下唇印或触碰石面，读他的作品已经是更长久的靠近。",
+      "person_names": [
+        "奥斯卡·王尔德",
+        "雅各布·爱泼斯坦"
+      ],
+      "work_names": [
+        "道林·格雷的画像"
+      ],
+      "when": "王尔德1854—1900；墓碑争议信件1912年",
+      "why_here": "此墓由爱泼斯坦创作，罗丹博物馆收藏同时代信件与照片。",
+      "detail": "1912年9月18日的信记载管理方要求改动、艺术家拒绝的争议。",
+      "observable_cue": "第89墓区墓碑的有翼形象与王尔德姓名",
+      "source_urls": [
+        {
+          "url": "https://cdn.paris.fr/paris/2022/06/15/af4a0e52b30f73922586f6417625535f.pdf",
+          "title": "Map of the Père Lachaise Cemetery — 人名与墓区索引",
+          "publisher": "Ville de Paris"
+        },
+        {
+          "url": "https://parismusees.paris.fr/fr/exposition/oscar-wilde",
+          "title": "Oscar Wilde — Petit Palais展览",
+          "publisher": "Paris Musées"
+        },
+        {
+          "url": "https://collections.musee-rodin.fr/fr/document/tombe-d-oscar-wilde-par-jacob-epstein/6385d6b105c32181005b56fa",
+          "title": "Tombe d’Oscar Wilde par Jacob Epstein — 1912年9月18日信件与照片",
+          "publisher": "Musée Rodin"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "仅转述保存信件所记的争议；不据此虚构争论双方的原话。遵守现场保护设施。"
+    },
+    {
+      "id": "pere-lachaise-stein-toklas--budd-two-names",
+      "poi_id": "pere-lachaise-stein-toklas",
+      "title": "一个名人沙龙，原来有两个主人",
+      "hook": "这一次，把托克拉斯的名字也读完。",
+      "body": "第94墓区，格特鲁德·斯泰因与爱丽丝·托克拉斯长眠在同一处墓地。巴黎二十区的纪念路线特别把她们并列：一位是实验写作者，一位是伴侣与长期合作者，两人共同维系的沙龙让毕加索、海明威等人在巴黎相遇。如果你已经走过弗勒吕斯街27号，这里会把那个门牌变成一段更长的关系；若还没有，也可以从墓碑开始，追问名人故事中谁常被省略。留心能从通道看到的两人姓名，不必为了看背面越过邻墓。读到的不只是“某位作家的伴侣”，而是共同生活与工作的两个人。",
+      "person_names": [
+        "格特鲁德·斯泰因",
+        "爱丽丝·B.托克拉斯",
+        "巴勃罗·毕加索",
+        "欧内斯特·海明威"
+      ],
+      "work_names": [],
+      "when": "斯泰因1874—1946；托克拉斯1877—1967",
+      "why_here": "二十区市政资料明确记录两人在第94墓区同葬。",
+      "detail": "官方纪念路线并列两人的合作和共同沙龙，避免只留下斯泰因一个名字。",
+      "observable_cue": "第94墓区与从步道可见的姓名铭刻",
+      "source_urls": [
+        {
+          "url": "https://cdn.paris.fr/paris/2022/06/15/af4a0e52b30f73922586f6417625535f.pdf",
+          "title": "Map of the Père Lachaise Cemetery — 人名与墓区索引",
+          "publisher": "Ville de Paris"
+        },
+        {
+          "url": "https://mairie20.paris.fr/pages/decouvrez-le-pere-lachaise-a-travers-l-histoire-lgbtqia-35532",
+          "title": "Découvrez le Père-Lachaise à travers l’histoire LGBTQIA+",
+          "publisher": "Mairie du 20e arrondissement de Paris"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不依靠墓碑刻字推断未经核对的生卒细节；不声称两人拥有完全相同的创作职责。"
+    },
+    {
+      "id": "pere-lachaise-edith-piaf--budd-name",
+      "poi_id": "pere-lachaise-edith-piaf",
+      "title": "墓碑前，先认识叫Gassion的人",
+      "hook": "“小麻雀”是后来获得的名字。",
+      "body": "在第97墓区寻找皮雅芙，也是在寻找她的本名爱迪丝·加西翁。她走向舞台的转折有一个具体的人：夜总会经营者路易·勒普莱。巴黎市资料记述他发现她、让她从街头进入舞台；她的自传介绍也把这次机会与“La Môme Piaf”这个艺名联系起来。一个后来仿佛天生属于巴黎的声音，曾需要别人打开一扇门。走到这里，可在心里选一首听过的歌，再看看墓上的姓名。路线不以猜测她最悲惨的瞬间结束，而以职业经历里一次被听见、被给予机会的时刻结束。",
+      "person_names": [
+        "爱迪丝·皮雅芙",
+        "路易·勒普莱"
+      ],
+      "work_names": [
+        "Au bal de la chance"
+      ],
+      "when": "1935年前后的出道转折；1915—1963",
+      "why_here": "市政索引确认第97墓区；皮雅芙的自传介绍与市政步行资料可相互核对。",
+      "detail": "Gassion是本姓，“La Môme Piaf”与勒普莱提供舞台机会有关。",
+      "observable_cue": "第97墓区墓碑上的Piaf / Gassion相关姓名",
+      "source_urls": [
+        {
+          "url": "https://cdn.paris.fr/paris/2022/06/15/af4a0e52b30f73922586f6417625535f.pdf",
+          "title": "Map of the Père Lachaise Cemetery — 人名与墓区索引",
+          "publisher": "Ville de Paris"
+        },
+        {
+          "url": "https://www.paris.fr/pages/une-balade-sur-les-pas-d-edith-piaf-18776",
+          "title": "Une balade sur les pas d’Édith Piaf",
+          "publisher": "Ville de Paris"
+        },
+        {
+          "url": "https://www.bnfa.fr/livre?biblionumber=18635",
+          "title": "Au bal de la chance — 皮雅芙自传书目与内容介绍",
+          "publisher": "BNFA / Édith Piaf"
+        }
+      ],
+      "confidence": "documented",
+      "caveat": "不采用门阶出生传说，也不在本故事裁定不同口径的具体死亡日期；墓位坐标未核验。"
+    }
+  ],
+  "routes": [
+    {
+      "persona_id": "CTRL",
+      "title": "铜牌与传说，都要多看一眼",
+      "opening": "六次小核对：炼金术、电影首映、两条铜线、宪法与同名书店。标题里的“都写错了”是挑衅，不是结论；每站让证据决定相信多少。",
+      "closing": "最后带走一项轻巧技能：遇到名人故事，先问谁、何时、在哪个门牌，再让传说继续有趣。",
+      "stops": [
+        {
+          "poi_id": "maison-de-nicolas-flamel",
+          "story_id": "maison-de-nicolas-flamel--ctrl-charity",
+          "phase": "先看人",
+          "transition": "从有地产档案的弗拉梅尔出发，转往歌剧院区核对一次放映的地址。"
+        },
+        {
+          "poi_id": "salon-indien-grand-cafe",
+          "story_id": "salon-indien-grand-cafe--ctrl-two-cafes",
+          "phase": "核对地址",
+          "transition": "从嘉布遣大道前往皇家宫殿，把门牌的精确变成对铜牌年代的追问。"
+        },
+        {
+          "poi_id": "medaillons-arago",
+          "story_id": "medaillons-arago--ctrl-modern-bronze",
+          "phase": "读懂物件",
+          "transition": "跨河前往圣叙尔比斯；街上的现代铜盘与教堂里的天文铜线是不同器物。"
+        },
+        {
+          "poi_id": "saint-sulpice",
+          "story_id": "saint-sulpice--ctrl-sunlight",
+          "phase": "核对时间",
+          "transition": "走向奥德翁区，在普罗科普把名人传说放回1787年的日历。"
+        },
+        {
+          "poi_id": "le-procope",
+          "story_id": "le-procope--ctrl-franklin-dates",
+          "phase": "拆开叙事",
+          "transition": "沿左岸前往河边书店，检查最后一次同名地点的错位。"
+        },
+        {
+          "poi_id": "shakespeare-bucherie",
+          "story_id": "shakespeare-bucherie--ctrl-two-bookshops",
+          "phase": "收束",
+          "transition": "以两家书店各自值得记住的历史结束。"
+        }
+      ],
+      "duration_hint": "约半天；包括跨区移动及六次短停，不含长时间用餐。",
+      "walking_note": "跨歌剧院、皇家宫殿和左岸，建议分段步行并自选公共交通接驳；路线顺序服务于查证主题，未计算或保证总距离。"
+    },
+    {
+      "persona_id": "BLUE",
+      "title": "《午夜巴黎》的十二点魔法",
+      "opening": "白天看作品，黄昏走进电影，再把时间交还今天。每站都分清取景事实、真实人物经历与电影虚构；不必熬到午夜才有魔法。",
+      "closing": "最后在河边停一会儿。你可以爱过去，也可以把下一页写在今天。",
+      "stops": [
+        {
+          "poi_id": "musee-orangerie",
+          "story_id": "musee-orangerie--blue-real-time",
+          "phase": "白昼·看见作品",
+          "transition": "从橘园跨河去罗丹博物馆，把沉浸的观看换成对艺术人物的细读。"
+        },
+        {
+          "poi_id": "musee-rodin",
+          "story_id": "musee-rodin--blue-guide",
+          "phase": "白昼·听谁讲述",
+          "transition": "前往巴克街的德罗勒，进入一间被电影借用、也被现实重新建起的房间。"
+        },
+        {
+          "poi_id": "deyrolle",
+          "story_id": "deyrolle--blue-rebuild",
+          "phase": "黄昏·布景与生活",
+          "transition": "转向奥德翁区；波利多会把你从标本派对带到作家偶遇。"
+        },
+        {
+          "poi_id": "polidor",
+          "story_id": "polidor--blue-hemingway",
+          "phase": "入夜·虚构偶遇",
+          "transition": "走向圣热讷维耶芙山街台阶；路线按可行游览顺序，电影中的事件顺序不同。"
+        },
+        {
+          "poi_id": "saint-etienne-du-mont",
+          "story_id": "saint-etienne-du-mont--blue-midnight",
+          "phase": "午夜·叙事分界",
+          "transition": "接驳前往亚历山大三世桥，把想逃走的时刻带回今日巴黎。"
+        },
+        {
+          "poi_id": "pont-alexandre-iii",
+          "story_id": "pont-alexandre-iii--blue-present",
+          "phase": "尾声·回到当下",
+          "transition": "在桥上收束，也可白天到访；不以重现天气或镜头为任务。"
+        }
+      ],
+      "duration_hint": "可拆为两个半日；若两馆都入内，另计看展与排队时间。",
+      "walking_note": "这是一条日夜分段的取景路线；两馆、餐厅与商店各有开放要求，台阶到桥建议公共交通接驳。没有核算总步行距离，午夜到访不是必需。"
+    },
+    {
+      "persona_id": "MYTH",
+      "title": "海明威的穷日子",
+      "opening": "从一间租屋走到一份借阅记录，再让一顿饭结束散步。“穷”是海明威回望青春的讲法；我们同时看地址、档案与他如何写自己。",
+      "closing": "这一程留下的不是模仿贫穷的方法，而是写作需要住房、阅读、他人的帮助，也需要吃饭。",
+      "stops": [
+        {
+          "poi_id": "hemingway-cardinal-lemoine",
+          "story_id": "hemingway-cardinal-lemoine--myth-rented-life",
+          "phase": "租住",
+          "transition": "从74号转入附近的孔特斯卡普广场，看他写下却未必喜欢的日常。"
+        },
+        {
+          "poi_id": "place-de-la-contrescarpe",
+          "story_id": "place-de-la-contrescarpe--myth-avoid-cafe",
+          "phase": "走路",
+          "transition": "离开咖啡露台，前往卢森堡公园，跟随书中的行走主题。"
+        },
+        {
+          "poi_id": "jardin-du-luxembourg",
+          "story_id": "jardin-du-luxembourg--myth-hunger-looking",
+          "phase": "看画",
+          "transition": "从公园西侧往弗勒吕斯街，走向曾让青年作家学习的沙龙门牌。"
+        },
+        {
+          "poi_id": "stein-fleurus",
+          "story_id": "stein-fleurus--myth-salon",
+          "phase": "交谈",
+          "transition": "回到奥德翁街旧书店，把名人往来落实成可检索的档案。"
+        },
+        {
+          "poi_id": "shakespeare-odeon",
+          "story_id": "shakespeare-odeon--myth-library-card",
+          "phase": "借书",
+          "transition": "向圣日耳曼大道的利普前进，让阅读之后的一餐收束故事。"
+        },
+        {
+          "poi_id": "brasserie-lipp",
+          "story_id": "brasserie-lipp--myth-one-meal",
+          "phase": "吃饭",
+          "transition": "可以自选一处吃饭，不必复刻历史菜单。"
+        }
+      ],
+      "duration_hint": "约半天的慢走与阅读；不含用餐等候。",
+      "walking_note": "以左岸街区相连，仍需按当天公园出口与道路情况选路。旧住宅及旧书店仅看外观；不虚报总距离，也不把今天沿途消费称为廉价。"
+    },
+    {
+      "persona_id": "BUDD",
+      "title": "拉雪兹神父公墓的名人局",
+      "opening": "这里的“局”不必热闹。沿六处墓地，读演出、迁移、流亡、共同生活与被听见的经历；用墓区地图找路，把安静留给祭扫者。",
+      "closing": "离开时带走一个此前没留意的名字，或一部想读、想听的作品。让纪念继续发生在生活里。",
+      "stops": [
+        {
+          "poi_id": "pere-lachaise-jim-morrison",
+          "story_id": "pere-lachaise-jim-morrison--budd-listeners",
+          "phase": "听众还在",
+          "transition": "从第6墓区转向第11墓区，听另一位音乐家与两座城市的关系。"
+        },
+        {
+          "poi_id": "pere-lachaise-chopin",
+          "story_id": "pere-lachaise-chopin--budd-two-cities",
+          "phase": "两座城市",
+          "transition": "往第25墓区寻找莫里哀，换一种方式核对最后的演出。"
+        },
+        {
+          "poi_id": "pere-lachaise-moliere",
+          "story_id": "pere-lachaise-moliere--budd-last-performance",
+          "phase": "传说的结尾",
+          "transition": "前往较远的第89墓区；中途可休息，按官方地图选园路。"
+        },
+        {
+          "poi_id": "pere-lachaise-oscar-wilde",
+          "story_id": "pere-lachaise-oscar-wilde--budd-monument",
+          "phase": "被观看的自由",
+          "transition": "转往第94墓区，让一个纪念名字变成两个人的关系。"
+        },
+        {
+          "poi_id": "pere-lachaise-stein-toklas",
+          "story_id": "pere-lachaise-stein-toklas--budd-two-names",
+          "phase": "两个名字",
+          "transition": "前往第97墓区，在歌手的职业起点处收束人生故事。"
+        },
+        {
+          "poi_id": "pere-lachaise-edith-piaf",
+          "story_id": "pere-lachaise-edith-piaf--budd-name",
+          "phase": "被听见",
+          "transition": "按当日开放出口离园，不为走完路线赶入关闭区域。"
+        }
+      ],
+      "duration_hint": "约2—3小时含寻找、停留与休息；园内路径选择会改变用时。",
+      "walking_note": "六站均为公墓子POI，仅提供官方墓区号，精确墓位坐标全部留空。公墓父点仅供到达参考；园内有坡道和不平石路，本稿不是无障碍导航，不提供未经测量的总距离。"
+    }
+  ]
+}

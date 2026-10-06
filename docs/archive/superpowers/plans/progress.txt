@@ -1,0 +1,7 @@
+Plan: 2026-10-06-person-trails.md
+Ruling: workspace is not a git repository; use isolated v3 copy and preserve v2. No commit/merge/push applies.
+Task 1 complete: tests RED (3 missing functions/URL contract) -> GREEN 12/12.
+Tasks 2/3 complete: person trails, structured entity index, branch origin and click answers implemented.
+Task 4 browser flow passed; map test caught CSS collision (zero-height canvas) -> specific selector fixed. Marker constructor overwrote accessible labels -> label assigned after construction. Real map interaction checks pass.
+Independent review: no material findings; npm test independently 12/12.
+Limit: external tile availability and all inherited historical claims are not certified; long-term content audit remains.

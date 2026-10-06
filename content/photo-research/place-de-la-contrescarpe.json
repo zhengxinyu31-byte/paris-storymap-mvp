@@ -1,0 +1,16 @@
+{
+  "poi_id": "place-de-la-contrescarpe",
+  "query": "Place de la Contrescarpe",
+  "candidates": [
+    {
+      "title": "P1300182_Paris_V_place_Contrescarpe_rwk.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/P1300182_Paris_V_place_Contrescarpe_rwk.jpg/1280px-P1300182_Paris_V_place_Contrescarpe_rwk.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/P1300182_Paris_V_place_Contrescarpe_rwk.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source_url": "https://fr.wikipedia.org/wiki/Place_de_la_Contrescarpe",
+      "width": 1200,
+      "height": 907,
+      "description": "Place de la Contrescarpe",
+      "match_note": "法语百科该地点条目的主图；需目视核对"
+    }
+  ]
+}

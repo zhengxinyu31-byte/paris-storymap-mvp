@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "created_at": "2026-10-04",
+  "language": "zh-CN",
+  "city": "Paris",
+  "architecture": "poi_first_normalized",
+  "reference": {
+    "project": "paris-storymap",
+    "commit": "c1d190e776ea0e098202a81967638cf265b645d1",
+    "path": "demo/assets/index-BBaoC3QO.js",
+    "symbol": "z[0]: nerd",
+    "baseline_stops": 8,
+    "persona_framework": "lemi-wanders/knowledge-base/16人格选线框架.md"
+  },
+  "counts": {
+    "pois": 42,
+    "stories": 84,
+    "experiences": 60,
+    "sources": 79,
+    "personas": 16,
+    "routes": 16,
+    "new_routes": 15,
+    "reference_routes": 1,
+    "route_stop_references": 107
+  },
+  "publication_status": "editorial_review_package_not_navigation_release",
+  "query_order": [
+    "persona.default_route_id",
+    "route.default_stop_orders → route.stops",
+    "poi + experience + story",
+    "story.claims.source_ids"
+  ],
+  "release_gates": [
+    "逐站确认入口和当前访问限制",
+    "使用步行路网核验每段与总时长",
+    "核验默认入馆的时段预约和免费政策",
+    "实走检查休息与退出位置",
+    "补充授权照片后检查与POI对应关系"
+  ],
+  "runtime_ai_required": false,
+  "database_required": false,
+  "content_pois": 40,
+  "rest_support_pois": 2,
+  "baseline_adjustment": "NERD保留8站原骨架，默认建议6站短版，后2站为长步行延伸。",
+  "source_label_note": "primary表示机构、管理方或档案机构直接发布；商业机构自述不等于独立交叉验证。",
+  "content_selection_note": "6–8个故事站之外可插入公共休息服务点；服务POI不强行附名人故事。"
+}

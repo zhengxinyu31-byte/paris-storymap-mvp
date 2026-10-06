@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "cafe-de-flore",
+    "name_zh": "花神咖啡馆",
+    "name_fr": "Café de Flore",
+    "aliases": [
+      "花神",
+      "Flore"
+    ],
+    "category": "cafe",
+    "area": "Saint-Germain-des-Prés",
+    "address": "172 boulevard Saint-Germain, 75006 Paris",
+    "coordinates": {
+      "lat": 48.8542,
+      "lon": 2.3325,
+      "status": "approximate_map_pin",
+      "source_note": "沿用best研究稿48.8542,2.3325，未核验入口或定位精度。"
+    },
+    "selection_reason": "同一地点可分别讲哲学工作、先锋文学和文学奖，适合多线复用。",
+    "official_url": "https://cafedeflore.fr/",
+    "story_ids": [
+      "cafe-de-flore--workroom",
+      "cafe-de-flore--apollinaire",
+      "cafe-de-flore--prize"
+    ],
+    "experience_ids": [
+      "cafe-de-flore--exp-facade",
+      "cafe-de-flore--exp-reading"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "les-deux-magots",
+    "name_zh": "双叟咖啡馆",
+    "name_fr": "Les Deux Magots",
+    "aliases": [
+      "双叟",
+      "Deux Magots"
+    ],
+    "category": "cafe",
+    "area": "Saint-Germain-des-Prés",
+    "address": "6 place Saint-Germain-des-Prés, 75006 Paris",
+    "coordinates": {
+      "lat": 48.854,
+      "lon": 2.333,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "用店名物件和格诺文学奖提供不同于花神的知识切面。",
+    "official_url": "https://lesdeuxmagots.fr/",
+    "story_ids": [
+      "les-deux-magots--wooden-figures",
+      "les-deux-magots--queneau"
+    ],
+    "experience_ids": [
+      "les-deux-magots--exp-outside"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "saint-germain-des-pres",
+    "name_zh": "圣日耳曼德佩教堂",
+    "name_fr": "Église Saint-Germain-des-Prés",
+    "aliases": [
+      "圣日耳曼教堂",
+      "Saint Germain des Prés"
+    ],
+    "category": "church",
+    "area": "Saint-Germain-des-Prés",
+    "address": "Place Saint-Germain-des-Prés, 75006 Paris",
+    "coordinates": {
+      "lat": 48.8539,
+      "lon": 2.3334,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "咖啡馆旁的更长历史层，连接中世纪与思想记忆。",
+    "official_url": "https://eglise-saintgermaindespres.fr/",
+    "story_ids": [
+      "saint-germain-des-pres--layers",
+      "saint-germain-des-pres--descartes"
+    ],
+    "experience_ids": [
+      "saint-germain-des-pres--exp-tower",
+      "saint-germain-des-pres--exp-memorial"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "jardin-du-luxembourg",
+    "name_zh": "卢森堡公园",
+    "name_fr": "Jardin du Luxembourg",
+    "aliases": [
+      "卢森堡花园",
+      "Luxembourg",
+      "Luco"
+    ],
+    "category": "garden",
+    "area": "Luxembourg",
+    "address": "Jardin du Luxembourg, 75006 Paris",
+    "coordinates": {
+      "lat": 48.8464,
+      "lon": 2.3372,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "自然休息、女性作家纪念、园林改造可供不同人格复用。",
+    "official_url": "https://jardin.senat.fr/",
+    "story_ids": [
+      "jardin-du-luxembourg--medicis",
+      "jardin-du-luxembourg--george-sand",
+      "jardin-du-luxembourg--sartre-childhood"
+    ],
+    "experience_ids": [
+      "jardin-du-luxembourg--exp-pause"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "shakespeare-odeon",
+    "name_zh": "原莎士比亚书店旧址",
+    "name_fr": "Ancienne librairie Shakespeare and Company",
+    "aliases": [
+      "奥德翁街12号",
+      "Sylvia Beach书店",
+      "12 rue de l’Odéon"
+    ],
+    "category": "historic_address",
+    "area": "Odéon",
+    "address": "12 rue de l’Odéon, 75006 Paris",
+    "coordinates": {
+      "lat": 48.8517,
+      "lon": 2.3384,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "与现店严格分开，讲出版风险和借阅网络。",
+    "official_url": "https://shakespeareandco.princeton.edu/",
+    "story_ids": [
+      "shakespeare-odeon--ulysses",
+      "shakespeare-odeon--lending-library"
+    ],
+    "experience_ids": [
+      "shakespeare-odeon--exp-address"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "shakespeare-bucherie",
+    "name_zh": "莎士比亚书店现店",
+    "name_fr": "Shakespeare and Company",
+    "aliases": [
+      "莎士比亚书店",
+      "布什里街37号",
+      "George Whitman书店"
+    ],
+    "category": "bookshop",
+    "area": "Quartier latin",
+    "address": "37 rue de la Bûcherie, 75005 Paris",
+    "coordinates": {
+      "lat": 48.8526,
+      "lon": 2.3471,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "当代书店传统与旧店沿革分开；适合文学和轻松浏览线。",
+    "official_url": "https://www.shakespeareandcompany.com/",
+    "story_ids": [
+      "shakespeare-bucherie--two-bookshops",
+      "shakespeare-bucherie--tumbleweeds"
+    ],
+    "experience_ids": [
+      "shakespeare-bucherie--exp-front",
+      "shakespeare-bucherie--exp-browse"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "square-rene-viviani",
+    "name_zh": "勒内·维维亚尼广场花园",
+    "name_fr": "Square René Viviani",
+    "aliases": [
+      "维维亚尼花园",
+      "Square Viviani"
+    ],
+    "category": "garden",
+    "area": "Quartier latin",
+    "address": "2 rue du Fouarre, 75005 Paris",
+    "coordinates": {
+      "lat": 48.8522,
+      "lon": 2.3476,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "圣母院旁的短休息节点，容纳自然和记忆两条内容线。",
+    "official_url": "https://www.paris.fr/lieux/square-rene-viviani-2441",
+    "story_ids": [
+      "square-rene-viviani--robin-tree",
+      "square-rene-viviani--jeanclos"
+    ],
+    "experience_ids": [
+      "square-rene-viviani--exp-pause"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "notre-dame",
+    "name_zh": "巴黎圣母院",
+    "name_fr": "Cathédrale Notre-Dame de Paris",
+    "aliases": [
+      "Notre Dame",
+      "圣母院"
+    ],
+    "category": "cathedral",
+    "area": "Île de la Cité",
+    "address": "Parvis Notre-Dame – place Jean-Paul II, 75004 Paris",
+    "coordinates": {
+      "lat": 48.853,
+      "lon": 2.3499,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "同一经典建筑可讲雨果、修复创造与当代工艺，默认免费外观。",
+    "official_url": "https://www.notredamedeparis.fr/",
+    "story_ids": [
+      "notre-dame--hugo",
+      "notre-dame--restoration-authors",
+      "notre-dame--ongoing-care"
+    ],
+    "experience_ids": [
+      "notre-dame--exp-front"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "pantheon",
+    "name_zh": "巴黎先贤祠",
+    "name_fr": "Panthéon",
+    "aliases": [
+      "先贤祠",
+      "Pantheon"
+    ],
+    "category": "monument",
+    "area": "Quartier latin",
+    "address": "Place du Panthéon, 75005 Paris",
+    "coordinates": {
+      "lat": 48.8462,
+      "lon": 2.3464,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "国家纪念、女性科学家与傅科实验可供三种知识线共用。",
+    "official_url": "https://www.paris-pantheon.fr/",
+    "story_ids": [
+      "pantheon--church-nation",
+      "pantheon--curie",
+      "pantheon--foucault"
+    ],
+    "experience_ids": [
+      "pantheon--exp-square",
+      "pantheon--exp-optional-visit"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "saint-sulpice",
+    "name_zh": "圣叙尔比斯教堂",
+    "name_fr": "Église Saint-Sulpice",
+    "aliases": [
+      "圣叙尔皮斯",
+      "Saint Sulpice"
+    ],
+    "category": "church",
+    "area": "Saint-Sulpice",
+    "address": "Place Saint-Sulpice, 75006 Paris",
+    "coordinates": {
+      "lat": 48.851,
+      "lon": 2.3349,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "用可观察的壁画和日影仪，替代秘闻式内容。",
+    "official_url": "https://www.paroissesaintsulpice.paris/",
+    "story_ids": [
+      "saint-sulpice--delacroix",
+      "saint-sulpice--gnomon"
+    ],
+    "experience_ids": [
+      "saint-sulpice--exp-facade",
+      "saint-sulpice--exp-paintings"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "editions-gallimard",
+    "name_zh": "伽利玛出版社",
+    "name_fr": "Éditions Gallimard",
+    "aliases": [
+      "Gallimard",
+      "伽利玛",
+      "NRF"
+    ],
+    "category": "publisher",
+    "area": "Saint-Germain-des-Prés",
+    "address": "5 rue Gaston-Gallimard, 75007 Paris",
+    "coordinates": {
+      "lat": 48.8568,
+      "lon": 2.3281,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "保留原NERD起点，强调文学背后的出版机构。",
+    "official_url": "https://www.gallimard.fr/",
+    "story_ids": [
+      "editions-gallimard--publisher-not-printer"
+    ],
+    "experience_ids": [
+      "editions-gallimard--exp-door"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "brasserie-lipp",
+    "name_zh": "利普啤酒馆",
+    "name_fr": "Brasserie Lipp",
+    "aliases": [
+      "Lipp",
+      "利普"
+    ],
+    "category": "brasserie",
+    "area": "Saint-Germain-des-Prés",
+    "address": "151 boulevard Saint-Germain, 75006 Paris",
+    "coordinates": {
+      "lat": 48.8537,
+      "lon": 2.3325,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "保留原NERD节点，提供餐饮传统与街区日常视角。",
+    "official_url": "https://www.brasserielipp.fr/",
+    "story_ids": [
+      "brasserie-lipp--alsatian-table"
+    ],
+    "experience_ids": [
+      "brasserie-lipp--exp-sign"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "sartre-bonaparte",
+    "name_zh": "萨特波拿巴街故居外观",
+    "name_fr": "Ancien domicile de Sartre, rue Bonaparte",
+    "aliases": [
+      "萨特故居",
+      "42 rue Bonaparte"
+    ],
+    "category": "historic_address",
+    "area": "Saint-Germain-des-Prés",
+    "address": "42 rue Bonaparte, 75006 Paris",
+    "coordinates": {
+      "lat": 48.8541,
+      "lon": 2.3336,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "保留原线，用住所与工作习惯区分咖啡馆传奇。",
+    "official_url": "https://multimedia-ext.bnf.fr/pdf/Sartre3.pdf",
+    "story_ids": [
+      "sartre-bonaparte--settled-work"
+    ],
+    "experience_ids": [
+      "sartre-bonaparte--exp-address"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "le-tabou",
+    "name_zh": "塔布地下俱乐部旧址外观",
+    "name_fr": "Ancien Le Tabou",
+    "aliases": [
+      "Tabou",
+      "塔布",
+      "33 rue Dauphine"
+    ],
+    "category": "historic_music_venue",
+    "area": "Saint-Germain-des-Prés",
+    "address": "33 rue Dauphine, 75006 Paris",
+    "coordinates": {
+      "lat": 48.855,
+      "lon": 2.3392,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "原NERD爵士节点，历史俱乐部与今天的街面分开。",
+    "official_url": "https://www.paris.fr/pages/balade-dans-le-paris-enjazze-de-boris-vian-19064",
+    "story_ids": [
+      "le-tabou--vian-jazz"
+    ],
+    "experience_ids": [
+      "le-tabou--exp-address"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "beauvoir-schoelcher",
+    "name_zh": "波伏娃舍尔歇街故居外观",
+    "name_fr": "Ancien domicile de Simone de Beauvoir",
+    "aliases": [
+      "波伏娃故居",
+      "11bis rue Schœlcher",
+      "11 bis rue Victor Schœlcher"
+    ],
+    "category": "historic_address",
+    "area": "Montparnasse",
+    "address": "11 bis rue Victor Schœlcher, 75014 Paris",
+    "coordinates": {
+      "lat": 48.8376,
+      "lon": 2.33,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "原线女性思想家节点，连接工作空间与公共行动。",
+    "official_url": "https://www.paris.fr/pages/sur-les-pas-de-simone-de-beauvoir-ecrivaine-et-feministe-emblematique-de-paris-21516",
+    "story_ids": [
+      "beauvoir-schoelcher--working-room"
+    ],
+    "experience_ids": [
+      "beauvoir-schoelcher--exp-address"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "montparnasse-cemetery",
+    "name_zh": "蒙帕纳斯公墓",
+    "name_fr": "Cimetière du Montparnasse",
+    "aliases": [
+      "蒙帕纳斯墓园",
+      "萨特波伏娃合葬墓"
+    ],
+    "category": "cemetery",
+    "area": "Montparnasse",
+    "address": "3 boulevard Edgar-Quinet, 75014 Paris",
+    "coordinates": {
+      "lat": 48.8382,
+      "lon": 2.3267,
+      "status": "approximate_map_pin",
+      "source_note": "依据地址编辑粗定位；未现场或地理编码核验，不是入口坐标。"
+    },
+    "selection_reason": "保留原线终点；整个公墓为POI，合葬墓为内部观察目标。",
+    "official_url": "https://www.paris.fr/lieux/cimetiere-du-montparnasse-4082",
+    "story_ids": [
+      "montparnasse-cemetery--shared-grave"
+    ],
+    "experience_ids": [
+      "montparnasse-cemetery--exp-quiet-walk"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "louvre",
+    "name_zh": "卢浮宫",
+    "name_fr": "Musée du Louvre",
+    "aliases": [
+      "Louvre",
+      "卢浮宫博物馆",
+      "玻璃金字塔"
+    ],
+    "category": "museum",
+    "area": "右岸·卢浮宫",
+    "address": "Cour Napoléon / Rue de Rivoli, 75001 Paris",
+    "coordinates": {
+      "lat": 48.8606,
+      "lon": 2.3376,
+      "status": "approximate_map_pin",
+      "source_note": "沿用 best-main 知识库卢浮宫地图点，降级标记为近似点；不能据此认定入口或免排队路径。"
+    },
+    "selection_reason": "同一文化地标提供工程、个人技艺与公共收藏三种故事；免费外观可以独立成站。",
+    "official_url": "https://www.louvre.fr/",
+    "story_ids": [
+      "louvre-pei-circulation",
+      "louvre-leonardo-sfumato",
+      "louvre-veronese-banquet"
+    ],
+    "experience_ids": [
+      "louvre-courtyard-look",
+      "louvre-museum-upgrade"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "palais-royal",
+    "name_zh": "皇家宫殿花园",
+    "name_fr": "Domaine national du Palais-Royal",
+    "aliases": [
+      "Palais Royal",
+      "Palais-Royal",
+      "皇宫花园",
+      "布伦柱"
+    ],
+    "category": "garden",
+    "area": "右岸·皇家宫殿",
+    "address": "Jardin du Palais-Royal, 75001 Paris",
+    "coordinates": {
+      "lat": 48.8654,
+      "lon": 2.3375,
+      "status": "approximate_map_pin",
+      "source_note": "沿用 best-main 花园中央近似点；科莱特与科克托旧居分别在边缘街道，不把中心点当旧居坐标。"
+    },
+    "selection_reason": "同一花园用文学日常、艺术伴侣和当代视觉规则复用；适合低成本慢走与休息。",
+    "official_url": "https://www.domaine-palais-royal.fr/",
+    "story_ids": [
+      "palais-royal-colette-neighbour",
+      "palais-royal-cocteau-marais",
+      "palais-royal-buren-perspective"
+    ],
+    "experience_ids": [
+      "palais-royal-garden-rest",
+      "palais-royal-buren-look"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "comedie-francaise",
+    "name_zh": "法兰西喜剧院",
+    "name_fr": "Comédie-Française — Salle Richelieu",
+    "aliases": [
+      "Comedie Francaise",
+      "法国喜剧院",
+      "莫里哀之家"
+    ],
+    "category": "theatre",
+    "area": "右岸·皇家宫殿",
+    "address": "Place Colette, 75001 Paris",
+    "coordinates": {
+      "lat": 48.8632,
+      "lon": 2.3364,
+      "status": "approximate_map_pin",
+      "source_note": "沿用 best-main 科莱特广场一侧的近似地图点；不是已核验入口或票务柜台。"
+    },
+    "selection_reason": "邻近花园，可用机构记忆和剧团协作两个角度免费读外观。",
+    "official_url": "https://www.comedie-francaise.fr/",
+    "story_ids": [
+      "comedie-francaise-moliere-afterlife",
+      "comedie-francaise-armande-collective"
+    ],
+    "experience_ids": [
+      "comedie-francaise-facade-reading"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "bnf-richelieu",
+    "name_zh": "法国国家图书馆黎塞留馆",
+    "name_fr": "BnF — site Richelieu",
+    "aliases": [
+      "BnF Richelieu",
+      "Richelieu",
+      "Salle Ovale",
+      "椭圆阅览室",
+      "法国国家图书馆"
+    ],
+    "category": "library",
+    "area": "右岸·黎塞留—维维安",
+    "address": "5 rue Vivienne / 58 rue de Richelieu, 75002 Paris",
+    "coordinates": {
+      "lat": 48.8673,
+      "lon": 2.3386,
+      "status": "approximate_map_pin",
+      "source_note": "编辑按场馆位置设置的近似地图点；未核验为游客入口。"
+    },
+    "selection_reason": "以免费公共阅览空间连接建筑科学和知识开放；研究区与公共区分开。",
+    "official_url": "https://www.bnf.fr/fr/richelieu",
+    "story_ids": [
+      "bnf-richelieu-labrouste-daylight",
+      "bnf-richelieu-pascal-public"
+    ],
+    "experience_ids": [
+      "bnf-richelieu-site-look",
+      "bnf-richelieu-oval-reading"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "galerie-vivienne",
+    "name_zh": "维维安拱廊",
+    "name_fr": "Galerie Vivienne",
+    "aliases": [
+      "Galerie Vivienne",
+      "维维安长廊",
+      "薇薇安拱廊"
+    ],
+    "category": "covered_passage",
+    "area": "右岸·黎塞留—维维安",
+    "address": "4 rue des Petits-Champs / 6 rue Vivienne, 75002 Paris",
+    "coordinates": {
+      "lat": 48.8667,
+      "lon": 2.3399,
+      "status": "approximate_map_pin",
+      "source_note": "编辑按场馆位置设置的近似地图点；未核验为游客入口。"
+    },
+    "selection_reason": "免费、有顶的短步行节点，提供商业空间创新与工艺两种观看方法。",
+    "official_url": "https://www.galerie-vivienne.com/",
+    "story_ids": [
+      "galerie-vivienne-marchoux-commerce",
+      "galerie-vivienne-facchina-mosaic"
+    ],
+    "experience_ids": [
+      "galerie-vivienne-covered-walk"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "jardin-des-tuileries",
+    "name_zh": "杜伊勒里花园",
+    "name_fr": "Jardin des Tuileries",
+    "aliases": [
+      "Tuileries",
+      "杜乐丽花园",
+      "杜伊勒里公园"
+    ],
+    "category": "garden",
+    "area": "右岸·杜伊勒里",
+    "address": "Jardin des Tuileries, 75001 Paris",
+    "coordinates": {
+      "lat": 48.8636,
+      "lon": 2.3273,
+      "status": "approximate_map_pin",
+      "source_note": "编辑按场馆位置设置的近似地图点；未核验为游客入口。"
+    },
+    "selection_reason": "连接卢浮宫与橘园的低消费休息节点；王室历史与几何景观两种叙事可共享。",
+    "official_url": "https://www.louvre.fr/en/explore/the-palace/from-royal-garden-to-public-park",
+    "story_ids": [
+      "jardin-des-tuileries-catherine-absence",
+      "jardin-des-tuileries-lenotre-geometry"
+    ],
+    "experience_ids": [
+      "jardin-des-tuileries-garden-pause",
+      "jardin-des-tuileries-axis-walk"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "musee-orangerie",
+    "name_zh": "橘园美术馆",
+    "name_fr": "Musée de l’Orangerie",
+    "aliases": [
+      "Orangerie",
+      "橘园",
+      "睡莲展厅"
+    ],
+    "category": "museum",
+    "area": "右岸·杜伊勒里",
+    "address": "Jardin des Tuileries, Place de la Concorde côté Seine, 75001 Paris",
+    "coordinates": {
+      "lat": 48.8638,
+      "lon": 2.3226,
+      "status": "approximate_map_pin",
+      "source_note": "沿用 best-main 橘园近似地图点；不宣称是馆门或最佳机位。"
+    },
+    "selection_reason": "花园免费外观为基础；莫奈沉浸空间及收藏者公共化两个角度，入馆可选。",
+    "official_url": "https://www.musee-orangerie.fr/",
+    "story_ids": [
+      "musee-orangerie-monet-peace",
+      "musee-orangerie-guillaume-public"
+    ],
+    "experience_ids": [
+      "musee-orangerie-garden-exterior",
+      "musee-orangerie-museum-upgrade"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "place-vendome",
+    "name_zh": "旺多姆广场",
+    "name_fr": "Place Vendôme",
+    "aliases": [
+      "Vendome",
+      "Place Vendome",
+      "旺多姆柱",
+      "凡登广场"
+    ],
+    "category": "square",
+    "area": "右岸·旺多姆",
+    "address": "Place Vendôme, 75001 Paris",
+    "coordinates": {
+      "lat": 48.8675,
+      "lon": 2.3294,
+      "status": "approximate_map_pin",
+      "source_note": "编辑按场馆位置设置的近似地图点；未核验为游客入口。"
+    },
+    "selection_reason": "公共广场把城市设计、战争记忆和酒店文学连在一起，适合短暂停留。",
+    "official_url": "https://parisjetaime.com/culture/colonne-vendome-p975",
+    "story_ids": [
+      "place-vendome-mansart-square",
+      "place-vendome-napoleon-column"
+    ],
+    "experience_ids": [
+      "place-vendome-square-observe"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "ritz-paris",
+    "name_zh": "巴黎丽兹酒店",
+    "name_fr": "Ritz Paris",
+    "aliases": [
+      "Ritz",
+      "丽兹",
+      "里兹",
+      "Bar Hemingway",
+      "Salon Proust"
+    ],
+    "category": "hotel",
+    "area": "右岸·旺多姆",
+    "address": "15 place Vendôme, 75001 Paris",
+    "coordinates": {
+      "lat": 48.8681,
+      "lon": 2.3283,
+      "status": "approximate_map_pin",
+      "source_note": "沿用 best-main 丽兹近似地图点；默认停留在广场公共区域，不把酒店内部当免费公共空间。"
+    },
+    "selection_reason": "共享同一外观点，分别用海明威与普鲁斯特切入；高价消费只做可选升级。",
+    "official_url": "https://www.ritzparis.com/",
+    "story_ids": [
+      "ritz-paris-hemingway-naming",
+      "ritz-paris-proust-second-home"
+    ],
+    "experience_ids": [
+      "ritz-paris-public-facade",
+      "ritz-paris-tea-bar-upgrade"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "palais-garnier",
+    "name_zh": "加尼叶歌剧院",
+    "name_fr": "Palais Garnier",
+    "aliases": [
+      "Opera Garnier",
+      "Opéra Garnier",
+      "巴黎歌剧院",
+      "加尼耶歌剧院"
+    ],
+    "category": "theatre",
+    "area": "右岸·歌剧院",
+    "address": "Place de l’Opéra, 75009 Paris",
+    "coordinates": {
+      "lat": 48.872,
+      "lon": 2.3316,
+      "status": "approximate_map_pin",
+      "source_note": "沿用 best-main 歌剧院近似地图点；游客内访入口须另查官方，不能把定位点当游客门。"
+    },
+    "selection_reason": "建筑、现代天顶画与古典音乐绘画三条不同人物故事共用一座剧院；免费外观为基础。",
+    "official_url": "https://www.operadeparis.fr/apropos/theatres-et-ateliers/palais-garnier",
+    "story_ids": [
+      "palais-garnier-charles-social-stage",
+      "palais-garnier-chagall-ceiling",
+      "palais-garnier-baudry-foyer"
+    ],
+    "experience_ids": [
+      "palais-garnier-facade-stop",
+      "palais-garnier-interior-upgrade"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "moulin-rouge",
+    "name_zh": "红磨坊",
+    "name_fr": "Moulin Rouge",
+    "aliases": [
+      "红磨坊歌舞厅"
+    ],
+    "category": "cabaret",
+    "area": "Montmartre / 巴黎18区",
+    "address": "82 boulevard de Clichy, 75018 Paris",
+    "coordinates": {
+      "lat": 48.88417,
+      "lon": 2.3325,
+      "status": "approximate_map_pin",
+      "source_note": "近似点沿用lemi知识库红磨坊地图坐标；地址采用经营者页脚当前地址；仅为地图展示近似点，未经现场入口或无障碍入口测量。"
+    },
+    "selection_reason": "山脚即可从外部识别的文化地标，可切换商业、绘画与人物观察叙事。",
+    "official_url": "https://www.moulinrouge.fr/",
+    "story_ids": [
+      "moulin-rouge-opening",
+      "moulin-rouge-poster",
+      "moulin-rouge-observer"
+    ],
+    "experience_ids": [
+      "moulin-rouge-exterior"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "cafe-des-deux-moulins",
+    "name_zh": "双风车咖啡馆",
+    "name_fr": "Café des Deux Moulins",
+    "aliases": [
+      "Café des 2 Moulins",
+      "艾米莉咖啡馆",
+      "天使爱美丽咖啡馆"
+    ],
+    "category": "cafe",
+    "area": "Montmartre / 巴黎18区",
+    "address": "15 rue Lepic, 75018 Paris",
+    "coordinates": {
+      "lat": 48.884931,
+      "lon": 2.333611,
+      "status": "approximate_map_pin",
+      "source_note": "近似点沿用lemi艾米莉知识库咖啡馆坐标；地址经店方页面核验；仅为地图展示近似点，未经现场入口或无障碍入口测量。"
+    },
+    "selection_reason": "电影与现实日常并置，适合短停与可选休息，无需继续整段爬坡。",
+    "official_url": "https://cafedesdeuxmoulins.fr/fr/",
+    "story_ids": [
+      "cafe-des-deux-moulins-amelie",
+      "cafe-des-deux-moulins-living-bistro"
+    ],
+    "experience_ids": [
+      "cafe-des-deux-moulins-street",
+      "cafe-des-deux-moulins-coffee"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "bateau-lavoir",
+    "name_zh": "洗衣船艺术家工作室",
+    "name_fr": "Le Bateau-Lavoir",
+    "aliases": [
+      "洗衣船",
+      "毕加索洗衣船"
+    ],
+    "category": "artist_residence",
+    "area": "Montmartre / 巴黎18区",
+    "address": "13–13 bis place Émile-Goudeau, 75018 Paris",
+    "coordinates": {
+      "lat": 48.8859,
+      "lon": 2.33802,
+      "status": "approximate_map_pin",
+      "source_note": "近似点沿用lemi艺术知识库洗衣船坐标；门牌经蒙马特博物馆核验；仅为地图展示近似点，未经现场入口或无障碍入口测量。"
+    },
+    "selection_reason": "把现代艺术联系到真实创作社区，并用重建事实避免“原封不动旧居”误读。",
+    "official_url": "https://museedemontmartre.fr/le-bateau-lavoir/",
+    "story_ids": [
+      "bateau-lavoir-picasso",
+      "bateau-lavoir-rebuilding"
+    ],
+    "experience_ids": [
+      "bateau-lavoir-square"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "place-dalida",
+    "name_zh": "达莉达广场",
+    "name_fr": "Place Dalida",
+    "aliases": [
+      "Dalida广场",
+      "达丽达广场"
+    ],
+    "category": "public_art",
+    "area": "Montmartre / 巴黎18区",
+    "address": "Angle rue de l’Abreuvoir / rue Girardon, 75018 Paris",
+    "coordinates": {
+      "lat": 48.8881,
+      "lon": 2.3383,
+      "status": "approximate_map_pin",
+      "source_note": "新增编辑估算点，依据市政确认的Abreuvoir与Girardon路口位置，未获得官方数值坐标；仅为地图展示近似点，未经现场入口或无障碍入口测量。"
+    },
+    "selection_reason": "用公共雕塑与歌手选择社区的故事提供短而安静的文化停留。",
+    "official_url": "https://www.paris.fr/pages/une-balade-sur-les-pas-de-dalida-19037",
+    "story_ids": [
+      "place-dalida-bust",
+      "place-dalida-chosen-home"
+    ],
+    "experience_ids": [
+      "place-dalida-portrait"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "passe-muraille",
+    "name_zh": "穿墙人雕像",
+    "name_fr": "Le Passe-Muraille",
+    "aliases": [
+      "穿墙人",
+      "Place Marcel-Aymé",
+      "马塞尔·埃梅广场"
+    ],
+    "category": "public_art",
+    "area": "Montmartre / 巴黎18区",
+    "address": "2 place Marcel-Aymé, 75018 Paris",
+    "coordinates": {
+      "lat": 48.8878,
+      "lon": 2.3383,
+      "status": "approximate_map_pin",
+      "source_note": "新增编辑估算点，依据SAMA确认的2 place Marcel-Aymé，未获得官方数值坐标；仅为地图展示近似点，未经现场入口或无障碍入口测量。"
+    },
+    "selection_reason": "虚构文学与作者真实生活在同一个公共装置中相遇，可做轻量观察游戏。",
+    "official_url": "https://www.marcelayme.net/",
+    "story_ids": [
+      "passe-muraille-fiction",
+      "passe-muraille-author-and-sculptor"
+    ],
+    "experience_ids": [
+      "passe-muraille-imagination"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "musee-montmartre",
+    "name_zh": "蒙马特博物馆与雷诺阿花园",
+    "name_fr": "Musée de Montmartre — Jardins Renoir",
+    "aliases": [
+      "蒙马特博物馆",
+      "雷诺阿花园"
+    ],
+    "category": "museum",
+    "area": "Montmartre / 巴黎18区",
+    "address": "12 rue Cortot, 75018 Paris",
+    "coordinates": {
+      "lat": 48.8877,
+      "lon": 2.3406,
+      "status": "approximate_map_pin",
+      "source_note": "近似点沿用lemi艺术知识库博物馆坐标；地址经文化部登记核验；仅为地图展示近似点，未经现场入口或无障碍入口测量。"
+    },
+    "selection_reason": "同一地点可切换印象派花园、女性艺术家画室和社区记忆三种故事；入内需持票。",
+    "official_url": "https://museedemontmartre.fr/",
+    "story_ids": [
+      "musee-montmartre-renoir",
+      "musee-montmartre-valadon",
+      "musee-montmartre-community-memory"
+    ],
+    "experience_ids": [
+      "musee-montmartre-entrance",
+      "musee-montmartre-atelier",
+      "musee-montmartre-garden"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "sacre-coeur",
+    "name_zh": "圣心堂",
+    "name_fr": "Basilique du Sacré-Cœur de Montmartre",
+    "aliases": [
+      "圣心大教堂",
+      "Sacré-Coeur"
+    ],
+    "category": "monument",
+    "area": "Montmartre / 巴黎18区",
+    "address": "Parvis du Sacré-Cœur / 35 rue du Chevalier de la Barre, 75018 Paris",
+    "coordinates": {
+      "lat": 48.88694,
+      "lon": 2.34306,
+      "status": "approximate_map_pin",
+      "source_note": "近似点沿用lemi艾米莉知识库圣心堂坐标；非指定入口；仅为地图展示近似点，未经现场入口或无障碍入口测量。"
+    },
+    "selection_reason": "经典共享点，可切换建筑时间线、室内马赛克与宗教场所日常；外观与入内分开。",
+    "official_url": "https://www.sacre-coeur-montmartre.com/",
+    "story_ids": [
+      "sacre-coeur-building",
+      "sacre-coeur-mosaic",
+      "sacre-coeur-living-sanctuary"
+    ],
+    "experience_ids": [
+      "sacre-coeur-parvis",
+      "sacre-coeur-mosaic-visit"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "place-du-tertre",
+    "name_zh": "小丘广场",
+    "name_fr": "Place du Tertre",
+    "aliases": [
+      "画家广场",
+      "特尔特广场"
+    ],
+    "category": "square",
+    "area": "Montmartre / 巴黎18区",
+    "address": "Place du Tertre, 75018 Paris",
+    "coordinates": {
+      "lat": 48.886667,
+      "lon": 2.340833,
+      "status": "approximate_map_pin",
+      "source_note": "近似点沿用lemi艺术知识库小丘广场坐标；仅为地图展示近似点，未经现场入口或无障碍入口测量。"
+    },
+    "selection_reason": "可观察的当代创作现场，加上画家与摄影师留下的城市视角；外部短停即可。",
+    "official_url": "https://www.paris.fr/pages/lieux-de-diffusion-artistiques-3540/",
+    "story_ids": [
+      "place-du-tertre-public-studio",
+      "place-du-tertre-two-gazes"
+    ],
+    "experience_ids": [
+      "place-du-tertre-observe-art"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "tour-eiffel",
+    "name_zh": "埃菲尔铁塔",
+    "name_fr": "Tour Eiffel",
+    "aliases": [
+      "埃菲尔铁塔",
+      "Tour Eiffel"
+    ],
+    "category": "landmark",
+    "area": "铁塔与塞纳河西段",
+    "address": "Champ de Mars, 5 avenue Anatole France, 75007 Paris",
+    "coordinates": {
+      "lat": 48.8583,
+      "lon": 2.29448,
+      "status": "approximate_map_pin",
+      "source_note": "编辑定位的近似地图点，非入口坐标；须路网与现场复核。"
+    },
+    "selection_reason": "同一经典地标可切换工程团队与现代绘画角度，外观不依赖登塔。",
+    "official_url": "https://www.toureiffel.paris/fr/le-monument/histoire",
+    "story_ids": [
+      "tour-eiffel-engineers",
+      "tour-eiffel-delaunay"
+    ],
+    "experience_ids": [
+      "tour-eiffel-look",
+      "tour-eiffel-ascend"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "trocadero",
+    "name_zh": "特罗卡德罗花园",
+    "name_fr": "Jardins du Trocadéro",
+    "aliases": [
+      "特罗卡德罗花园",
+      "Jardins du Trocadéro"
+    ],
+    "category": "garden",
+    "area": "铁塔与塞纳河西段",
+    "address": "Place du Trocadéro et du 11 Novembre, 75016 Paris",
+    "coordinates": {
+      "lat": 48.86115,
+      "lon": 2.2891,
+      "status": "approximate_map_pin",
+      "source_note": "编辑定位的近似地图点，非入口坐标；须路网与现场复核。"
+    },
+    "selection_reason": "用熟悉的铁塔观景点讲园林风格与世博留下的城市层次。",
+    "official_url": "https://www.paris.fr/lieux/jardins-du-trocadero-1789",
+    "story_ids": [
+      "trocadero-alphand",
+      "trocadero-chaillot"
+    ],
+    "experience_ids": [
+      "trocadero-garden-look"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "passerelle-debilly",
+    "name_zh": "德比利人行桥",
+    "name_fr": "Passerelle Debilly",
+    "aliases": [
+      "德比利人行桥",
+      "Passerelle Debilly"
+    ],
+    "category": "bridge",
+    "area": "铁塔与塞纳河西段",
+    "address": "Quai de New York / Quai Branly, Paris",
+    "coordinates": {
+      "lat": 48.86314,
+      "lon": 2.29675,
+      "status": "approximate_map_pin",
+      "source_note": "编辑定位的近似地图点，非入口坐标；须路网与现场复核。"
+    },
+    "selection_reason": "桥梁本身有清晰的世博来历，同时承担过河与短看河景的功能。",
+    "official_url": "https://www.paris.fr/pages/sur-les-traces-des-expositions-universelles-de-paris-2-2-19671",
+    "story_ids": [
+      "passerelle-debilly-temporary",
+      "passerelle-debilly-resal"
+    ],
+    "experience_ids": [
+      "passerelle-debilly-cross"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "quai-branly",
+    "name_zh": "布朗利码头博物馆花园与植物墙",
+    "name_fr": "Musée du quai Branly – Jacques Chirac",
+    "aliases": [
+      "布朗利码头博物馆花园与植物墙",
+      "Musée du quai Branly – Jacques Chirac"
+    ],
+    "category": "museum-garden",
+    "area": "铁塔与塞纳河西段",
+    "address": "37 quai Branly, 75007 Paris",
+    "coordinates": {
+      "lat": 48.861,
+      "lon": 2.2976,
+      "status": "approximate_map_pin",
+      "source_note": "编辑定位的近似地图点，非入口坐标；须路网与现场复核。"
+    },
+    "selection_reason": "不进展厅也能接触建筑与植物科普，提供地标之间的缓冲。",
+    "official_url": "https://www.quaibranly.fr/fr/les-espaces/le-jardin",
+    "story_ids": [
+      "quai-branly-patrick-blanc",
+      "quai-branly-gilles-clement"
+    ],
+    "experience_ids": [
+      "quai-branly-wall",
+      "quai-branly-garden-rest"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "champ-de-mars",
+    "name_zh": "战神广场公园",
+    "name_fr": "Parc du Champ de Mars",
+    "aliases": [
+      "战神广场公园",
+      "Parc du Champ de Mars"
+    ],
+    "category": "garden",
+    "area": "铁塔与塞纳河西段",
+    "address": "2 allée Adrienne-Lecouvreur, 75007 Paris",
+    "coordinates": {
+      "lat": 48.85565,
+      "lon": 2.2986,
+      "status": "approximate_map_pin",
+      "source_note": "编辑定位的近似地图点，非入口坐标；须路网与现场复核。"
+    },
+    "selection_reason": "经典景观中的休息站；从公共生活和园林设计两种角度讲同一片空间。",
+    "official_url": "https://www.paris.fr/lieux/parc-du-champ-de-mars-1807",
+    "story_ids": [
+      "champ-de-mars-formige",
+      "champ-de-mars-gathering"
+    ],
+    "experience_ids": [
+      "champ-de-mars-rest"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "pont-bir-hakeim",
+    "name_zh": "比尔哈凯姆桥",
+    "name_fr": "Pont de Bir-Hakeim",
+    "aliases": [
+      "比尔哈凯姆桥",
+      "Pont de Bir-Hakeim"
+    ],
+    "category": "bridge",
+    "area": "铁塔与塞纳河西段",
+    "address": "Pont de Bir-Hakeim, 75015 / 75016 Paris",
+    "coordinates": {
+      "lat": 48.85565,
+      "lon": 2.28865,
+      "status": "approximate_map_pin",
+      "source_note": "编辑定位的近似地图点，非入口坐标；须路网与现场复核。"
+    },
+    "selection_reason": "既是交通设施，也是电影取景地；工程与影像两种叙事可复用。",
+    "official_url": "https://www.paris.fr/pages/le-pont-bir-hakeim-retrouve-une-seconde-jeunesse-cet-ete-8169",
+    "story_ids": [
+      "pont-bir-hakeim-double-deck",
+      "pont-bir-hakeim-inception"
+    ],
+    "experience_ids": [
+      "pont-bir-hakeim-walkway"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin"
+  },
+  {
+    "id": "square-felix-desruelles",
+    "name_zh": "费利克斯·德吕埃勒广场花园",
+    "name_fr": "Square Félix Desruelles",
+    "aliases": [
+      "费利克斯·德吕埃勒广场花园",
+      "Square Félix Desruelles"
+    ],
+    "category": "rest_support",
+    "area": "圣日耳曼",
+    "address": "168 bis boulevard Saint-Germain, 75006 Paris",
+    "coordinates": {
+      "lat": 48.85372,
+      "lon": 2.33405,
+      "status": "approximate_map_pin",
+      "source_note": "根据官网门牌作编辑近似定位，非勘查入口。"
+    },
+    "selection_reason": "为附近故事站提供不依赖消费的休息选择，不硬编名人轶事。",
+    "official_url": "https://www.paris.fr/lieux/square-felix-desruelles-2456",
+    "story_ids": [],
+    "experience_ids": [
+      "square-felix-desruelles-rest"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin",
+    "source_ids": [
+      "support-square-felix-desruelles"
+    ]
+  },
+  {
+    "id": "square-suzanne-buisson",
+    "name_zh": "苏珊娜·比松广场花园",
+    "name_fr": "Square Suzanne Buisson",
+    "aliases": [
+      "苏珊娜·比松广场花园",
+      "Square Suzanne Buisson"
+    ],
+    "category": "rest_support",
+    "area": "蒙马特",
+    "address": "7 bis rue Girardon, 75018 Paris",
+    "coordinates": {
+      "lat": 48.88725,
+      "lon": 2.3378,
+      "status": "approximate_map_pin",
+      "source_note": "根据官网门牌作编辑近似定位，非勘查入口。"
+    },
+    "selection_reason": "为附近故事站提供不依赖消费的休息选择，不硬编名人轶事。",
+    "official_url": "https://www.paris.fr/lieux/square-suzanne-buisson-2688",
+    "story_ids": [],
+    "experience_ids": [
+      "square-suzanne-buisson-rest"
+    ],
+    "entrance": {
+      "coordinates": null,
+      "status": "pending_field_check"
+    },
+    "media": [],
+    "media_status": "rights_not_collected",
+    "content_status": "source_reviewed",
+    "location_status": "approximate_map_pin",
+    "source_ids": [
+      "support-square-suzanne-buisson"
+    ]
+  }
+]

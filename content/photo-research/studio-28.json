@@ -1,0 +1,81 @@
+{
+  "poi_id": "studio-28",
+  "query": "\"Studio 28\" Paris",
+  "candidates": [
+    {
+      "title": "File:Studio 28 luminaires Jean Cocteau.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Studio_28_luminaires_Jean_Cocteau.jpg/1280px-Studio_28_luminaires_Jean_Cocteau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Studio_28_luminaires_Jean_Cocteau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Studio_28_luminaires_Jean_Cocteau.jpg",
+      "width": 1100,
+      "height": 623,
+      "description": "The luminaries created by Jean Cocteau for the Studio 28 cinema in Paris.",
+      "author": "Tatvam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-12-23 20:02:07",
+      "original_width": 1993,
+      "original_height": 1129
+    },
+    {
+      "title": "File:Studio 28 salle.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Studio_28_salle.jpg/1280px-Studio_28_salle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Studio_28_salle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Studio_28_salle.jpg",
+      "width": 1100,
+      "height": 696,
+      "description": "Salle de projection du cinéma Studio 28 à Paris avec les luminaires créés par Jean Cocteau.",
+      "author": "Tatvam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-12-23 23:57:57",
+      "original_width": 1998,
+      "original_height": 1264
+    },
+    {
+      "title": "File:Studio 28 luminaires Cocteau.png",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Studio_28_luminaires_Cocteau.png/1280px-Studio_28_luminaires_Cocteau.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Studio_28_luminaires_Cocteau.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Studio_28_luminaires_Cocteau.png",
+      "width": 1100,
+      "height": 623,
+      "description": "Les luminaires créés par Jean Cocteau pour le cinéma Studio 28 à Paris.",
+      "author": "Tatvam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-12-23",
+      "original_width": 1993,
+      "original_height": 1129
+    },
+    {
+      "title": "File:Studio 28 11.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Studio_28_11.jpg/1280px-Studio_28_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Studio_28_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Studio_28_11.jpg",
+      "width": 1100,
+      "height": 1467,
+      "description": "au 10 rue Tholozé - Paris XVIII",
+      "author": "Martin Greslou",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2011-10-26 16:58:00",
+      "original_width": 1536,
+      "original_height": 2048
+    },
+    {
+      "title": "File:Studio 28.JPG",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Studio_28.JPG/1280px-Studio_28.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Studio_28.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Studio_28.JPG",
+      "width": 1100,
+      "height": 825,
+      "description": "The movie theater Studio 28 in Paris at rue Tholozé.",
+      "author": "LPLT",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2010-06-27",
+      "original_width": 3072,
+      "original_height": 2304
+    }
+  ]
+}

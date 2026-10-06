@@ -1,0 +1,14 @@
+Approved scope: implement prior six-part gap analysis, centered on paris-storymap. User explicitly authorized completing KB and new preview. No repeated approval gate.
+Isolated workspace paris-demo-v2, old demo preserved, root not git.
+1. Import source POIs and all associations with provenance. Enrich original eight-story narrative; fill original themes with sourced stories; preserve original research and flag unverified facts.
+2. Normalize POI -> multiple stories -> route selections -> persona recommendation. Sources attached to each claim, not confidence inferred from domain count.
+3. Restore original editorial/map/timeline experience: all eight NERD chapters, character cards, alternate stories, entity browsing, myth cards, related routes, optional local save/read status.
+4. Verify references and content coverage, core state tests, desktop/mobile deep-links & interactions, production build, fresh review, preview and archive.
+Ruling: reuse existing React/MapLibre toolchain but product/content basis is paris-storymap; compiled original has no maintainable source package. Restore its reading layout and themes rather than copying old V1 route themes.
+Ruling: no backend or runtime generated facts; source limitations visible per story; destinations not geocoded must not masquerade as routed walking paths.
+
+Completed: source integration, 17 NERD stories, eight other restored themes, 7 source-research themes, layered UI, deep linking, entity browsing, media and geocoding.
+Final independent review: three P1 findings reproduced by new failing tests. Fixed browse-vs-guided context, normalized work punctuation, merged Deyrolle POI. Tests now 8/8; browser suite passed after fixes; no unaddressed P0/P1.
+Ruling: source research preserved in input, 13 weak/conflicting duplicates removed from published corpus; targeted corrections recorded in editorial-overrides. No claim all inherited facts newly re-verified.
+Ruling: cemetery grave coordinates remain absent, use official cemetery guidance; rejected wrong landmark geocoder matches rather than plotting nearby names.
+Delivery: separate v2 directory/server; v1 untouched. Static build and editable data exported.
